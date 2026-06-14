@@ -92,3 +92,27 @@ python build_v2_dataset.py
 - ASReview 已安装（`pip install asreview`），可用于大规模文献筛选
 - 优先寻找更多"单一论文多物种多功能区"数据源以保持方法一致性
 - 地被层数据需重点补充
+
+## 文献元数据抓取
+
+由于 Claude Code WebFetch 对所有 `.cn` 学术域名有服务端拦截，本项目建立了 curl 替代方案：
+
+```bash
+# 通过 DOI 抓取论文元数据
+cd plant_dust_analysis
+python scrape_paper.py "10.5846/stxb201808241808"
+python scrape_paper.py "10.13275/j.cnki.lykxyj.2021.04.010" --json -o meta.json
+```
+
+**技术路线**: curl → 自动编码检测（UTF-8/GBK） → HTML 清洗 → 结构化 JSON
+
+**已知限制**:
+- chndoi.org（中文 DOI 注册中心）页面仅含标题+作者，不含摘要和期刊名
+- sciencedirect.com (Elsevier) 有付费墙，curl 无法穿透
+- 部分中文学术网站被挂马，浏览器渲染（如 Firecrawl）会被 JS 重定向到恶意域名
+- 完整的摘要和数值数据仍需通过学校图书馆/知网获取
+
+**相关文件**:
+- `scrape_paper.py` — 通用抓取脚本
+- `LESSONS_LEARNED.md` — 技术选型经验总结
+- `Desktop/2026/paper_meta/` — 各论文的结构化元数据 JSON
