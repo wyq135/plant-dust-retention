@@ -6,7 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 植物叶片滞尘（Plant Dust Retention）可行性验证与数据集构建。当前阶段目标：证明"先定物种 → 搜集华东+华中跨功能区数据"的方法论可行，为后续论文撰写提供数据基础。
 
-**核心方法论**: 物种优先 × 跨功能区对比（工业区/交通干道/公园清洁区/居住区），而非城市优先。
+- **GitHub**: https://github.com/wyq135/plant-dust-retention
+- **核心方法论**: 物种优先 × 跨功能区对比（工业区/交通干道/公园清洁区/居住区），而非城市优先。
 
 ## 目录结构
 
