@@ -1,0 +1,578 @@
+TOTAL PAGES: 10
+
+===== PAGE 1 =====
+AtmosphericPollutionResearch12(2021)36–45
+Contents lists available at ScienceDirect
+Atmospheric Pollution Research
+journal homepage: www.elsevier.com/locate/apr
+Assessment of foliar dust particle retention and toxic metal accumulation
+ability of fifteen roadside tree species: Relationship and mechanism
+Mingyun Jiaa,b, Dongqin Zhoua,b, Shipeng Lua,b, Jinping Yua,b,*
+aInstitute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 210014, China
+bJiangsu Key Laboratory for the Research and Utilization of Plant Resources, China
+A R T I C L E I N F O A B S T R A C T
+Keywords: The resuspension of urban road dust particles with high concentration of toxic metals becomes one of the main
+Urban road dust sources of particulate matter that affects air quality and the health of human beings. To address this problem,
+Toxic metals foliar dust capture ability and toxic metal accumulation capacity are evaluated through 15 tree and shrub species
+Foliage microstructure
+collected from three main roads in Nanjing. The element analysis results show that traffic, industry and the
+Foliar transfer
+combustion of chemical fuel are important sources of road dust and its bound Cu, Zn, Cr and Pb. Among the
+Nerium indicum plants, Cedrus deodara has the highest dust retention ability of 75.4 μg cm (cid:0)2d (cid:0)1, followed by Nerium indicum and
+Acer palmatum, while Platamus orientalis exhibits the lowest dust capture ability of 9.19 μg cm (cid:0)2d (cid:0)1, which is
+related to the microstructure feature of the plant leaf. Leaf particles in different size fraction differ among the
+species, but fine particles (PM <2.5 μm) predominate in most cases. Nerium indicum, Cerasus yedoensis and Salix
+babylonica are the three species that accumulate the highest amounts of Cu, Zn, Cr and Pb. Moreover, a signif-
+icant positive correlation between foliar toxic metal and dust retention amounts (especially fine particles) was
+found, indicating foliar uptake of toxic metals after deposition of dust particles on the leaf surface. Taken
+together, plant leaves can simultaneously capture road dust and its bound toxic metals. Moreover, Nerium
+indicum could be used as an urban landscape barrier for road dust and toxic metals.
+1. Introduction Norouzi et al., 2015). The toxic metals that bond to particulate matter
+could enter the atmosphere through the resuspension of particles and
+Urban air pollution remains a global problem even though the eventually enter the human body through direct ingestion of dust,
+emission loads of the main air pollutants have decreased in recent years. inhalation of particles through the mouth and nose, and dermal ab-
+Particulate matter (PM) is key component of air pollution, which can be sorption, posing potentially deleterious effects on the health of humans
+divided into PM10 (aerodynamic diameter ≤10 μm), PM2.5 (aero- (Gunawardana et al., 2014; Soltani et al., 2015). Therefore, exploring
+dynamic diameter ≤2.5 μm) and PM0.1 (aerodynamic diameter ≤0.1 the effects of controlling measurements to reduce urban air pollution has
+μm) according to aerodynamic diameter. The behavior of PM in the received increasing attention worldwide.
+atmosphere and within human respiratory tract varies with size. Plants can be used as biological indicators and/or offer a sink for
+Generally, PM10 mainly deposited in nasopharynx, and deposit pri- particulate matter and its associated pollutants, including toxic metals in
+marily in the primary bronchi, while PM2.5 can penetrate to the alveoli the environment, because their leaves capture dust (Chen et al., 2016).
+and terminal bronchioles, posing higher detriment to human health. For example, Nowak (1994) reported that urban trees could remove
+(Kelly and Fussell, 2012; Rai, 2013). Many studies have linked PM2.5 to approximately 234 t of PM10 per year in Chicago and 215,000 t per year
+a rise in morbidity and mortality of cardiovascular and cerebrovascular in the USA as a whole (Nowak et al., 2006). In Beijing, China, Yang et al.
+disease, and respiratory disease, asthmatic and acute respiratory in- (2005) found that tree planting in the city center removed 772 t of PM10
+fections. Moreover, particulate matter can function as a carrier of pol- in one year. Studies by McDonald et al. (2007) showed that planting
+lutants, such as toxic metals (Fujiwara et al., 2011; Zhao and Li, 2013; trees in one-quarter of the available urban areas could reduce PM10
+Peer review under responsibility of Turkish National Committee for Air Pollution Research and Control.
+* Corresponding author. Institute of Botany, Jiangsu Province and Chinese Academy of Sciences, Nanjing, 210014, China. Postal address: No.1 Qianhu Village,
+Zhongshan Gate, Nanjing, 210014, China.
+E-mail address: yujinping@cnbg.net (J. Yu).
+https://doi.org/10.1016/j.apr.2020.08.003
+Received 16 February 2020; Received in revised form 20 June 2020; Accepted 1 August 2020
+Availableonline20August2020
+1309-1042/©2020TurkishNationalCommitteeforAirPollutionResearchandControl.ProductionandhostingbyElsevierB.V.Allrightsreserved.
+===== PAGE 2 =====
+M. Jia et al. A t m o s p h e r i c P o l l u t i o n R e s e a rch12(2021)36–45
+concentrations by 2–10% in different cities of the UK. In addition, pollution in Nanjing. Based on previous survey data on the traffic flow
+different plant species have significantly different retention abilities and roadside tree species on the 68 roads in Nanjing, fifteen tree species
+(Norouzi et al., 2015; Leonard et al., 2016; Shi et al., 2017; Liu et al., (Table 1) were selected on account of their abundance to investigate
+2018). Rai and Panda (2014) investigated the dust capturing efficiency their dust retention and metals absorption ability on roads with high
+of 12 tree species in India and found that the species with the highest traffic flow, Qixia Avenue (truck-dominated) and Xianlin Avenue
+dust deposition was Ficus benghalensis while the lowest was Bauhinia (mainly small motor vehicles), and roads with low traffic flow near the
+variegate. Sun Yat-sen Mausoleum scenic spot as a control.
+Various factors, such as the macrostructure and microstructure of a
+plant (leaf) and its living environment, can affect the plant’s capacity to 2.2. Sample collection and analysis
+retain particulate matter and toxic metals. The temperature, humidity,
+wind speed, turbulence and wind direction in an environment can in- 2.2.1. Road dust and foliage dust
+fluence the concentrations and deposition of dust particles and the Road dust and foliage dusts were sampled in June 1–3, 2017, when
+associated toxic metals (Litschke and Kuttler, 2008; Karner et al., 2010; dry-hot weather lasted for 10 days after a light shower (Table S1). Thirty
+Xie et al., 2018). Plant height, whorled leaf arrangements, petiole length dust samples were collected around the green belt, traffic police post
+and leaf areas are important macrostructural features that influence the building and police stand on each road, where road dust usually accu-
+dust particle retention ability of plants (Sabin et al., 2006; Leonard et al., mulated for long times, by sweeping the ground with a small paint brush
+2016; Lu et al., 2018). Microstructure features such as roughness, over a 1 m2 square according to the methods in Yang et al. (2010). Road
+grooves, pubescence, waxy epicuticles, the size of stomata and the sto- dust samples were air dried in the laboratory, ground and mixed uni-
+matal density of the leaf surface are the most important factors con- formly for analysis. Foliage dusts were sampled from the healthy trees
+trolling the amounts of dust particles and toxic metals that are captured according to the method of Rai and Panda (2014). Briefly, mature leaves
+(Abbruzzese et al., 2009; Mo et al., 2015). In addition, toxic metals can at the road dust sampling sites were collected from the lower branches
+accumulate in plant leaves through foliar transfer after deposition of (2–4 m above the ground) in four directions. The dust both on the upper
+dust particles on the leaf surface through the stomata, cuticular cracks, and lower surface of leaf was gently swept with a paint brush into a
+lenticels, ectodesmata and aqueous pores (Edelstein and Ben-Hur, polyethylene bag and transferred to the laboratory.
+2018). However, research on the relationship between foliar toxic Both road dust and foliage dust samples were oven dried at 35 ◦C and
+metal uptake and road dust retention amounts in different plant species then ground and passed through a 100 mesh sieve. Dust sample was
+has rarely been conducted. extracted in distilled deionized water with a solid to liquid ratio of 1:5,
+Effective road dust particles and associated toxic metal pollution and two successive extractions of 20 min ultrasonic shaking. The su-
+control rely on both the determination of toxic metal pollution in the pernatant was filtered with a 0.22 μm Teflon filter and then used for the
+dust and the detection of the pollution sources. Therefore, the objectives analysis of water-soluble salt. The contents of NO3
+(cid:0)
+, SO4
+2(cid:0)
+and NH4
++
+were
+of this study are to (1) analyze the source apportionment of road dust measured using ion chromatography (ICS-1100, Dionex Company,
+and assess the risk of toxic metals bonding to dust; (2) assess the foliar USA). The organic carbon (OC) and element carbon (EC) were measured
+dust retention ability and toxic metal accumulation capacity of plant using a DRI Model 2001A Thermal/Optical Carbon Analyzer following
+species in different habitats; and (3) reveal the relationship and mech- the IMPROVE thermal/optical reflectance (TOR) method (Chow et al.,
+anism of foliar dust retention and foliar toxic metal accumulation. 1993). For element analysis, 0.25 g of each dust sample was placed in a
+100 mL Teflon vessel and digested using 8 mL of HCl–HNO3 (3:1, v:v) in
+2. Materials and methods a microwave digestion unit (MARS6 Classic, CEM Corporation Mat-
+thews, USA) (Mello et al., 2015). The samples were digested using the
+2.1. Study areas following heating program: heating to 190 ◦C over 20 min, incubation
+for 25 min at 190 ◦C, and cooling for 20 min. Then the sample digestion
+Nanjing (31◦14′′-32◦37′′ N, 118◦22′′-119◦14′′ E), the capital city of solutions were evaporated to near dryness, re-dissolved with 0.5 mL
+Jiangsu Province, is one of the four ancient capitals in China. Nanjing is HNO3 and diluted with ultrapure water to volume in a 50 mL flask. The
+the sole megalopolis of the Yangtze River Delta, with a permanent concentrations of Ca, Al, Fe, P, Mn, Ba, Zn, Pb, Cr, Cu and V were
+population of 8.27 million in 2016 and 82% of people centered in urban analyzed using inductively coupled plasma optical emission spectrom-
+areas. The number of motor vehicles reached 2.24 million in 2015, etry (ICP-OES, Optima 8000, USA, PerkinElmer Company).
+becoming one of the most important factors that accounted for the air
+Table 1
+Characteristic of the fifteen tree species.
+Species Growth habit Ornamental part Leaf shape Leaf Leaf epidermis feature Stomatal desity (N/ Hair coated
+texture mm2)
+wrinkle groove tuber front back
+Nerium indicum evergreen leaf, flower lanceolate leathery no no no ND sparse dense
+Magnolia grandiflora evergreen leaf, flower, fruit ellipse leathery no no no ND no dense
+Ligustrum lucidum evergreen leaf, fruit ellipse leathery yes no no 250 ±8.20 no sparse
+Cinnamomum camphora evergreen leaf, fruit ellipse leathery no no yes 228 ±60 no no
+Cedrus deodara evergreen leaf, fruit aciculiform leathery no yes no 55.4 ±14.2 no no
+Osmanthus fragrans evergreen leaf, flower, fruit ellipse leathery yes no yes 666 ±119 sparse sparse
+Eriobotrya japonica evergreen leaf, fruit lanceolate leathery yes no no 233.7 ±58 sparse dense
+Koelreuteria paniculata deciduous leaf, flower, fruit ovoid paper yes no no 1047 ±184 sparse sparse
+Ginkgo biloba deciduous leaf, fruit fanshape leathery no yes no 106.2 ±62.7 no no
+Salix babylonica deciduous leaf, flower lanceolate paper yes no no 55.3 ±23.4 no sparse
+Platanus orientalis deciduous leaf, fruit palm leathery yes no no 83.9 ±12.1 sparse sparse
+Lagerstroemia indica deciduous leaf, flower ellipse leathery yes no no 405 ±98.0 no no
+Cerasus yedoensis deciduous leaf, flower ovoid paper yes no no 312 ±43.4 no no
+Acer palmatum deciduous leaf, fruit palm paper yes no no 1113 ±136 no no
+Prunus cerasifera f. deciduous leaf, flower, fruit ellipse paper yes no no 586 ±43.4 no sparse
+atropurpurea
+37
+===== PAGE 3 =====
+M. Jia et al. A t m o s p h e r i c P o l l u t i o n R e s e a rch12(2021)36–45
+2.2.2. Dust retention ability of roadside plants
+where X represents a certain element and CX is the concentration of
+To study the amount of dust particulate matter retained on the
+element X. CR is the concentration of the reference element, where Al, Ti,
+different roadside trees, 40 to 60 leaves were randomly sampled from Si and Fe were commonly used (Chen et al., 2007). The subscripts “Dust”
+the lower branches of 3–5 individuals of each species on June 18, 2017, and “Crust” refer to the sampled dust and the soil background value. In
+when the weather had remained dry for one week after a downpour. The
+this study, Al was selected as the reference element, and the mean value
+leaf area index, crown width and height of each tree species were
+of the background element concentration in Jiangsu Province was used
+detected using a plant canopy analyzer (Li-2000, USA, Li-cor) and a
+as a reference for the calculation of EF. Generally, the element was
+handheld laser distance meter. The leaf surface area was measured using
+identified as not enriched when the EF value was less than 10, and the
+the cut-paper weighing method and used to calculate the daily average
+primary source was the dust particle coming from soil or rock weath-
+dust deposition amount. The average values of these parameters on the
+ering. In contrast, the element was considered enriched and derived
+three main roads are listed in Table S2.
+from anthropogenic activity when the EF value was larger than 10
+The leaves were transferred to the laboratory and soaked in 200 mL
+(Jayarathne et al., 2018).
+deionized water for 4 h. Then, the upper and lower surfaces of the leaves
+were carefully brushed with a no-hair-loss paint brush. Leaves were
+3.3. Geo-accumulation index
+taken out carefully and repeated washing twice. All the dust-containing
+suspension was transferred to a 1000 mL plastic beaker and stirred for
+To assess the impact of toxic metals in the dust on the environment,
+10 min to allow the suspension mixed uniformly. Then, 60 mL suspen-
+the geo-accumulation index (Müller, 1969; Atiemo et al., 2011) was
+sion was transferred to a pre-weighted plastic Petri dish (W1) and oven
+dried at 60 ◦C until no weight loss was detected. The dried Petri dish was calculated for the four toxic metals Cu, Zn, Pb and Cr using the con-
+centration detected in this experiment and the background value in
+weighted again using a balance (readability, 0.1 mg) (W2). The 10% (v:
+v) amount of dust captured by the foliage can be calculated by the dif-
+Nanjing. The Igeo could be calculated according to the following equation
+(Ke et al., 2017):
+ference between W2 and W1. The rest suspension was successively pump
+t la h r r g o e u g (P h M q u > ar 1 t 0 z- fi μm be , r f 1 m ), e c m o b a r r a se n e (2 s . fi 5 l t μ e m rs < of P 1 M 0 μ < m 1 0 an μ d m 2 , . f 5 2 ) μ , m an t d o fi se n p e a ( r P a M te I geo =log 21.5C C ba d c u k s g t round (2)
+<2.5 μm, f3) particle fractions (Dzierz˙anowski et al., 2011). .
+where Cdust and Cbackground represent the concentrations of a certain
+2.2.3. Heavy metal absorption ability of road trees metal in the dust sample and soil background, respectively. According to
+The tree leaves that were washed with deionized water were then Müller (1969), the metal contamination categories are listed in Table S3.
+used for the measurement of selected toxic metals. Briefly, leaves were
+oven dried at 105 ◦C for 6–8 h, ground and passed through a 100 mesh 3.4. Metal accumulation index
+sieve. Then, 0.5 g of leaf samples were weighed and digested using a
+mixed solution of HNO3 and HClO4 (v: v =3 : 2) according to the process To assess the ability of different plants to accumulate atmospheric
+of Li et al. (2018). The extracted toxic metals were analyzed using toxic metals, the metal accumulation index (MAI) was calculated ac-
+inductively coupled plasma optical emission spectrometry. cording to the following equation (Liu et al., 2007).
+1 ∑N
+2.2. T 4 o . d M et i e cr c o t s t t h ru e c r t e u l r a e t i f o e n a s tu h r i e p o b f e t p w la e n e t n l e le a a ve f s t raits and the particle capture MAI= N j=1 I j​ (3)
+ability of each plant, leaf samples were collected at the same time as in
+section 2.2.2. The leaf samples were stored in paper bags and dried at where Ij =x/Δx is the subindex for variable j, x is the mean concen-
+60 ◦C for 48 h, and typical micrographs of the leaf surface were recorded tration of a certain metal, and Δx is the standard deviation.
+by scanning electron microscopy (Quanta 200, Netherlands, FEI Statistical analysis was performed by one-way analysis of variance
+Company). (ANOVA) with Duncan’s multiple range test at the 5% level to compare
+the mean values using the SPSS version 16.0 for Windows software
+3. Quality control and data analysis package. Data are presented as the mean ±standard deviation (SD). K-
+means clustering analysis using SPSS16.0 was conducted to categorize
+3.1. Quality control the dust capture abilities of the different plant species (Mo et al., 2015).
+Three replicates were established for each sample and analysis. For 4. Results and discussion
+quality control, blanks and certified reference materials, GSB 07-1381-
+2001, 204,715 and GBW07603, purchased from Institute for Environ- 4.1. Characterization and risk assessment of road and foliar dust
+mental Reference Materials of Ministry of Environmental Protection and
+Institute of Geophysical and Geochemical Exploration, Langfang, Hebei 4.1.1. Chemical characterization and source apportionment of road dusts
+Province, China, were used for soluble ions and toxic metals analysis, The most abundant elements in the road dust were Si, K, Ca, Mg, Al,
+respectively. In addition, blank sample was routinely run after every Fe and Na, and these elements accounted for approximately 41.3% of
+nine samples. the dust sample mass (Table 2). The mean EF values of Si, Fe, Na and Mg
+were below 5, indicating that these elements might mainly come from
+the crustal source (Cao et al., 2009; Du et al., 2011). The concentrations
+3.2. Enrichment factor
+of SO4
+2(cid:0)
+and NH4
++
+are much higher than NO3
+(cid:0)
+, which might due to NH3
+release and nitrate decomposition (Cao et al., 2009; Li et al., 2014). The
+The enrichment factor (EF) was used to distinguish the source con-
+EF value of K was approximately 7.0, implying both crustal and
+tributions of elements between anthropogenic and natural origin (Fang
+anthropogenic sources, such as biomass burning of wheat straw
+et al., 2006; Jayarathne et al., 2018). The calculation of the EF is
+(Andreae, 1983; Cao et al., 2009; Jayarathne et al., 2018). Moreover, the
+generally defined as the following equation:
+concentration of SO4
+2(cid:0)
+significant correlated with NO3
+(cid:0)
+, whereas no
+EF X = ( ( C C X / / C C R ) ) Dust (1) c c o o r r r r e e l l a a t t i i o o n n c is o e f f o fi u c n i d en b t e a t n w a e l e y n si s K . T a h n e d s e S O re 4 2 s (cid:0) u , l t N s O w 3 (cid:0) er a e n i d n N ac H c 4 + or b d y a n P c e e a w rs i o th n
+X R Crust
+the previous classification that the main origination are crustal (Na, Mg
+38
+===== PAGE 4 =====
+M. Jia et al. A t m o s p h e r i c P o l l u t i o n R e s e a rch12(2021)36–45
+Table 2
+Element compositions of the road dust and foliar dust samples from the three main roads.
+Element Road dust Foliar dust
+Qixia avenue Xianlin avenue Sun Yat-sen Qixia avenue Xianlin avenue Sun Yat-sen
+Mausoleum scenic spot Mausoleum scenic spot
+Ca (g/kg) 81.9 ±2.63 62.7 ±5.03 63.8 ±5.64 60.2 ±0.54 76.0 ±1.11 57.1 ±1.21
+Mg (g/kg) 54.4 ±5.18 49.7 ±1.73 54.3 ±2.14 49.3 ±4.31 47.8 ±1.46 54.4 ±4.07
+Na (g/kg) 29.4 ±1.08 28.5 ±1.01 27.9 ±0.58 27.3 ±0.24 28.0 ±0.99 27.8 ±0.50
+K (g/kg) 84.5 ±6.90 81.4 ±3.05 80.0 ±3.00 72.5 ±1.62 83.7 ±1.46 72.3 ±4.04
+Al (g/kg) 42.3 ±11.6 42.6 ±3.40 40.6 ±1.11 27.5 ±1.71 33.8 ±0.71 33.2 ±0.62
+Si (g/kg) 97.0 ±5.50 94.0 ±5.56 94.0 ±3.22 91.0 ±6.59 87.0 ±4.05 92.0 ±5.79
+Fe (g/kg) 40.7 ±4.53 46.4 ±1.60 42.6 ±5.91 27.2 ±2.01 37.3 ±2.72 27.6 ±2.31
+P (g/kg) 1.07 ±0.08 0.93 ±0.03 0.89 ±0.05 1.46 ±0.03 0.95 ±0.04 0.91 ±0.03
+Mn (g/kg) 1.07 ±0.21 0.93 ±0.12 0.82 ±0.10 0.49 ±0.03 1.07 ±0.10 0.49 ±0.07
+Ba (g/kg) 0.98 ±0.03 0.45 ±0.01 0.43 ±0.05 0.72 ±0.03 0.47 ±0.02 0.46 ±0.03
+Zn (g/kg) 0.37 ±0.00 0.41 ±0.04 0.33 ±0.03 0.42 ±0.05 0.59 ±0.08 0.27 ±0.06
+Pb (mg/kg) 173 ±62.8 95.0 ±8.95 128 ±76.6 162 ±12.7 324 ±14.5 144 ±11.6
+Cr (mg/kg) 173 ±36.8 130 ±7.47 166 ±29.1 186 ±11.9 116 ±12.5 144 ±11.6
+Cu (mg/kg) 130 ±7.74 1138 ±277 127 ±19.3 246 ±10.4 1030 ±78.7 144 ±9.92
+V (mg/kg) 70.0 ±3.10 78.0 ±2.36 82.0 ±3.02 56.0 ±5.11 68.0 ±6.92 66.0 ±7.09
+SO4 2(cid:0)(g/kg) 0.71 ±0.06 2.20 ±0.33 0.39 ±0.07 5.51 ±0.01 7.11 ±0.02 2.86 ±0.03
+NO3 (cid:0)(mg/kg) 0.29 ±0.04 0.32 ±0.16 0.00 ±0.00 3.52 ±0.10 1.12 ±0.03 0.90 ±0.08
+NH4 +(mg/kg) 427 ±62.2 463 ±91.7 216 ±24.0 699 ±60.0 618 ±39.1 808 ±72.3
+EC (g/kg) 28.6 ±2.63 23.3 ±5.27 0.27 ±0.05 30.5 ±3.56 21.2 ±2.37 0.51 ±0.09
+OC (g/kg) 27.7 ±1.77 60.7 ±9.32 0.02 ±0.03 28.7 ±3.81 65.1 ±8.43 0.06 ±0.04
+and Ca), secondary (SO4
+2(cid:0)
+, NO3
+(cid:0)
+and NH4
++
+), and biomass burning (K and
+Table 3
+Cl) (Du et al., 2011).
+Toxic metals Cu, Zn, Pb and Cr were detected in all dust samples, and
+The geo-accumulation index (Igeo) of heavy metals in ground dust and foliar dust.
+Different lowercase letters in the same column represent significant differences
+their EF values were larger than or approximately 10 except Cr (Fig. 1), in the Igeo values at (p <0.05).
+implying the contribution of anthropogenic sources (Gao et al., 2014;
+Norouzi et al., 2015). It was noticeable that the concentrations of Cu, OC Dust site Cu Zn Pb Cr
+and SO4 2(cid:0) were much higher in the road dusts sampled on Xianlin Road Qixia 1.43 ± 1.68 ± 2.14 ± 0.94 ±
+Avenue, which might have resulted from the massive gas discharged dust Avenue 0.09 (2)c 0.01 (2) bc 0.60 (3) ab 0.33 (1)a
+Xianlin 4.53 ± 1.82 ± 1.34 ± 0.56 ±
+from the nearby iron and steel plants and cogeneration power plants Avenue 0.33 (5)a 0.16 (2)b 0.14 (2)b 0.08 (1) ab
+and/or a large flow rate of heavy motor vehicles on this road (Wang Sun Yat-sen 1.38 ± 1.51 ± 1.51 ± 0.89 ±
+et al., 2016). Mausoleum 0.22 (2)c 0.11 (2) bc 1.21 (2)b 0.25 (1) ab
+scenic spot
+4.1.2. Risk assessment of toxic metals in road dusts Foliar Qixia 2.34 ± 1.86 ± 2.12 ± 1.07 ±
+dust Avenue 0.06 (3)b 0.18 (2) ab 0.11 (3) ab 0.09 (2)a
+The Igeo values for Cu, Zn, Pb and Cr were higher than zero (Table 3), Xianlin 4.41 ± 2.36 ± 3.12 ± 0.38 ±
+indicating that the environment around these three main roads was Avenue 0.11 (5)a 0.19 (3)a 0.06 (4)a 0.16 (1)b
+contaminated. Compared with the previously reviewed data, the Igeo Sun Yat-sen 1.58 ± 1.19 ± 1.95 ± 0.70 ±
+values for Cr and Cu were much higher but comparable for Pb and Zn in Mausoleum 0.10 (2)c 0.34 (2)c 0.12 (2) ab 0.12 (1) ab
+scenic spot
+the road dusts from other cities in China (Wei and Yang, 2010). The Igeo
+values for Cu were the highest in the road dust samples collected from
+Xianlin Avenue, with a mean value of 4.53 (Table 3), which was at the roads. From the Igeo values shown in Table 3, it can be seen that Cu and
+high to extremely polluted level (Table S3). However, no differences Zn were the predominant pollutants around Xianlin Avenue, Pb and Cr
+were found for the Igeo values of Zn, Pb and Cr among the three main prevailed around Qixia Avenue, and all four of them were much lower at
+Fig. 1. Enrichment factors (EF) of elements in road dust (a) and foliar dust (b) on the three main roads of Nanjing city.
+39
+===== PAGE 5 =====
+M. Jia et al. A t m o s p h e r i c P o l l u t i o n R e s e a rch12(2021)36–45
+the roads near the Sun Yat-sen Mausoleum scenic spot. This result was in on each main road (p <0.05). K-means cluster analysis showed that the
+accordance with the EF values shown in Fig. 1, indicating that human plant species could be categorized into four clusters according to their
+activity affected the toxic metal distribution in road dust and inflicted dust removal capacity: cluster I: Cedrus deodara; cluster II: Nerium indi-
+different risks to the environment. cum and Acer palmatum; cluster III: the rest species not listed; and cluster
+IV: Platanus orientalis, Cerasus yedoensis and Prunus cerasifera f. atro-
+4.1.3. Relationship between foliar dust and road dust purpurea. Among the fifteen species, Cedrus deodara exhibited the
+The element composition of foliar dusts was similar to that of ground highest dust retention ability in all three main roads, which confirms
+dusts, but the four toxic metals, SO4
+2(cid:0)
+and OC were enriched in the foliar that conifers are the most effective in particulate matter accumulation
+dusts sampled on Qixia Avenue and Xianlin Avenue (Table 2). Except for (Beckett et al., 1998; SæbØ et al., 2012). Moreover, significant differ-
+Fe and Si, the EF values of all the other elements in foliar dust were ences in the retention abilities of single tree species were found on the
+higher than those in road dust, especially for the toxic metals Pb, Zn and three roads (Table S4). Single roadside plants roughly exhibited the
+Cu (Fig. 1). The EF values of Fe and Si in the foliar dust were the same as higher dust retention ability on Qixia than Xianlin Avenue, when
+those in the road dust, confirming that the detected data were reliable. compared to two roads in downtown. For the most part, plants leaving in
+In addition to the EF values, the Igeo values of Cu, Pb and Zn in foliar the Sun Yat-sen Mausoleum scenic spot, a parkway, retained lower
+dusts were higher than those in the road dust, and all of these values amounts of dust particles, whereas Ginkgo biloba and Prunus cerasifera f.
+were the highest in the samples from Xianlin Avenue (Table 3). The co- atropurpurea (even though it had a similar canopy) captured highest dust
+existence and high concentration of Cu, Pb and Zn indicates typical road particles among the three main road. These different leaf dust retention
+dust contamination and the homogenous property of foliar dust (Kha- ability for a single tree might due to canopy, height, and direction
+noranga and Khalid, 2019). Significant differences in the Igeo values (Hofman et al., 2014; Nguyen et al., 2015; Leonard et al., 2016).
+between foliar dust and road dust samples were found for Cu from Qixia
+Avenue and Zn and Pb from Xianlin Avenue, indicating that industrial 4.2.2. Dust size distribution on the leaf
+and vehicle exhaust emissions might contribute to environmental To further illustrate the dust capturing characterization of the 15
+contamination in these two areas (Fig. 1, Table 3). However, no signif- plants, the size distribution of the retained dust was investigated using a
+icant difference was found between foliar dust and road dust samples for step-by-step filtration method. The results from Fig. 4 show that both
+the toxic metal Igeo values from the roads near the Sun Yat-sen Mauso- plant species and their growing environment determine the size distri-
+leum scenic spot. Furthermore, a positive linear relationship of element bution of leaf-captured particles. Generally, the particles retained by
+composition between foliar dusts and road dusts was found on the three plant leaves were mainly fine particles (f3), and the coarse particles were
+main roads (R2 =0.95–0.98), indicating that the dust captured by the the least, following the order f3 <f1 <f2. The proportions of f1, f2 and f3 in
+tree leaves was primarily derived from the resuspension of road dusts the deposited dust of the 15 species were 31.8 ±7.9%, 3.4 ±2.4% and
+(Fig. 2). 64.8 ±8.2%, respectively, on the roads at the Sun Yat-sen Mausoleum
+scenic spot. This result was in accordance with the results of previous
+studies that used both the step filtration method (Sgrigna et al., 2016)
+4.2. Dust capture ability of different tree leaves and scanning electron microscopy (SEM) method (Shao et al., 2019),
+which also showed that fine particles predominated the particle retained
+4.2.1. Dust retention ability on the leaf surface. In addition, large particles were the predominant
+Lea A f v d e u r s a t g e re d te u n s t t i o r n et e p n o t t i e o n n t i a a m l v o a u r n y t s f r p o e m r le 7 a 5 f . 4 a r μ e g a c a m re (cid:0) s 2 h d o (cid:0) w 1 n t o i n 9 . F 1 i 9 g . μ 3 g . l f e ra a c f ti o o f n A in c e a r fe p w al m sp a e tu ci m es a ( c F h ig ie . v 4 e ). d F o 8 r 6 e .2 x % am o p n le , Q t i h x e i a p r A o v p e o n rt u i e o , n w of h f i 1 c h on w th a e s
+cm (cid:0) 2d (cid:0) 1. The dust retention amounts of these tree leaves are much approximately 3.4 and 2.1 times that growing on Xianlin Avenue and the
+lower than Rai and Panda (2014) but agree with SæbØ et al. (2012) and roads at the Sun Yat-sen Mausoleum scenic spot, respectively. In addi-
+Chaturvedi et al. (2013). tion to Acer palmatum, the Platamus orientalis, Cerasus yedoensis, Cinna-
+Plant species and their growing environment are two key factors that momum camphora, and Eriobotrya japonica foliage is also more effective
+affecting the leaf dust retention ability. Differences in dust retention in capturing large particles than fine particles (Fig. 4). This result was
+ability among the plant species were found to be statistically significant consistent with the results of previous studies that also found that large
+particles predominated (Lin et al., 2017; Xu et al., 2019). In contrast,
+another study found that the coarse fraction also accounted for a large
+proportion of leaf-captured particles. For example, Shi et al. (2017)
+found that the distribution of particles retained on plant leaves followed
+the order f3 >f2 >f1, i.e., approximately more than 70% fine particles,
+16% coarse particles and 6% large particles.
+4.2.3. Leaf trait and dust removal efficiency
+Micrographs of these 15 plant leaves after capturing the dust showed
+that fine dust particles can be adsorbed on trichome and deposited
+around or over the stomata, and grooves or folds can capture both fine
+and coarse particles (Fig. 5). Furthermore, grooved surfaces and low
+stomatal density (55.42 N m m (cid:0) 2) of the leaves (Fig. 5, Table 1), and the
+secretion of mucus oil are key factors that make Cedrus deodara possess
+the highest dust retention capacity (Mo et al., 2015). Leaf surface with
+high hair density of Nerium indicum and folds of Acer palmatum
+contribute to their second dust retention ability to Cedrus deodara
+(Fig. 5). Besides, the moderate dust retention ability of the six species in
+cluster III might be ascribed to the wrinkled surface and moderate sto-
+Fig. 2. Relationship between road dust and foliar dust based on element matal density (200–300 N mm (cid:0) 2) of the leaf. These results agree with
+composition on the three main roads of Nanjing city. The elements including
+Ca, Mg, Na, K, Al, Si, Fe, P, Mn, Ba, Zn, Pb, Cr, Cu, V, SO4 2(cid:0) , NO3 (cid:0) and NH4 + . The those of Sabin et al. (2006), who found that plant leaves with rough
+lines are linear fitting curves, and R2 are 0.953, 0.976 and 0.986 for Qixia, surfaces, pubescence and grooved ridge protuberance, mucus oils and
+Xianlin and Sun Yat-sen Mausoleum scenic spot, respectively. short petioles can retain large numbers of particles.
+40
+===== PAGE 6 =====
+AtmosphericPollutionResearch12(2021)36–45
+a
+a a
+a
+a
+b
+bc b bc cd b bcd bcd bc bcd bc b
+cd de d bcd ef d d d d d
+e f ef cd
+fde fde f
+41
+)1-d2-mc
+g
+(
+deniater
+tsuD
+M. Jia et al.
+Tree species
+Fig. 3. Dust retention ability of per leaf area in 15 tree species growing on the main roads of Nanjing. Different lowercase letters in the graph represent significant
+differences in the dust retention ability of tree species on the same road.
+Fig. 4. Size distribution of the deposited dust on the leaves of 15 plants growing on Qixia Avenue (a), Xianlin Avenue (b) and the roads around the Yat-sen
+Mausoleum scenic spot (c).
+===== PAGE 7 =====
+M. Jia et al. A t m o s p h e r i c P o l l u t i o n R e s e a rch12(2021)36–45
+Fig. 5. Typical SEM photos of tree leaves. (a) Nerium indicum; (b) Magnolia grandiflora; (c) Ligustrum lucidum; (d) Cinnamomum camphora; (e) Cedrus deodara; (f)
+Osmanthus fragrans; (g) Eriobotrya japonica; (h) Koelreuteria paniculata; (i) Ginkgo biloba; (j) Salix babylonica; (k) Platanus orientalis; (l) Lagerstroemia indica; (m)
+Cerasus yedoensis; (n) Acer palmatum; (o) Prunus cerasifera f. atropurpurea.
+Fig. 6. Foliage concentrations of the heavy metals Cu (a), Zn (b), Pb (c) and Cr (d) of 15 plant species growing on Qixia Avenue, Xianlin Avenue and the roads around
+the Yat-sen Mausoleum scenic spot.
+42
+===== PAGE 8 =====
+M. Jia et al. A t m o s p h e r i c P o l l u t i o n R e s e a rch12(2021)36–45
+The bump structure on the leaf epidermis and high stomatal density fifteen plant species. Furthermore, foliar Cr was mainly correlated with
+seems to be disadvantageous for the plant dust retention, which might fine particles (f1) deposited on evergreen species, such as Nerium indi-
+be accounted for the low dust retention ability of Cinnamomum cam- cum, Magnolia grandiflora, Cinnamomum camphora and Koelreuteria
+phora, Cerasus yedoensis and Prunus cerasifera f. atropurpurea (Mo et al., paniculata, while it was correlated with larger particles (f2 and f3)
+2015). Inversely, the high stomatal density might be advantageous for deposited on the leaves of deciduous species Platanus orientalis, Lager-
+large particles retention. This inference could be confirmed by the fact stroemia indica, and Acer palmatum. Foliar Cu was mainly correlated with
+that the dust retention capacity of Acer palmatum (1113 N mm (cid:0) 2) was dust particles larger than 2.5 μm (mostly fraction f2) deposited on the
+much higher on Qixia Avenue, where slag cars frequently drove past and leaves of Ligustrum lucidum, Cinnamomum camphora, Eriobotrya Japonica,
+coarse dust particles were left on the road and/or re-suspended into the Ginkgo biloba and Platanus orientalis. Foliar Pb was significantly corre-
+air and were predominated by f1 (Fig. 4). Besides microstructure feature, lated with the dust retention amount captured by eight of the fifteen
+macrostructure traits of the leaf are also play a role in dust capturing. plant species’ leaves, primarily fine particles (f1). These results indicated
+The long petioles and palm shape of Platanus orientalis leaves and that the accumulation of Cr, Cu and Pb in the plant foliar region is
+lanceolate shape of Nerium indicum, Eriobotrya japonica and Salix bab- mainly derived from atmospheric dust deposition on the leaf surface
+ylonica leaves might be responsible for decreasing their dust retention through stomata, cuticular cracks, lenticels, ectodesmata and aqueous
+capacity (Leonard et al., 2016). pores (Gajbhiye et al., 2016; Edelstein and Ben-Hur, 2018). In addition,
+foliar Cu, Pb and Cr exhibited a significant positive correlation in some
+4.3. Metal uptake by plant leaves species, which verified that the foliar dust on the three main roads could
+be homologous (Ferreira-baptista and De Miguel, 2005). However, the
+The concentration of Cu, Zn, Pb and Cr in the fifteen tree leaves were relationship between foliar Zn concentration and dust particle retention
+1.95–17.0 mg kg (cid:0) 1, 4.7–112.5 mg kg (cid:0) 1, 0.4–25.5 mg kg (cid:0) 1 and 0–2.9 mg amount on plant leaves showed no or mainly negative correlations.
+kg (cid:0) 1, respectively (Fig. 6). Plant species Koelreuteria paniculata and Acer Similar to root uptake, foliar uptake of metals is also dose dependent
+palmatum (Xianlin Avenue) showed highest foliar Cu uptake, Salix bab- (Schreck et al., 2012; Luo et al., 2019). Although the concentration of Zn
+ylonica (Xianlin Avenue) and Ginkgo biloba (Qixia Avenue) absorbed in foliar dust is lower than Cu and Pb (Table 3), foliar Zn accumulation is
+highest Zn in the leaf, and Nerium indicum had highest foliar Pb uptake. It much higher than them (Fig. 6). This high foliar Zn absorption might be
+was interesting that both the maximum and minimum Cr uptake was mainly from the root uptake from soil, and the Zn from foliar deposition
+detected in the leaves of Cinnamomum camphora from Qixia Avenue and might contribute a small fraction (Edelstein and Ben-Hur, 2018; Luo
+Xianlin Avenue, indicating that foliar accumulation of metals was et al., 2019). In addition, both positive and negative correlations of
+affected by its growing environment (atmospheric, soil, etc.). Although foliar Cu, Pb and Cr with Zn were found, indicating that plant root ab-
+the metals concentrations were different from the reported references, sorption is also involved in foliar Cu, Pb and Cr uptake.
+they were still in the normal safe ranges (Pugh et al., 2002; Alahabadi
+et al., 2017). 5. Conclusion
+To assess the overall toxic metal accumulation abilities of the
+different tree/shrub species, the MAI was calculated using equation (3). The foliar dust capture ability and toxic metal accumulation capacity
+As shown in Table S5, the MAI of the fifteen plant species ranged from were evaluated in 15 tree and shrub species in this study. The results
+1.34 to 3.22, which was much lower than that previously reported in show that human activity, especially traffic, is the main source of urban
+Beijing (Liu et al., 2007) but similar to those reported in Yan’an, China road dust, and the surrounding environment is polluted by dust-bound
+and the Asaloyeh area, Iran (Hu et al., 2014; Safari et al., 2018). This Cu, Zn, Pb and Cr. The plant species Cedrus deodara, Nerium indicum
+difference in MAI values might result from plant characteristics and and Acer palmatum have a high ability to potentially remove road dust
+environmental pollution conditions (Hu et al., 2014). The highest MAI particles, while Nerium indicum, Cerasus yedoensis and Salix babylonica
+was found in Nerium indicum (3.22), followed by Cerasus yedoensis (3.02) are the three species with the highest toxic metal accumulation, which
+and Salix babylonica (2.54). This result was in accordance with the re- might be related to the microstructure and macrostructure features of
+sults of previous studies and indicated that Nerium indicum and Salix the plant leaves. Moreover, a significant positive correlation between
+babylonica could be used as urban landscape barriers for toxic metals foliar toxic metal and foliar dust retention amounts (especially fine
+(Hu et al., 2014; Safari et al., 2018). Besides, the leaves of plants on particles) was found, indicating foliar uptake of toxic metals after
+Xianlin Avenue absorbed much more Cu than those on the other two deposition of dust particles on the leaf surface. The results above suggest
+roads, while foliar Cr and Pb were significantly higher in the plants on that plant leaves can simultaneously capture road dust and the bound
+Qixia Avenue (Fig. 6). These results were in accordance with their Igeo toxic metals, which is beneficial for urban air pollution control and
+values of road dust (Table 3) and proved that the difference in envi- landscape optimization.
+ronmental conditions would affect toxic metal accumulation in plant
+leaves. Author statement
+4.4. Relations between toxic metal uptake and dust retention by the leaf I have made substantial contributions to the conception or design of
+the work, or the acquisition, analysis, or interpretation of data for the
+Commonly, element uptake takes place through root absorption. In work.
+addition, toxic metal accumulation in plant leaves through foliar I have drafted the work or revised it critically for important intel-
+transfer after deposition of dust particles on the leaf surface has been lectual content. I have approved the final version to be published.
+reported (Han et al., 2006; Schreck et al., 2012; Norouzi et al., 2015; I agree to be accountable for all aspects of the work in ensuring that
+Gajbhiye et al., 2016). However, it is difficult to distinguish whether the questions related to the accuracy or integrity of any part of the work are
+accumulated elements in plant leaves are derived from the soil by root appropriately investigated and resolved.
+absorption or from the atmospheric dust deposition on the leaf surface All persons who have made substantial contributions to the work
+(Ugolini et al., 2013). In the present study, the Pearson correlation co- reported in the manuscript, including those who provided editing and
+efficient of toxic metal uptake and dust particles captured by the fifteen writing assistance have given their written permission to be named.
+species was calculated, and the results are shown in Table S6. A signif-
+icant positive correlation of leave toxic metal concentration with their Declaration of competing interest
+dust retention amount was found in some cases. For example, foliar Cr
+and dust retention amount were significantly correlated in ten of the The authors declare that they have no known competing financial
+43
+===== PAGE 9 =====
+M. Jia et al. A t m o s p h e r i c P o l l u t i o n R e s e a rch12(2021)36–45
+interests or personal relationships that could have appeared to influence Gunawardana, C., Egodawatta, P., Goonetilleke, A., 2014. Role of particle size and
+the work reported in this paper. composition in metal adsorption by solids deposited on urban road surfaces.
+Environ. Pollut. 184, 44–53.
+Han, Y.M., Du, P.X., Cao, J.J., Posmentier, E.S., 2006. Multivariate analysis of heavy
+Acknowledgments metal contamination in urban dusts in Xian, Central China. Sci. Total Environ. 355,
+176–186.
+Hu, Y.N., Wang, D.X., Wei, L.J., Zhang, X.P., Song, B., 2014. Bioaccumulation of heavy
+This work was financially supported by the National Natural Science metals in plant leaves from Yan’an city of the Loess Plateau. China. Ecotox. Environ.
+Foundation of China (41807144), the Science and Technology Project of Safe 110, 82–88.
+Housing and Rural Development Department of Jiangsu, China Hofman, J., Bartholomeus, H., Calders, K., Wittenberghe, S.V., Wuyts, K., Samson, R.,
+2014. On the relation between tree crown morphology and particulate matter
+(SJC2016010002), the Science and Technology Project of Nanjing Green
+deposition on urban tree leaves: a ground-based LiDAR approach. Atmos. Environ.
+Park Bureau, China (YLKJ201705JH), and Scientific Research Founda- 99, 130–139.
+tion for Talented Scholars of Institute of Botany, Jiangsu Province and Jayarathne, A., Egodawatta, P., Ayoko, G.A., Goonetilleke, A., 2018. Assessment of
+ecological and human health risks of metals in urban road dust based on
+Chinese Academy of Sciences (JSPKLB201808, JSPKLB201907).
+geochemical fractionation and potential bioavailability. Sci. Total Environ. 635 (1),
+1609–1619.
+Appendix A. Supplementary data Karner, A.A., Eisinger, D.S., Niemeier, D.A., 2010. Near-roadway air quality: synthesizing
+the findings from real-world data. Environ. Sci. Technol. 44 (14), 5334–5344.
+Ke, X., Gui, S., Huang, H., Zhang, H., Wang, C., Guo, W., 2017. Ecological risk assessment
+Supplementary data to this article can be found online at https://doi. and source identification for heavy metals in surface sediment from the Liaohe River
+org/10.1016/j.apr.2020.08.003. protected area, China. Chemosphere 175, 473–481.
+Kelly, F.J., Fussell, J.C., 2012. Size, source and chemical composition as determinants of
+toxicity attributable to ambient particulate matter. Atmos. Environ. 60, 504–526.
+References Khanoranga, Khalid, S., 2019. Phytomonitoring of air pollution around brick kilns in
+Balochistan province Pakistan through air pollution index and metal accumulation
+Abbruzzese, G., Beritognolo, I., Muleo, R., Piazzai, M., Sabatti, M., Mugnozza, S.G., index. J. Clean. Prod. 229 (20), 727–738.
+Kuzminsky, E., 2009. Leaf morphological plasticity and stomatal conductance in Leonard, R.J., McArthur, C., Hochuli, D.F., 2016. Particulate matter deposition on
+three Populus alba L. genotypes subjected to salt stree. Environ. Exp. Bot. 66 (3), roadside plants and the importance of leaf trait combinations. Urban For. Urban
+381–388. Gree. 20, 249–253.
+Alahabadi, A., Ehrampoush, M.H., Miri, M., Aval, H.E., Yousefzadeh, S., Ghaffari, H.R., Li, Y., Schwandner, F.M., Sewell, H.J., Zivkovich, A., Tigges, M., Raja, S., Holcomb, S.,
+Ahmadi, E., Talebi, P., Fathabadi, Z.A., Babai, F., Nikoonahad, A., Sharafi, K., Molenar, J.V., Sherman, L., Archuleta, C., Lee, T., Collett, J.L., 2014. Observations of
+Hosseini-Bandegharaei, A., 2017. A comparative study on capability of different tree ammonia, nitric acid, and fine particles in a rural gas production region. Atmos.
+species in accumulating heavy metals from soil and ambient air. Chemosphere 172, Environ. 83, 80–89.
+459–467. Li, Z., Jia, M.Y., Christie, P., Ali, S., Wu, L.H., 2018. Use of a hyperaccumulator and
+Andreae, M.O., 1983. Soot carbon and excess fine potassium: long-range transport of biochar to remediate an acid highly contaminated with toxic metals and/or
+combustion-derived aerosols. Science 220, 1148–1151. oxytetracycline. Chemosphere 204, 390–397.
+Atiemo, M.S., Ofosu, G.F., Kuranchie-Mensah, H., Tutu, A.O., Palm, N.D., Blankson, S.A., Lin, L., Yan, J.L., Ma, K.M., Zhou, W.Q., Chen, G.J., Tang, R.L., Zhang, Y.X., 2017.
+2011. Contamination assessment of heavy metals in road dust from selected roads in Characterization of particulate matter deposited on urban tree foliage: a landscape
+Accra, Ghana. Res. J. Environ. Earth Sci. 3 (5), 473–480. analysis approach. Atmos. Environ. 171, 59–69.
+Beckett, K.P., Freer-Smith, P.H., Taylor, G., 1998. Urban woodlands: their role in Litschke, T., Kuttler, W., 2008. On the reduction of urban particle concentration by
+reducing the effects of particulate pollution. Environ. Pollut. 99 (3), 347–360. vegetation – a review. Meteorol. Z. 17 (3), 229–240.
+Cao, J.J., Shen, Z.X., Chow, J.C., Qi, G.W., Watson, J.G., 2009. Seasonal variations and Liu, J.Q., Cao, Z.G., Zou, S.Y., Liu, H.H., Hai, X., Wang, S.H., Duan, J., Xi, B.Y., Yan, G.X.,
+sources of mass and chemical composition for PM10 aerosol in Hangzhou, Chian. Zhang, S.W., Jia, Z.K., 2018. An investigation of the leaf retention capacity,
+Particuology 7, 161–168. efficiency and mechanism for atmospheric particulate matter of five greening tree
+Chaturvedi, R.K., Prasaad, S., Rana, S., Obaidullah, S.M., Pandey, V., Singh, H., 2013. species in Beijing, China. Sci. Total Environ. 616–617, 417–426.
+Effect of dust load on the leaf attributes of the tree species growing along the Liu, Y.J., Zhu, Y.G., Ding, H., 2007. Lead and cadmium in leaves of deciduous trees in
+roadside. Environ. Monit. Assess. 185, 383–391. Beijing, China: Development of a metal accumulation index (MAI). Environ. Pollut.
+Chen, C.W., Kao, C.M., Chen, C.F., Dong, C.D., 2007. Distribution and accumulation of 145, 387–390.
+heavy metals in the sediments of Kaohsiung Harbor, Taiwan. Chemosphere 66 (8), Lu, S.W., Yang, X.B., Li, S.N., Chen, B., Jiang, Y., Wang, Y., Xu, L., 2018. Effect of plant
+1431–1440. leaf surface and different pollution levels on PM2.5 adsorption capacity. Urban For.
+Chen, L.X., Liu, C.M., Zou, R., Yang, M., Zhang, Z.Q., 2016. Experimental examination of Urban Gree. 34, 64–70.
+effectiveness of vegetation as bio-filter of particulate matters in the urban Luo, X.S., Bing, H.J., Luo, Z.X., Wang, Y.J., Jin, L., 2019. Impacts of atmospheric
+environment. Environ. Pollut. 208, 198–208. particulate matter pollution on environmental biogeochemistry of trace metals in
+Chow, J., Watson, J., Pritchett, L., Pierson, W., Frazier, C., Purcell, R., 1993. The DRI soil-plant system: a review. Environ. Pollut. 255, 113–138.
+thermal/optical reflectance carbon analysis system: description, evaluation and McDonald, A.G., Bealey, W.J., Fowler, D., Dragosits, U., Skiba, U., Smith, R.I., et al.,
+applications in US air quality studies. Atmos. Environ. Part A. General Top. 27, 2007. Quantifying the effect of urban tree planting on concentrations and
+1185–1201. depositions of PM10 in two UK conurbations. Atmos. Environ. 41 (38), 8455–8467.
+Du, H.H., Kong, L.D., Cheng, T.T., Chen, J.M., Du, J.F., Li, L., Xia, X.G., Leng, C.P., Mello, P.A., Diehl, L.O., Oliveira, J.S.S., Muller, E.I., Mesko, M.F., Flores, E.M.M., 2015.
+Huang, G.H., 2011. Insights into summertime haze pollution events over Shanghai Plasma-based determination of inorganic contaminants in waste of electric and
+based on online water-soluble ionic composition of aerosols. Atmos. Environ. 45, electronic equipment after microwave-induced. Spectro. Chem. Acta B. 105 (1),
+5131–5137. 95–102.
+Dzierz˙anowski, K., Popek, R., Gawron´ska, H., Sæbø, A., Gawron´ski, S.W., 2011. Mo, L., Ma, Z., Xu, Y., Sun, F., Lun, X., Liu, X., Chen, J., Yu, X., 2015. Assessing the
+Deposition of particulate matter of different size fractions on leaf surfaces and in capacity of plant species to accumulate particulate matter in Beijing, China. PloS
+waxes of urban forest species. Int. J. Phytoremediation 13, 1037e1046. One 10 (10), 1–18 e0140664.
+Edelstein, M., Ben-Hur, M., 2018. Heavy metals and metalloids: sources, risks and Müller, G., 1969. Index of geoaccumulation in sediments of the rhine river. Geochem. J.
+strategies to reduce their accumulation in horticultural crops. Sci. Hortic-Amsterdam 2 (3), 108–118.
+234, 431–444. Nguyen, T., Yu, X.X., Zhang, Z.M., Liu, M.M., Liu, X.H., 2015. Relationship between types
+Fang, G.C., Wu, Y.S., Chang, S.Y., Huang, S.H., Rau, J.Y., 2006. Size distributions of of urban forest and PM2.5 capture at three growth stages of leaves. J. Environ. Sci.
+ambient air particles and enrichment factor analyses of metallic elements at 27, 33–41.
+Taichung Harbor near the Taiwan Strait. Atmos. Environ. 81 (4), 320–333. Norouzi, S., Khademi, H., Cano, A.F., Acosta, J.A., 2015. Using plane tree leaves for
+Ferreira-baptista, L., De Miguel, E., 2005. Geochemistry and risk assessment of street biomonitoring of dust borne heavy metals: a case study from Isfahan, Central Iran.
+dust in Luanda, Angola: a tropical urban environment. Atmos. Environ. 39 (25), Ecol. Indicat. 57, 64–73.
+4501–4512. Nowak, D.J., 1994. Air pollution removal by Chicago’s urban forest. In: McPherson, G.E.,
+Fujiwara, F.G., Go´mez, D.R., Dawidowski, L., Perelman, P., Faggi, A., 2011. Metals Nowak, D.J., Rowntree, R.A. (Eds.), Chicago’s Urban Forest Ecosystem: Results of
+associated with airborne particulate matter in road dust and tree bark collected in a the Chicago Urban Forest Climate Project USDA General Tech Rep NE-186,
+megacity (Buenos Aires, Argentina). Ecol. Indicat. 11, 240–247. pp. 63–81.
+Gajbhiye, T., Pandey, S.K., Kim, K.H., Szulejko, J.E., Prasad, S., 2016. Airborne foliar Nowak, D.J., Crane, D.E., Stevens, J.C., 2006. Air pollution removal by urban trees and
+transfer of PM bound heavy metals in Cassia siamea: a less common route of heavy shrubs in the United States. Urban for. Urban Gree 4 (3–4), 115–123.
+metal accumulation. Sci. Total Environ. 573, 123–130. Pugh, R.E., Dick, D.G., Fredeen, A.L., 2002. Heavy metal (Pb, Zn, Cd, Fe, and Cu)
+Gao, J.J., Tian, H.Z., Cheng, K., Lu, L., Wang, Y.X., Wu, Y., Zhu, C.Y., Liu, K.Y., Zhou, J. contents of plant foliage near the anvil range lead/zinc mine, Faro, Yukon Territory.
+R., Liu, X.G., Chen, J., Hao, J.M., 2014. Seasonal and spatial variation of trace Ecotoxicol. Environ. Saf. 52, 273–279.
+elements in multi-size airborne particulate matters of Beijing, China: mass Rai, P.K., 2013. Environmental magnetic studies of particulates with special reference to
+concentration, enrichment characteristics, source apportionment, chemical biomagnetic monitoring using roadside plant leaves. Atmos. Environ. 72, 113–129.
+speciation and bioavailability. Atmos. Environ. 99, 257–265.
+44
+===== PAGE 10 =====
+M. Jia et al. A t m o s p h e r i c P o l l u t i o n R e s e a rch12(2021)36–45
+Rai, P.K., Panda, L.L.S., 2014. Dust capturing potential and air pollution tolerance index Soltani, N., Keshavarzik, B., Moore, F., Tavakol, T., Lahijanzadeh, A.R., Jaafarzadeh, N.,
+(APTI) of some road side tree vegetation in Aizawl, Mizoram, India: an Indo-Burma Kermani, M., 2015. Ecological and human health hazards of heavy metals and
+hot spot region. Air Qual. Atmos. Health 7, 93–101. polycyclic aromatic hydrocarbons (PAHs) in road dust of Isfahan metropolis. Iran.
+Sabin, L.D., Lim, J.H., Venezia, M.T., Winer, A.M., Schiff, K.C., Stolzenbach, K.C., 2006. Sci. Total Environ. 505, 712–723.
+Dry deposition and resuspension of particle-associated metals near a freeway in Los Ugolini, F., Tognetti, R., Raschi, A., Bacci, L., 2013. Quercus ilex L. as bioaccumulator for
+Angeles. Atmos. Environ. 40, 7528–7538. heavy metals in urban areas: effectiveness of leaf washing with distilled water and
+SæbØ, A., Popek, R., Nawrot, B., Hanslin, H.M., Gawronska, H., Gawronski, S.W., 2012. considerations on the trees distance from traffic. Urban For. Urban Green. 12,
+Plant species differences in particulate matter accumulation on leaf surfaces. Sci. 576–584.
+Total Environ. 427–428, 347–354. Wang, J.H., Li, S.W., Cui, X.Y., Li, H.M., Qian, X., Wang, C., Sun, Y.X., 2016.
+Safari, M., Ramavandi, B., Sanati, A.M., Sorial, G.A., Hashemi, S., Tahmasebi, S., 2018. Bioaccessibility, sources and health risk assessment of toxic metals in urban park
+Potential of trees leaf/bark to control atmospheric metals in a gas and petrochemical dust in Nanjing, Southeast China. Ecotox. Environ. Safe. 128, 161–170.
+zone. J. Environ. Manag. 222, 12–20. Wei, B.G., Yang, L.S., 2010. A review of heavy metal contaminations in urban soils,
+Schreck, E., Foucault, Y., Sarret, G., Sobanska, S., C´ecillon, L., Castrec-Rouelle, M., urban road dusts and agricultural soils from China. Microchem. J. 94 (2), 99–107.
+Uzu, G., Dumat, C., 2012. Metal and metalloid foliar uptake by various plant species Xie, C.K., Kan, L.Y., Guo, J.K., Jin, S.J., Li, Z.G., Chen, D., Li, X., Che, S.Q., 2018.
+exposed to atmospheric industrial fallout: mechanisms involved for lead. Sci. Total A dynamic processes study of PM retention by trees under different wind conditions.
+Environ. 427–428, 253–262. Environ. Pollut. 233, 315–322.
+Sgrigna, G., Baldacchini, C., Esposito, R., Calandrelli, R., Tiwary, A., Calfapietra, C., Xu, X.W., Yu, X.X., Mo, L., Xu, Y.S., Bao, L., Lun, X.X., 2019. Atmospheric particulate
+2016. Characterization of leaf-level particulate matter for an industrial city using matter accumulation on trees: a comparison of boles, branches and leaves. J. Clean.
+electron microscopy and X-ray microanalysis. Sci. Total Environ. 548–549, 91–99. Prod. 226, 349–356.
+Shao, F., Wang, L.H., Sun, F.B., Li, G., Yu, L., Wang, Y.J., Zeng, X.R., Yan, H., Dong, L., Yang, J., McBride, J., Zhou, J., Sun, Z., 2005. The urban forest in Beijing and its role in
+Bao, Z.Y., 2019. Study on different particulate matter retention capacities of the leaf air pollution reduction. Urban For. Urban Gree 3 (2), 65–68.
+surfaces of eight common garden plants in Hangzhou, China. Sci. Total Environ. 652, Yang, T., Liu, Q.S., Li, H.X., Zeng, Q.L., Chan, L.S., 2010. Anthropogenic magnetic
+939–951. particles and heavy metals in road dust: magnetic identification and its implications.
+Shi, J.N., Zhang, G., An, H.L., Yin, W.L., Xia, X.L., 2017. Quantifying the particulate Atmos. Environ. 44 (9), 1175–1185.
+matter accumulation on leaf surfaces of urban plants in Beijing, China. Atmos. Zhao, H., Li, X., 2013. Risk assessment of metals in road-deposited sediment along an
+Pollut. Res. 8 (5), 836–842. urban-rural gradient. Environ. Pollut. 174, 297–304.
+45

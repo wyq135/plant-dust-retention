@@ -1,0 +1,744 @@
+TOTAL PAGES: 14
+
+===== PAGE 1 =====
+International Journal of Phytoremediation
+ISSN: 1522-6514 (Print) 1549-7879 (Online) Journal homepage: www.tandfonline.com/journals/bijp20
+Planting design for urban overpasses based on
+atmospheric particulate matter retention in
+Changsha
+Linya Kong, Xinhao Huang & Fan Zhu
+To cite this article: Linya Kong, Xinhao Huang & Fan Zhu (2025) Planting design for urban
+overpasses based on atmospheric particulate matter retention in Changsha, International
+Journal of Phytoremediation, 27:5, 675-687, DOI: 10.1080/15226514.2024.2436442
+To link to this article: https://doi.org/10.1080/15226514.2024.2436442
+Published online: 11 Dec 2024.
+Submit your article to this journal
+Article views: 125
+View related articles
+View Crossmark data
+Citing articles: 1 View citing articles
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=bijp20
+===== PAGE 2 =====
+InternatIonal Journal of PhytoremedIatIon
+2025, Vol. 27, no. 5, 675–687
+https://doi.org/10.1080/15226514.2024.2436442
+Planting design for urban overpasses based on atmospheric particulate
+matter retention in Changsha
+Linya Kong, Xinhao Huang, and Fan Zhu
+College of landscape architecture and art design, hunan agricultural university, Changsha, China
+ABSTRACT KEYWORDS
+Atmospheric particulate matter (PM) emission from overpasses is serious. To optimize the solution Particulate matter; planting
+of planting design in the overpass, it is essential to understand the plant’s ability to capture PM. In design of overpass; retention
+this study, leaf samples were collected from 11 plant species commonly existing in five overpass
+greening areas in Changsha, China. The PM retention per unit leaf area (M ), PM retention on a
+leaf
+unit greening land (M ), and leaf surface microstructure were measured and analyzed. Results
+land
+showed that the M of Ophiopogon japonicus (1.59 g/m2) exhibited the highest value, and that of
+leaf
+Nandina domestica (0.23 g/m2) was the lowest value. The M of O. japonicus, Fatsia japonica, and
+land
+Magnolia grandiflora was the highest based on the leaf area index. Leaves with wide gullies and
+cuticular wax significantly affected the PM retention ability of plants. Plant height played an
+important role in the PM retention ability in the overpass. Multilayered canopy structures such as
+arbor–shrub–herb had great potential for PM retention in overpasses. Based on the results, a PM
+retention design scheme of overpass greening space was proposed. This study provided an optimal
+solution for providing critical insights and guidance for developing effective PM reduction strategies
+in urban overpass environments.
+NOVELTY STATEMENT
+The complex structure of the overpass leads to the most serious air pollution with high source
+emissions and particulate matter (PM) concentrations. However, the study of plant PM retention in
+overpass greening is still insufficient. This study demonstrated that the PM retention ability of plant
+species is correlated with leaf surface microstructure, leaf area index, and plant height. Multilayered
+canopy structures such as arbor–shrub–herb had great potential for the PM retention in overpasses.
+The PM retention design pattern of greening plants for overpasses was proposed by optimizing the
+selection of plant species. This study aimed to provide theoretical knowledge for scientific overpass
+attached greening design and ideas and references for urban green space design in PM reduction.
+Introduction expanding vegetations and plantations, and promotion of
+new energy vehicles as well as higher standard of vehicle
+With rapid urbanization worldwide, air pollution has
+fuels. Among these methods, greening has been identified as
+emerged as a major environmental concern (Wang et al.
+a promising solution in urban areas to improve air quality
+2020; Li et al. 2021) and climate change has deteriorated this
+by effectively capturing PM (Abhijith and Kumar 2020;
+problem in recent decades (Hatamian et al. 2020; Fattahi
+Ottosen and Kumar 2020) as well as other pollutants and
+et al. 2021). Particulate matter (PM) has been classified as a
+toxic metals (Nejad et al. 2018; Hatamian et al. 2019).
+“criteria pollutant,” (USEPA 2004) with severely exceeded
+Many recent studies have focused on the role of plants
+standards in numerous cities (Wilson et al. 2005). The World in retaining PM. This research can generally be divided
+Health Organization has linked increased atmospheric PM into two aspects. On one hand, the ability of different
+exposure levels to negative impacts on human health. Air plant species, types, and structures to alleviate PM has
+pollution is responsible for >7 million deaths annually been analyzed. For example, Maher et al. (2013) found
+worldwide (WHO 2024). Vehicle exhaust, road dust, and tire that street trees can reduce PM concentration by >50%.
+10
+wear from traffic are the primary sources of atmospheric Trees can also adjust microclimate factors such as tem-
+PM (Zhou et al. 2020; He et al. 2020). In China, traffic-related perature, humidity, wind speed, and direction, influencing
+PM emissions have surpassed 50,000 tons in 2022 (MEP PM retention (Deng et al. 2019). Sun et al. (2018) observed
+2023). As a result, various strategies have been implemented significant differences in PM accumulation on leaves
+to reduce human exposure to PM, including stricter vehicle among six shrub species. Herbaceous vegetation can be
+emission standards, installation of dust removal equipment, crucial in PM retention (Popek and Przybysz 2022) and fill
+CONTACT fan Zhu zf1968001@hunau.edu.cn College of landscape architecture and art design, hunan agricultural university, no. 1, nongda road, furong
+district, 410125 Changsha, hunan, China.
+© 2024 taylor & francis Group, llC
+===== PAGE 3 =====
+676 L. KONG ET AL.
+gaps in tree and shrub coverage (Nawrocki et al. 2023). and Planning 2021; Li et al. 2024). To address this issue, five
+Multilayered canopies are more effective in retaining atmo- test overpasses were selected at the four corners of the
+spheric PM compared to single-layer canopies (Gao et al. Second Ring Road of Changsha, as shown in Figure 1. The
+2020; Zhang et al. 2020). However, leaf morphology plays traffic conditions and TSP levels at each overpass are detailed
+an important role in PM retention. Leaves with rough and in Table 1. The greening overview of these five test over-
+large surface areas generally retain PM more effectively passes is shown in Table 2.
+than those with smooth and small surfaces (Hwang et al.
+2011; Chen et al. 2017). Leaf microstructures, such as
+Plant materials
+tomentum (Burkhardt 2010; Chiam et al. 2019), gully
+(Hwang et al. 2011), and cuticular wax (Barwise and
+In this study, 11 plant species, namely Magnolia grandiflora
+Kumar 2020), contribute to PM retention. Despite the
+L, Osmanthus fragrans (Thunb.) Lour, Cinnamomum cam-
+valuable research on the ability of plants to reduce PM,
+phora (L.) Presl, Fatsia japonica (Thunb.) Decne. & Planch,
+there is still a need for a deeper understanding of how
+Photinia × fraseri Dress, Pittosporum tobira (Thunb.) W. T.
+different plant species and combinations can be used to
+Aiton, Rhododendron simsii Planch, Camellia japonica L,
+mitigate PM in different street designs.
+Loropetalum chinense var. rubrum, Nandina domestica Thunb,
+Overpasses are critical traffic hubs in large cities (Yang
+and Ophiopogon japonicus (L. f.) Ker Gawl, were selected
+et al. 2023) and present unique air quality challenges due
+and commonly existed in five test overpasses. Table 3 shows
+to their complex vertical structures. These structures
+detailed plant information for 11 species.
+increase air pollution through elevated emissions and
+enhanced PM dispersion (Tong et al. 2012; Lu et al. 2020).
+PM concentrations in the lower space of overpasses can PM deposition sampling
+increase by up to 49% due to the multistorey vertical
+In January, April, August, and November 2023, leaves were
+structure (Zhi et al. 2020). Deng et al. (2019) reported
+sampled from each overpass. Sampling was done on sunny
+that different street designs and plant community struc-
+days with no wind after five days without rain to ensure PM
+tures can have varying capacities for PM reduction.
+retention on the leaf surface and minimize errors caused by
+However, previous studies have focused on PM reduction
+environmental factors (Yao et al. 2016).
+in parks and on both sides of the streets, with limited
+Each species was sampled at five locations and replicated
+research on overpass spaces. The unique vertical and spa-
+thrice, resulting in 15 repetitions in total. The leaves were in
+tial characteristics of overpasses require customized PM
+good condition and free from pests. Ten replicate leaves of
+management methods. This study aimed to bridge this gap
+each species were handpicked and individually sealed in
+by focusing on how different plant species, types, and
+sample bags at each sample plot to minimize PM loss. The
+arrangements in the environment of overpasses affect PM
+leaves were selected from trees at a height of ~2 m and
+retention. To achieve this, the research measured the PM
+shrubs at a height of 1 m. For herbs, the above-ground
+retention per unit leaf area (M ) of 11 plant species in
+leaf
+parts, including leaves and the petiole near the ground, were
+overpass green spaces and explored the relationships
+sampled.
+between PM retention and leaf surface microstructure and
+The weight of particles on leaf surfaces was determined
+plant combinations. Based on these results, a greening
+using the elution weighing method (Dzierżanowski et al.
+model was established to guide urban overpass green space
+2011; Sæbø et al. 2012). The leaves were washed with dis-
+design. The findings offer valuable insights and guidance
+tilled water and chloroform in turn, and the filtrates were
+into developing effective PM reduction strategies in urban
+filtered using a 0.22 μm needle filter (PES filter for water
+overpass environments.
+and polyamide filter for chloroform) to obtain PM on the
+leaf surface (washed with distilled water) and those trapped
+Materials and methods in the wax (washed with chloroform) (Wang and Shi 2021).
+The filters were dried in an oven at 60 °C before filtration,
+Experimental location
+with the constant weight recorded as W . After filtration
+1
+Changsha is located between 27°51′–28°40′N latitude and with distilled water, the filters were dried and weighed, with
+111°53′–114°5′E longitude. It experiences a subtropical mon- the weight recorded as W 2 (Yue et al. 2021). After filtration
+with chloroform, the filters were dried and weighed, with
+soon climate with four distinct seasons. The average annual
+the weight recorded as W (Wang and Shi 2021). Each sam-
+temperature in Changsha is 17.6 °C, and the average annual 3
+ple of leaves was washed with water and chloroform for 30 s.
+precipitation is 1,394.6 mm (Peng et al. 2024).
+Leaf area was measured using a leaf area meter (Epson V33,
+Changsha is plagued by a high level of air pollution (Liu
+Epson Co., Ltd., Beijing, China) and recorded as S (Tan
+2016). The aggregation of PM pollutants in the air of
+et al. 2022).
+Changsha urban area is prone to the formation of regional
+M was expressed per unit area of leaf and calculated
+air pollution (Zhu et al. 2022). Some studies showed that leaf
+using the following equation:
+due to heavy traffic, the air total suspended particle (TSP)
+level in the Second Ring Road of Changsha’s old city far
+exceeds China’s national standard (120 μg/m3), except in M = (W −W ) S (1)
+summer (Changsha Municipal Bureau of Natural Resources leaf 2 1
+===== PAGE 4 =====
+INTERNATIONAL JOuRNAL OF PHyTOREMEdIATION 677
+Figure 1. five test overpasses located on the four corners of Second ring road of Changsha.
+Table 1. Specific location, traffic conditions, and tSP content of five overpasses.
+tSP content
+name Coordinate major road average speeda Spring Summer autumn Winter
+Chixinlu overpass 113°1′23.154″e South 2nd ring 27.9 km/h 177.8 ± 4.8 Cab 45 ± 2.2 dc 219.2 ± 3.4 Bb 250.1 ± 4.9 ad
+28°10′33.241″n road;
+Shaoshan road
+Juyuan overpass 113°0′2.241″e east 2nd ring 24.35 km/h 182.8 ± 2.7 Ca 52.3 ± 1.8 da 228.7 ± 0.7 Ba 293.8 ± 0.9 aa
+28°9′10.297″n road; Guihua
+road
+luojiazui 112°56′17.938″e Sanyi Street; east 32.75 km/h 167.4 ± 0.9 Cc 50.8 ± 3.5 dab 211.5 ± 0.3 Bc 278.9 ± 6.4 ab
+overpass 28°8′44.555″n 2nd ring road
+Jiantang 112°55′26.325″e West 2nd ring 34.95 km/h 173.0 ± 4.7 Cb 44.9 ± 1.6 dc 197.0 ± 2.0 Be 265.2 ± 4.5 ac
+overpass 28°13′52.705″n road; yuelu
+Street
+Sifangpin 113°1′30.980″e West 2nd ring 31.7 km/h 173.9 ± 1.1 Cab 46.3 ± 0.6 db 206.0 ± 1.3 Bd 261.6 ± 2.3 acd
+overpass 28°14′23.695″n road; South
+2nd ring road
+average – – – 175.0 ± 10.5 C 47.9 ± 7.0 d 212.5 ± 16.9 B 269.9 ± 23.9 a
+aaverage speed of major road. the data come from Changsha municipal Bureau of natural resources and Planning (2021); lower-case letters refer to significant
+differences among overpasses (p < 0.05); upper-case letters refer to significant differences among seasons (p < 0.05).
+PM retention in the cuticle of leaves (M ) was expressed The total leaf area of an individual tree (LA) was calcu-
+W
+per unit area of leaf and calculated using the following lated using the following equations:
+equation:
+LA=exp(0.6031+0.2375H+0.6906D−0.0123S)+0.1824
+(3)
+M = (W −W ) S (2)
+W 3 1
+S=πD(D+H)/S
+(4)
+PM retention ability of plants calculation
+The calculation of plant PM retention ability and plant char- where H is the crown height (m) and D is the crown diam-
+acteristics was as follows (Nowak 1994; Wang and Shi 2021). eter (m).
+===== PAGE 5 =====
+678 L. KONG ET AL.
+Table 2. description of greening in five overpasses in Changsha.
+Green
+name area/m2 Configuration major greening plant collocation Imagea
+Chixinlu overpass 50,341 aSh E. decipiens + C. camphora + O. fragrans + A.
+palmatum—P. × fraseri + P. tobira + C. japonica—L.
+perenne + O. japonicus
+aS O. fragrans + C. camphora—P. tobira + L. chinense + R. simsii + N.
+domestica + G. jasminoides
+ah O. fragrans + C. camphora + A. palmatum + M. grandiflora—O.
+japonicus + O. corniculata
+Sh F. japonica + L. chinense + P. × fraseri + P. tobira—Z. japonica
+Juyuan overpass 33,056 aSh O. fragrans + P. Cerasus—P. tobira + R. simsii + L. quihoui + G.
+jasminoides—O. japonicus + Z. japonica
+aS C. camphora + P. Cerasus + O. fragrans—R. simsii + P. tobira + L.
+chinense + F. japonica
+Sh C. japonica + P. × fraseri + P. tobira + R. simsii + L. chinense—O.
+japonicus + O. corniculata
+luojiazui overpass 124,146 aSh K. bipinnata + P. × blireana + C. camphora—R. simsii + P.
+tobira + L. chinense—O. japonicus
+aS L. indica + P. Cerasus + C. camphora + M. grandiflora—N.
+domestica + C. japonica + P. × fraseri + L. chinense
+ah E. decipiens + O. fragrans—C. indica + I. tectorum
+Sh F. japonica + D. racemosum + P. × fraseri dress + L. quihoui—Z.
+japonica + O. japonicus
+Jiantang overpass 92,138 aSh C. camphora + O. fragrans + P. Cerasus + G.
+biloba + P. × blireana + L. indica—P. × fraseri + R. simsii + L.
+chinense + N. domestica + L. quihoui—I. tectorum + O.
+japonicus + Z. japonica
+aS C. camphora + G. biloba + O. fragrans + P. Cerasus—P. tobira + I.
+cornuta + L. chinense + F. japonica + N. domestica
+ah P. × blireana + L. indica—O. japonicus + O. corniculata
+Sh G. jasminoides + P. fortuneana + R. simsii + I. chinensis + N.
+domestica—O. japonicus + I. tessellatus
+Sifangpin overpass 118,127 aSh O. fragrans + C. camphora + M. grandiflora—P. × fraseri + P.
+tobira + L. quihoui—O. japonicus + O. corniculata
+aS C. camphora + G. biloba + M. grandiflora—P. tobira + L.
+chinense + R. simsii + C. japonica + F. japonica
+ah C. deodara—Z. japonica + L. perenne
+Sh N. domestica + L. chinense—Z. japonica + O. corniculata
+aSh: collocation of arbores, shrubs and herbs; aS: collocation of arbors and shrubs; ah: collocation of arbores and herbs; Sh: collocation of shrubs and herbs.
+aImage from Baidu Street View.
+===== PAGE 6 =====
+INTERNATIONAL JOuRNAL OF PHyTOREMEdIATION 679
+Table 3. Characteristics of 11 tested plants.
+leaf
+Gully width/μm
+Classification Species Plant height/m Crown diameter/m tomentum Cuticular wax front Back
+arbor Magnolia grandiflora l. 9.2 ± 2.5 6.7 ± 1.5 y y 0 22.48
+Osmanthus fragrans. 6.8 ± 1.3 7.1 ± 1.1 n y 0 6.83
+Cinnamomum camphora 12.0 ± 3.1 9.6 ± 1.7 n n 0 8.06
+l.
+Shrub Fatsia japonica thunb. 1.8 ± 0.6 1.6 ± 0.6 n y 18.32 17.35
+Photinia × fraseri dress 2.4 ± 0.7 2.1 ± 0.6 n y 15.20 18.66
+Pittosporum tobira thunb. 2.3 ± 1.0 2.7 ± 0.7 n y 0 3.07
+Rhododendron simsii 1.1 ± 0.5 0.9 ± 0.4 y n 1.85 15.81
+Camellia japonica l. 2.4 ± 0.4 2.0 ± 0.7 n y 4.26 15.29
+Loropetalum chinense 1.5 ± 0.5 1.6 ± 0.7 y n 3.22 4.42
+var. rubrum
+Nandina domestica 1.5 ± 0.6 1.2 ± 0.4 n n 0 8.46
+thunb.
+herb Ophiopogon japonicus l. 0.3 ± 0.1 0.4 ± 0.2 n y 17.48 18.17
+The leaf area index (LAI) of different species was calcu- The TSP content in the atmosphere was obtained by con-
+lated using the following equation: verting the proportion of PM (Ebenstein et al. 2015),
+10
+which was calculated using the following equation:
+LAI=4LA/πD2
+(5)
+TSP=PM /37%
+(7)
+10
+PM retention on a unit greening land (M ) of different
+land
+species was calculated using the following equation:
+Data analysis
+M =M ×LAI
+(6)
+land leaf
+Data analysis and mapping were performed using GraphPad
+Prism 9 (GraphPad Software Inc., San Diego, CA) and ISPSS
+Leaf microstructure observation 26 (IBM Software, Inc., Armonk, NY). The principal com-
+ponent analysis (PCA) and diagram were performed using
+Fresh leaf (5 × 5 mm) was cut from each side of the vein. ORIGIN 2021 (ORIGIN Lab Corp., Inc., Northampton,
+In one leaf of each species, one piece was prepared to MA). One-way analysis of variance and the least significant
+observe the adaxial surface and another the abaxial surface. difference (LSD) test were used for the differences between
+Before observation, this pair was glued on a sample stage treatments (p < 0.05). Pearson’s correlation was used for cor-
+with conductive adhesive and then sputter-coated with gold relation analysis and the hierarchical clustering method was
+using an ion sputter coater (Supu Co., Ltd., Mini Coater, used for cluster analysis.
+Shenzhen, China). Scanning electron microscopy (Fina Co.,
+Ltd., Phenom Pro, Shanghai, China) was performed to
+observe and analyze the leaf surface microstructure (10.0 kV), Results
+and the images were taken at the appropriate magnification
+PM contents on leaves
+for photo preservation (Shao et al. 2019).
+As shown in Figure 2a, there were significant differences in
+M among 11 plant species (p < 0.05). The highest M was
+Atmospheric PM content leaf leaf
+observed in O. japonicus (1.59 g/m2), while the lowest was N.
+A multigas detector (sniffer 4D) was purchased from Kefei domestica (0.23 g/m2). The M of O. japonicus was almost
+leaf
+Co., Ltd. (Hangzhou, China). The average error of long-term seven times higher than N. domestica. Cluster analysis catego-
+comparison data was less than ±10%, and a long-term data rized the 11 species into three groups based on the M
+leaf
+correlation (R2) of 0.81–0.95 was used to measure the atmo- (Figure 2b): (1) the M was highest only to O. japonicus
+leaf
+spheric PM content in five overpasses. Air quality samples (1.59 g/m2); (2) the M was intermediate to P. × fraseri, F.
+leaf
+were restricted for collection between 10 a.m. and 3 p.m. to japonica, O. fragrans, and M. grandiflora (0.79–1.16 g/m2);
+avoid spikes by peak hours. The samples were taken the day (3) the M was lowest to C. camphora, R. simsii,
+leaf
+before leaf sampling. C. japonica, L. chinense, P. tobira, and N. domestica (0.23–
+During measurement, the detector inlet was fixed on 0.73 g/m2).
+the front hood of the car facing forward, and the vehicle Figure 2c shows that the M of 11 species leaves across
+leaf
+was driven at a speed of ~60 km/h (the theoretical spatial the seasons recording ranged from 0.31 to 2.93 g/m2 in
+resolution of the data between 20 and 80 km/h was spring, 0.07 to 0.79 g/m2 in summer, 0.13 to 2.52 g/m2 in
+5–22 m), and the air inlet was cleaned before each mea- autumn, and 0.16 to 2.07 g/m2 in winter. Notably, PM reten-
+surement to ensure the stability and accuracy of the mea- tion is generally higher in spring and in winter compared to
+surement data. other seasons and average PM retention in summer was
+===== PAGE 7 =====
+680 L. KONG ET AL.
+Figure 2. the Pm contents on leaves. the in-surface Pm retention per unit leaf area (M ) (a) and clustering analysis (B) of 11 plant species; Pm retention per
+leaf
+unit leaf area of 11 plant species in different seasons (C); relationships between tSP concentration and M (d); the in-wax Pm retention per unit leaf area (M )
+leaf W
+of 11 plant species (e); dashed lines represent 95% confidence intervals; lower-case letters refer to significant differences among plant species.
+only 31.4% and 32.8% of the levels observed in spring and mata, grooves, and villi. Notably, both leave surfaces of
+winter, respectively. This variable is significantly affected by O. japonicus, F. japonica, L. chinense, and R. simsii were
+atmospheric PM concentration (Figure 2d) (p < 0.0001). rough with prominent gullies and protrusions, but the space
+Figure 2e shows that the PM content in the wax of leaves between grooves on the adaxial surfaces of R. simsii was
+(M ) ranged from 0.041 g/m2 to 0.128 g/m2 among 11 spe- <2 μm, which was not conducive to make large particles
+W
+cies. The in-wax PM retention of F. japonica (0.128 g/m2) retain. The leave surfaces of C. camphora, O. fragrans,
+was significantly higher than others. M. grandiflora, and C. japonica were smooth without obvi-
+ous gullies and protuberance. The adaxial surface of F. japon-
+ica, O. fragrans, M. grandiflora, C. japonica, and P × fraseri
+The microstructure of leaf surface
+had apparent waxy layer. The adaxial and abaxial surface
+SEM images showed that the surface structure of leaves of L. chinense and the abaxial surface of P. tobira and
+among 11 plant species varied, as well as between the adax- N. domestica were covered with hydrophobic scale structure.
+ial and abaxial surfaces of the same plant (Figure 3). The To investigate the relationship between leaf surface micro-
+adaxial surfaces displayed wrinkles, grooves, tomentum, and structures and PM retention, a correlation analysis was con-
+cuticular wax, whereas the abaxial surfaces displayed sto- ducted (Table 4). The results revealed a significant positive
+===== PAGE 8 =====
+INTERNATIONAL JOuRNAL OF PHyTOREMEdIATION 681
+Figure 3. leaf surface micrographs for 11 species based on scanning electron micrographs (except O. japonicus was at ×200 magnification, the other 10 species
+was at ×1,000 magnification).
+Table 4. Correlation between leaf surface microstructure and Pm retention.
+Gully width Stoma
+front Back major diameter Short diameter Stomatal density/mm2 tomentum Cuticular wax
+Pm retention 0.669* 0.453 0.378 0.206 −0.419 0.017 0.696*
+*p < 0.05.
+correlation between the width of the gullies on the adaxial The PM retention in the whole plant
+leaf surfaces and PM retention (r = 0.669, p < 0.05). The
+Figure 4a shows the LAI of 11 plant species. The LAI of
+cuticular wax on the leaf surface also revealed a significant
+R. simsii (8.83 m2/m2) exhibited the significant highest value
+positive correlation with PM retention (r = 0.696, p < 0.05). in 11 species, and that of N. domestica (0.99 m2/m2) was the
+However, no significant correlations were found between sto- lowest. The M of each species was also significantly var-
+land
+matal size, density or tomentum structure and PM retention. ied (Figure 4b) (p < 0.05). The M of F. japonica (2.97 g)
+land
+===== PAGE 9 =====
+682 L. KONG ET AL.
+Figure 4. the Pm retention in the whole plant. the leaf area index (laI) (a) and the Pm retention on a unit greening land (M ) (B) of 11 plant species; the M
+land land
+of different plant height (C); lower-case letters refer to significant differences among plant species; h: the actual height of sample plants; H > 5 m: the actual
+height of the plant is more than five meters; 5 m ≥ H > 2 m: the actual height of the plant is between 2 and 5 m; 2 m ≥ H > 1 m: the actual height of the
+plant is between 1 and 2 m; 1 m ≥ H: the actual height of the plant is less than 1 m.
+and >5 m (1.70 g) was observed significantly higher than
+other height levels (Figure 4c).
+The PM retention in plant collocation
+Figure 5a demonstrates that the M of herb (2.66 g) sig-
+land
+nificantly higher than arbor (1.69 g) and shrub (1.29 g)
+(p < 0.05), almost twice as much as shrub. Figure 5b shows
+significant differences in M among various plant colloca-
+land
+tions (p < 0.05). Specifically, compared to other plant collo-
+cations, the arbor–shrub–herb collocation had the highest
+M (3.85 g) in overpass.
+land
+Figure 5. the Pm retention in plant collocation. the M of different plant
+land
+type (a) and plant collocation (B). lower-case letters refer to significant differ- Principal component analysis
+ences among plant species. aS: collocation of arbors and shrubs; ah: colloca-
+tion of arbores and herbs; Sh: collocation of shrubs and herbs; aSh: collocation PCA was performed to analyze the PM retention by the
+of arbores, shrubs, and herbs. plant species at nine indicators showed that the first princi-
+pal component accounted for 42.6% of the total variation,
+and O. japonicus (2.65 g) were significantly higher than other while the second principal component accounted for 20.9%
+species, which were tens of times that of N. domestica (Figure 6). The cumulative contribution rate of these two
+(0.11 g), and the M of M. grandiflora (2.25 g) and R. simsii components reached 63.5%.
+land
+(1.80 g) was relatively high. Of the plant height of five over- Figure 6 shows that O. japonicus, M. grandiflora, F. japon-
+passes analyzed, the M with plant heights <1 m (2.12 g) ica, and P. × fraseri in first and fourth quadrants had smaller
+land
+===== PAGE 10 =====
+INTERNATIONAL JOuRNAL OF PHyTOREMEdIATION 683
+Figure 6. the PCa of Pm retention in the 11 plant species of overpass at nine Indicators. GWf: gully width (front); GWB: gully width (back).
+distance with factors except tomentum and plant height than poor PM retention ability (Chowdhury et al. 2022). The
+other species. M , M , and M had small distance with significant positive correlation between the width of gullies
+land leaf W
+gully width in both surface leaves, LAI, and cuticular wax, on adaxial leaf surfaces and PM retention further supported
+but M and M had smaller distance with gully width this result (Table 4). There were significant differences in
+land W
+than with LAI and cuticular wax, respectively. the PM retention capacity of plants across seasons, with a
+trend of lower retention in summer and higher retention in
+the other three seasons (Figure 2c). Rainfall, temperature,
+Discussion
+relative humidity, and wind speed were negatively correlated
+with PM content in the air (Li et al. 2017; Xie et al. 2023),
+Effect of plant species on PM retention
+and atmospheric PM decreased with an increased in humid-
+PM in urban roads is mainly attributed to vehicle exhaust, ity and rain (Litschke and Kuttler 2008). Changsha experi-
+especially in overpasses. Greening species can effectively ences hot and rainy summers with humid air, resulting in
+regulate and mitigate PM. In this study, significant differ- lower air PM content than other seasons. The positive cor-
+ences in PM retention were observed on the leaf surfaces of relation between PM retention and TSP (Figure 2d) sup-
+11 species (Figure 2a). This result was consistent with Sun ported this finding.
+et al. (2018), who found that PM retention ability is associ- PM retention is strongly influenced by the waxy layer of
+ated with plant species. This difference was likely driven by leaf surfaces. In this study, PM retention of F. japonica,
+the leaf surface microstructure. Some studies indicated that O. fragrans, and M. grandiflora was consistent with previous
+the leaf surface microstructure critically influences a plant’s studies, indicating that the waxy layer structure has strong
+ability to retain PM (Burkhardt 2010; Chiam et al. 2019). PM retention capabilities (Weerakkody et al. 2017) and
+Surface roughness, gully structure, villus density, stomatal exhibits strong adhesion to particles (Popek et al. 2013),
+distribution, and the presence of a waxy layer played a crit- whereas O. fragrans and M. grandiflora had a smooth in sur-
+ical role in a leaf’s ability to adsorb and stabilize atmo- face. Sæbø et al. (2012) found a positive correlation between
+spheric particles (McDonald et al. 2007; Uzu et al. 2010). PM deposition and leaf wax content. However, other studies
+These results supported this view, as leaf surfaces of showed increased wax content decreases the PM sedimenta-
+O. japonicus and F. japonica, with prominent gullies and tion rate (Zhang et al. 2018; Muhammad et al. 2019). These
+protrusions on their leaves, demonstrated an enhanced abil- discrepancies may be due to differences in wax content,
+ity to adsorb atmospheric particles and prevent them from morphology, and chemical composition, or air raining and
+dislodging (Tomson et al. 2024). O. japonicus showed the humidity, suggesting that different wax characteristics have
+highest PM retention ability among the 11 species. However, varying effects on PM retention (Popek et al. 2013; Barwise
+L. chinense with rough leaf surfaces displayed poor PM and Kumar 2020). Wang et al. (2015) found that thin wax
+retention ability due to the hydrophobic scale structure on films can better accumulate PM compared to wax tubes.
+its leaves. C. camphora and N. domestica, with smooth leaf This may explain why C. japonica, with a thick waxy layer,
+surfaces and minimal gully structures, showed relatively has a lower ability to retain PM.
+===== PAGE 11 =====
+684 L. KONG ET AL.
+M , which represents the PM retention on a unit of multistorey vertical structure of overpasses raises the height
+land
+green space for different plant species based on LAI (Wang of the pollution source, making it more necessary for tall
+and Shi 2021), was also examined in this study. Previous trees to play a role in PM retention. In contrast, low-canopy
+research showed that LAI effectively measures leaf area per plants are important in blocking PM diffusion over short
+unit of green space and is crucial for assessing PM retention distances (Santiago et al. 2019). Therefore, a reasonable allo-
+(Hirabayashi et al. 2012; Wang and Shi 2021). In this study, cation of different height plants in overpass greening can not
+LAI was important in capturing PM in 11 species. However, only increase PM retention near the road but also hinder
+the plant with the highest LAI did not necessarily have the PM transport from the upper bridge toward the ground.
+highest M value, as seen in R. simsii. This might be due
+land
+to differences in the leaf microstructure, as atmospheric PM
+Effect of plant collocations on PM retention
+adheres to the leaf surface first. PCA also showed that M
+land
+had a smaller distance from the gully width than LAI. Plants
+Previous research showed that areas with multiple layers of
+with heights <1 and >5 m had a stronger ability to retain
+greenery are more effective in retaining atmospheric PM than
+PM than other heights (Figure 4c). Tall trees can block the
+single-structure areas (Shi et al. 2017; Gao et al. 2020; Zhang
+rise and fall of PM (Abhijith et al. 2017), and the
+et al. 2020). In this study, the arbor–shrub–herb collocation
+structure demonstrated a stronger ability to retain PM than
+Table 5. Key points of plant design in overpass space based on Pm-retention. other structures due to its multilayered canopy. Herbs in the
+lower part of this structure effectively trap larger particles near
+Influencing factors mechanism of action Key points of plant design
+the surface and prevent them from rising (Abhijith et al. 2017;
+leaf surface microstructure determines the size the leaves with rough
+and stability of surface, gullies, and Weerakkody et al. 2017). Arbor canopies in the upper part of
+the retained cuticular wax structure this structure intercept a significant amount of PM from the
+particles have stronger Pm
+upper atmosphere (Pugh et al. 2012; Wang et al. 2022). The
+retention ability.
+according to leaf multilayered plant structure increases the surface area for PM
+surface microstructure trapping and also improves retention efficiency by altering
+to select plant can
+environmental factors (Bowker et al. 2007; Wania et al. 2012).
+effectively improve the
+Pm retention effect of However, Chen et al. (2015) noted that arbor–shrub–herb con-
+green space. figurations are not effective in high-traffic streets. Streets with
+Plant height affect the location of Plants lower than 1 m
+heavy traffic are major sources of PM pollution, and dense
+Pm retention and higher than 5 m
+can retained more Pm. plant barriers can hinder the outward diffusion of PM
+lower herb plants have (Francesco et al. 2020). Therefore, when considering the mul-
+the ability to retain the
+tilayered structure of overpasses and heavy traffic, it is crucial
+particles near ground,
+while arbors with tall to not only select appropriate plant species but also to effec-
+canopy is a strong tively design the greenery model to control PM pollution.
+barrier to airborne Pm.
+Plant collocation affect the amount of the arbor–shrub–herb
+Pm retention collocation can retain
+Planting design for overpasses based on PM retention
+more Pm. Complex
+structure of canopy is
+beneficial for Pm In this study, leaf surface microstructure, LAI, plant height,
+retention. and plant combinations were considered for the optimal design
+Table 6. design schemes to the different types of green space in overpasses.
+Characteristics design of greening plant
+Green space area location design requirement design scheme
+the green ribbon, small area Sides of the roads the main function is Pm retention, and the sight Choosing stronger Pm-retention ability plants
+space and bridges occlusion should be considered and play the role of herbs. the shrub-herb
+around collocation is more suitable, which can be
+bridge used as driving guidance while not
+blocking the line of sight.
+the slope Slope, medium Connecting two the Pm retention needs of the upper and lower according to slope elevation difference,
+green space area layers of bridge bridges should be considered choose suitable height and stronger
+Pm-retention ability plants. Plant
+collocation is mainly composed of
+multi-layer composite structure. the Pm of
+the upper bridge is deposited by arbors,
+and the Pm on the road was deposited by
+herbs and shrubs.
+the central large area Central green space the outer of green space should be dominated by Choosing stronger Pm-retention ability plant
+green island surrounded by Pm retention function for the peripheral green space. Plant
+green space bridges collocation is mainly composed of
+multi-layer composite structure and the
+arbors with high canopy should be
+selected to trap Pm from the upper bridge.
+the interior green space can be designed
+according to other requirements.
+===== PAGE 12 =====
+INTERNATIONAL JOuRNAL OF PHyTOREMEdIATION 685
+Figure 7. the conceptional solution of the optimal design based on this study. Current overpass greening (a) and proposal greening (B).
+for green plants in the overpass. Based on the results, this attention should be paid to the PM retention ability of plants.
+study proposed corresponding strategies for influencing green Placing low plants close to the source can increase PM reten-
+space design, as outlined in Table 5. Green spaces in over- tion (Pugh et al. 2012; Vos et al. 2013), and if the plants are
+passes can generally be categorized into three types: (1) bridge too far from the road, the retention efficiency is low (Janhäll
+peripheries, (2) sloped areas, and (3) central green islands. In 2015). Based on the results, this study developed a conceptual
+Table 6, alternative design schemes tailored to these types are solution for overpass greening, as shown in Figure 7. Through
+proposed. First, species selection: this study focused on select- a systematic investigation and assessment of existing green
+ing plant species with rough leaf surfaces, prominent gullies, spaces in Changsha, this design pattern not only enhances the
+and waxy layers, as these have higher PM retention capabili- ecological utility of these areas but also supports the expansion
+ties. This selection process was based on the leaf surface of green infrastructure in urban landscapes constrained by
+microstructure, LAI, and plant height of each species. Second, space and structural limitations. Ultimately, this approach
+height consideration: plants should be chosen according to aimed to establish a robust theoretical and practical framework
+their height relative to the PM source to enhance their effec- for providing critical insights and guidance for developing
+tiveness in capturing PM. Finally, multilayered canopy struc- effective PM reduction strategies in urban environments.
+tures: this study recommended choosing plant combinations
+with multilayered canopy structures, such as combinations of
+Conclusions
+arbors, shrubs, and herbs, to maximize PM retention. The
+traffic environment is an important factor affecting PM con- This research conducted a comparative study of the PM reten-
+tent (Anwar et al. 2020; Kończak et al. 2021). For example, the tion ability of 11 plant species commonly existing in five over-
+Juyuan Overpass, which has a high traffic volume, has signifi- passes and analyzed the plant leaf microstructure. Results
+cantly higher TSP content than other overpasses (Table 1). indicated that leaves with wide gullies and waxy structures,
+And the amount of retained PM of plants is directly related to plants with heights <1 and >5 m, and a combination of trees,
+air concentrations close to the surface (Janhäll 2015). Therefore, shrubs, and herbs have a greater PM retention ability. Based
+in green spaces around roads with high traffic volume, special on these findings, this study proposed the PM retention design
+===== PAGE 13 =====
+686 L. KONG ET AL.
+pattern of greening plants for overpasses. By structuring vege- Fattahi B, Arzani K, Souri MK, Barzegar M. 2021. Morphological and
+tation in a way that maximizes these green spaces as effective phytochemical responses to cadmium and lead stress in coriander
+(Coriandrum sativum L.). Ind Crop Prod. 171(1):113979. doi:
+atmospheric filters, this pattern provides a new idea for design-
+10.1016/j.indcrop.2021.113979.
+ing the attached greening of the overpass. It could be applied
+Francesco F, Alessio F, Jacopo M, Antonella G. 2020. Role of vegetation
+in Changsha and other urban contexts and regions. as a mitigating factor in the urban context. Sustainability.
+12(10):4247–4269. doi: 10.3390/su12104247.
+Gao T, Liu F, Wang Y, Mu S, Qiu L. 2020. Reduction of atmospheric
+Funding suspended particulate matter concentration and influencing factors
+of green space in urban forest park. Forests. 11(9):950–950. doi:
+The authors of the manuscript thankfully acknowledge the National 10.3390/f11090950.
+Natural Science Foundation of China (32301381) and the Postgraduate Hatamian M, Nejad AR, Kafi M, Souri MK, Shahbazi K. 2019. Growth
+Scientific Research Innovation Project of Hunan Agriculture University characteristics of ornamental Judas tree (Cercis siliquastrum L.) seed-
+(2023XC033). ling under different concentrations of lead and cadmium in irriga-
+tion water. Acta Sci Polon Hort Cult. 18(2):87–96. doi: 10.24326/
+asphc.2019.2.8.
+References
+Hatamian M, Nejad AR, Kafi M, Souri MK, Shahbazi K. 2020. Interaction
+of lead and cadmium on growth and leaf morphophysiological char-
+Abhijith KV, Kumar P, Gallagher J, McNabola A, Baldauf R, Pilla F,
+acteristics of European hackberry (Celtis australis) seedlings. Chem
+Broderick B, Di Sabatino S, Pulvirenti B. 2017. Air pollution abate-
+Biol Technol Agric. 7(1):1–8. doi: 10.1186/s40538-019-0173-0.
+ment performances of green infrastructure in open road and built-up
+He C, Qiu K, Richard P. 2020. Reduction of traffic-related particulate mat-
+street canyon environments – a review. Atmos Environ. 162:71–86.
+ter by roadside plants: effect of traffic pressure and sampling height. Int
+doi: 10.1016/j.atmosenv.2017.05.014.
+J Phytoremediation. 22(2):184–200. doi: 10.1080/15226514.2019.1652565.
+Abhijith KV, Kumar P. 2020. Quantifying particulate matter reduction
+Hirabayashi S, Kroll CN, Nowak DJ. 2012. Development of a distribut-
+and their deposition on the leaves of green infrastructure. Environ
+ed air pollutant dry deposition modeling framework. Environ Pollut.
+Pollut. 265(Pt B):114884. doi: 10.1016/j.envpol.2020.114884.
+171:9–17. doi: 10.1016/j.envpol.2012.07.002.
+Anwar S, Naz A, Ashraf MY, Malik A. 2020. Evaluation of inorganic
+Hwang HJ, Yook SJ, Ahn KH. 2011. Experimental investigation of sub-
+contaminants emitted from automobiles and dynamics in soil, dust,
+micron and ultrafine soot particle removal by tree leaves. Atmos
+and vegetations from major highways in Pakistan. Environ Sci Pollut
+Environ. 45(38):6987–6994. doi: 10.1016/j.atmosenv.2011.09.019.
+Res Int. 27(26):32494–32508. doi: 10.1007/s11356-020-09198-x.
+Janhäll S. 2015. Review on urban vegetation and particle air pollution
+Barwise Y, Kumar P. 2020. Designing vegetation barriers for urban air
+– deposition and dispersion. Atmos Environ. 105:130–137. doi:
+pollution abatement: a practical review for appropriate plant species
+10.1016/j.atmosenv.2015.01.052.
+selection. Npj Clim Atmos Sci. 3(1):283–309. doi: 10.1038/s41612-
+Kończak B, Cempa M, Pierzchała Ł, Deska M. 2021. Assessment of the
+020-0115-3.
+ability of roadside vegetation to remove particulate matter from the
+Bowker GE, Baldauf R, Isakov V, Khlystov A, Petersen W. 2007. The
+urban air. Environ Pollut. 268(Pt B):115465. doi: 10.1016/j.en-
+effects of roadside structures on the transport and dispersion of ul-
+trafine particles from highways. Atmos Environ. 41(37):8128–8139. vpol.2020.115465.
+doi: 10.1016/j.atmosenv.2007.06.064. Li J, Wang H, Cai X, Liu S, Lai W, Chang Y, Qi J, Zhu G, Zhang C,
+Burkhardt J. 2010. Hygroscopic particles on leaves: nutrients or desic- Liu Y. 2024. Quantifying urban spatial morphology indicators on the
+cants? Ecol Monogr. 80(3):369–399. doi: 10.1890/09-1988.1. green areas cooling effect: the Case of Changsha, China, a Subtropical
+Changsha Municipal Bureau of Natural Resources and Planning. 2021. City. Land. 13(6):757–775. doi: 10.3390/land13060757.
+Annual report on traffic conditions of Changsha in 2020. MNR Li X, Chen X, Yuan X, Zeng G, León T, Liang J, Chen G, Yuan X.
+Changsha [accessed 2021 Feb 7]. http://zygh.changsha.gov.cn/zfxxgk/ 2017. Characteristics of particulate pollution (PM 2.5 and PM 10 ) and
+zwyw/xwdt/bjdt/202102/t20210207_9774272.html. their spacescale-dependent relationships with meteorological ele-
+Chen L, Liu C, Zhang L, Zou R, Zhang Z. 2017. Variation in tree ments in China. Sustainability. 9(12):2330. doi: 10.3390/su9122330.
+species ability to capture and retain airborne fine particulate matter Li Y, Weiwen W, Ming C, Wang XM. 2021. Impacts of urbanization on
+(PM ). Sci Rep. 7(1):3206. doi: 10.1038/s41598-017-03360-1. extreme precipitation in the Guangdong–Hong Kong–Macau Greater
+2.5
+Chen X, Pei T, Zhou Z, Teng M, He L, Luo M, Liu X. 2015. Efficiency Bay Area. Urban Clim. 38:100904. doi: 10.1016/j.uclim.2021.100904.
+differences of roadside greenbelts with three configurations in removing Litschke T, Kuttler W. 2008. On the reduction of urban particle con-
+coarse particles (PM ): a street scale investigation in Wuhan, China. centration by vegetation—a review. Meteorol Zeitschr. 17(3):229–240.
+10
+Urban For Urban Green. 14(2):354–360. doi: 10.1016/j.ufug.2015.02.013. doi: 10.1127/0941-2948/2008/0284.
+Chiam Z, Song PX, Lai RH, Tan HTW. 2019. Particulate matter miti- Liu JQ. 2016. Spatial–temporal distribution of air pollutants in Changsha
+gation via plants: understanding complex relationships with leaf urban and suburb [dissertation]. Changsha (China): Hunan Normal
+traits. Sci Total Environ. 688:398–408. doi: 10.1016/j.scito- University.
+tenv.2019.06.263. Lu KF, He HD, Wang HW, Li XB, Peng ZR. 2020. Characterizing tem-
+Chowdhury AI, Uddin MJ, Baul TK, Akhter J, Nandi R, Karmakar S, poral and vertical distribution patterns of traffic-emitted pollutants
+Nath TK. 2022. Quantifying the potential contribution of urban near an elevated expressway in urban residential areas. Build
+trees to particulate matters removal: a study in Chattogram city, Environ. 172:106678. doi: 10.1016/j.buildenv.2020.106678.
+Bangladesh. J Clean Prod. 380(P2):135015–135025. doi: 10.1016/j. Maher BA, Ahmed IAM, Davison B, Karloukovski V, Clarke R. 2013.
+jclepro.2022.135015. Impact of roadside tree lines on indoor concentrations of
+Deng S, Ma J, Zhang L, Jia Z, Ma L. 2019. Microclimate simulation traffic-derived particulate matter. Environ Sci Technol. 47(23):13737–
+and model optimization of the effect of roadway green space on 13744. doi: 10.1021/es404363m.
+atmospheric particulate matter. Environ Pollut. 246:932–944. doi: McDonald AG, Bealey WJ, Fowler D, Dragosits U, Skiba U, Smith RI,
+10.1016/j.envpol.2018.12.026. Donovan RG, Brett HE, Hewitt CN, Nemitz E. 2007. Quantifying
+Dzierżanowski K, Popek R, Gawrońska H, Sæbø A, Gawrońsk WS. 2011. the effect of urban tree planting on concentrations and depositions
+Deposition of particulate matter of different size fractions on leaf of PM in two UK conurbations. Atmos Environ. 41(38):8455–8467.
+10
+surfaces and in waxes of urban forest species. Int J Phytoremediation. doi: 10.1016/j.atmosenv.2007.07.025.
+13(10):1037–1046. doi: 10.1080/15226514.2011.552929. [MEP] Ministry of Ecology and Environment of the People’s Republic
+Ebenstein A, Fan M, Greenstone M, He G, Yin P, Zhou M. 2015. of China. 2023. China mobile source environmental management
+Growth, pollution, and life expectancy: China from 1991–2012. Am annual report. MEP [accessed 2023 Dec 7]. https://www.mee.gov.cn/
+Econ Rev. 105(5):226–231. doi: 10.1257/aer.p20151094. hjzl/sthjzk/ydyhjgl/202312/t20231207_1058460.shtml.
+===== PAGE 14 =====
+INTERNATIONAL JOuRNAL OF PHyTOREMEdIATION 687
+Muhammad S, Wuyts K, Samson R. 2019. Atmospheric net particle [USEPA] United States Environmental Protection Agency. 2004. Air
+accumulation on 96 plant species with contrasting morphological quality criteria for particulate matter (Final Report, 2004).
+and anatomical leaf characteristics in a common garden experiment. Washington (DC): EPA. 600/P-99/002aF-bF [accessed 2004 Oct].
+Atmos Environ. 202:328–344. doi: 10.1016/j.atmosenv.2019.01.015. https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NCEA&dir
+Nawrocki A, Popek R, Sikorski P, Krysiak MW, Zhu CY, Przybysz A. EntryId=87903.
+2023. Air phyto-cleaning by an urban meadow – filling the winter Wang A, Guo Y, Fang Y, Lu K. 2022. Research on the horizontal
+gap. Ecol Indic. 151:110259. doi: 10.1016/j.ecolind.2023.110259. reduction effect of urban roadside green belt on atmospheric partic-
+Nejad AR, Hatamian M, Kafi M, Souri MK, Shahbazi K. 2018. ulate matter in a semi-arid area. Urban For Urban Green. 68:127449.
+Interaction of lead and nitrate on growth characteristics of ornamen- doi: 10.1016/j.ufug.2021.127449.
+tal judas tree (Cercis siliquastrum L.). Open Agric. 3:386–392. doi: Wang H, Shi H. 2021. Particle retention capacity, efficiency, and mech-
+10.1515/opag-2018-0070. anism of selected plant species: implications for urban planting for
+Nowak DJ. 1994. Assessing urban forest structure: the state of Chicago’s improving urban air quality. Plants. 10(10):2109–2127. doi: 10.3390/
+urban forest. Northeastern Forest Experiment Station, General plants10102109.
+Technical Report NE-18. DC: USDA3-18. Wang L, Gong H, Liao W, Wang Z. 2015. Accumulation of particles on
+Ottosen TB, Kumar P. 2020. The influence of the vegetation cycle on the surface of leaves during leaf expansion. Sci Total Environ.
+the mitigation of air pollution by a deciduous roadside hedge. 532:420–434. doi: 10.1016/j.scitotenv.2015.06.014.
+Sustain Cities Soc. 53:101919. doi: 10.1016/j.scs.2019.101919. Wang S, Gao S, Li S, Feng KS. 2020. Strategizing the relation between
+Peng J, Dan Y, Yu X, Xu D, Yang Z, Wang Q. 2024. Response of urban urbanization and air pollution: empirical evidence from global coun-
+green space cooling effect to urbanization in the Three Ring Road tries. J Clean Prod. 243(C):118615. doi: 10.1016/j.jclepro.2019.118615.
+area of Changsha City. Sustain Cities Soc. 109:105534. doi: 10.1016/j. Wania A, Bruse M, Blond N, Weber C. 2012. Analysing the influence
+scs.2024.105534. of different street vegetation on traffic-induced particle dispersion
+Popek R, Gawrońska H, Wrochna M, Gawroński SW, Sæbø A. 2013. using microscale simulations. J Environ Manage. 94(1):91–101. doi:
+Particulate matter on foliage of 13 woody species: deposition on sur- 10.1016/j.jenvman.2011.06.036.
+faces and phytostabilisation in waxes – a 3-year study. Int J Weerakkody U, Dover WJ, Mitchell P, Reiling K. 2017. Particulate mat-
+Phytoremediation. 15(3):245–256. doi: 10.1080/15226514.2012.694498. ter pollution capture by leaves of seventeen living wall species with
+Popek R, Przybysz A. 2022. Precipitation plays a key role in the pro- special reference to rail-traffic at a metropolitan station. Urban For
+cesses of accumulation, retention and re-suspension of particulate Urban Green. 27:173–186. doi: 10.1016/j.ufug.2017.07.005.
+matter on Betula pendula, Tilia cordata and Quercus robur foliage. Wilson JG, Kingham S, Pearce J, Sturman AP. 2005. A review of
+Desalin Water Treat. 275:14–23. doi: 10.5004/dwt.2022.28603. intraurban variations in particulate air pollution: implications for
+Pugh TAM, Mackenzie AR, Whyatt JD, Hewitt CN. 2012. Effectiveness epidemiological research. Atmos Environ. 39(34):6444–6462. doi:
+of green infrastructure for improvement of air quality in urban 10.1016/j.atmosenv.2005.07.030.
+street canyons. Environ Sci Technol. 46(14):7692–7699. doi: 10.1021/ World Health Organization. 2024. Ambient (outdoor) air pollution.
+es300826w. WHO [accessed 2024 Mar 18]. https://www.who.int/health-topics/
+Sæbø A, Popek R, Nawrot B, Hanslin HM, Gawronska H, Gawronski air-pollution.
+SW. 2012. Plant species differences in particulate matter accumula- Xie F, Zheng X, Dou T, Yang F, Liu C, Li J, Xie Y, Wang Y, Hu J, Chen
+tion on leaf surfaces. Sci Total Environ. 427–428:347–354. doi: C. 2023. Transport influence and potential sources of PM pollu-
+2.5
+10.1016/j.scitotenv.2012.03.084. tion for Nanjing. Huan Jing Ke Xue. 44(6):3071–3079. doi: 10.13227/j.
+Santiago JL, Buccolieri R, Rivas E, Calvete-Sogo H, Sanchez B, Martilli hjkx.202206256.
+A, Alonso R, Elustondo D, Santamaría JM, Martin F. 2019. CFD Yang W, Cao R, Ma F, Wang Z, Hu X, Cai M, Peng ZR, Wei Y, Xu J,
+modelling of vegetation barrier effects on the reduction of Zhang L. 2023. High-resolution distributions of traffic particles and
+traffic-related pollutant concentration in an avenue of Pamplona, personal inhalation dose estimation at different pedestrian overpass-
+Spain. Sustain Cities Soc. 48:101559. doi: 10.1016/j.scs.2019.101559. es. Atmos Pollut Res. 14(7):101786. doi: 10.1016/j.apr.2023.101786.
+Shao F, Wang L, Sun F, Li G, Yu L, Wang Y, Zeng X, Yan H, Dong L, Bao Yao SSB, Djédoux MA, Kobenan PN, N’guessan AK, Fidèle ZTB,
+Z. 2019. Study on different particulate matter retention capacities of the Roeland S. 2016. Involvement of leaf characteristics and wettability
+leaf surfaces of eight common garden plants in Hangzhou, China. Sci in retaining air particulate matter from tropical plant species.
+Total Environ. 652:939–951. doi: 10.1016/j.scitotenv.2018.10.182. Environ Eng Res. 21(2):121–131. doi: 10.4491/eer.2015.120.
+Shi J, Zhang G, An H, Yin W, Xia X. 2017. Quantifying the particulate Yue C, Cui K, Duan J, Wu X, Yan P, Rodriguez C, Fu H, Deng T,
+matter accumulation on leaf surfaces of urban plants in Beijing, Zhang S, Liu J, et al. 2021. The retention characteristics for
+China. Atmos Pollut Res. 8(5):836–842. doi: 10.1016/j.apr.2017.01.011. water-soluble and water-insoluble particulate matter of five tree spe-
+Sun X, Li H, Guo X, Sun Y, Li S. 2018. Capacity of six shrub species cies along an air pollution gradient in Beijing. Sci Total Environ.
+to retain atmospheric particulates with different diameters. Environ 767:145497. doi: 10.1016/J.SCITOTENV.2021.145497.
+Sci Pollut Res Int. 25(3):2643–2650. doi: 10.1007/s11356-017-0549-2. Zhang W, Zhang Z, Meng H, Zhang T. 2018. How does leaf surface
+Tan X-Y, Liu L, Wu D-Y. 2022. Relationship between leaf dust retention micromorphology of different trees impact their ability to capture
+capacity and leaf microstructure of six common tree species for particulate matter? Forests. 9(11):681. doi: 10.3390/f9110681.
+campus greening. Int J Phytoremediation. 24(11):1213–1221. doi: Zhang X, Lyu J, Han Y, Sun N, Sun W, Li J, Liu C, Yin S. 2020. Effects
+10.1080/15226514.2021.2024135. of the leaf functional traits of coniferous and broadleaved trees in sub-
+Tomson M, Kumar P, Abhijith KV, Watts JF. 2024. Exploring the inter- tropical monsoon regions on PM dry deposition velocities. Environ
+2.5
+play between particulate matter capture, wash-off, and leaf traits in Pollut. 265(Pt B):114845. doi: 10.1016/j.envpol.2020.114845-114877.
+green wall species. Sci Total Environ. 921:170950. doi: 10.1016/J. Zhi H, Qiu Z, Wang W, Wang G, Hao Y, Liu Y. 2020. The influence of a
+SCITOTENV.2024.170950. viaduct on PM dispersion in a typical street: field experiment and numerical
+Tong Z, Wang YJ, Patel M, Kinney P, Chrillrud S, Zhang KM. 2012. simulations. Atmos Pollut Res. 11(4):815–824. doi: 10.1016/j.apr.2020.01.009.
+Modeling spatial variations of black carbon particles in an urban Zhou M, Wang X, Lin X, Yang S, Zhang J, Chen J. 2020. Automobile
+highway-building environment. Environ Sci Technol. 46(1):312–319. exhaust particles retention capacity assessment of two common
+doi: 10.1021/es201938v. garden plants in different seasons in the Yangtze River Delta using
+Uzu G, Sobanska S, Sarret G, Muñoz M, Dumat C. 2010. Foliar lead open-top chambers. Environ Pollut. 263(Pt A):114560. doi: 10.1016/j.
+uptake by lettuce exposed to atmospheric fallouts. Environ Sci envpol.2020.114560.
+Technol. 44(3):1036–1042. doi: 10.1021/es902190u. Zhu Y, Liao J, Gong W, Wu H, Huang Y, Liu Y, Zhao M.
+Vos PEJ, Maiheu B, Vankerkom J, Janssen S. 2013. Improving local air 2022. Air pollutants sources in winter in Chang-Zhu-Tan
+quality in cities: to tree or not to tree? Environ Pollut. 183:113–122. Region of China. Adv Meteorol. 2022(4):1–9. doi: 10.1155/
+doi: 10.1016/j.envpol.2012.10.021. 2022/9717192.

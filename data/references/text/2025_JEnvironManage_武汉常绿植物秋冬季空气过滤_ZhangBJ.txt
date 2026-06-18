@@ -1,0 +1,1007 @@
+TOTAL PAGES: 14
+
+===== PAGE 1 =====
+Journal of Environmental Management 373 (2025) 124027
+Contents lists available at ScienceDirect
+Journal of Environmental Management
+journal homepage: www.elsevier.com/locate/jenvman
+Research article
+Autumn and winter air phytofiltration – Are plants able to biofilter air
+during peak pollutant emissions?
+B.J. Zhanga , Y. Zhoua, M. Pawełkowiczb , A. Sadłosb, M. Z ˙ urkowskib,
+M. Małecka-Przybyszc,d, E. Wo ´ jcik-Gronte , C.Y. Zhua,**,1, A. Przybyszc,d,1,*
+aCollege of Horticulture and Forestry, Huazhong Agricultural University, No. 1 Shizishan Street Hongshan District, Wuhan, Hubei, 430070, China
+bDepartment of Plant Genetics, Breeding and Biotechnology, Institute of Biology, Warsaw University of Life Sciences-SGGW (WULS-SGGW), Nowoursynowska Street
+159, 02-776, Warsaw, Poland
+cSection of Basic Research in Horticulture, Department of Plant Protection, Institute of Horticultural Sciences, Warsaw University of Life Sciences-SGGW (WULS-
+SGGW), Nowoursynowska 159, 02-776, Warsaw, Poland
+dCentre for Climate Research SGGW, Warsaw University of Life Sciences—SGGW (WULS—SGGW), Nowoursynowska 166, 02-787, Warsaw, Poland
+eDepartment of Biometry, Institute of Agriculture, Warsaw University of Life Sciences—SGGW (WULS-SGGW), Nowoursynowska 159, 02-776, Warsaw, Poland
+A R T I C L E I N F O A B S T R A C T
+Handling Editor: Raf Dewil Air pollution is highest in winter. The high concentration of particulate matter (PM) and trace elements (TE) after
+the growing season is influenced by increased pollutant emissions, unfavorable meteorological conditions, and
+Keywords: the low efficiency of air phytofiltration. Plants that can remove pollutants from the air during the growing season
+Air phytoremediation are leafless in autumn/winter, and therefore unable to capture PM/TE effectively. This study investigated the
+Air pollutants
+ability of nine species of leafy evergreen plants to accumulate PM (surface and in-wax PM; PM2.5 and PM10) and
+Urban greenery
+TE in autumn and winter. Plant material was harvested in November and December from the park in Wuhan,
+Winter
+China. The amount of accumulated pollutants depended on the species. The shrubs (Loropetalum chinense,
+Evergreen plants
+Pittosporum tobira, Rhododendron simsii) and grass (Ophiopogon japonicus), were more effective at phytofiltration
+of PM and TE per leaf area unit than the trees. However, to better understand the potential of plants to accu-
+mulate PM in relation to a unit of land area, the leaf area index (LAI) has to be considered. Ligustrum lucidum and
+P. tobira characterized by low LAI, despite having PM deposition comparable to other trees and shrubs, exhibited
+a markedly reduced efficacy of pollutants accumulation in relation to square metre of land they occupy. In
+contrast to the TE concentration in winter, PM deposition on plants did not always increase after the autumn,
+probably due to the park’s low density of vegetation, PM resuspension by wind, and a decrease in the plants’
+physiological activity. Seasonal variations in pollutants accumulation among species were recorded during the
+autumn/winter. This study reinforces the need for biodiversity and higher-density urban greening to optimize
+post-growth air phytofiltration. A holistic, year-round air pollution mitigation strategy should be provided by
+incorporating more diverse evergreen plant species with complementary phytofiltering properties.
+1. Introduction PM during autumn and winter (Motie et al., 2023). To address this gap,
+this study investigates the ability of nine evergreen plant species to act as
+Air pollution, particularly in winter, poses severe challenges due to effective air phytoremediators during these critical seasons. Unlike
+increased particulate matter (PM) concentrations driven by elevated previous studies focusing predominantly on summer and spring vege-
+emissions, unfavorable meteorological conditions, and reduced natural tation performance, this research uniquely examines PM (PM2.5, PM10)
+air purification by vegetation. Current research highlights the seasonal and trace element (TE) accumulation capabilities of evergreen shrubs,
+limitation of many plants, especially deciduous species, in mitigating grasses, and trees after the growing season. In addition, the few previous
+* Corresponding author. Centre for Climate Research SGGW, Warsaw University of Life Sciences—SGGW (WULS—SGGW), Nowoursynowska 166, 02-787, Warsaw,
+Poland.
+** Corresponding author.
+E-mail addresses: zhuchunyang@mail.hzau.edu.cn(C.Y. Zhu), arkadiusz_przybysz@sggw.edu.pl(A. Przybysz).
+1 These authors contributed equally to this study.
+https://doi.org/10.1016/j.jenvman.2025.124027
+Received 7 November 2023; Received in revised form 30 December 2024; Accepted 1 January 2025
+Available online 3 January 2025
+0301-4797/© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+===== PAGE 2 =====
+B.J. Zhang et al. J o u r n a l o f E n v i r o n m e n t a l M a n a g e m e n t 373 (2025) 124027
+experiments investigating winter air phytoremediation focused on energy vehicles (Sheehan et al., 2014). Moreover, according to the 2022
+coniferous plants, which are considered sensitive to air pollution Wuhan Greening Status Bulletin, the city’s increasing green coverage of
+(Gawron´ski et al., 2017; Reyes et al., 2022; Xu et al., 2022a). In contrast, the city, with a green coverage indicator of 43.1% currently and an in-
+in this work, the plant objects are exclusively broadleaf evergreen crease of 3.5% over the past five years, has significantly impacted air
+plants, including herbaceous plants. This work also goes beyond the quality.
+simple assessment of autumn-winter PM accumulation by selected spe- PM polluting Wuhan is rich in trace elements (TE), including toxic
+cies and formulates recommendations for park management. By heavy metals, the concentrations of which are also higher in winter
+emphasizing the biodiversity and strategic use of evergreen plants, this (total 208 ng m (cid:0) 3, Pb >80 ng m (cid:0) 3 >Mn >Cu >Cr >20 ng m (cid:0) 3 >Ni >
+work contributes to the development of holistic, year-round urban As >Se >Sb >V >Cd) than in summer (total 123 ng m (cid:0) 3, Pb >Mn >
+greening strategies to optimize air quality improvements during peak 25 ng m (cid:0) 3 >Cr >Ni >10 ng m (cid:0) 3 >Cu >As >Se >Sb >V >Cd) (Wang
+pollution periods. This novel approach bridges existing knowledge gaps, et al., 2020). According to Lv et al. (2006), PM10 in Wuhan is charac-
+underscoring the importance of urban greening tailored to seasonal terised by relatively high As, Cd, Mn, Pb, and Zn levels. The main sources
+variations. of TE in PM in Wuhan are road transport (Liu et al., 2022) and industry,
+China’s intensive development means that the country is struggling which are also the leading sources of TE in winter (Zhu et al., 2021).
+with urban pollution caused by PM (particles with diameters of between Jiang et al. (2022)report that, based on the hourly monitoring dataset of
+0.001 and 100 μm). This is one of the most pressing environmental is- chemical constituents during the winter period in Wuhan, Pb and As are
+sues worldwide (Huang et al., 2014; Miao et al., 2021). PM pollution has derived from the combustion of fossil fuels and coal, respectively; Cr is
+adverse effects on the environment, the economy, and especially on mainly derived from smelting processes, such as steel production,
+people’s health and living comfort (Cohen et al., 2017; Ren et al., 2021). chromium plating, and stainless steel production; and Zn, Mn, and Fe are
+PM concentrations are particularly high in winter, with increased fossil abundant in brake and vehicle tire wear dust. Wang et al. (2020)have
+fuel combustion, heating activities, and vehicle traffic serving as the demonstrated high carcinogenic risks from Cr, As, Cd, Ni and Pb
+main sources of air pollutants (Chen et al., 2017; Xiong et al., 2017; adsorbed to PM2.5. Approximately 6.94 children and 46.5 adults per
+Zhang et al., 2019). million are at risk of developing cancer from inhaling polluted air in
+Wuhan’s air is among the most polluted of Chinese megacities, both winter, while about 5.41 children and 36.6 adults face the same risk in
+in terms of high concentrations and the number of days exceeding air summer (Wang et al., 2020). Urban greenery plays a vital role in
+quality standards (Huang et al., 2016; Xiong et al., 2017). The high removing TE from the air with PM size and plant species, and the in-
+PM2.5/PM10 ratio, indicating a large proportion of hazardous fine PM in teractions between them play an important role in the efficiency of this
+total PM, is also a concern in Wuhan (Liu et al., 2018; Wang et al., 2020). process (Shahid et al., 2017; Przybysz et al., 2019; Chen et al., 2023b).
+There are temporal and spatial differentiations in PM sources in Wuhan, Concentrations of ambient PM in urban areas could be reduced by
+but regardless of the season and location, the most important are the restricting the number of vehicles and/or limiting construction and in-
+iron and steel industry, transport, and construction (Xiong et al., 2017; dustrial activities. This is possible, but difficult to achieve, especially in
+Huang et al., 2019). As in most Chinese cities, air pollution in Wuhan is rapidly developing countries such as China. In light of the above, cities
+highest in winter and lowest in summer (Huang et al., 2016, 2019; Xiong need a common, durable, inexpensive, and socially acceptable tool to
+et al., 2017; Wang et al., 2017, 2020; Zang et al., 2021). Wang et al. effectively reduce PM and TE pollution in the autumn/winter (Chen
+(2020)showed that the mass ratio of NO (cid:0) 3/SO4 (cid:0) 2 is in Wuhan high in et al., 2023a). Appropriately situated and well-organised urban green
+winter, which may indicate that air pollution is mainly emitted by spaces, comprising carefully selected plant species, have the potential to
+transport, particularly road traffic. On the other hand, the elevated make a significant contribution to cleaner air in cities (Cai et al., 2017;
+concentrations of K, SO4 (cid:0) 2, and Cl in winter suggest that a significant Wang et al., 2020; Kaˇspar et al., 2022; Nawrocki et al., 2023). However,
+contribution to air pollutants is being made also by biomass combustion according to current knowledge, effective biological filtration of
+(Wang et al., 2020; Zang et al., 2021). However, local sources do not polluted air by plants is only possible during the growing season (Motie
+fully explain the high winter air pollution levels. This seasonal trend et al., 2023). In contrast, during the leafless season, vegetation has a
+may also be due to the atmospheric conditions of the cold season (Xiong limited effect on air quality (Gao et al., 2020). Therefore, a new
+et al., 2017), such as synoptic warm/cold advection (Miao et al., 2022). approach to urban greening is needed if it is to have a positive impact on
+Owing to temperature inversions, the lower layers of the atmosphere winter air quality. In locations with the highest PM pollution, urban
+mix, condensing the pollution and trapping it near the ground (Xiong greenery should have the greatest possible share of plants exhibiting air
+et al., 2017). Winter in Wuhan is also characterised by low winds (less phytofiltration capabilities not only in spring/summer but in autumn/-
+than 2 m s (cid:0) 1 in 70% of cases), low precipitation (a total of 130 mm), and winter too when pollutant levels peak and their health consequences are
+continuing high humidity (approximately 77%), all of which limit PM most profound. The capacity of certain plants to accumulate PM and TE
+removal and dispersion (Wang et al., 2017; Huang et al., 2019; Zang in autumn and winter has already been partly confirmed (Wang et al.,
+et al., 2021). In addition, the monsoon air masses originating from 2013; Cai et al., 2017; Shahid et al., 2017; Przybysz et al., 2019; Jin
+northern and eastern regions surrounding Hubei pass through highly et al., 2021; Bui et al., 2022; Chen et al., 2023b; Lyu et al., 2023;
+polluted regions (eastern Henan, south-eastern Shanxi, northern Nawrocki et al., 2023). However, this knowledge remains incomplete
+Jiangxi, and Anhui province) before reaching Wuhan, and are an extra and fragmentary and requires further investigation. To optimize the
+source of PM in addition to local emissions (Huang et al., 2016; Xiong pollutants removal efficacy of urban green areas throughout the year,
+et al., 2017; Bai et al., 2021). Miao et al. (2022) analysed long-term selecting species that exhibit the most effective PM/TE removal capa-
+PM2.5 in Wuhan in 2015–2019 and demonstrated an average concen- bilities also outside of the vegetative period is crucial. This study aimed
+tration of 86.5 μg m (cid:0) 3 and 31.0 μg m (cid:0) 3 in winter and summer respec- to quantify and compare the PM and TE-removal capacities of nine
+tively. Winter PM levels can reach even 93 μg m (cid:0) 3 in a botanical garden evergreen species commonly used for urban greening in Wuhan. The
+and up to 180 μg m (cid:0) 3 in an industrial area, much higher than the World study sought to answer the following questions: (1) How do the various
+Health Organization guidelines and the Chinese national ambient air species differ in their PM and TE-removal capacities outside of the
+quality standard (Xiong et al., 2017). It should be emphasized that PM2.5 growing season? (2) Which type of plant (tree, shrub, herb) is most
+concentrations in Wuhan have shown declining trends over the past five effective at removing PM and TE outside of the growing season? (3)
+years, indicating that actions to reduce air pollution levels have worked What is the relationship between season, location, and PM/TE accu-
+(Liu et al., 2018). Key measures that can reduce airborne PM levels mulation on plants? The ultimate goal was to propose practical guide-
+include source control by replacing dirty fuels with clean energy, setting lines to enhance the effectiveness of urban greenery at filtering polluted
+strict air pollution emission limits on industries, and promoting new air during the autumn/winter period.
+2
+===== PAGE 3 =====
+B.J. Zhang et al. J o u r n a l o f E n v i r o n m e n t a l M a n a g e m e n t 373 (2025) 124027
+2. Materials and methods above the ground. The plant material from each species was harvested
+from four trees/shrubs/grass plots (single plant/grass area was desig-
+2.1. Location and plant material nated as biological replication), which were the same in both seasons. In
+total 144 (nine evergreen species × four replicates per species ×two
+Wuhan City, China (E113◦41′–115◦05′, N29◦58′–31◦22′) (Fig. 1) has sites x two seasons) plant samples were analysed.
+a humid subtropical climate with four distinct seasons and is cold and Scanning electron microscope (SEM) (ZEISS SmartSEM EVO-10, Carl
+humid in winter and hot and humid in summer. The average annual Zeiss AG. Germany) was used to study leaf surface microstructure. Five
+temperature ranges from 15.8 to 17.5 ◦C (3.0 ◦C in January and 29.3 ◦C randomly collected leaves from each species were analysed. Before the
+in July) and the average annual rainfall is 1205 mm, with approximately analysis deposited PM was removed from the leaf surface by blowing.
+870 mm of potential evaporation and an evaporation peak in summer. Two samples (divided as adaxis and abaxis) of 5 mm width and 5 mm
+In Wuhan, the natural vegetation consists of coniferous forests, long were cut with a blade and were pasted to the sample table and
+broad-leaved forests, and mixed forests of conifers and broadleaves. subjected to gold spraying for 300 s. SEM images were taken of five
+Jiefang Park, an area characterised by a representative vegetation randomly selected locations in each leaf sample, therefore a total of 50
+composition, was selected as the research object. In this study, nine of images of each species’ leaf surface microstructure were obtained. The
+the most common evergreen plants species belonging to trees, shrubs density and length of stomata, groove width, and density and length of
+and grasses were investigated: five tree species (Cinnamomum camphora hair were measured and counted using the image processing software
+Ness et Eberm., Ligustrum lucidum W.T.Aiton., Magnolia grandiflora L., Adobe Photoshop CC 2018 (Adobe Inc., San Jose, California, United
+Osmanthus fragrans Loureiro and Photinia serrulata (Desf.) Kalkman), States).
+three shrub species (Loropetalum chinense (R.Br.) Oliv., Pittosporum tobira In November 2022, diameter at breast height, canopy diameter, and
+(Thunb.) W.T.Aiton and Rhododendron simsii Planch.), and one grass height were assessed using standard methods. Crown density (defined as
+species (Ophiopogon japonicus (Thunb.) Ker Gawl.). Characteristics of the the ratio of the total projected area (canopy width) of the tree canopy on
+studied species are presented in Table 1. the ground in direct sunlight to the total area of the forest (stand), which
+The plant material was harvested in autumn (26–27 November 2022) reflects the density of the stand) was determined by processing the im-
+and winter (24–25 December 2022). The first harvest date was set at the ages with HemiView 2.1 (Delta-T Devices, UK) and data calculation.
+end of summer/early autumn rainfall. Harvesting was preceded by four Air temperature (T) and relative humidity (RH) were measured using
+to five days with no precipitation and almost windless (2–3 m s (cid:0) 1), a Testo 610 temperature and relative humidity meter (TestoSE & Co.
+which guaranteed a sufficient amount of pollutants deposited on the KGaA, Lenzkirch, Germany). Wind speed was measured using a Testo
+foliage. Previous work suggests that under realistic conditions several 410 instrument (TestoSE & Co. KGaA, Lenzkirch, Germany). Air T
+days are sufficient for a significant amount of PM to be deposited on measurements had a resolution of 0.1 ◦C and a temperature range of (cid:0) 10
+leaves (Zhang et al., 2024and references therein). On November 21–22 to 50 ◦C. RH measurements had a resolution of 0.1% with a 0–100%
+(5–6 days before the first harvest), heavy rainfall took place, which range. Wind speed ranged from 0.4 to 20 m/s, and the resolution was
+enabled the washing off a large amount of PM accumulated in the earlier 0.1 m/s. Air PM2.5 concentrations were measured using a Laoshan 2025
+period, which enabled the assessment of the efficiency of PM accumu- dust detector (0.1 μg m (cid:0) 3 resolution performed at the Qingdao Laoshan
+lation in the experimental period. Between the first and second harvests Applied Technology Research Institute, China). The device ranged from
+of plant material, one heavy rainfall (28 November) and two light 1 to 1000 μg m (cid:0) 3 with an error of less than ±10%, and an air sampling
+rainfalls (29 November, 04 December) were recorded. Each species was flow rate of 10 cc/sec. To reduce the data error from multiple measuring
+harvested from two locations, which differed in distance from the road, instruments, the T, RH and wind detectors were also tested with the
+the main sources of air pollution in urbanized areas: inside the park Wuhan Meteorological Station. PM detectors were calibrated according
+(more than 25 m from the park’s boundaries, far from the road) and to the manufacturer’s protocol before each measurement day. All
+outside the park (close to the park’s boundary and road traffic, which is meteorological data were collected under the vegetation canopy. Data
+the main source of air pollutants in the location). Meteorological con- on total daily precipitation were obtained from the China Meteorolog-
+ditions and PM concentrations were as similar as possible within the ical Administration.
+inside and outside park locations. To ensure comparability of the data,
+leaf samples (500 cm2) with petioles were collected from the entire
+circumference of the plant and branches located 1.5–2.0 m above 2.2. Quantitative assessment of PM and leaf wax content
+ground level. Leaf samples were as close in age as possible (developed in
+the year of the study). In the case of grass, the sample consisted of plant The content of water-insoluble PM was assessed in two categories:
+material taken from a surface area of 625 cm2 and cut at a height of 5 cm PM water-washable from leaf surfaces (SPM) and PM retained in leaf
+wax (WPM). Plant material (150 cm2) was first washed for 60 s with 200
+Fig. 1. Study location and the distribution of sampling sites in Jiefang Park, Wuhan, China.
+3
+===== PAGE 4 =====
+Table 1
+Biometrical and morphological characteristics of the nine examined species. Data are means ±SE, n =8.
+Species Family Leaf shape Leaf microstructure Stomatal Stomatal Groove Hair Hair length Diameter at Canopy- Height Crown
+density length width density (μm) breast diameter (m) density
+(mm2) (μm) (μm) (mm2) height (m) (m) (%)
+Cinnamomum Lauraceae Ovate-elliptic Hairless; smooth adaxis with very shallow 257.838 23.04 23.53 – – 0.50 10.29 10.40 89
+camphora concave structure; abaxis with pores and (±43.02) (±0.97) (±6.20) (±0.15) (±2.26) (±1.50) (±0.01)
+network grooves and protrudes abaxis
+Ligustrum Oleaceae Ovate Hairless; smooth and slightly undulating 258.992 18.25 15.92 – – 0.29 7.18 8.13 84
+lucidum adaxis with thick wax; abaxis densely (±37.41) (±1.21) (±6.23) (±0.04) (±0.27) (±0.59) (±0.01)
+covered with furrows and wrinkled
+Magnolia Magnoliaceae Elliptic Smooth and slightly undulating adaxis; 183.440 6.07 7.00 392.012 281.976 0.26 6.61 8.51 92
+grandiflora abaxis with dense villi which raised around (±61.36) (±1.06) (±2.07) (±72.02) (±128.143) (±0.02) (±0.39) (±0.62) (±0.02)
+stomata and formed groove with abaxis
+surrounding epidermal cells
+Osmanthus Oleaceae Elliptic Hairless; thick leathery leaves with slight 561.684 6.70 10.08 – – 0.33 5.83 5.20 92
+fragrans wavy protrusions on adaxis; abaxis with (±101.852) (±1.13) (±3.42) (±0.04) (±0.66) (±0.34) (±0.01)
+dense and irregular stomata arrangement;
+shallow grooves on adaxis and abaxis
+Photinia Rosaceae Obovate/ Hairless; smooth and slightly undulating 293.842 18.92 13.18 – – 0.28 5.47 5.75 92
+serrulate elliptic adaxis; abaxis with number of linear (±41.33) (±1.11) (±5.15) (±0.04) (±0.38) (±0.46) (±0.02)
+protruding shallow grooves, gullies and
+dense stomata
+Loropetalum Hamamelidaceae Ovate Leathery leaves with stellate hairs on both 421.598 10.42 17.98 7.50 612.197 – 1.70 1.01 93
+chinense sides; adaxis with network of micro- (±99.92) (±0.99) (±4.94) (±2.92) (±222.897) (±0.11) (±0.15) (±0.02)
+protrusion; rough abaxis with gully and
+dense stomata
+Pittosporum Pittosporaceae Drop-shaped Leathery leaves with sparse villi on both 289.196 13.46 13.72 38.52 66.34 – 3.88 2.85 87
+tobira surfaces; smooth and slightly undulating (±47.03) (±1.15) (±5.20) (±2.16) (±20.26) (±0.73) (±0.51) (±0.01)
+adaxis; annular deep furrows around
+stomata on abaxis
+Rhododendron Ericaceae Oblanceolate Leathery leaves; adaxis almost glabrous; 318.232 8.49 8.25 1.94 833.853 – 1.84 1.19 89
+simsii slightly pilose and strigose abaxis, densely (±57.75) (±0.82) (±3.11) (±1.06) (±192.565) (±0.13) (±0.02) (±0.01)
+furrowed on both abaxis and abaxis
+Ophiopogon Asparagaceae Graminoid Hairless, smooth and leathery leaves; strip 69.36 12.89 29.25 – – – – 0.25 –
+japonicus veins with stomata distributed in strips (±17.81) (±1.08) (±14.26) (±0.02) between veins, forming a stomatal zone;
+epidermal cells in stomata zone protrude outward in a tuberous shape, forming a
+network gully; adaxis with shallow belt gully
+4
+B.J.
+Zhang
+et
+al.
+J o
+u r n
+a l
+o f
+E
+n v i r o
+n
+m e n t a
+l M
+a
+n
+a
+g e m
+e n
+t
+373
+(2025)
+124027
+===== PAGE 5 =====
+B.J. Zhang et al. J o u r n a l o f E n v i r o n m e n t a l M a n a g e m e n t 373 (2025) 124027
+mL distilled water and then for 45 s with 100 mL chloroform. The 3. Results
+fractional division for both categories (SPM and WPM) was performed
+sequentially. The wash solutions were filtered through a 10-μm paper In autumn, air T ranged between 8.7 and 22.3 ◦C, RH between 55.2
+filter (Whatman, UK, Type 91), followed by a 2.5-μm paper filter and 88.9%, wind speed between 0.9 and 3.7 m/s, and PM2.5 concen-
+(Whatman, UK, Type 42), and finally a 0.2-μm PTFE membrane filter tration between 15 and 119 μg m (cid:0) 3 (average =72.6 ±27.9 μg m (cid:0) 3)
+(Whatman, UK). Filtration was performed using a filtration set equipped (Fig. 2A and B). In winter, air T ranged between 0.9 and 9.5 ◦C, RH
+with a 47-mm glass filter funnel (PALL Corp. USA) connected to a vac- between 35.7 and 76.4%, wind speed between 0.8 and 4.6 m/s, and
+uum pump. Two fractions of PM were collected: 0.2–2.5 μm (fine; PM2.5) PM2.5 concentration between 17 and 118 μg m (cid:0) 3 (average = 73.4 ±
+and 2.5–10 μm (coarse). The sum of both PM fractions was designated as 28.5 μg m (cid:0) 3). Precipitation during the study period was recorded only
+PM10 (0.2–10 μm). The filters were dried for 45 min at 60 ◦C, stabilised on 28 November (heavy rain), 29 November (light rain) and 04
+in the weighing room for 45 min, and weighed before and after filtration December (light rain) (Fig. 2A and B).
+(balance XS105DU, Mettler-Toledo International Inc. and deioniser The tested plants differed in biometric parameters and morphology
+gate, HAUG, both Switzerland). After chloroform evaporation, the of foliage (Table 1, Fig. 3). Trees were taller than shrubs and had a larger
+amount of wax dissolved in chloroform was determined for each plant canopy diameter. The highest crown density (92–93%) was found for
+sample in pre-weighed beakers. The leaf area of plants’ samples was M. grandiflora, O. fragrans, P. serrulate and L. chinense, while the lowest
+measured (Image Analysis System, Skye Instruments Ltd. UK, and Skye- (84%) for L. lucidum. Osmanthus fragrans and L. chinense were charac-
+Leaf software). terised with the highest stomatal density, C. camphora, L. lucidum and
+P. serrulate with the longest stomata, and C. camphora, L. chinense and
+O. japonicus had the widest grooves. A high density of hairs on the fo-
+2.3. Quantitative assessment of TE
+liage was recorded in M. grandiflora, while long hairs were found in
+R. simsii and L. chinense (Table 1).
+A quantitative assessment of selected TE (As, Ba, Cd, Co, Cr, Cu, Fe,
+The average (both seasons and locations) accumulation of PM by the
+Mn, Ni, Pb, Pt, Zn) was performed on plant material harvested for PM studied species ranged from 12.6 μg cm (cid:0) 2 to 23.5 μg cm (cid:0) 2 and from 2.3
+a
+a
+n
+l
+d
+a b
+w
+o
+a
+r
+x
+a t
+a
+o
+n
+r
+a
+y
+l y
+g
+s
+r
+i
+i
+s
+n
+.
+d
+F
+e
+o
+r
+l
+.
+i a
+T
+g
+h
+e
+e
+, i
+T
+n
+E
+cl u
+w
+d
+e
+i
+r
+n
+e
+g
+d
+a
+e
+c
+t
+c
+e
+u
+r
+m
+m
+u
+in
+la
+e
+t
+d
+e d
+b
+P
+y
+M
+X
+,
+R
+w
+F
+a
+(
+s
+X
+g
+-
+r
+r
+o
+a
+u
+y
+n
+fl
+d
+u
+u
+o
+s
+r
+i
+e
+n
+s
+g
+-
+μg cm (cid:0) 2 to 5.3 μg cm (cid:0) 2 for PM10 and PM2.5, respectively (Fig. 4A and B).
+The grass O. japonicus accumulated PM of both fractions most effectively
+cence spectrometry) using the Vanta Vac 3C Series (Olympus, Tokyo,
+(significantly). PM deposition on tree foliage was lower than on shrubs
+Japan).
+and grass (Fig. 4A and B).
+The average accumulation of PM10 was slightly higher in winter,
+2.4. Leaf-area index (LAI) measurements
+while of PM2.5 in autumn (Table 2). It is worth noting that the average
+PM accumulation in winter was overestimated by the very high amount
+Hemispherical photographs were taken using a Canon EOS 50D
+of PM deposited on grass. Trees and shrubs accumulated more PM on
+digital SLR camera (Canon Inc., Tokyo, Japan) equipped with a 4.5 mm
+average in autumn. Accumulation of PM10 was higher in autumn in
+Sigma EX DC hemispherical lens (Sigma Corporation, Japan). HemiView
+L. lucidum, M. grandiflora, O. fragrans, L. chinense and R. simsii, while of
+2.1 (Delta-T Devices, UK) software was used to process the images for
+PM2.5 was higher in L. lucidum (significantly), M. grandiflora, O. fragrans,
+LAI calculation. LAI was measured on the maximum number of in-
+L. chinense, R. simsii, and O. japonicus (Table 2). Interestingly, differences
+dividuals of a given species. LAI is a parameter that quantifies the
+in PM accumulation between autumn and winter depended, to some
+amount of leaf material in a canopy and enables the conversion of the
+extent, on location. A slight, insignificant increase in winter deposition
+amount of PM deposited on the plant from μg.m (cid:0) 2 per unit of park area,
+on foliage was found only for PM10 and plants growing outside the park,
+which better represents the effectiveness of the examined species in air
+i.e. closer to the road (Fig. 5).
+phytoremediation.
+When the PM deposition per square centimeter of foliage was con-
+verted to units of land area using the LAI, R. simsii and L. chinense were
+2.5. Statistical analysis found to accumulate PM2.5 and PM10 the most efficiently in autumn,
+while in winter the deposition of both PM fractions was greatest on
+The effect of species, season, and location on PM and TE accumula- L. chinense (Fig. 6A and B). The lowest deposition of PM10, regardless of
+tion, and wax content was analysed using Statgraphics Plus 4.1 (Stat- the season, was recorded for L. lucidum. Photinia serrulate and P. tobira
+point Technologies Inc., Warrenton, VA, USA). The results were accumulated the least PM2.5 in autumn, while L. lucidum and
+subjected to an analysis of variance at a significance level of P ≤0.05. M. grandiflora and O. fragrans in winter. LAI was the highest in
+Tukey’s honest significant difference (HSD) test was used to determine M. grandiflora (autumn), L. chinense (both seasons), and R. simsii
+the significance of differences between the means. (autumn). The lowest LAI was recorded for L. lucidum (both seasons) and
+Correlations between LAI and PM accumulation were calculated P. tobira (autumn). In most species, LAI decreased in winter, the ex-
+using Pearson’s correlation coefficient. Data are presented as means ceptions were L. lucidum, P. serrulate, and P. tobira (Fig. 6A and B). The
+with standard errors of the mean (±SE). calculated correlation coefficient showed a positive significant correla-
+For dimensionality reduction, Principal Component Analysis (PCA) tion between LAI and PM10 (r =0.83, P <0.05), and PM2.5 (r =0.80, P
+was used, which transforms the original variables into a new set of un- <0.05).
+correlated variables, called principal components, which capture the The plants accumulated significantly more PM10 and PM2.5 when
+maximum variance in the data. The data used for the PCA were the grown outside the park (Table 2). However, when individual species
+means of each variable (TE) for each plant species. The dataset were analysed, location differences were usually insignificant. Only
+comprised multiple TE measured across various plant species, sampling C. camphora, M. grandiflora, and O. japonicus accumulated more PM
+seasons, and locations. Given this complexity, PCA was applied as an (both fractions) when grown inside the park (Table 2).
+exploratory tool to reduce dimensionality while retaining the most The amount of SPM was greater than that of WPM (Table 3). The only
+informative variance in the dataset. By transforming numerous corre- exceptions were L. lucidum (PM2.5) and R. simsii (PM2.5 and PM10), both
+lated variables into smaller uncorrelated principal components, we in autumn. The fraction of SPM was higher in winter than autumn
+could better discern underlying patterns and relationships that might (Table 3).
+otherwise be obscured when considering each variable separately. Cal- The average amount of waxes on the foliage was significantly higher
+culations were performed using STATISTICA 13 software (Statsoft, in winter than in autumn (Table 3). Most of the examined species,
+Tulsa, OK, USA). C. camphora, P. serrulate (significantly), L. chinense, P. tobira, R. simsii
+5
+===== PAGE 6 =====
+B.J. Zhang et al. J o u r n a l o f E n v i r o n m e n t a l M a n a g e m e n t 373 (2025) 124027
+Fig. 2. Average daily temperature, wind speed, humidity, precipitation (A) and PM2.5 concentration (B) at the studied park during the experimental period. Results
+are an average for inside and outside the park locations.
+(significantly), and O. japonicus, increased the amount of wax in winter. overall TE accumulation profiles (Fig. 7). For example, M. grandiflora,
+For the remaining species, the wax layer was higher in autumn (Table 3). O. fragrans, and C. camphora cluster in the positive region of both PC1
+Trace elements (except Cd and Pt) accumulation was higher on the and PC2, suggesting that none of the measured TEs (at the given time
+foliage of shrubs and grass than on trees (Table 4). Loropetalum chinense, points and locations) particularly dominate their profiles. In contrast,
+R. simsii and O. japonicus accumulated the most As; L. chinense, P. Tobira, O. japonicus is set apart on the negative side of both axes, indicating a
+R. simsii and O. japonicus accumulated the most Ba; L. chinense and grass distinct TE accumulation pattern heavily influenced by elements such as
+O. japonicus accumulated the most Cu; L. chinense, R. simsii and Fe and Cu, especially in autumn samples, both inside and outside the
+O. japonicus accumulated the most Fe; P. tobira and R. simsii accumulated park (Fig. 7).
+the most Mn; C. camphora, O. fragrans, L. chinense and O. japonicus The orange vectors represent TEs measured in different seasons
+accumulated the most Pt; P. tobira and O. japonicus accumulated the (autumn, winter) and different locations (inside the park, outside the
+most Zn. Cd and Pb were detected only in a few samples. Cd was most park) (Fig. 7). The direction and length of these vectors indicate how
+often recorded in C. camphora, while Pb in P. serrulate. Co, Cr and Ni strongly each TE (under a given condition) contributes to variation
+were not identified in the tested plants. All the TE (except Pb) were among species. TE conditions pointing toward a particular species sug-
+accumulated more efficiently in winter (significantly so in the case of As, gest higher relative association. For instance, TEs such as As (particu-
+Ba, Cu, and Pt). No significant effect of location on the accumulation of larly in autumn) and Pt (in both autumn and winter) have vectors
+TE was found (Table 4). pointing toward L. chinense, suggesting that these TE concentrations are
+The first two principal components (PC1 and PC2) explain 31% and higher or more closely associated with this species. On the opposite side,
+26% of the variance (PC1 and PC2 together explain 57.41% of the P. tobira aligns more closely with Mn, especially during autumn and
+variance), respectively, as shown on the axes (Fig. 7). The blue dots winter outside the park, indicating a potential environmental or physi-
+represent different plant species, while the orange lines connect the TE ological basis for Mn accumulation in this species under those condi-
+measured in autumn/winter and inside/outside the park to the plant tions. The presence of TE variables specified as “Aut” (Autumn) and
+species. Ophiopogon japonicus is influenced by Fe in autumn-inside and “Win” (Winter), along with “Ins” (Inside) and “Out” (Outside), allows for
+outside the park, and Cu in both seasons and locations. Pittosporum tobira a nuanced interpretation of how seasonal changes and local environ-
+is influenced by Mn in autumn and winter, but only outside the park. mental factors (inside vs. outside the park) influence TE distributions.
+Magnolia grandiflora, O. fragrans, and C. camphora are clustered near the For example, Fe and Cu related to autumn samples outside the park tend
+positive side of PC1 and PC2, suggesting a relationship between these to plot toward O. japonicus, suggesting that this species accumulates
+species. No TE are in high values for these species and for P. serrulate and these TEs under those particular environmental circumstances. By
+L. lucidum. These species were in opposition to O. japonicus. PC3 and examining the biplot, we can infer which species may more effectively
+PC4, which explain an additional 18% and 12% of the variance (PC3 accumulate specific TEs during particular seasons and locations. This
+increases the cumulative explained variance to 75.37% and PC4 to supports a broader ecological understanding of species’ roles in urban
+87.12%), respectively, provide further insights into TE associations. environments. Species that cluster together or align with certain TE
+Rhododendron simsii shows a strong influence from Mn across seasons, vectors may share similar functional traits or responses to environ-
+aligning with PC3, while P. tobira also aligns closely with PC4, partic- mental stressors, making the PCA a valuable tool for informing year-
+ularly in relation to Mn in winter outside the park (also seen in Fig. 7, round biodiversity and planting strategies to enhance phytofiltration
+presenting PC1 and PC2). Loropetalum chinense aligns with As (particu- in urban landscapes (Fig. 7).
+larly in autumn) and Pt (in autumn and winter). As (particularly in
+autumn), Fe (particularly in winter), and Pt (in autumn and winter) have 4. Discussion
+vectors pointing towards or near L. chinense. This suggests that these TE
+are relatively high in concentration or more associated with these spe- 4.1. Effect of species on PM accumulation
+cies/seasons (Fig. 7).
+Species positioned close to one another in the biplot exhibit similar Wuhan faces a serious air pollution problem due to its key role in
+6
+===== PAGE 7 =====
+B.J. Zhang et al. J o u r n a l o f E n v i r o n m e n t a l M a n a g e m e n t 373 (2025) 124027
+transportation and industry, local microclimate, and external sources of
+pollutants (Xiong et al., 2017; Huang et al., 2019; Zang et al., 2021; Bai
+et al., 2021). PM concentrations in Wuhan, as in the majority of cities,
+are highest in the autumn and winter (Miao et al., 2022) when plant
+phytoremediation activity is at its lowest (Przybysz et al., 2019; Motie
+et al., 2023). Deciduous plants shed their leaves in autumn, while most
+evergreen plants, especially coniferous ones, are sensitive to urban
+conditions and high levels of pollution and cannot be planted too close
+to PM sources (Gawron´ski et al., 2017; Reyes et al., 2022; Xu et al.,
+2022a). Therefore, this study investigated the PM-accumulation capac-
+ity of common species of leafy evergreen plants that are known for their
+tolerance to urban conditions and are potential candidates for
+post-growth air phytofiltration. All the plants examined accumulated
+PM in the autumn and winter, but the intensity of this process varied
+between the species. Shrubs and grass accumulated PM more efficiently
+per leaf area unit than trees. This is consistent with Mo et al. (2015)and
+Cai et al. (2017) results. Most often, however, comparing shrubs and
+trees did not reveal differences in their ability to accumulate PM based
+on growth form (Mo et al., 2015; Xu et al., 2018). The ability to accu-
+mulate PM effectively is usually explained by the morphological char-
+acteristics of the foliage (rough surface, hairs, thick wax coating) (Chiam
+et al., 2019; Corada et al., 2021). However, the shrubs L. chinense,
+P. tobira and R. simsii do not differ considerably in morphological
+characteristics from the studied trees. In the context of PM accumulation
+on the R. simsii, only a pronounced wax layer and a substantial pro-
+portion of WPM are identified as primary determinants facilitating PM
+adsorption. Apart from that, the leaves of examined shrubs are covered
+with hairs, but their density is low. Enhanced PM deposition on shrubs
+can be attributed to their proximity to the ground, which not only allows
+direct PM interception from the air but also facilitates the accumulation
+of PM that is either washed off from trees by precipitation or resus-
+pended by the wind (Steinparzer et al., 2023). Moreover, the typically
+compact and dense crown of shrubs enhances PM retention compared
+with trees, but this is true in this work only for L. chinense (Steinparzer
+et al., 2023).
+The PM accumulation recorded in this study is in agreement with
+typical values for deciduous plants as assessed during both summer and
+winter (Chen et al., 2021; Jin et al., 2021; Bui et al., 2022). This accu-
+mulation surpasses that of senescent leaves retained on plants in winter
+(Przybysz et al., 2019), yet remains substantially lower than that of
+coniferous species (Przybysz et al., 2014, 2019; Jin et al., 2021; Zhang
+et al., 2022). The distinct morphology features of conifers (brush-like
+shoots, rough bark, needle sheaths, sticky secretions) enhance their
+capacity to intercept and retain PM (Xu et al., 2018; Corada et al., 2021;
+Steinparzer et al., 2023). However, excessive PM deposition on conifers
+have negative effects on their physiology, and in extreme conditions
+may culminate in plant mortality (Gawron´ski et al., 2017). Prolonged
+exposure to escalating PM levels compromises coniferous species’
+resilience to urban air pollution challenges (Burkhardt and Pariyar,
+2014; Gawron´ski et al., 2017). In contrast, the species investigated in the
+present study appeared to accumulate PM efficiently enough, suggesting
+their potential inclusion in strategies to enhance winter air quality
+without compromising their health. This is due to the simpler structure
+of evergreen broadleaf plants, which not only accumulate less PM than
+coniferous, but also have limited PM retention capacity, which is more
+easily washed and/or blown away from foliage.
+The estimations of PM accumulation per unit of leaf area do not
+accurately represent the comprehensive phytofiltration potential of a
+species (Jin et al., 2021). This oversight is frequently observed in plant
+selection for air phytoremediation endeavours. In addition to high PM
+deposition on the leaf, the plant should be characterised by sufficient LAI
+(the one-sided green leaf area relative to the ground surface area). When
+considering the LAI, examined shrubs were found to differ in their
+Fig. 3. SEM images of the leaf microstructure surface (A – C. camphora, B – L. phytofiltration capabilities per square metre of land they occupy. Spe-
+lucidum, C – M. grandiflora, D – O. fragrans, E (cid:0) P. serrulate, F – L. chinense, G cifically, P. tobira, despite having PM deposition on foliage comparable
+– P. tobira, H – R. simsii, I – O. japonicus; 1 – adaxis, 2 - abaxis).
+to other two species, exhibited a markedly reduced efficacy in relation to
+7
+===== PAGE 8 =====
+B.J. Zhang et al. J o u r n a l o f E n v i r o n m e n t a l M a n a g e m e n t 373 (2025) 124027
+Fig. 4. Accumulation of PM10 (A) and PM2.5 (B) by nine evergreen plants after the growing season. Data are means for both locations (inside and outside the park)
+and seasons (autumn and winter) ±SE, n =16.
+* Different uppercase letters indicate significant difference between examined species at P <0.05 by Tukey’s honest significant difference test.
+Table 2
+Effect of the season (autumn and winter) and location (inside and outside the park) on PM10 (A) and PM2.5 (B) accumulation by nine evergreen plants. Data are means
+±SE, n =8.
+Species Season Location
+Autumn Winter Autumn Winter Inside park Outside park Inside park Outside park
+PM2.5 (μg.cm(cid:0)2) PM10 (μg.cm(cid:0)2) PM2.5 (μg.cm(cid:0)2) PM10 (μg.cm(cid:0)2)
+Cinnamomum 2.45 A* (±0.32) 2.90 A (±0.38) 13.44 A (±1.70) 15.94 A (±2.04) 3.06 A (±0.41) 2.30 A (±0.24) 17.06 A (±1.91) 12.33 A (±1.51)
+Camphora
+Ligustrum lucidum 3.85 B (±0.69) 2.09 A (±0.16) 15.52 A (±2.44) 10.20 A (±1.35) 2.58 A (±0.37) 3.35 A (±0.73) 11.39 A (±2.43) 14.34 A (±1.81)
+Magnolia grandiflora 2.38 A (±0.29) 2.23 A (±0.34) 14.28 A (±1.98) 12.70 A (±1.25) 2.64 A (±0.37) 1.97 A (±0.17) 15.11 A (±1.96) 11.87 A (±1.04)
+Osmanthus fragrans 3.01 A (±0.40) 2.16 A (±0.20) 16.64 A (±2.34) 14.39 A (±1.82) 2.50 A (±0.42) 2.67 A (±0.27) 14.20 A (±2.19) 16.84 A (±1.96)
+Photinia serrulate 2.14 A (±0.28) 3.23 A (±0.50) 10.76 A (±1.46) 14.50 A (±1.83) 2.27 A (±0.34) 3.10 A (±0.20) 10.76 A (±1.61) 14.50 A (±1.70)
+Loropetalum chinense 4.03 A (±0.87) 3.66 A (±0.24) 16.92 A (±2.22) 16.23 A (±2.72) 2.77 A (±0.31) 4.92 B (±0.62) 12.94 A (±1.82) 20.21 B (±2.30)
+Pittosporum tobira 3.01 A (±0.37) 3.87 A (±0.48) 16.00 A (±2.03) 18.13 A (±3.58) 3.33 A (±0.42) 3.54 A (±0.50) 14.31 A (±2.81) 19.81 A (±2.68)
+Rhododendron simsii 4.60 A (±0.54) 4.03 A (±0.67) 22.65 A (±2.44) 16.81 A (±3.82) 3.26 A (±0.43) 5.36 B (±0.51) 14.69 A (±2.29) 24.76 B (±3.24)
+Ophiopogon japonicus 5.37 A (±0.58) 5.15 A (±0.81) 19.44 A (±2.37) 27.65 A (±5.75) 5.67 A (±0.82) 4.85 A (±0.53) 25.42 A (±4.64) 21.67 A (±4.58)
+Average 3.43 A (±0.20) 3.26 A (±0.19) 16.18 A (±0.77) 16.28 A (±1.09) 3.12 A (±0.18) 3.56 B (±0.20) 15.10 A (±0.94) 17.36 B (±0.94)
+* Different uppercase letters indicate significant difference between examined seasons or locations at P <0.05 by Tukey’s honest significant difference test.
+Fig. 5. Average differences in PM10 and PM2.5 accumulated by evergreen plants
+in autumn and winter. A positive result means that the amount of PM on plants
+was higher in winter, while a negative result means higher in autumn. Data are
+means ±SE, n =36.
+Fig. 6. LAI (Leaf Area Index) and PM10 (A) and PM2.5 (B) accumulation by nine
+evergreen plants per unit of land area after the growing season. The columns
+a unit of land area. Similarly, for trees, L. lucidum was characterized by a
+indicate the PM10 and PM2.5 concentrations; the line is the LAI value. Data are
+significantly lower LAI and, as a result, decreased PM accumulation per means for both locations (inside and outside the park).
+land area. Importantly, LAI values were not constant during the entire
+autumn/winter period. The LAI of R. simsii was higher in autumn. Sea-
+dynamics. When planning new plantings in the park, priority should be
+sonal changes in LAI have a decisive impact on the ability of plants to
+given to species with a higher LAI. Maintenance practices should also
+remove PM from the air. Consequently, urban greenery planners who
+aim to increase the density of the tree crown, and thus increase the value
+aim to enhance air quality must consider not only the PM accumulation
+of the LAI parameter. Higher LAI was strongly correlated with PM
+on foliage but also the plant’s growth habit and its temporal and spatial
+accumulation, highlighting its importance in increasing the pollutant
+8
+===== PAGE 9 =====
+B.J. Zhang et al. J o u r n a l o f E n v i r o n m e n t a l M a n a g e m e n t 373 (2025) 124027
+Table 3
+Share of surface PM and in-wax PM accumulated and amount of waxes on evergreen plants in autumn and winter. Data are means for two location (inside and outside
+the park), n =8.
+Species PM2.5 PM10 Amount of waxes
+Autumn Winter Autumn Winter Autumn Winter
+Surface PM In-wax Surface PM In-wax Surface PM In-wax Surface PM In-wax μg.cm(cid:0)2
+(%) (%) (%) (%) (%) (%) (%) (%)
+Cinnamomum 59.17 40.83 69.73 30.27 63.39 36.61 85.24 14.76 47.22 A* 57.45 A (±5.92)
+camphora (±7.00)
+Ligustrum lucidum 49.45 50.55 70.47 29.53 57.74 42.26 81.97 18.03 80.12 A (±9.75) 69.45 A (±6.95)
+Magnolia grandiflora 73.47 26.53 80.29 19.71 76.74 23.26 82.39 17.61 35.41 A (±9.84) 20.88 A (±6.61)
+Osmanthus fragrans 54.80 45.20 70.83 29.17 57.94 42.06 80.34 19.66 70.31 A (±5.45) 65.17 A (±4.97)
+Photinia serrulate 52.15 47.85 66.27 33.73 57.93 42.07 79.34 20.66 102.752 A 192.035 B
+(±14.76) (±9.70)
+Loropetalum 59.85 40.15 60.40 39.60 64.00 36.00 61.99 38.01 91.08 A (±8.31) 120.598 A
+chinense (±15.56)
+Pittosporum tobira 60.47 39.53 78.83 21.17 64.68 35.32 83.81 16.19 33.17 A (±6.41) 67.31 B
+(±11.70)
+Rhododendron simsii 47.34 52.66 52.78 47.22 46.77 53.23 65.29 34.71 184.663 A 257.168 A
+(±26.36) (±60.00)
+Ophiopogon 68.08 31.92 71.82 28.18 67.26 32.74 61.25 38.75 30.01 A (±6.54) 68.21 A
+japonicus (±16.70)
+Average 58.31 41.69 69.04 30.96 61.82 38.18 75.73 24.27 74.97 A (±6.69) 102.034 B
+(±11.00)
+* Different uppercase letters indicate significant difference between examined species at P <0.05 by Tukey’s honest significant difference test.
+Table 4
+Effect of species, season (autumn and winter) and location (inside and outside the park) on accumulation of TE by evergreen plants. Data are means ±SE, n =16
+(average for species) or 72 (average for season and location).
+Species As Ba Cd Co Cr Cu Fe Mn Ni Pb Pt Zn
+Cinnamomum 3.44 ABa 214.063 A 11.67 – – 12.00 AB 460.063 A 129.723 A – – 19.63 B 38.06 AB
+camphora (±0.16) (±20.08) (±1.31; (±0.81) (±35.37) (±47.32) (±0.44) (±2.31)
+6c)
+Ligustrum 2.62 A 202.374 A 9.00 – – 11.69 AB 414.813 A 71.19 A – – 17.56 A 51.56 C
+lucidum (±0.15) (±12.31) (±0.0; 1) (±0.86) (±30.90) (±7.60) (±0.42) (±5.18)
+Magnolia 3.62 AB 205.875 A – – – 10.12 AB 620.500 58.69 A – 2.00 19.19 AB 48.44 AB
+grandiflora (±0.20) (±17.89) (±0.46) ABC (±8.00) (±0.00; (±0.44) (±3.24)
+(±88.52) 1)
+Osmanthus 3.62 AB 230.063 AB 12.67 – – 12.25 B 414.563 A 148.313 A – – 20.25 B 51.12 B
+fragrans (±0.18) (±16.03) (±1.67; 3) (±0.42) (±38.67) (±60.06) (±0.35) (±3.53)
+Photinia 3.62 AB 204.813 A 11.00 – – 8.37 A 510.875 AB 40.13 A – 4.00 19.44 AB 27.81 A
+serrulate (±0.22) (±15.78) (±0.0; 1) (±0.60) (±46.79) (±3.34) (±0.63; (±0.45) (±1.64)
+6)
+Loropetalum 4.31 B 330.438 BC 12.00 – – 16.56 C 737.375 41.94 A – 3.00 19.81 B 39.12 AB
+chinense (±0.28) (±43.50) (±1.53; 3) (±1.56) BCD (±2.57) (±0.00; (±0.53) (±3.99)
+(±74.97) 1)
+Pittosporum 2.87 A 365.750 C 12.50 – – 9.62 AB 470.438 AB 183.125 B – 2.00 18.25 AB 94.01 C
+tobira (±0.29) (±24.52) (±2.5; 2) (±0.52) (±29.23) (±34.18) (±0.00; (±0.49) (±9.92)
+1)
+Rhododendron 3.94 B 295.688 13.50 – – 11.88 AB 935.500 D 199.928 B 7.00 – 19.06 AB 50.06 B
+simsii (±0.28) ABC (±2.5; 2) (±1.07) (±91.31) (±35.44) (±0.00; (±0.50) (±4.81)
+(±26.95) 1)
+Ophiopogon 3.94 B 308.938 13.50 – – 20.50 D 870.501 CD 69.75 A – 2.00 20.00 B 91.31 C
+japonicus (±0.25) ABC (±2.5; 2) (±0.73) (±63.47) (±3.30) (±0.00; (±0.50) (±4.13)
+(±29.57) 2)
+Autumn 3.03 ab 194.569 a 11.33 – – 11.01 a 557.139 a 83.29 a – 3.5 17.85 a 51.18 a
+(±0.08) (±7.70) (±0.59; (±0.41) (±29.01) (±8.39) (±0.57; (±0.15) (±2.95)
+12) 8)
+Winter 4.08 b 329.431 b 13.38 – – 14.10 b 650.556 a 104.278 a 7.00 2.33 20.61 b 58.04 a
+(±0.12) (±13.04) (±1.15; 8) (±0.65) (±40.25) (±12.9) (±0.00; (±0.33; (±0.18) (±3.76)
+1) 3)
+Inside 3.62 ab 267.056 a 13.00 – – 12.92 a 577.194 a 91.88 a 7.00 4.00 19.53 a 53.24 a
+(±0.11) (±12.79) (±0.92; (±0.61) (±29.24) (±10.67) (±0.00; (±0.63; (±0.24) (±2.39)
+10) 1) 6)
+Outside 3.40 a 256.944 a 11.31 – – 12.19 a 630.500 a 104.278 a – 2.20 18.96 a 55.99 a
+(±0.13) (±13.90) (±0.75; (±0.53) (±40.61) (±12.95) (±0.20; (±0.22) (±4.17)
+10) 5)
+a Different uppercase letters indicate significant difference between examined species at P <0.05 by Tukey’s honest significant difference test.
+b Different lowercase letters indicate significant difference between examined seasons or locations at P <0.05 by Tukey’s honest significant difference test.
+c numbers indicate the number of samples in which the tested TE was found.
+9
+===== PAGE 10 =====
+B.J. Zhang et al. J o u r n a l o f E n v i r o n m e n t a l M a n a g e m e n t 373 (2025) 124027
+Fig. 7. Visual representation of the plant species and the concentrations of accumulated TE in two seasons (autumn, winter – Aut and Win, respectively) and lo-
+cations (inside and outside park - Ins and Out, respectively) in the reduced-dimensional PCA space defined by PC1 and PC2.
+filtration capacity. This is consistent with other studies highlighting LAI subsequent increase in PM deposition observed in autumn/winter.
+as the main factor determining pollutant capture efficiency. The LAI is a However, the majority of prior investigations focusing on temporal
+fundamental factor determining the efficiency of vegetation in capturing variation in PM accumulation were conducted on coniferous plants.
+pollutants. Its influence extends beyond mere PM capture to include These plants exhibit distinct characteristics from broadleaf evergreens in
+thermal regulation and acoustic benefits, making it a vital parameter in terms of PM accumulation and retention capabilities (Cai et al., 2017; Xu
+urban greening strategies to improve air quality and environmental et al., 2018; Corada et al., 2021). Therefore, the conclusion that PM
+health. Maintaining high LAI values through appropriate plant selection deposition on foliage is highest in winter, based on research conducted
+and care can significantly enhance the effectiveness of green spaces in mostly on conifer species, is one-sided (Xu et al., 2018). In contrast, in
+urban areas (Fang et al., 2019; De Bock et al., 2023). this study, the accumulation of PM was slightly higher in autumn than in
+In this work, only PM accumulation on leaves was investigated, but winter. This result is interesting in the context of Wuhan, a region
+other plant organs, e.g. bark and shoots, also participate in air bio- typified by limited precipitation, gentle winds, and increased PM con-
+filtration. Tree bark plays a crucial role in the retention of PM, partic- centration in winter. This means that during the period of high PM
+ularly during the winter months when deciduous trees have shed their concentrations and the absence of precipitation, the deposition of PM on
+leaves. Recent studies indicate that bark can retain significantly more foliage was lower than in other seasons. Wang et al. (2013)studied a
+PM per unit area than leaves during these leafless periods (Park et al., location in Xi’an with vegetation conditions analogous to Wuhan and
+2023; Wang et al., 2024). This is mainly due to the structural charac- found seasonal variations in PM accumulation on foliage. The accumu-
+teristics of bark, which provide a larger surface area and different lation of PM in deciduous plants increased from spring to autumn, while
+texture compared to foliage, allowing it to capture and hold onto the quantity of PM deposited on evergreen Cedrus deodara did not differ
+airborne pollutants effectively. Additionally, bark’s insulating proper- between autumn and winter.
+ties help protect trees from extreme cold, enhancing their ability to The underlying mechanisms for the non-linear accumulation of PM
+withstand harsh winter conditions while contributing to PM retention in winter remain multifaceted and are not conclusively elucidated. In
+(García-Ban˜uelos et al., 2008; Silva et al., 2024). On the other hand, this experiment the simplest explanation for the lower amount of PM
+Evergreen species maintain their foliage year-round, allowing them to deposited on leaves in winter is heavy rainfall that occurred immedi-
+absorb air pollutants and provide a consistent biofiltering effect ately after the autumn harvest of plant material. However, this hy-
+continuously. This synergy between bark and evergreen foliage creates a pothesis seems incorrect because leaves become saturated with PM
+robust system for air quality improvement, as the bark captures PM typically after a few weeks, with a significant decrease in PM accumu-
+during leafless months while evergreen leaves actively filter pollutants lation after 10 days (Cai et al., 2017, 2019; Yan et al., 2024). Once
+during all seasons. Moreover, both structures contribute to the overall saturation is achieved, easily removable PM can be removed by envi-
+health of urban ecosystems by stabilizing soil and promoting biodiver- ronmental factors, mainly precipitation (Przybysz et al., 2014; Wang
+sity, further enhancing their collective ability to mitigate environmental et al., 2015; Cai et al., 2017; Xie et al., 2019) and/or wind (Wang et al.,
+contaminants (Park et al., 2023; Mandal et al., 2023). 2015; Cai et al., 2019). As much as 76% of previously accumulated PM
+may be resuspended (Schaubroeck et al., 2014). There was almost no
+rain recorded during this experiment, therefore the reason for the lower
+4.2. Effect of season on PM accumulation
+PM deposition on the leaves in winter may be the wind, which, although
+it was usually a light breeze, could probably have blown PM off the
+Studies usually indicate that in countries with pronounced season-
+leaves whose surface has been dried due to the lack of rainfall. Strong
+ality, the accumulation of PM on foliage is greater in winter (Cai et al.,
+wind can remove up to 36% of PM deposited on leaves (Wang et al.,
+2017; Lyu et al., 2023). This is because evergreen plants accumulate PM
+2015), and this phenomenon increases with the speed and duration of
+for a long time, often extending beyond a single growth season, coupled
+the wind (Zheng and Li, 2019). The easiest to remove from the leaf
+with elevated air pollution levels in winter compared with spring/- surface are large PM, with a diameter above 10 μm (Xu et al., 2022). No
+summer (Lyu et al., 2023). Cai et al. (2019) found that precipitation
+precipitation, light wind and humidity decreasing as the experiment
+events in summer led to the removal of PM from foliage, with a
+10
+===== PAGE 11 =====
+B.J. Zhang et al. J o u r n a l o f E n v i r o n m e n t a l M a n a g e m e n t 373 (2025) 124027
+progressed negatively affected the surface viscosity and adhesion which would typically be accumulated by the initial rows of trees/
+properties of PM and probably facilitated its resuspension (Bui et al., shrubs during the vegetative phase was able to reach plants growing far
+2022). from the main emission sources. It is also important to note that a sig-
+The phenomenon of lower PM deposition on foliage may also be nificant portion of the PM within the park is derived from natural
+explained by plants’ lower physiological activity in winter, especially in sources, including plant and animal debris, pollen, and fungal spores
+terms of gas exchange. The gas exchange is responsible for creating a (Zeb et al., 2018).
+specific microclimate and air movement in the vicinity of plants, which Most of the species studied accumulated more PM when growing
+means that PM is trapped near the plant and then more easily accu- outside the park, while three species accumulated more PM when
+mulated on foliage (Wro´blewska and Jeong, 2021). Intensive transpi- growing inside the park. The variations in location effects on PM
+ration is probably responsible for increasing the humidity and, thus, the deposition are difficult to explain by species morphological differences.
+viscosity of the foliage. During the growing season, the smallest PM can It seems that the location of the individual plants was decisive. Inside the
+additionally enter the plants through the stomata. A contributing factor park, there are fewer PM sources and they emit fewer pollutants than
+to reduced PM accumulation in winter could be degradation of waxes road traffic, but various facilities (restaurants, car parks) are located
+and trichomes and their subsequent inability to regenerate (Barwise and there. Plants growing closest to service premises could accumulate sig-
+Kumar, 2020). However, in this study, certain species exhibited an nificant amounts of PM inside the park near the square where outdoor
+augmentation in wax content during the autumn-winter transition. The activities and physical exercises occur. This suggests that the presence of
+climate of Wuhan, although having distinct seasons, is not characterised autumn/winter PM sources within the park should also be considered
+by very cold and long winters. Consequently, even if wax/trichome when planning the park’s greening. PM sources within the park are
+regeneration is inhibited, their degradation is not substantial enough to unlikely to significantly impact air pollution on an urban scale, but they
+impede PM adsorption by foliage. However, although the amount of may be locally important to park users who expect cleaner air here. In
+waxes in most species did not decrease in winter, the reduction in WPM addition, PM resuspended from plants located inside the park was most
+was noticeable, which can be attributed to potential post-growth season probably accumulated by plants grown in the immediate vicinity. The
+morphological/chemical alterations in the wax (Sachse et al., 2009) and dispersion of resuspended PM is difficult in the park due to the presence
+the encapsulation of the wax by a lipophobic PM layer, which acts as a of a large number of plants, even if, in the autumn-winter period, some
+barrier to the deeper infiltration of lipophilic PM. Another reason for the of them are in the leafless phase.
+lack of increase in PM accumulation in winter, maybe the loss of leaves
+by deciduous plants, which in turn leads to a decrease in the density of 4.4. Accumulation of TE
+greenery in the park and easier dispersion of PM (Cai et al., 2017).
+Dispersed PM is most likely inefficiently accumulated by individual In 2012, China’s anthropogenic emissions of Cd, Cu, Pb, As, and Zn
+evergreen plants scattered throughout the park. This is an unfavorable into the atmosphere were 530 tons, 9500 tons, 14,000 tons, 2500 tons
+phenomenon, because PM is not removed from the air by plants growing and 22,000 tons, respectively (Tian et al., 2015; He et al., 2023). These
+near the emission source, but is carried by airflow to new locations, TE that enter the atmosphere usually adsorb to the PM surface and
+posing a threat to the health of residents. Therefore, when designing the migrate with wind, spreading and contaminating nearby and remote
+greening of parks, it is crucial to ensure a compromise between density areas (Luo et al., 2016). PM containing TE is deposited into the city
+and porosity so that plants are able to accumulate as much PM as through wet and dry deposition, and due to the impermeability of urban
+possible and prevent its uncontrolled dispersal. Priority should be given surfaces, most of them accumulate on the concrete surfaces and then
+to ensuring the appropriate density of greenery after the growing season, enter the urban pipe system or natural water bodies (Zhang et al., 2020;
+when the phytofiltration capacity of the plants is at its lowest. This can He et al., 2023). People can also breathe it, affecting their health
+be achieved by increasing, where possible, the proportion of evergreen (Thangavel et al., 2022). Plants are constantly exposed to air; thus, they
+plants in urban greenery. An alternative solution may be to use decid- are the primary receptors for TE in the atmosphere (Cui et al., 2022).
+uous plants (e.g. oaks), which retain their dead leaves over the winter Therefore, plants in urban spaces that effectively remove TE from the air
+until the next growing season when they are replaced by new leaves are essential. It should be emphasized, that some TE (e.g. Pb, Cd, Cu) are
+(Przybysz et al., 2019), or plants with a denser structure and bark with a toxic to plants, and their increased accumulation can lead to physio-
+high PM accumulation potential (Park et al., 2023; Wang et al., 2024). It logical disorders and, in critical situations, even plant death (Ghori
+is also worth noting that the efficiency of PM accumulation in autumn et al., 2019). When selecting plants for locations with increased TE
+and winter differed between the studied species, which means that the concentrations in soil and air, their tolerance to these pollutants should
+plant phenotype also influenced these processes. Some species examined be one of the decisive criteria.
+in this work accumulate more PM in autumn, while others in winter. All the examined species demonstrated an accumulation of TE, but
+This applies to the efficiency of PM accumulation per unit of leaf area the efficiency of this process varied between species. It has already been
+and the efficiency per square meter of ground area. Unfortunately, it is shown that plants can accumulate TE directly from the air (Shahid et al.,
+difficult to indicate which morphobiometric features of plants determine 2017; Przybysz et al., 2019; Chen et al., 2023b). Turkyilmaz et al. (2020)
+the greater efficiency of PM accumulation in different seasons. There- revealed that plant species, due to differences in morphological and
+fore, optimising urban greenery for optimal air purification after the physiological, are variably effective in accumulating different TE,
+growing season should prioritise biodiversity. Incorporating different meaning each species has a higher potential of accumulating different
+plant species and ensuring their PM accumulation capabilities comple- TE. In our study, more TE was deposited on shrubs and grass than on
+ment each other should provide an effective solution for year-round air trees. TE accumulation was lower in all species reaching above 5 m
+pollution mitigation. height. The grass (O. japonicus) stood out especially from other species.
+The exceptions were Cd and Pt, also efficiently accumulated by trees.
+4.3. Effect of location on PM accumulation Since PM, particularly fine PM (with a larger specific surface area and a
+greater adsorption effect on metals), is an important vector for many
+On average, the studied plants accumulated significantly more PM pollutants, including TE (Wang et al., 2020), there is a simultaneous
+when growing outside the park, i.e. closer to the roads. Surprising is the high accumulation of PM (especially fine PM) and TE on the same spe-
+relatively high PM accumulation on plants inside the park as well. This cies (Wang et al., 2020). It must be emphasized that, fine PM is generally
+can be explained by the above-mentioned decrease in the density of the removed from the air in large quantities only under conditions of wet
+park in the autumn-winter period, facilitating enhanced PM infiltration deposition such as rainfall (Weerasundara et al., 2017; Kumar et al.,
+into the park’s confines. Consequently, after the growing season, PM 2020). This means that PM containing TEs is washed directly from the
+11
+===== PAGE 12 =====
+B.J. Zhang et al. J o u r n a l o f E n v i r o n m e n t a l M a n a g e m e n t 373 (2025) 124027
+air or higher plants to lower plants and then as the water drops evapo- of PM on the leaves a few days/weeks before the experiment, (2)
+rate they are deposited on the leaves. Although many scientists have manually washing selected leaves, or (3) even planting new plants
+shown that TE in leaves are not well associated with their concentrations before starting the experiment. Unfortunately, each of these alternatives
+in the soil (Przybysz et al., 2019; Hatami-Manesh et al., 2021) the pos- is not without its drawbacks. The amount of PM on the leaves changes
+sibility of greater accumulation of PM from the soil by lower plants very quickly, even between successive days (Popek et al., 2019).
+cannot also be excluded. Furthermore, Sharma et al. (2020) demon- Washing the leaves could damage their morphology, and newly planted
+strated that translocation of TEs from leaves to stems and even roots is plants would be young, small, and not fully functional physiologically.
+very likely. Further work on winter air phytoremediation should also consider leafy
+All TE (except Pb) tested were accumulated more effectively in plants, which, although deprived of leaves, can still accumulate PM on
+winter. This may be explained by the penetration of TE into the inner their shoots and bark. Further experiments should also be supplemented
+tissues of leaves and their more permanent accumulation than PM, with research enabling the introduction of new guidelines for the
+which can be easily removed from foliage (Sharma et al., 2020; Xu et al., planning and maintenance of park greenery: (1) species combinations to
+2022b). On the contrary, Hrotko´ et al. (2021) showed that TE accu- optimize phytofiltration throughout the year, (2) the share and density
+mulation by plants demonstrates seasonal differences: Pb and Fe de- of evergreen plants in the park and (3) target LAI values for the most
+posits were the highest in autumn samples, while Ni, Zn and Cu were the common species.
+highest in the spring samples. Unlike with PM, the spatial location did
+not significantly influence the accumulation of TE in plants. Comparable 5. Conclusions
+concentrations of TEs were observed in plants situated outside and in-
+side park. This result is surprising because road traffic is the main source Many cities face air pollution problem, especially in autumn/winter
+of investigated TE in urban areas (Zhu et al., 2021; Jiang et al., 2022; Liu when the air purification capacity of plants decreases significantly. The
+et al., 2022). Therefore, it could be expected that accumulation should studied species (shrubs and grass more efficiently than trees) appeared
+be higher on plants growing closest to the road. Most researchers suggest to accumulate PM and TE efficiently enough to suggest their potential
+that TE concentrations in the plant leaves may reflect the anthropogenic inclusion in strategies to improve winter air quality. It is worth noting
+emission gradient (Cui et al., 2022; Hatami-Manesh et al., 2021). Kaler that estimates of PM accumulation per unit leaf area do not accurately
+et al. (2016)also reported that tree species near the highway captured reflect the complex phytofiltration potential of a species. In addition to
+more TE as compared to trees away from traffic sources because the high PM deposition on the foliage, a plant should have sufficient LAI. PM
+turbulence created by moving vehicles led to higher foliage trapping of and TE accumulation varied between species in the autumn/winter
+the PM on the roadside trees. The similar amount of TE accumulated on period. Therefore, optimising urban greening for optimal post-growing
+plants regardless of their location in the park means that TE can pene- season air purification should prioritise biodiversity. Incorporating a
+trate far into the park and are likely to be difficult to remove from the air variety of plant species that complement PM and TE accumulation ca-
+by less dense greenery. This is another reason why it is reasonable to pabilities should provide an effective solution for mitigating air pollu-
+increase the proportion of evergreens in urban greenery to boost their tion throughout the year. It is also important that planning strategies
+positive impact on air quality in the autumn and winter. increase the proportion of broadleaf evergreen plants in urban green
+spaces to increase their density and positive impact on air quality in the
+4.5. Practical implications and guidelines autumn and winter.
+The results obtained in this work suggest that in order to effectively CRediT authorship contribution statement
+mitigate high concentrations of air pollution during autumn/winter
+period, changes in urban greenery planning and species selection are B.J. Zhang: Writing – review & editing, Visualization, Methodology,
+needed. Evergreen plants with high LAI should be promoted, especially Investigation, Formal analysis, Conceptualization. Y. Zhou: Methodol-
+those well adapted to difficult growing conditions and high pollution ogy, Investigation. M. Pawełkowicz: Writing – review & editing,
+levels. Leafy evergreen plants will likely be a better choice than conif- Writing – original draft, Investigation. A. Sadłos: Investigation. M.
+erous plants, which accumulate high amounts of pollutants, but are also Z ˙ urkowski: Investigation. M. Małecka-Przybysz: Writing – review &
+very sensitive to their toxicity. Biodiversity is also key factor, as plants editing, Visualization, Software, Investigation. E. Wo´jcik-Gront:
+differ in their efficiency of accumulating various pollutants and bio- Writing – review & editing, Software, Formal analysis, Data curation. C.
+filtration activity in different seasons of the year. Different species can Y. Zhu: Writing – review & editing, Methodology, Investigation,
+complement each other in air photofiltration. Air quality can also be Funding acquisition, Conceptualization. A. Przybysz: Writing – review
+improved by increasing the density of urban greenery, especially in close & editing, Writing – original draft, Visualization, Validation, Supervi-
+proximity to sources of pollution such as roads, which will reduce the sion, Resources, Methodology, Investigation, Formal analysis, Data
+dispersion of pollutants to new locations. It also seems important to use curation, Conceptualization.
+plants that are not evergreen, but maintain dead leaves in the winter
+season or are able to effectively accumulate pollutants in organs other Declaration of competing interest
+than foliage (shoots, bark). Finally, it is important that urban greenery
+has a layered structure, which prevents easy resuspension of pollutants. The authors declare that they have no known competing financial
+interests or personal relationships that could have appeared to influence
+4.6. Study limitation the work reported in this paper.
+The authors are aware that a limitation of this study is the inability to Acknowledgements
+clearly distinguish whether the PM deposited on foliage recorded in
+Autumn includes PM accumulated in previous weeks/months or This work was supported by the High-end Foreign Experts Intro-
+whether it is a completely new accumulation. In this work, we assumed duction Plan of China [G2022157005L], National Science Foundation of
+that an intense rainfall a few days before harvest should have effectively China [32371950, 31870700], the Fundamental Research Funds for the
+washed off most of the PM from the previous accumulation. We assumed Central Universities of China [2662022YLYJ005], and the Financial and
+that the plants grow in the park at large intervals; thus rain can wash off Technological Planning Project of Xinjiang Production and Construction
+the pollutants from plants better than in more dense plant communities Corps, China [2023CB008-24]. We also acknowledge Wuhan Jiefang
+(e.g. forests). An alternative solution is (1) identifying the initial amount Park, in particular Songtao Lan and Jiang Man, for its support of this
+12
+===== PAGE 13 =====
+B.J. Zhang et al. J o u r n a l o f E n v i r o n m e n t a l M a n a g e m e n t 373 (2025) 124027
+study. He, L., Wang, S.L., Liu, M.B., Chen, Z.M., Xu, J., Dong, Y.W., 2023. Transport and
+transformation of atmospheric metals in ecosystems: a review. J. Hazard. Mater.
+Adv. 9, 100218. https://doi.org/10.1016/j.hazadv.2022.100218.
+Data availability Hrotko´, K., Gyeviki, M., Süto¨rin´e, D.M., Magyar, L., M´esza´ros, R., Honfi, P., Kardos, L.,
+2021. Foliar dust and heavy metal deposit on leaves of urban trees in Budapest
+Data will be made available on request. (Hungary). Environ. Geochem. Health 43, 1927–1940. https://doi.org/10.1007/
+s10653-020-00769-y.
+Huang, R.J., Zhang, Y., Bozzetti, C., Ho, K.F., et al., 2014. High secondary aerosol
+References contribution to particulate pollution during haze events in China. Nature 514,
+218–222. https://doi.org/10.1038/nature13774.
+Bai, Y.Q., Wang, Y., Kong, S.F., Zhao, T.L., Zhi, X.F., Zheng, H., Sun, X.Y., Hu, W.Y., Huang, T., Chen, J., Zhao, W.T., Cheng, J., Cheng, S.G., 2016. Seasonal variations and
+Zhou, Y., Xiong, J., 2021. Modelling the effect of local and regional emissions on correlation analysis of water-soluble inorganic ions in PM2.5 in Wuhan, 2013.
+PM2.5 concentrations in Wuhan, China during the COVID-19 lockdown. Adv. Clim. Atmosphere 7, 4. https://doi.org/10.3390/atmos7040049.
+Change Res. 12, 871–880. https://doi.org/10.1016/j.accre.2021.09.013. Huang, F., Zhou, J., Chen, N., Li, Y., Li, K., Wu, S., 2019. Chemical characteristics and
+Barwise, Y., Kumar, P., 2020. Designing vegetation barriers for urban air pollution source apportionment of PM2.5 in Wuhan, China. J. Atmos. Chem. 76, 245–262.
+abatement: a practical review for appropriate plant species selection. Npj. Clim. https://doi.org/10.1007/s10874-019-09395-0.
+Atmos. Sci. 3, 12. https://doi.org/10.1038/s41612-020-0115-3. Jiang, S.N., Kong, S.F., Zheng, H., Zeng, X., Chen, N., Qi, S.H., 2022. Real-time source
+Bui, H.T., Odsuren, U., Kim, S.Y., Park, B.J., 2022. Seasonal variations in the particulate apportionment of PM2.5 and potential geographic origins of each source during
+matter accumulation and leaf traits of 24 plant species in urban green space. Land winter in Wuhan. Environ. Sci. 43, 61–73. https://doi.org/10.13227/j.
+11, 1981. https://doi.org/10.3390/land11111981. hjkx.202105171.
+Burkhardt, J., Pariyar, S., 2014. Particulate pollutants are capable to ‘degrade’ Jin, E.J., Yoon, J.H., Bae, E.J., Jeong, B.R., Yong, S.H., Choi, M.S., 2021. Particulate
+epicuticular waxes and to decrease the drought tolerance of Scots pine (Pinus matter removal ability of ten evergreen trees planted in Korea urban greening.
+sylvestris L.). Environ. Pollut. 184, 659–667. https://doi.org/10.1016/j. Forests 12, 438. https://doi.org/10.3390/f12040438.
+envpol.2013.04.041. Kaler, N.S., Bhardwaj, S.K., Pant, K.S., Rai, T.S., 2016. Determination of leaf dust
+Cai, M.F., Xin, Z.B., Yu, X.X., 2017. Spatio-temporal variations in PM leaf deposition: a accumulation on certain plant species grown alongside National Highway-22, India.
+meta-analysis. Environ. Pollut. 231, 207–218. https://doi.org/10.1016/j. Curr. World Environ. 11 (1), 77–82. https://doi.org/10.12944/CWE.11.1.10.
+envpol.2017.07.105. Kaˇspar, V., Zapletal, M., Samec, P., Koma´rek, J., Bílek, J., Jur´anˇ, S., 2022. Unmanned
+Cai, M.F., Xin, Z.B., Yu, X.X., 2019. Particulate matter transported from urban greening aerial systems for modelling air pollution removal by urban greenery. Urban For.
+plants during precipitation events in Beijing, China. Environ. Pollut. 252, Urban Green. 78, 127757. https://doi.org/10.1016/j.ufug.2022.127757.
+1648–1658. https://doi.org/10.1016/j.envpol.2019.06.119. Kumar, A., Ambade, B., Sankar, T.K., Sethi, S.S., Kurwadkar, S., 2020. Source
+Chen, R., Cheng, J., Lv, J., Wu, L., Wu, J., 2017. Comparison of chemical compositions in identification and health risk assessment of atmospheric PM2.5-bound polycyclic
+air particulate matter during summer and winter in Beijing, China. Environ. aromatic hydrocarbons in Jamshedpur, India. Sustain. Cities Soc. 52, 101801.
+Geochem. Health 39, 913–921. https://doi.org/10.1007/s10653-016-9862-9. https://doi.org/10.1016/j.scs.2019.101801.
+Chen, G.J., Lin, L., Hu, Y., Zhang, Y., Ma, K., 2021. Net particulate matter removal ability Liu, D., Deng, Q., Zhou, Z., Lin, Y., Tao, J., 2018. Variation trends of fine particulate
+and efficiency of ten plant species in Beijing. Urban For. Urban Green. 63, 127230. matter concentration in Wuhan city from 2013 to 2017. Int. J. Environ. Res. Publ.
+https://doi.org/10.1016/j.ufug.2021.127230. Health 15, 1487. https://doi.org/10.3390/ijerph15071487.
+Chen, Y.Y., Liu, H.T., Alatalo, J.M., Jiang, B., 2023a. Air quality characteristics during Liu, S., Zhan, ChL., Zhang, J., Guo, J.L., Liu, H.X., Liu, T., Zheng, J., Yao, R., Liu, X.L.,
+2016–2020 in Wuhan, China. Sci. Rep. 13, 8477. https://doi.org/10.1038/s41598- Xing, X.L., Cao, J., Qi, S., 2022. Source-specific health risk assessment of PM2.5
+023-35465-1. bound heavy metal in re-suspended fugitive dust: a case study in Wuhan
+Chen, Y., Xu, Y., Liang, X.C., Yan, W., Zhang, R., Yan, Y., Qin, S., 2023b. Foliar metropolitan area, central China. J. Clean. Prod. 379 (1), 134480. https://doi.org/
+particulate matter retention and toxic trace element accumulation of six roadside 10.1016/j.jclepro.2022.134480.
+plant species in a subtropical city. Sci. Rep. 13, 12831. https://doi.org/10.1038/ Luo, Z.X., Gao, M.R., Luo, X.S., Yan, C.Z., 2016. National pattern for heavy metal
+s41598-023-39975-w. contamination of topsoil in remote farmland impacted by haze pollution in China.
+Chiam, Z., Xiao, P.S., Hao, R.L., Hugh, T.W.T., 2019. Particulate matter mitigation via Atmos. Res. 170, 34–40. https://doi.org/10.1016/j.atmosres.2015.11.005.
+plants: understanding complex relationships with leaf traits. Sci. Total Environ. 688, Lv, W.W., Wang, Y.X., Querol, X., Zhuang, X.G., Alastuey, A., Lo´pez, A., Viana, M., 2006.
+398–408. https://doi.org/10.1016/j.scitotenv.2019.06.263. Geochemical and statistical analysis of trace metals in atmospheric particulates in
+Cohen, A.J., Brauer, M., Burnett, R., Anderson, H.R., et al., 2017. Estimates and 25-year Wuhan, central China. Environ. Geol. 51, 121–132. https://doi.org/10.1007/
+trends of the global burden of disease attributable to ambient air pollution: an s00254-006-0310-5.
+analysis of data from the global burden of diseases study 2015. Lancet 389, Lyu, X.Q., Chang, L., Lu, Z., Li, J.F., 2023. The ability of three climbing plant species to
+1907–1918. https://doi.org/10.1016/S0140-6736(17)30505-6. capture particulate matter and their physiological responses at different
+Corada, K., Woodward, H., Alaraj, H., Collins, C.M., de Nazelle, A., 2021. A systematic environmental sampling sites. Front. Environ. Sci. 10, 1084902. https://doi.org/
+review of the leaf traits considered to contribute to removal of airborne particulate 10.3389/fenvs.2022.1084902.
+matter pollution in urban areas. Environ. Pollut. 269, 116104. https://doi.org/ Mandal, M., Popek, R., Przybysz, A., Roy, A., Das, S., Sarkar, A., 2023. Breathing fresh air
+10.1016/j.envpol.2020.116104. in the city: implementing avenue trees as a sustainable solution to reduce particulate
+Cui, N., Qu, L.Y., Wu, G., 2022. Heavy metal accumulation characteristics and pollution in urban agglomerations. Plants 12, 1545. https://doi.org/10.3390/
+physiological response of Sabina chinensis and Platycladus orientalis to atmospheric plants12071545.
+pollution. J. Environ. Sci. 112, 192–201. https://doi.org/10.1016/j.jes.2021.05.013. Miao, C.P., Yu, S., Hu, Y.M., Liu, M., Yao, J., Zhang, Y., He, X.Y., Chen, W., 2021.
+da Silva Luz, C.L., Reale, R., Candido, L.F., Zappi, D., Locosselli, G.M., 2024. Using Seasonal effects of street trees on particulate matter concentration in an urban street
+morphological characters to support decision-making in nature-based solutions: a canyon. Sustain. Cities Soc. 73, 103095. https://doi.org/10.1016/j.
+shortcut to promote urban plant biodiversity. Urban Sci 8 (4), 233. https://doi.org/ scs.2021.103095.
+10.3390/urbansci804023. Miao, Y., Zhang, X., Che, H., Liu, S., 2022. Influence of multi-scale meteorological
+de Bock, A., Belmans, B., Vanlanduit, S., Blom, J., Alvarado-Alvarado, A.A., processes on PM2.5 pollution in Wuhan, Central China. Front. Environ. Sci. 10,
+Audenaert, A., 2023. A review on the leaf area index (LAI) in vertical greening 918076. https://doi.org/10.3389/fenvs.2022.918076.
+systems. Build. Environ. 229, 109926. https://doi.org/10.1016/j. Mo, L., Ma, Z., Xu, Y., Sun, F.B., Lun, X.X., Liu, X.H., Chen, J.G., Yu, X.X., 2015. Assessing
+buildenv.2022.109926. the capacity of plant species to accumulate particulate matter in Beijing, China. PLoS
+Fang, H., Baret, F., Plummer, S., Schaepman-Strub, G., 2019. An overview of global leaf One 10 (10), e0140664. https://doi.org/10.1371/journal.pone.0140664.
+area index (LAI): methods, products, validation, and applications. Rev. Geophys. 57 Motie, M.B., Yeganeh, M., Bemanian, M., 2023. Assessment of greenery in urban canyons
+(3), 739–799. https://doi.org/10.1029/2018RG000608. to enhance thermal comfort & air quality in an integrated seasonal model. Appl.
+Gao, T., Liu, F., Wang, Y., Mu, S., Qiu, L., 2020. Reduction of atmospheric suspended Geogr. 2023151, 102861. https://doi.org/10.1016/j.apgeog.2022.102861.
+particulate matter concentration and influencing factors of green space in urban Nawrocki, A., Popek, R., Sikorski, P., Win´ska-Krysiak, M., Zhu, ChY., Przybysz, A., 2023.
+forest park. Forests 11, 950. https://doi.org/10.3390/f11090950. Air phyto-cleaning by an urban meadow – filling the winter gap. Ecol. Indicat. 151,
+García-Ban˜uelos, M.L., V´azquez-Moreno, L., Winzerling, J., Orozco, J.A., Gardea, A.A., 110259. https://doi.org/10.1016/j.ecolind.2023.110259.
+2008. Winter metabolism in deciduous trees: mechanisms, genes and associated Park, S., Kwak, M.J., Lee, J., Lim, Y.J., Kim, H., Jeong, S.G., Son, J., Chang, H., Je, S.M.,
+proteins. Rev. Fitotec. Mex. 31 (4), 295. https://doi.org/10.35196/rfm.2008.4.295, Oh, Ch.-Y., Kim, K., Woo, S.Y., 2023. Urban greening: A sustainable method for
+295. particulate matter (PM) reduction. J. Korean Soc. For. Sci. 112 (1), 1–10. https://doi.
+Gawron´ski, S.W., Gawron´ska, H., Lomnicki, S., Sæbø, A., Vangronsveld, J., 2017. Plants org/10.14578/jkfs.2023.112.1.1.
+in air phytoremediation. Adv. Bot. Res. 83, 319–346. https://doi.org/10.1016/bs. Popek, R., Haynes, A., Przybysz, A., Robinson, S.A., 2019. How much does weather
+abr.2016.12.008. matter? Effects of rain and wind on PM accumulation by four species of Australian
+Ghori, N.H., Ghori, T., Hayat, M.Q., Imadi, S.R., Gul, A., Altay, V., Ozturk, M., 2019. native trees. Atmosphere 10 (10), 633. https://doi.org/10.3390/atmos10100633.
+Heavy metal stress and responses in plants. Int. J. Environ. Sci. Technol. 16, Przybysz, A., Sæbø, A., Hanslin, H.M., Gawron´ski, S.W., 2014. Accumulation of
+1807–1828. https://doi.org/10.1007/s13762-019-02215-8. particulate matter and trace elements on vegetation as affected by pollution level,
+Hatami-Manesh, M., Mortazavi, S., Solgi, E., Mohtadi, A., 2021. Assessing the uptake and rainfall and the passage of time. Sci. Total Environ. 481, 360–369. https://doi.org/
+accumulation of heavy metals and particulate matter from ambient air by some tree 10.1016/j.scitotenv.2014.02.072.
+species in Isfahan Metropolis, Iran. Environ. Sci. Pollut. Res. 28, 41451–41463. Przybysz, A., Nersisyan, G., Gawron´ski, S.W., 2019. Removal of particulate matter and
+https://doi.org/10.1007/s11356-021-13524-2. trace elements from ambient air by urban greenery in the winter season. Environ.
+Sci. Pollut. Res. 26, 473–482. https://doi.org/10.1007/s11356-018-3628-0.
+13
+===== PAGE 14 =====
+B.J. Zhang et al. J o u r n a l o f E n v i r o n m e n t a l M a n a g e m e n t 373 (2025) 124027
+Ren, Z., Liu, X.Y., Liu, T., Chen, D., Jiao, K.H., Wang, X.D., Suo, J.D., Yang, H.M., Liao, J. Weerasundara, L., Amarasekara, R.W.K., Magana-Arachchi, D.N., Ziyath, A.M.,
+L., Ma, Lu, 2021. Effect of ambient fine particulates (PM2.5) on hospital admissions Karunaratne, D.G.G.P., Goonetilleke, A., Vithanage, M., 2017. Microorganisms and
+for respiratory and cardiovascular diseases in Wuhan, China. Respir. Res. 22, 128. heavy metals associated with atmospheric deposition in a congested urban
+https://doi.org/10.1186/s12931-021-01731-x. environment of a developing country: Sri Lanka. Sci. Total Environ. 584, 803–812.
+Reyes, T.H., Scartazza, A., Bretzel, F., Di Baccio, D., Guglielminetti, L., Pini, R., https://doi.org/10.1016/j.scitotenv.2017.01.121.
+Calfapietra, C., 2022. Urban conditions affect soil characteristics and physiological Wro´blewska, K., Jeong, B.R., 2021. Effectiveness of plants and green infrastructure
+performance of three evergreen woody species. Plant Physiol. Biochem. 171, utilization in ambient particulate matter removal. Environ. Sci. Eur. 33, 110. https://
+169–181. https://doi.org/10.1016/j.plaphy.2021.12.030. doi.org/10.1186/s12302-021-00547-2.
+Sachse, D., Kahmen, A., Gleixner, G., 2009. Significant seasonal variation in the Xie, ChK., Yan, L., Liang, A., Che, S.Q., 2019. Understanding the washoff processes of
+hydrogen isotopic composition of leaf-wax lipids for two deciduous tree ecosystems PM2.5 from leaf surfaces during rainfall events. Atmos. Environ. 214, 116844.
+(Fagus sylvativa and Acer pseudoplatanus). Org. Geochem. 40, 732–742. https://doi. https://doi.org/10.1016/j.atmosenv.2019.116844.
+org/10.1016/j.orggeochem.2009.02.008. Xiong, Y., Zhou, J.B., Schauer, J.J., Yu, W.Y., Hu, Y., 2017. Seasonal and spatial
+Schaubroeck, T., Deckmyn, G., Neirynck, J., Staelens, J., Adriaenssens, S., Dewulf, J., differences in source contributions to PM2.5 in Wuhan. China. Sci. Total Environ.
+Muys, B., Verheyen, K., 2014. Multilayered modeling of particulate matter removal 577, 155–165. https://doi.org/10.1016/j.scitotenv.2016.10.150.
+by a growing forest over time, from plant surface deposition to washoff via rainfall. Xu, Y.S., Xu, W., Mo, L., Heal, M.R., Xu, X.W., Yu, X.X., 2018. Quantifying particulate
+Environ. Sci. Technol. 48, 10785–10794. https://doi.org/10.1021/es5019724. matter accumulated on leaves by 17 species of urban trees in Beijing, China. Environ.
+Shahid, M., Dumat, C., Khalid, S., Schreck, E., Xiong, T.T., Niazi, N.K., 2017. Foliar heavy Sci. Pollut. Res. 25, 12545–12556. https://doi.org/10.1007/s11356-018-1478-4.
+metal uptake, toxicity and detoxification in plants: a comparison of foliar and root Xu, L.S., Yan, Q., Liu, L.W., He, P., Zhen, Z.L., Duan, Y.H., Jing, Y.D., 2022. Variations of
+metal uptake. J. Hazard Mater. 325, 36–58. https://doi.org/10.1016/j. particulate matter retention by foliage after wind and rain disturbance. Air Qual.
+jhazmat.2016.11.063. Atmos. Health 15, 437–447. https://doi.org/10.1007/s11869-021-01086-8.
+Sharma, P., Yadav, P., Ghosh, Ch, Singh, B., 2020. Heavy metal capture from the Xu, P., Qian, Q., Lin, X., Zhang, J., Chen, J., 2022a. Effects of moderate drought on
+suspended particulate matter by Morus alba and evidence of foliar uptake and particles retention and physiology of three evergreen shrubs. Urban For. Urban
+translocation of PM associated zinc using radiotracer (65Zn). Chemosphere 254, Green. 70, 127547. https://doi.org/10.1016/j.ufug.2022.127547.
+126863. https://doi.org/10.1016/j.chemosphere.2020.126863. Xu, Z.Q., Zhu, Z., Zhao, Y.H., Huang, Z., Fei, J.Ch, Han, Y.L., Wang, M., Yu, P.Y., Peng, J.
+Sheehan, P., Cheng, E., English, A., Sun, F.H., 2014. China’s response to the air pollution W., Huang, Y., Fahmy, A.E., 2022b. Foliar uptake, accumulation, and distribution of
+shock. Nat. Clim. Change 4, 306–309. https://doi.org/10.1038/nclimate2197. cadmium in rice (Oryza sativa L.) at different stages in wet deposition conditions.
+Steinparzer, M., Schaubmayr, J., Godbold, D.L., Rewald, B., 2023. Particulate matter Environ. Pollut. 306, 119390. https://doi.org/10.1016/j.envpol.2022.119390.
+accumulation by tree foliage is driven by leaf habit types, urbanization- and Yan, Q., Xu, L., Duan, Y.H., Pan, L., Wu, Z.W., Chen, X.L., 2024. Influence of leaf
+pollution levels. Environ. Pollut. 335, 122289. https://doi.org/10.1016/j. morphological characteristics on the dynamic changes of particulate matter
+envpol.2023.122289. retention and grain size distributions. Environ. Technol. 45 (1), 108–119. https://
+Thangavel, P., Park, D., Lee, Y.C., 2022. Recent insights into particulate matter (PM2.5)- doi.org/10.1080/09593330.2022.2100281.
+mediated toxicity in humans: an overview. Int. J. Environ. Res. Publ. Health (12), Zang, L., Zhang, Y., Zhu, B., Mao, F., Zhang, Y., Wang, Z., 2021. Characteristics of water-
+7511. https://doi.org/10.3390/ijerph19127511. soluble inorganic aerosol pollution and its meteorological response in Wuhan,
+Tian, H.Z., Zhu, C.Y., Gao, J.J., Cheng, K., Hao, J.M., Wang, K., Hua, S.B., Wang, Y., Central China. Atmos. Pollut. Res. 12, 315–322. https://doi.org/10.1016/j.
+Zhou, J.R., 2015. Quantitative assessment of atmospheric emissions of toxic heavy apr.2021.01.003.
+metals from anthropogenic sources in China: historical trend, spatial distribution, Zeb, B., Alam, K., Sorooshian, A., Blaschke, T., Ahmad, I., Shahid, I., 2018. On the
+uncertainties, and control policies. Atmos. Chem. Phys. 15 (17), 10127–10147. morphology and composition of particulate matter in an urban environment. Aerosol
+https://doi.org/10.5194/acp-15-10127-2015. Air Qual. Res. 18 (6), 1431–1447. https://doi.org/10.4209/aaqr.2017.09.0340.
+Turkyilmaz, A., Cetin, M., Sevik, H., Isinkaralar, K., Saleh, E.A.A., 2020. Variation of Zhang, X.Y., Zhao, X., Ji, G., Ying, R.R., Shan, Y.H., Lin, Y., 2019. Seasonal variations and
+heavy metal accumulation in certain landscaping plants due to traffic density. source apportionment of water-soluble inorganic ions in PM2.5 in Nanjing, a
+Environ. Dev. Sustain. 22, 2385–2398. https://doi.org/10.1007/s10668-018-0296- megacity in southeastern China. J. Atmos. Chem. 76, 73–88. https://doi.org/
+7. 10.1007/s10874-019-09388-z.
+Wang, H.X., Shi, H., Li, Y.Y., Yu, Y., Zhang, J., 2013. Seasonal variations in leaf capturing Zhang, T.T., Xiao, Y., Liang, D.F., Tang, H.W., Yuan, S.Y., Luan, B., 2020. Rainfall runoff
+of particulate matter, surface wettability and micromorphology in urban tree and dissolved pollutant transport processes over idealized urban catchments. New
+species. Front. Environ. Sci. Eng. 7 (4), 579–588. https://doi.org/10.1007/s11783- Front. Rare Earth Sci. Appl., Proc. Int. Conf. Rare Earth Dev. Appl. 8, 305. https://
+013-0524-1. doi.org/10.3389/feart.2020.00305.
+Wang, H., Shi, H., Wang, Y., 2015. Effects of weather, time, and pollution level on the Zhang, Z., Gong, J., Li, Y., Zhang, W.K., Zhang, T., Meng, H., Liu, X.W., 2022. Analysis of
+amount of particulate matter deposited on leaves of Ligustrum lucidum. Sci. World J. the influencing factors of atmospheric particulate matter accumulation on coniferous
+9–11. https://doi.org/10.1155/2015/935942. species: measurement methods, pollution level, and leaf traits. Environ. Sci. Pollut.
+Wang, S., Yu, S.C., Yan, R.Ch, Zhang, Q., Li, P.F., Wang, L., Liu, W., Zheng, X.J., 2017. Res. 29, 62299–62311. https://doi.org/10.1007/s11356-022-20067-7.
+Characteristics and origins of air pollutants in Wuhan, China, based on observations Zhang, B.J., Zhou, Y., Pawełkowicz, M., Wo´jcik-Gront, E., Pismanik, M., Wnorowski, Ł.,
+and hybrid receptor models. J. Air Waste Manag. Assoc. 67 (7), 739–753. https:// Fu, Z.C Liu, Han, Małecka-Przybysz, M., Moniuszko, H., Zhu, C.Y., Przybysz, A.,
+doi.org/10.1080/10962247.2016.1240724. 2024. A comparative study of foliar particulate matter wash-off from plants under
+Wang, R.Y., Yang, B.Y., Yao, Y., Bloom, M.S., Feng, Z.Q., Yuan, Y., Zhang, J.B., Liu, P.H., natural and simulated rain conditions. Sci. Rep. 14, 28409. https://doi.org/
+Wu, W.J., Lu, Y., Baranyi, G., Wu, R., Liu, Y., Dong, G.H., 2020. Residential 10.1038/s41598-024-80071-4.
+greenness, air pollution and psychological well-being among urban residents in Zheng, G.L., Li, P., 2019. Resuspension of settled atmospheric particulate matter on plant
+Guangzhou. China. Sci. Total Environ. 711, 134843. https://doi.org/10.1016/j. leaves determined by wind and leaf surface characteristics. Environ. Sci. Pollut. Res.
+scitotenv.2019.134843. 26, 19606–19614. https://doi.org/10.1007/s11356-019-05241-8.
+Wang, M., Qin, M., Xu, P., Huang, D., Jin, X., Chen, J., Dong, D., Ren, Y., 2024. Zhu, X., Yu, W.X., Li, F., Liu, ChY., Ma, J.L., Yan, J.J., Wang, Y.L., Tian, R., 2021. Spatio-
+Atmospheric particulate matter retention capacity of bark and leaves of urban tree temporal distribution and source identification of heavy metals in particle size
+species. Environ. Pollut. 342, 123109. https://doi.org/10.1016/j. fractions of road dust from a typical industrial district. Sci. Total Environ. 780,
+envpol.2023.123109. 146357. https://doi.org/10.1016/j.scitotenv.2021.146357.
+14

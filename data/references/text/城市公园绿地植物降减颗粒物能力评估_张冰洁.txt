@@ -1,0 +1,4233 @@
+--- PAGE 1 ---
+分类号 ： 密级：
+HUAZHONG AGRICULTURAL UNIVERSITY
+硕 士 学 位 论 文
+MASTER’S DEGREE DISSERTATION
+城市公园绿地植物降减颗粒物能力评估
+——以武汉解放公园为例
+EV AL UATION OF PARTICULATE MATTER REDUCTION
+CAPACITY OF PLANTS IN URBAN PARKS
+— — TAKE WUHAN JIEFANG PARK AS AN EXAMPLE
+研 究 生: 张冰洁
+-- T AK E WUHAN LIBERATION PARK AS AN EXAMPLE
+C ANDIDATE： ZHANG BINGJIE
+学 号:
+2021305120220
+STUDENT NO.：
+学位类别: 风景园林硕士
+D EGREE TYPE： MASTER OF LANDSCAPE
+ARCHITECTURE
+导 师: 朱春阳 教授
+S UPERVISOR： PROFESSOR ZHU CHUNYANG
+中国 武汉
+WUHAN, CHINA
+二○二四年六月
+JUNE, 2024
+--- PAGE 2 ---
+华中农业大学硕士学位论文
+城市公园绿地植物降减颗粒物能力评估
+——以武汉解放公园为例
+Evaluation of Particulate Matter Reduction Capacity of Plants
+in Urban Parks
+—— Take Wuhan Jiefang Park as an Example
+研 究 生: 张冰洁
+学 号: 2021305120220
+指导教师: 朱春阳 教授
+学位类型: 风景园林硕士
+领 域: 风景园林规划与设计
+华中农业大学园艺林学学院
+中国 武汉
+College of Life Sciences and Technology Huazhong Agricultural
+College of Horticulture and Forestry Sciences,
+Univ
+Huazhong Agricultural University
+Wuhan, China
+--- PAGE 3 ---
+目 录
+1 绪论 ......................................................................................................... 1
+1.1 研究背景 ........................................................................................... 1
+1.2 国内外研究进展 ............................................................................... 2
+1.2.1 城市绿地降减颗粒物效应 ......................................................... 2
+1.2.2 影响植物降减空气颗粒物能力的生理形态特征 .................... 4
+1.2.3 影响植物降减颗粒物能力的环境气象因素 ............................ 5
+1.2.4 城市绿地降减颗粒物能力评估 ................................................. 7
+1.3 研究目的和意义 ............................................................................... 7
+1.4 研究内容 ........................................................................................... 8
+1.4.1 公园绿地常见植物叶片四季降减 PM 和微量元素能力分析. 8
+1.4.2 公园绿地常见植物降减 PM 能力的影响因素 ......................... 9
+1.4.3 公园绿地常见植物周年降减 PM 能力评估 ............................. 9
+1.5 研究框架 ......................................................................................... 10
+2 研究区域概况与研究方法 .................................................................. 11
+2.1 研究区域概况 ................................................................................. 11
+2.2 研究方法 ......................................................................................... 11
+2.2.1 数据来源与定量调查 ............................................................... 11
+2.2.2 数据处理与分析 ....................................................................... 16
+3 公园绿地常见植物叶片四季降减 PM 和微量元素能力分析 .......... 17
+3.1 公园绿地常见植物叶片四季累积 PM 和微量元素能力分析 .... 17
+3.1.1 春季植物叶片累积 PM 和微量元素能力分析 ....................... 17
+3.1.2 夏季植物叶片累积 PM 和微量元素能力分析 ....................... 23
+3.1.3 秋季植物叶片累积 PM 和微量元素能力分析 ....................... 30
+3.1.4 冬季植物叶片累积 PM 和微量元素能力分析 ....................... 36
+3.1.5 四季植物叶片累积 PM 及微量元素能力对比分析 ............... 42
+3.2 降雨对公园绿地常见植物叶片 PM 和微量元素的洗脱效应 .... 44
+3.2.1 降雨对不同植物叶片 PM 洗脱效应量化分析 ....................... 44
+3.2.2 降雨对不同植物叶片微量元素洗脱效应量化分析 .............. 45
+3.3 小结与讨论 ..................................................................................... 48
+3.3.1 小结 ........................................................................................... 48
+3.3.2 讨论 ........................................................................................... 51
+4 公园绿地常见植物降减 PM 能力的影响因素 .................................. 58
+4.1 植物生理形态特征 ......................................................................... 58
+4.1.1 植物生理形态特征指标描述 ................................................... 58
+--- PAGE 4 ---
+4.1.2 植物生理特征因素对植物叶片累积 PM 的影响 ................... 68
+4.1.3 植物生理形态特征因素对降雨洗脱植物叶片PM效应的影响
+........................................................................................................... 73
+4.2 环境与气象因素 ............................................................................. 75
+4.3 地理位置因素 ................................................................................. 76
+4.4 多因素对植物叶片累积 PM 能力综合影响的回归模型建立 .... 77
+4.4.1 春季多因素对植物叶片累积 PM 能力综合影响的回归模型
+........................................................................................................... 77
+4.4.2 夏季多因素对植物叶片累积 PM 能力综合影响的回归模型
+........................................................................................................... 78
+4.4.3 秋季多因素对植物叶片累积 PM 能力综合影响的回归模型
+........................................................................................................... 79
+4.4.4 冬季多因素对植物叶片累积 PM 能力综合影响的回归模型
+........................................................................................................... 80
+4.5 小结与讨论 ..................................................................................... 81
+4.5.1 小结 ........................................................................................... 81
+4.5.2 讨论 ........................................................................................... 83
+5 公园绿地常见植物周年降减 PM 能力评估 ...................................... 87
+5.1 公园绿地常见植物降减 PM 能力分析 ......................................... 87
+5.2 公园绿地植物周年降减 PM 量评估——以武汉解放公园为例 92
+5.2.1 解放公园植物资源调查 ........................................................... 92
+5.2.2 解放公园植物物种聚类 ........................................................... 92
+5.2.3 武汉解放公园植物周年降减 PM 量 ....................................... 94
+5.3 小结与讨论 ..................................................................................... 97
+5.3.1 小结 ........................................................................................... 97
+5.3.2 讨论 ........................................................................................... 98
+6 结论与展望......................................................................................... 100
+6.1 结论 ............................................................................................... 100
+6.2 基于 PM 降减的公园植物优化策略 ........................................... 103
+6.3 展望与不足 ................................................................................... 104
+参考文献 ................................................................................................. 106
+附录 ......................................................................................................... 119
+--- PAGE 5 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+摘 要
+近年来，随着城市化进程不断加快，城市工业快速发展，机动车使用量剧增，
+城市空气污染严重。城市公园绿地植物对缓解空气污染具有重要作用，植物表面可
+以通过吸滞、累积颗粒物进而降低空气颗粒物（PM）水平。基于此，本研究以武
+汉解放公园（面积 44.82 hm2）为研究对象，选取 17 种常见园林植物，使用水洗称
+量法并结合数理统计模型，量化了武汉地区公园绿地常见园林植物在公园内、外一
+年四季叶片表面的颗粒物累积能力和降雨后洗脱效应，结合实地采集与扫描电镜得
+到的植物生理特征参数和气象环境数据估算整个公园绿地的周年降减 PM 能力。为
+构建合理的城市公园植物群落搭配模式、准确量化城市绿地对空气颗粒物的降减作
+用提供数据及理论支持。
+主要研究结果如下：
+（1） 公园绿地常见植物四季叶片累积 PM和微量元素能力
+植物叶片累积 PM 、PM 量均为秋季最高，单位叶面积累积 PM 量为 11.65
+10 2.5 10
+μg/cm2~60.32 μg/cm2；单位叶面积累积PM 量为2.62 μg/cm2~11.94 μg/cm2。叶片累
+2.5
+积PM 量呈现出：秋季＞冬季＞春季＞夏季；叶片累积 PM 量呈现出：秋季＞春
+10 2.5
+季＞夏季＞冬季。不同季节不同种类植物累积 PM（包括 PM 和 PM ）能力整体
+10 2.5
+较强的植物有狗牙根、麦冬、紫薇、水杉、杜鹃，较弱的有女贞、广玉兰、悬铃木。
+草本累积 PM 的能力在所有季节都强于灌木和乔木。四季植物叶表累积 PM 量总体
+高于叶片蜡质层累积 PM量，叶片蜡质层累积 PM 占比略高于累积 PM 占比。水
+2.5 10
+杉和杜鹃叶片蜡质层累积 PM 各组分能力都较强。位于公园外部的植物总体累积
+PM 、PM 量总体高于位于公园内部的植物。
+10 2.5
+植物叶片累积微量元素量最多的季节是春季，最少的为夏季。其中，累积 Mn
+元素能力较强的植物有狗牙根、杜鹃、海桐；累积 Fe 元素能力较强的植物有狗牙
+根、麦冬、杜鹃；累积 Cu 元素能力较强的植物有狗牙根、红花檵木、麦冬；累积
+Zn 元素能力较强的植物有海桐、狗牙根、麦冬；累积 As 元素能力较强的植物有狗
+牙根、红花檵木、麦冬；累积 Ba 元素能力较强的植物有狗牙根、麦冬、红花檵木；
+不同植物间累积Pt元素量相差较小，累积能力较强的植物有鸡爪槭、狗牙根、红花
+檵木；累积 Cd 元素能力较强的植物有悬铃木、樟树、杜鹃；仅有较少植物叶片表
+面有明显的 Pb元素积累，且植物种类和累积量随着季节有较大变化，累积 Pb元素
+i
+--- PAGE 6 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+能力较强的植物有石楠、杜鹃。累积微量元素总体能力较强的植物有狗牙根、麦冬、
+杜鹃。草本和灌木在累积微量元素量上仍表现突出。
+（2）公园绿地常见植物叶片 PM和微量元素的降雨洗脱效应
+30 mm 强度人工降雨条件下，对 PM 洗脱量最多的植物为狗牙根，最少的为
+10
+枫杨；对 PM 洗脱量最多的为狗牙根，最少的是广玉兰。该强度人工降雨可直接
+2.5
+洗脱叶片 18%~32%的 PM 以及 9%~28%的 PM 。其中，降雨对狗牙根叶片 PM
+10 2.5 10
+的洗脱率最高，对水杉的叶片 PM 洗脱率最低；对海桐叶片 PM 的洗脱率最高，
+10 2.5
+对桂花的叶片 PM 洗脱率最低。
+2.5
+降雨对微量元素总量洗脱效果最好的植物有麦冬、狗牙根、杜鹃。总体而言，
+在30 mm的人工降雨条件下，植物可以直接平均洗脱叶片约19%的Mn元素，22.6%
+的 Fe 元素，30%的 Cu 元素，16%的 Zn 元素，18%的 As 元素，50%的 Cd 元素，
+16%的Ba元素以及6%的 Pt元素。其中，降雨对 Cd元素的洗脱率最高，对 Pt元素
+的洗脱率最低。
+（3）公园绿地常见植物降减 PM能力的影响因素
+通过对植物生理生态因素、气象因素、地理位置因素对植物降减 PM 能力影响
+的相关性分析发现，植物叶片累积 PM 量与树高冠高、蜡质层厚度、气孔密度呈
+10
+正相关，与冠幅、胸径、叶面积指数、单叶面积（植物单叶的平均面积）、气孔长
+度、沟槽宽度则呈负相关。植物叶片累积 PM 量与树高冠高、蜡质层厚度、沟槽
+2.5
+宽度呈正相关，与冠幅、叶面积指数、气孔长度、则呈负相关。冠幅、叶面积指数、
+沟槽宽度是对降雨洗脱植物叶表 PM 量有影响的关键变量。冠幅小、叶片稀疏、沟
+槽宽度较大的植物叶片 PM 更易被降雨洗脱。对环境与气象因素而言，温度高、湿
+度低、风速较大，PM浓度较高的环境更利于植物叶片累积PM；对地理位置因素而
+言，与污染源距离越近，越利于植物叶片累积 PM。
+（4）公园绿地常见植物单位土地面积周年降减 PM能力
+秋季单位土地面积植物累积 PM 量仍然为四季最高，而夏季和冬季植物单位土
+地面积累积各组分 PM 量则处于较低水平。其中，单位土地面积累积 PM 能力较
+10
+强的植物有紫薇、杜鹃、水杉，累积 PM 能力较强的植物有杜鹃、红花檵木、水
+2.5
+杉，累积 PM 各组分能力均较强的植物有杜鹃、紫薇、红花檵木、水杉。同时，单
+位土地面积降雨去除PM 量较多的植物有狗牙根、桂花、紫薇，去除 PM 量较多
+10 2.5
+的植物有红花檵木、水杉、紫薇。在不同植物中，降雨去除草本植物叶片的粗颗粒
+ii
+--- PAGE 7 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+物（PM ）明显高于乔木和灌木，而对灌木如红花檵木、紫薇的叶片细颗粒物去除
+10
+效果较强。
+结合植物叶片累积PM量与降雨洗脱量来看，公园绿地园林植物周年降减PM
+10
+和 PM 能力较强的植物均为杜鹃、红花檵木、狗牙根。其余具有较强降减 PM 能
+2.5
+力的植物还有麦冬、桂花，而周年降减 PM 能力整体较弱的为鸡爪槭、女贞、枫杨、
+悬铃木、枫香。
+（5）武汉解放公园园林植物总体周年降减PM量
+武汉解放公园植物总体周年可以降减 PM 约 1.5 t，其中乔木降减 898 kg，灌
+10
+木降减 90 kg，草本降减 111 kg；周年降减 PM 约 0.4 t，其中乔木降减 219 kg，灌
+2.5
+木降减23 kg，草本降减111 kg。乔木对于各组分PM周年降减量均显著高于灌木和
+草本。
+城市公园绿地是城市园林植物的重要载体，对城市生态具有重要的调节作用，
+在缓解空气污染方面具有重大效益。本研究将为城市公园绿地植物滞尘、缓解空气
+颗粒物污染提供了重要的数据和理论支撑。
+关键词：公园绿地；园林植物；叶片降减PM；植物滞尘能力评估；风景园林
+iii
+--- PAGE 8 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+ABSTRACT
+In recent years, urbanization has surged, accompanied by rapid industrial growth and
+a significant rise in motor vehicle usage, resulting in severe air pollution in urban areas.
+Garden plants in urban parks play an important role in alleviating air pollution. Plants
+reduce the level of airborne particulate matter (PM) by accumulating and retaining
+particulate matter on the surface. Based on this, specifically focusing on Wuhan Jiefang
+Park, covering an area of 44.82 hm2, the study selected 17 common garden plants. This
+study Employed a combination of the washed weighing method, scanning electron
+microscopy, and various mathematical statistical models. By quantifying the cumulative
+effect of particulate matter on the leaf surface of common garden plants both inside and
+outside the park throughout the year and the washing effect of rainfall, combined with plant
+physiological parameters and meteorological environment data, the annual PM reduction
+capacity of the whole park green space was estimated. The findings of this research
+provides data and theoretical support for constructing a reasonable plant community
+collocation model in urban parks and accurately quantifying the effect of urban green space
+on the reduction of airborne particulate matter. The main findings are as follows:
+(1) The cumulative PM and trace element capacity of common garden plants in
+four seasons: the cumulative PM and PM amount of plant leaves were the highest in
+10 2.5
+autumn, and the cumulative PM amount per unit leaf area was 11.65 μg/cm2~60.32
+10
+μg/cm2; The cumulative PM per unit leaf area ranges was 2.62 μg/cm2~11.94 μg/cm2.
+2.5
+The cumulative PM quantity of leaves showed the following pattern: autumn > winter >
+10
+spring > summer; The cumulative PM content of leaves showed the following pattern:
+2.5
+autumn > spring > summer > winter. The cumulative PM capacity (including PM and
+10
+PM ) of different species of plants in different seasons was stronger in Cynodon dactylon,
+2.5
+Ophiopogon japonicus, Lagerstroemia indica, Metasequoia glyptostroboides and
+Rhododendron simsii, while weaker in Ligustrum lucidum, Magnolia grandiflora and
+Platanus acerifolia. The ability of herbs to accumulate PM was stronger than that of shrubs
+and trees in all seasons. The cumulative PM on leaf surface was generally higher than that
+in wax layer, and the proportion of accumulated PM in wax layer was slightly higher than
+2.5
+iv
+--- PAGE 9 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+that of accumulated PM . The ability of PM accumulation in the wax layer of Metasequoia
+10
+glyptostroboides and Rhododendron simsii was stronger. In general, the overall cumulative
+PM and PM amount of plants located outside the park was higher than that of plants
+10 2.5
+located inside the park.
+The accumulation of trace elements in plant leaves was the highest in spring and the
+lowest in summer. Among them, the plants with strong Mn accumulation ability were
+Cynodon dactylon, Rhododendron simsii and Pittosporum tobira. The plants with strong
+ability to accumulate Fe elements include the Cynodon dactylon, Ophiopogon japonicus
+and Rhododendron simsii. The plants with strong Cu accumulation ability include Cynodon
+dactylon, Loropetalum chinense and Ophiopogon japonicus, The plants with strong ability
+to accumulate Zn elements include Pittosporum tobira, Cynodon dactylon and Ophiopogon
+japonicus. The plants with strong accumulation ability of As elements include Cynodon
+dactylon, Loropetalum chinense and Ophiopogon japonicus, The plants with strong ability
+to accumulate Ba elements include Cynodon dactylon, Ophiopogon japonicus and
+Loropetalum chinense. There was little difference in the amount of cumulative Pt elements
+among different plants, and the plants with strong cumulative ability were Acer palmatum,
+Cynodon dactylon and Loropetalum chinense. The plants with strong ability to accumulate
+Cd elements include Platanus acerifolia, Camphora officinarum and Rhododendron simsii.
+Only a few plants have obvious Pb accumulation on the leaf surface, and the species and
+accumulation amount of plants change greatly with the seasons. The plants with strong Pb
+accumulation ability include Photinia serrulate and Rhododendron simsii. The plants with
+strong overall ability to accumulate trace elements are the Cynodon dactylon, Ophiopogon
+japonicus and Rhododendron simsii. Herbs and shrubs are still outstanding in the amount
+of accumulated trace elements.
+(2) The wash-off effect of rainfall on PM and trace elements in plant leaves: Under
+the condition of 30mm intensity artificial rainfall, the plant with the highest wash-off
+amount of PM was the Cynodon dactylon, and the least was the Pterocarya stenoptera.
+10
+The most wash-off amount of PM was from the Cynodon dactylon, and the least was
+2.5
+from Magnolia grandiflora. The intensity of artificial rainfall can directly wash off 18%~32%
+PM and 9%~28% PM of leaves. Among them, the precipitation had the highest wash-
+10 2.5
+v
+--- PAGE 10 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+off rate of PM on the leaves of Cynodon dactylon, and the lowest on the leaves of
+10
+Metasequoia glyptostroboides. The wash-off rate of PM was the highest for the leaves of
+2.5
+Pittosporum tobira, and the lowest for the leaves of Osmanthus fragrans.
+The plants with the best wash-off effect on the total amount of trace elements were
+Ophiopogon japonicus, Cynodon dactylon and Rhododendron simsii. Overall, under 30mm
+artificial rainfall conditions, plants could directly wash off about 19% of Mn, 22.6% of Fe,
+30% of Cu, 16% of Zn, 18% of As, 50% of Cd, 16% of Ba, and 6% of Pt. Among them, the
+precipitation has the highest wash-off rate of Cd and the lowest wash-off rate of Pt.
+(3) Factors affecting the PM reduction ability of green plants in parks: Through
+the correlation analysis of the effects of physiological and ecological factors,
+meteorological factors and geographical factors on the PM reduction ability of plants, it
+was found that the cumulative PM amount of plant leaves was positively correlated with
+10
+tree height and crown height, wax layer thickness and stomatal density, and negatively
+correlated with crown width, diameter at breast height (DBH), LAI, leaf area, stomatal
+length and groove width. Leaf PM accumulation was positively correlated with tree
+2.5
+height, crown height, wax layer thickness and groove width, but negatively correlated with
+crown width, LAI and stomatal length. The wash-off of PM from leaves was negatively
+10
+correlated with crown width and LAI. The wash-off of PM from leaves was positively
+2.5
+correlated with groove width, but negatively correlated with crown width. In general, crown
+width, LAI and groove width were the key variables affecting PM wash-off on leaf surface
+of plants. The leaves of plants with small crown width, sparse leaves and larger groove
+width are more likely to be washed off by rainfall. In terms of environmental and
+meteorological factors, the environment with high temperature, low humidity, high wind
+speed and higher PM concentration is more conducive to the accumulation of PM in plant
+leaves. In terms of geographical location factors, the closer the distance from the pollution
+source, the more conducive to the accumulation of PM in plant leaves.
+(4) Annual PM reduction capacity of common garden plants per unit land area
+in park: from the perspective of four seasons, the cumulative PM amount per unit land area
+of plants in autumn is still the highest in four seasons, while the cumulative PM amount of
+each component of plant per unit land area in summer and winter is at a low level. Among
+vi
+--- PAGE 11 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+them, Lagerstroemia indica, Rhododendron simsii and Metasequoia glyptostroboides
+showed strong accumulation capacity of PM per unit land area; Rhododendron simsii,
+10
+Loropetalum chinense and Metasequoia glyptostroboides showed strong accumulation
+capacity of PM ; Rhododendron simsii, Lagerstroemia indica, Loropetalum chinense and
+2.5
+Metasequoia glyptostroboides showed strong accumulation capacity of both PM and
+10
+PM . Plants with a large PM wash-off amount per unit land area included Cynodon
+2.5 10
+dactylon, Osmanthus fragrans, and Lagerstroemia indica, while plants with a large PM
+2.5
+wash-off amount included Loropetalum chinense, Metasequoia glyptostroboides and
+Lagerstroemia indica. Among different plants, the removal of coarse particulate matter
+(PM ) by rainfall in herbaceous plants was significantly higher than that in trees and shrubs.
+10
+The removal effect of rainfall on fine particulate matter (PM ) in leaves of shrubs such as
+2.5
+Loropetalum chinense and Lagerstroemia indica is strong. The plants with strong annual
+PM and PM reduction ability of green garden plants in the park were Rhododendron
+10 2.5
+simsii, Loropetalum chinense and Cynodon dactylon. The other plants with strong PM
+reduction ability were Ophiopogon japonicus and Osmanthus fragrans, while the overall
+annual PM reduction ability was weak in Acer palmatum, Ligustrum lucidum, Pterocarya
+stenoptera, Platanus acerifolia and Liquidambar formosana.
+(5) Total annual PM reduction of garden plants in Wuhan Jiefang Park: The total
+annual PM reduction of plants in Wuhan Jiefang Park is about 1.5 t, including 898 kg
+10
+reduction of trees, 90 kg reduction of shrubs and 111 kg reduction of herbs; The annual
+PM reduction is about 0.4 t, including 219 kg reduction of trees, 23 kg reduction of shrubs
+2.5
+and 111 kg reduction of herbs. The annual PM reduction of trees was significantly higher
+than that of shrubs and herbs.
+Urban park green spaces serve as vital habitats for urban garden plants, playing a
+pivotal role in the regulation of urban ecology and offering substantial benefits in mitigating
+air pollution. This study will provide important data and theoretical support for the dust
+retention of green plants in urban parks and the mitigation of air particle pollution.
+Keywords: Park green space; Garden plants; Leaf PM removement; PM retention
+capability assessment; Landscape architecture
+vii
+--- PAGE 12 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+1 绪论
+1.1 研究背景
+近年来，随着经济和工业的快速发展和城市化，能源消耗和机动车数量不断增
+加，城市空气污染已成为影响人类健康、生态系统健康、气候变化的首要威胁
+（Han et al 2014, Huang et al 2014）。颗粒物（Particulate matter, PM）是主要的空气污
+染物之一，由多种化学成分组成，依据其空气动力学直径以及沉积在人体呼吸系统
+的部位，可将空气中的 PM 分为总悬浮颗粒（TSP, 0~100 μm）、可吸入颗粒物
+（PM , 0~10 μm）和可入肺颗粒物（PM , 0~2.5 μm）。在众多不同种类的颗粒物中，
+10 2.5
+危害最大的是PM 和PM ，尤其是 PM 。长期暴露于高浓度的PM 会增加心血
+10 2.5 2.5 2.5
+管和呼吸系统疾病发病率和死亡率，降低预期寿命（Burnett et al 2018, Cohen et al
+2017, Hoek et al 2013）。在城市环境中，PM来源主要为地面扬尘、机动车排放、燃
+煤、生物质燃烧、垃圾焚烧排放、建筑源、工业污染、二次源（二次无机气溶胶等）
+（Zhang et al 2013），其中交通排放是城市中 PM的最重要的来源之一（Watkins 1991,
+Hoek et al 2013, Zhang et al 2013）。限制车辆数量和/或限制建筑和工业活动、开发使
+用新能源可以降低城市地区环境中可吸入颗粒物的浓度，但在人口众多、快速发展
+的大城市中很难快速实现。PM，特别是 PM 和 PM ，可以携带多种 TE（Trace
+2.5 10
+element, TE），对环境造成污染（Koukoulakis et al 2019, Haswani et al 2023）。空气
+中 TE的含量与 PM有显著的相关性。武汉的空气 PM含有大量的 TE，包括各种重
+金属（Wang et al 2020）。重金属具有毒性，空气中的重金属会对健康构成重大风险
+（Fu and Xi 2020, Wang et al 2020）。TE与较差的空气质量之间的关系也是一个关键
+的研究领域，特别是在污染严重的地区，这些元素在环境空气中的浓度特别高
+（Liu et al 2023）。
+多项研究表明，城市绿地植物可以显著缓解城市空气污染（Tallis et al 2011, Liu
+et al 2013, Nowak et al 2013, Nowak et al 2014, Kašpar et al 2022）。一方面，由于较
+大的表面积以及独特的生理特征，植物比其他暴露的表面更能有效地从大气中捕获
+气体、颗粒和气溶胶（Tallis et al 2011）。另一方面，植物还能通过树冠降低局部
+风速来改善局地小气候，促进颗粒物沉降（Beckett et al 1998）。TE 往往会随 PM
+沉积在叶片表面（He et al 2023）。TE可能通过物理吸附附着在叶片表面，或与叶
+1
+--- PAGE 13 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+片表面的官能团形成化学键，具体机制取决于金属的化学性质和所涉及的植物种类
+（Shahid et al 2017）。TE吸附的动态是复杂的，取决于多种因素，包括植物种类、
+叶片形态和环境条件（He et al 2023, Lv et al 2019）。此外，降水会将植被上的 PM
+冲刷掉，使得植物开启新一轮的 PM 滞留循环（Mitchell et al 2010, Przybysz et al
+2014, Xu et al 2017, Weerakkody et al 2018a, Xie et al 2019, Chen et al 2021），TE的
+含量也会随着 PM的去除而减少。
+目前关于城市绿地对 PM 降减能力的估计多基于理论假设和静态的估算，忽视
+了降雨等环境因素对叶面 PM 滞留的影响，尤其对降雨充沛的城市，可能低估了绿
+地降减 PM 颗粒物的能力。本研究通过量化城市公园绿地常见园林植物叶片四季降
+减 PM 能力，研究了植物的立地条件、生物学特征、气象条件等因素对植物降减
+PM 的综合影响，并通过统计分析建立城市公园绿地降减 PM 效应的回归模型，综
+合全面评估城市公园绿地周年降减空气 PM能力。
+城市公园绿地作为与城市居民日常活动最为密切的城市绿地类型，兼具社会效
+益与生态效益，是城市绿色空间的重要组成部分。公园内部植物数量和种类丰富，
+由不同植物群落构成的局部环境复杂多样，并形成了不同的局地微气候环境，这会
+对空气颗粒物的分布以及沉降产生极大影响。此外，城市公园一般选址在人流量大
+的城市建成区，靠近车流密集的城市主干道，这些地方往往 PM 污染较为严重，给
+人们的身体健康带来很大隐患。研究城市公园常见植物的四季降减 PM 效应，评估
+典型城市公园的周年滞尘能力，在当前从增量时代进入存量时代的背景下指导未来
+公园绿地规划、树种选择、提升城市空气质量具有重要意义。
+1.2 国内外研究进展
+1.2.1 城市绿地降减颗粒物效应
+城市绿地植物降减颗粒物效应十分显著。据研究，美国城市树木每年去除的空
+气污染总量估计为 7.1×105 t（Nowak et al 2006），英国大伦敦地区每年可清除
+852~2121 t的PM ，约占城市边界层 PM 总量的0.7%~1.4%（Tallis et al 2011）；
+10 10
+国内同类研究表明，广州城市绿地每年能滞尘约 8012.89 t（Liu et al 2013），北京
+海淀区城市绿地每年能滞留 1.2×105 t PM （刘文平和宇振荣 2016）。
+2.5
+城市绿地强大的滞尘能力归功于植被的特殊结构，植物叶片可以通过滞留、附
+着和粘附三种方式吸附 PM，不同吸附方式的作用机制存在差异。滞留是指植物枝
+2
+--- PAGE 14 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+叶通过阻挡气流来降低风速，使得 PM 下落到叶表面，这种方式滞留颗粒物的量受
+空气中颗粒污染物浓度的影响较大（Tiwary et al 2009），且易受风和降水的影响而
+脱落；附着是指植物通过绒毛、沟槽等叶片结构将 PM 固定在叶表，该方式相比滞
+留更加稳定不易受到外界作用（风、雨等）而脱落；粘附是指一些植物通过叶片分
+泌的特殊物质将 PM 吸附在叶片表面，由于粘性作用，PM 一旦被粘附便很难从叶
+片上去除（Freer-Smith et al 2005）。在自然环境中，以上三种方式往往是同时作用
+的（陈小平 2014）。
+城市绿地还可以通过间接作用来实现对 PM 的降减。间接作用是指植被通过对
+适宜的环境的营造作用来增加 PM 的降减效率。首先，大面积绿地会增加地表的粗
+糙度，使得湍流作用增强，进而导致局部风速增加，从而为 PM 沉降提供有利条件
+（Beckett et al 1998）。一般而言，高大乔木比矮小植物的体积大，对湍流作用的增
+强更明显，因此更能有效去除气体和颗粒污染物（Manning and Feder 1980, Fowler et
+al 2004, Tallis et al 2011）。此外，植被不仅可以增加植物和大气之间的物质能量交
+换，促进空气中的气体污染物和颗粒物的直接吸收和循环，还能通过林冠层荫蔽、
+蒸腾等作用，提供具有适宜温湿度的小气候（Nowak et al 2006），为PM沉降提供
+适宜环境。
+城市公园绿地是城市绿地的重要组成部分，因为其植物种类和数量丰富，在降
+减城市大气颗粒物，改善空气质量方面起到极为重要的作用（Yin et al 2011,
+Fantozzi et al 2013, Cohen et al 2014）。对于城市公园绿地降减空气颗粒物作用的研
+究，多集中在国内。研究集中在公园绿地空气 PM 的时空变化特征以及不同植物群
+落结构降减空气 PM 能力的差异。如利用周边土地利用数据、气象数据等信息建立
+土地利用回归模型，分析城市公园及其周边的 PM 浓度分布以及时空变化特征（包
+红光 2016, 陈羽阳等 2021），进而分析公园绿地对空气 PM的降减效果；或利用计
+算流体动力学数值模型（如 ENVI-met、Fluent、PHOENICS 等），研究城市公园对
+空气颗粒物浓度分布的影响（闫珊珊 2019, 张芳菲 2020）。此外，有研究还通过长
+期监测数据分析了公园内不同植物群落结构对空气颗粒物降减效果的差异（邱玲等
+2018）。
+3
+--- PAGE 15 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+1.2.2 影响植物降减空气颗粒物能力的生理形态特征
+植物降减 PM是叶片、枝干等器官共同作用的结果（Beckett et al 2000）。不同
+的物种具有不同的叶片结构、冠层结构和枝叶形态，这导致了植物降减大气颗粒物
+的种间差异。目前，已有许多研究评估了不同的乔木和灌木在生长季节期间或结束
+时累积PM的能力（Dzierżanowski et al 2011, Sæbø et al 2012, Popek et al 2013）。这
+些研究都表明，不同物种植物单位叶面积累积 PM 的能力差异十分显著，这种差异
+可以达到数倍甚至数十倍。乔木因具较大的总叶面积，且其树冠的大小和结构导致
+了湍流的空气运动，增加了颗粒与树木表面碰撞的可能，进而增加 PM 在树叶上的
+沉积，因此被认为是降减 PM最有效的植被类型（Fowler et al 1989, McDonald et al
+2007, Tallis et al 2011）。但从单位叶面积的角度来看，与其他植物生命形式相比，
+乔木并不一定能从空气中去除更多的污染物。在一些情况下，灌木和藤本以及草本
+植物在捕获 PM 方面比某些乔木表现得更好，因为这类植物往往枝叶茂盛、叶片密
+集，增大了与空气中颗粒物接触的面积，在较低的种植层中起着重要作用（ Sæbø
+et al 2012, Chen et al 2016）。此外，一些沉积在地面上的 PM会在气流作用下重新
+悬浮到空气中，而低矮的灌木和草本可以有效地阻止这种再悬浮（Nguyen et al
+2015）。
+从物种类型来看，针叶树由于其独特的叶片结构和叶片密度，被认为可以比阔
+叶植物更有效地累积PM（Beckett et al 1998），且常绿针叶树全年都能积累污染物。
+然而，一些针叶树对与交通有关的高污染耐受力较差（Sæbø et al 2012）。因此，
+在为城市和郊区选择最佳植被时，捕获 PM的能力和耐受力都是重要的特征（Sæbø
+et al 2005）。
+植物叶片微结构是影响植物降减颗粒物能力的重要因素。叶片是植物降减 PM
+的主要载体，植物叶表的气孔、绒毛、沟槽、蜡质层等微结构是叶片吸附和滞留
+PM的基础（莫莉 2016, Freer-Smith et al 2005, Dzierżanowski et al 2011, Sæbø et al
+2012）。因此植物叶表累积 PM 能力与叶片微结构特征密切相关。一般而言，表面
+粗糙具有绒毛、凸起或沟槽等结构的叶片更容易捕获 PM（Popek et al 2013,
+Weerakkody et al 2018a）。因为叶表面的微结构会增加叶片截获 PM的表面积，并
+降低由于风力作用而产生的再悬浮量使 PM 难以从叶片脱落，从而增强叶片滞留
+PM的能力（Burkhardt 2010, Sæbø et al 2012, Terzaghi et al 2013）。此外，多数研究
+4
+--- PAGE 16 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+发现，植物叶片累积 PM 量与叶表蜡质含量存在正相关关系（Dzierżanowski et al
+2011, Sæbø et al 2012）。这是由于 PM中的一些亲脂性的有机物可以渗透到蜡质层
+中，从而被叶片捕获（Przybysz et al 2014），且蜡质层是植物叶片组织结构的最外
+层，颗粒物进入蜡质层后不会发生再悬浮，因此蜡质层对植物叶片吸滞 PM 具有重
+要作用。不同种类植物的蜡质层厚度、结构等的差异导致其对 PM 的累积能力不同。
+此外，蜡质层厚度的变化对叶片吸附 PM 的影响显著大于 10μm~100 μm的大颗粒
+2.5
+物，因为细颗粒物比粗颗粒物更频繁地沉积在蜡质层中（Sgrigna et al 2015）。蜡质
+层有利于植物叶片积累 PM，有研究表明，无论植物叶表是否有叶毛，具有厚蜡质
+表皮层的物种，在蜡质层中累积的PM比叶片表面累积的PM更多（Han et al 2020）。
+气孔也是影响植物叶片滞留 PM能力的重要结构（Zhang et al 2017）。作为植
+物叶片与外界环境进行气体、水分交换的主要通道，叶表气孔的存在与否及其密度
+和大小对叶片滞尘能力影响十分显著（贾彦等 2012, 刘璐等 2013, 张维康等 2015）。
+即使大部分表面被蜡覆盖，叶片也可以通过气孔吸收 PM，但过量的 PM 会导致气
+孔功能受损和表皮蜡损伤。气孔密度大，且气孔孔径较大的叶片似乎能吸附更多的
+颗粒物。因为叶表面气孔多而大的植物，蒸腾作用较为强烈，易在叶表形成水膜，
+使叶片更易捕获 PM 中的水溶性物质。此外，有些 PM 可以直接被吸到亚气孔糟中
+（Sæbø et al 2012）。
+1.2.3 影响植物降减颗粒物能力的环境气象因素
+城市绿地降减空气 PM 是一个复杂的动态过程，受到多种气象因素的影响，如
+降水、风速风向、温湿度等。降水是影响绿地降减大气颗粒物的重要因素，因为降
+雨可以洗脱植物叶片表面累积的 PM，使 PM 累积量已经饱和的叶表能够重新累积
+PM。因此，叶片表面降减PM的总量是由PM累积和洗涤循环控制的，植物叶片的
+PM 降减总量不仅包含叶片对 PM 的累积量，还包括降雨洗脱的 PM 量。一些植物
+具有很高的 PM 捕获能力，但降雨或风可能只从这些植物叶片表面去除少量 PM，
+这会限制该类植物持续的颗粒物去除能力（Chen et al 2021）。目前，降雨对叶片表
+面PM的洗脱作用存在争议。一些研究发现了明显的洗脱效应（ Mitchell et al 2010,
+Przybysz et al 2014, Xu et al 2017, Weerakkody et al 2018a, Xie et al 2019, Chen et al
+2021），有一些则认为雨水无法轻易清除树叶表面的颗粒物（Freer-Smith et al 2005,
+Hofman et al 2014），或只能冲刷掉粒径较大的颗粒物，而细颗粒物反而会更加附
+5
+--- PAGE 17 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+着在叶片上（Przybysz et al 2014）。降雨通常不会完全清除树叶中存在的所有 PM，
+而只是清除部分。即使在生长季节，降水从树叶中去除了 PM，植物积累的 PM 仍
+然随着连续时间的增加而增多（Przybysz et al 2014）。且不同降水强度、不同降雨
+持续时间的洗涤效果，不同植物在相同降水强度下的洗脱量以及不同季节下的叶片
+PM 洗脱效应都具有很大的差异，未来的研究应更详细地研究不同降雨强度以及持
+续时间下叶片在冲刷中保留 PM 的能力，确定 PM 冲刷效率更高的城市植物种类以
+指导城市绿地种植设计。
+PM 沉降速率受到风速的直接影响。风向与风速会极大影响绿地对大气颗粒物
+的水平消减，且颗粒物粒径越小，影响越大（杨貌等 2016）。一般而言，风速越
+大，越容易使叶表颗粒物脱落并重新悬浮到空气中。有研究发现，当风速小于 5
+m/s时，对植物叶表 PM不会产生明显影响（Ould-Dada and Baghini 2001）。Wang
+等（2015）研究发现，小于 11.1m/s 的风速不能将叶片上沉积的 PM 吹散，而
+12.1m/s和 15.2m/s的强风可以分别吹散 27%和 36%的叶片累积 PM。由于风的影响，
+植物叶片所保留的 PM 随时间的变化是复杂的动态过程，其中最大值可能超过最小
+值10倍（Xie et al 2018）。风向对植物降减 PM也有很大影响，处于下风向的植物
+可能会累积更多的 PM，在城市绿地设计时，应当考虑风向对植物滞尘的作用的影
+响，为居民营造更好的活动环境。
+城市绿地植物降减颗粒物还受到环境温湿度的影响。温湿度在绿地对空气颗粒
+物的垂直消减中起到主要影响，一定范围内，相对湿度越大，空气中 PM 的湿沉降
+越显著，因为 PM 粒径大小会因为空气相对湿度增加而增长，从而增加 PM 的沉降
+速率。湿度与 PM 的相关性比 PM 强，表明空气中湿度越大越有利于细颗粒物形
+2.5 10
+成，并且高湿常伴随着逆温，使得空气稳定性增强而不利于颗粒物扩散，从而导致
+细颗粒物质量浓度随相对湿度增大而增加。关于温度和绿地降减空气颗粒物效应之
+间的关系，研究结果并不完全一致。温度是影响空气颗粒物垂直方向运动的主要因
+素，一般来说，温度越高，空气稳定性越低，空气混合越强烈，空气的湍流效应越
+强，颗粒物空间运动越频繁，越容易被绿地所滞留（杨貌等 2016）。但当空气 PM
+浓度高时，这种湍流会导致颗粒分散，使得干沉积速度降低，导致温度与干沉积速
+率呈负相关，降低植物滞留 PM 的效果。因此，温度对植物降减 PM 作用的影响较
+为复杂，受到空气动力学、植物生理特征等多重影响，需要进一步的研究。
+6
+--- PAGE 18 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+1.2.4 城市绿地降减颗粒物能力评估
+对于城市尺度的绿地降减空气颗粒物能力评估，多数研究基于大气污染沉降及
+植物气孔扩散模型（如 i-Tree、CITYgreen 等），这种方法通过综合分析城市气象数
+据、空气颗粒物污染浓度数据和植被覆盖数据，从而得到城市尺度范围内整个地区
+的绿地对于空气颗粒物的降减能力以计算城市绿地对PM 和PM 等大气污染物的
+10 2.5
+降减总量（Nowak et al 2006, 2013, 2014）。该方法目前已在世界各国的主要城市中
+得到应用以评估城市绿地对颗粒物的降减作用（Tallis et al 2011, Selmi et al 2016,
+Riondato et al 2020）。但这种方法评估绿地降减空气PM能力缺乏环境实测数据的
+验证（Escobedo et al 2008），一些输入的参数很难直接测定，通常来自文献或经验
+公式。且该方法是依据美国本土城镇的植物、气象环境条件而建立的，在其他国家
+的应用方面存在局限性。
+还有一些研究采用水洗称量法结合扫描电镜法量化所选测试植物的 PM 累积量，
+再依此来推算单位叶面积累积 PM 量。结合对不同种植物的单位叶面积累积 PM 量
+的测量以及绿地内不同种植物的数量进而估算出绿地整体累积 PM 量，评估绿地的
+滞尘效益（张新献等 1997, 赵勇等 2002, Przybysz et al 2014）。该类方法虽然较为精
+确，但由于操作复杂，工作量大，只能对有限的植物种类降减能力进行量化。
+此外，还有研究利用绿地内外空气颗粒物监测数据计算出绿地对空气颗粒物的
+去除率，以此来评估绿地整体对 PM 的降减能力（Yin et al 2011）；以及利用遥感
+反演法，研究绿地对大气质量的影响（Irga et al 2015, García-Gómez et al 2016）；或
+数理统计模型法研究 PM监测数据与绿地环境变量之间的关系（陈羽阳等 2021, Zhu
+and Zeng 2018, Zhao et al 2021）。
+1.3 研究目的和意义
+城市空气污染已成为影响人类健康和福祉的最紧迫环境问题之一，严重影响人
+们的健康和生活舒适度。植物可以通过叶片和枝干等结构吸滞颗粒物，并且通过树
+冠降低局部风速来改善局地小气候，促进颗粒物沉降，因此被视为减轻污染的重要
+措施。城市绿地具有丰富的植被，改善空气质量的效果尤其显著。城市绿地在改善
+城市空气质量方面的作用已成为城市生态系统研究的热点。但是，目前大量关于绿
+地降减颗粒物的研究中，还存在一些不足：
+7
+--- PAGE 19 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+在研究区域与内容上，由于环境和气候的原因，中国北方城市（如京津冀地区）
+的空气污染更加严重，因此，以往的研究大多集中在这些城市和地区，涉及植物种
+类较少且不同研究植物种类重复性大，针对中部地区植物四季 PM 降减能力的研究
+还较为缺乏。且大多数的 PM 沉积研究只在特定时间进行分析，通常都是通过在长
+时间无降水或生长季节结束后对树叶采样，分析 PM 的最大捕获能力，然而，降雨
+能够洗脱植物叶片表面滞纳的颗粒物，使叶片具有反复滞纳颗粒物的能力，在降水
+丰沛的城市中，这种沉积-洗涤循环对不同植物物种降减PM能力的影响尤为重要。
+但目前关于植物对 PM 消减能力的研究多集中于对叶片的滞留量的量化分析，缺乏
+对地理空间要素、气象要素特别是降水以及植物生理特征要素的综合考虑以及量化
+研究。
+在研究对象的选择上，研究多聚焦在道路绿地或对绿地类型未加区分。从风景
+园林角度出发，城市公园绿地作为与美好人居环境建设最为密切的绿地类型之一，
+具有特殊意义。且在当前城市规模有限的背景下，城市公园的建设需要更加注重生
+态效益与社会效益的结合。但目前关于公园绿地降减空气 PM 的专门研究还十分缺
+乏，现有研究多聚焦于时空分布特征与群落差异，缺少对公园不同植物降减 PM 能
+力的定量研究，未建立起完善的公园绿地降尘评估体系。
+基于上述，本研究拟通过量化不同植物在四季中叶片表面颗粒物的累积能力以
+及洗脱效应，结合植物的生理特征参数和当地气象数据、环境数据等，建立城市公
+园降减 PM 效应回归模型，识别影响城市公园绿地降减 PM 效应的关键因素，并利
+用量化数据评估典型城市公园的周年滞尘量，为准确量化城市公园绿地园林植物
+PM降减能力提供数据及理论支持。
+1.4 研究内容
+1.4.1 公园绿地常见植物叶片四季降减 PM和微量元素能力分析
+本研究选取武汉公园绿地 17种常见园林植物（其中，乔木 10种，灌木 5种，
+草本 2 种）为研究对象，量化分析该 17 种常见园林植物在公园绿地内、外四季累
+积 PM 颗粒物和微量元素能力。采样期间对空气 PM 浓度以及气象数据（气温、相
+对湿度、风速）进行同步监测，同时采集所选植物的冠幅、树高、冠高、胸径、叶
+面积指数（Leaf area index, LAI）及叶片微结构等植物生理形态数据。将采取叶片
+样本运用水洗称量法、扫描电镜法等方法对叶表、叶片蜡质层累积 PM 以及微量元
+8
+--- PAGE 20 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+素量、30 mm降雨对 PM和微量元素的洗脱效应进行量化分析，统计公园绿地内不
+同园林植物叶片累积和降雨洗脱 PM以及微量元素能力。
+1.4.2 公园绿地常见植物降减 PM能力的影响因素
+构建所选园林植物叶片微结构、气象因素、地理位置等数据库，与公园绿地常
+见园林植物四季累积 PM 颗粒物量、降雨洗脱 PM 颗粒物量进行相关性分析，识别
+影响绿地植物降减 PM 能力的关键变量。同时，建立单一变量、多重变量对植物叶
+片降减 PM 、PM 量影响的回归模型，量化分析多因素对四季植物叶片累积 PM
+2.5 10
+能力的综合影响。
+1.4.3 公园绿地常见植物周年降减 PM能力评估
+以武汉解放公园为例，采用K最近邻（KNN）聚类法，通过植物叶片特征指标
+将解放公园主要园林植物聚类到已经量化的 17种园林植物中，利用计算的 17 种植
+物单位土地面积四季累积 PM 量、降水洗脱 PM 量，结合植物的叶面积指数和解放
+公园提供的主要园林植物名录和数量数据以及武汉年平均降水数据，对解放公园植
+物周年降减PM能力进行量化评估。
+9
+--- PAGE 21 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+1.5 研究框架
+图 1 研究框架
+Fig. 1 Research framework
+10
+--- PAGE 22 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+2 研究区域概况与研究方法
+2.1 研究区域概况
+武汉（113° 41' ~115° 05' E，29° 58' ~31° 22' N）地处江汉平原东部，位于长江
+和汉江交汇处。武汉是典型的空气污染严重的城市，具有高污染物浓度、高
+PM /PM 比率和较多的超过空气质量标准的天数（Huang et al 2016, Wang et al
+2.5 10
+2017, Xiong et al 2017, Liu et al 2018）。《2022年武汉市生态环境状况公报》显示，
+2022年全市环境空气质量优良天数 294天（优 86天，良 208天，轻度污染 59天，
+中度污染 11天，重度污染 1天），空气质量优良率 80.5%。2022年首要污染物有 70
+天为细颗粒物（PM ），占24.7%；30天为可吸入颗粒物（PM ），占10.6%。年均
+2.5 10
+PM 浓度为 55 μg/m3。PM 为 35 μg/m3，均超过我国现行《环境空气质量标准
+10 2.5
+（GB3095-2012）》所规定的一类环境空气功能区年均浓度限值。
+武汉市属于亚热带季风性气候，植被覆盖以常绿阔叶林为主，四季分明，冬冷
+湿夏热湿。年平均气温15.8 ~17.5℃（1月3.0℃，7月29.3℃），年平均降雨量1205
+mm。本研究选取武汉城市典型的综合公园——解放公园作为研究对象。解放公园
+位于汉口解放大道北段，公园占地面积 44.82 hm2，是武汉最大的综合性公园。公
+园建于1953年，绿化率高达85%。植物种类多达387种，其中乔木89种，灌木107
+种，草本 191种（王万平 2012）。研究区域及采样点如图 2所示。
+图 2 研究区域与采样点位置
+Fig.2 Study area and sampling point location
+2.2 研究方法
+2.2.1 数据来源与定量调查
+（1） 公园植物群落调研与采样植物选择
+11
+--- PAGE 23 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+群系（Formation）又称植物群系，是指建群种或共建种相同的植物群落的联
+合。群系是中国植被分类单位的一个重要的中级分类单位，是说明景观不同的植被
+的良好基础。在一个群系中，建群种或共建种占有绝对优势，是群系中数量最多的
+物种，可以作为群系的代表。本研究采用依据群系的分类概念，对解放公园的植物
+群落分布进行了详细的调研。在植物群系丰富且年代久远的解放公园中，人工植物
+群系约有 28个（王万平 2012），本研究在其中选择了 17个武汉最具有代表性的人
+工植物群系中的建群种17种（乔木10种，灌木5种，草本2种）进行研究（表 1）。
+于植物非落叶期记录每科样本树的地理信息（包括地理坐标、距离污染源道路的距
+离，与公园边缘的距离等）和生物特征信息（包括树种、树高、胸径、冠幅、冠高、
+以及叶面积指数等）。
+表 1 17种研究植物名录
+Table 1 Study Plant species list
+植物类型 科 编号 树种
+常绿乔木 樟科Lauraceae 01 樟树Camphora officinarum
+木兰科Magnoliaceae 02 广玉兰Magnolia grandiflora
+木犀科Oleaceae 03 桂花Osmanthus fragrans
+04 女贞Ligustrum lucidum
+蔷薇科Rosaceae 05 石楠Photinia serratifolia
+落叶乔木 悬铃木科Platanaceae 06 悬铃木Platanus acerifolia
+无患子科Sapindaceae 07 栾树Koelreuteria paniculata
+胡桃科Juglandaceae 08 枫杨Pterocarya stenoptera
+金缕梅科 09 枫香Liquidambar formosana
+Hamamelidaceae
+杉科Taxodiaceae 10 水杉Metasequoia glyptostroboides
+常绿灌木 海桐花科Pittosporaceae 11 海桐Pittosporum tobira
+杜鹃花科Ericaceae 12 杜鹃Rhododendron simsii
+金缕梅科 13 红花檵木Loropetalum chinense var. rubrum
+Hamamelidaceae
+落叶灌木 千屈菜科Lythraceae 14 紫薇Lagerstroemia indica
+槭树科Aceraceae 15 鸡爪槭 Acer palmatum
+草本 百合科Liliaceae 16 麦冬Ophiopogon japonicus
+禾本科Gramineae 17 狗牙根Cynodon dactylon
+（2） 植物样本采集
+12
+--- PAGE 24 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+为了研究不同植物滞留大气颗粒物的季节变化规律，在四个季节进行采样：秋
+季（2022.11），冬季（2022.12），春季（2023.4），夏季（2023.7）。选择降雨量≥10
+mm的 3~7天后的晴朗低风（风速＜5 m/s）天气进行采样（Zhang et al 2017），以
+保证采样时植物叶片表面有明显颗粒物积累。为了研究植物降减 PM 的空间差异，
+分两个区域——公园外部（邻近主要交通）和公园内部（远离公园边缘和主要交通）
+进行采样。
+对于木本植物，选择生长状况良好且无病虫害的成年植物作为样本植物，围绕
+树冠中心东西南北四个方向，采集 1 m~3 m（考虑到不同树种有不同的高度：乔木
+1 m~3 m，灌木0.5 m~1.5 m）高度处的叶片共约 800 cm2作为一个样本。每个物种
+的植物需要采集四次样本作为重复（每个样本尽量在不同植株采集）。同一物种的
+样本植物树高、胸径和生长情况需要基本一致。对于草本植物，选择＞20 cm 的未
+经灌溉（或极少灌溉）的草本植物，利用 25 cm×25 cm木制框架，收割覆盖地面的
+草本 625 cm2。用剪刀沿着草本根部（离地面 5 cm左右）剪掉木框内所有草本植物，
+并尽量避免接触植物叶片表面。收集样本时，叶片表面的颗粒可能因人工振动或触
+摸而丢失。为了避免这种情况，我们尽量减小移动范围，并将叶片从叶柄处摘下。
+四季共收集木本、草本共 548 份植物样本，将其分别保存于贴标签（标好植物种类、
+编号、采样时间及地点等信息）的牛皮纸袋中运往实验室，在室温下干燥保存直至
+分析。
+（3） 气象数据采集与实地检测
+在采样期间，PM 浓度以及气象数据（包括气温、相对湿度、风速）将会在离
+地面 1.5 m处同步监测约 3 min，并记录 3次数据。使用 Testo 610温度和相对湿度
+仪测量气温（T）和相对湿度（RH）。风速测量使用 Testo 410仪器。空气 T测量的
+分辨率为 0.1°C，温度范围为-10°C ~50°C。相对湿度测量的分辨率为 0.1%，范围为
+0% ~100%。风速范围为 0.4 ~ 20 m/s，分辨率为 0.1 m/s。空气 PM 浓度使用崂山
+2.5
+2025粉尘检测仪（青岛崂山应用技术研究院）测量（分辨率0.1 μg/m3，测量范围 1
+~ 1000 μg/m3，误差小于 ±10%，空气采样流量为 10cc/s）。为了减少多个测量仪器
+的数据误差，测量探测器还与武汉气象站进行了测试和校准。所有气象数据均在植
+被冠层下采集。通过中国空气质量在线监测分析平台，获取四季实验期间的日平均
+气温（T）、相对湿度（RH）、风速等数据，并从武汉生态环境局网站获取四季采样
+当月的 PM背景浓度数据（图 3、图 4）。
+13
+--- PAGE 25 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+160
+140
+120
+100
+3
+m
+/ 80
+g
+μ
+60
+40
+20
+0
+1 2 3 4 5 6 7 8 9 101112131415161718192021222324252627282930
+日期
+春季PM2.5 夏季PM2.5 秋季PM2.5 冬季PM2.5
+图 3 四季采样期PM2.5背景浓度值
+Fig. 3 Study area and sampling point location
+200
+180
+160
+140
+120
+3
+m
+/100
+g
+μ 80
+60
+40
+20
+0
+1 2 3 4 5 6 7 8 9 101112131415161718192021222324252627282930
+日期
+春季PM10 夏季PM10 秋季PM10 冬季PM10
+图 4 四季采样期PM10背景浓度值
+Fig. 4 Study area and sampling point location
+（4） 叶面积指数测定
+采用Hemiview冠层分析系统对四个季节样本植物进行叶面积指数（LAI）测量，
+包括SigmaEX-DC 4.5 mm鱼眼镜头、佳能EOS 50D单反相机、SLM8自平衡支架和
+无线遥控设备。由于拍摄要求在光线均一、尽量无风的环境下进行，故应选择早晨
+和黄昏阳光较为柔和的时间或阴天进行测量。每个树种选择 5 个样点进行拍摄，乔
+木及大灌木从地面约 1m 处向上垂直拍摄，小灌木则在地面约 1~2m 处垂直向下拍
+摄。将拍摄的照片利用 HemiView 分析软件进行处理和分析，得出每个样点的 LAI
+值，然后取平均值作为该树种的叶面积指数。
+（5） 实验室条件下的模拟降雨
+14
+--- PAGE 26 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+为研究降降雨对植物叶片 PM 的洗脱效应，在植物生长旺季（7 月）对采样植
+物进行模拟人工降雨，研究降雨对植物叶片 PM 的洗脱效应。为了保证洗脱效果，
+选取 30 mm的降雨强度进行实验（Przybysz et al 2014, 张新献等 1997），对降雨去
+除的公园外部叶片 PM 量、微量元素，以及降雨前、后的叶片累积 PM 量进行测定，
+用以量化分析。将叶子放置在玻璃结晶器（直径 23 cm，面积415.5 cm2）上的网格
+上，并使用塑料喷嘴喷洒蒸馏水，模拟持续 15 min的30 mm/h降雨事件。因为文献
+数据表明，在降雨的前 10 min，PM可从植物表面被大量冲洗掉（Chen et al 2017）。
+塑料喷雾器被放置在叶子上方 50 cm 的高度。然后将叶片样品放置 1 h，以便在结
+晶器中收集径流。在实验室处理之前，收集的雨水样品保存在 4℃的冰箱中。在接
+下来的几天里，对径流溶液进行了检查，以确定从树叶上冲走的 PM 的数量。对植
+物材料进行残留 PM和TE量化分析（见第（6）和第（7）部分）。
+（6） 叶片PM积累定量分析
+对植物叶片不溶于水的 PM 含量进行了两类评估：（i）可从叶表面水洗的 PM
+（SPM）和（ii）保留在叶蜡中的 PM（WPM）（Dzierżanowski et al 2011）。植物材
+料（100 cm2~150 cm2）先用 200 mL蒸馏水洗涤 60 s，然后用 100 mL氯仿洗涤 45
+s。实验前测试了氯仿洗涤的量和时间，以最有效地收集累积的 PM，而不会从植物
+组织内部提取颗粒。两个类别（SPM 和 WPM）的 PM 组分划分依次进行。洗涤液
+先用 10 μm 纸过滤器（Whatman, UK, Type 91）过滤，然后用 2.5 μm 纸过滤器
+（Whatman，UK，Type 42）过滤，最后用 0.2 μm PTFE膜过滤器（Whatman，UK）
+过滤。使用配备47 mm玻璃过滤漏斗的过滤装置（PALL Corp. USA）连接到真空泵
+进行过滤。收集两部分 PM：（i）0.2 μm ~2.5 μm（细颗粒物）；PM ）和（ii）2.5
+2.5
+μm ~10 μm（粗颗粒物）。将两个PM组分的和命名为 PM （0.2 μm ~10 μm）。过滤
+10
+器在 60℃下干燥 45 min，在称重室稳定 45 min，并在过滤前后称重（天平
+XS105DU，Mettler-Toledo 国际公司，瑞士；去离子门，HAUG，瑞士）。在氯仿蒸
+发后，测定每个植物样品在预先称重的烧杯中溶解在氯仿中的蜡量（Dzierżanowski
+et al 2011）。测量每个植物样本的总叶面积（Skye-Leaf 软件图像分析系统，Skye
+仪器有限公司，英国），以计算单位叶面积累积 PM量。
+（7） 叶表微量元素量化分析
+对植物材料进行了选定微量元素（As，Ba，Cd，Co，Cr，Cu，Fe，Mn，Ni，
+Pb，Pt，Zn）的定量评价。植物材料采用硅磨研磨，以避免金属污染。采用 Vanta
+15
+--- PAGE 27 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+Vac 3C系列仪器（Olympus，日本东京）进行 X射线荧光光谱法（XRF）测定微量
+元素。
+（8） 叶片微结构观察与特征量化
+为了研究叶片表面微观结构对叶片降减 PM 的影响，本研究对选取植物的生长
+季（6~7 月）叶片直接进行电镜扫描。每种植物分别随机选取 3 片新鲜叶片，采用
+蒸馏水冲洗并干燥后，选择叶片避开叶脉部分，用刀片取 5 mm×5 mm 的叶片（宽
+度不足5 mm的叶片取 5 mm长）制成2块样本（分为上、下表面），粘贴在样本台
+上，经过喷金处理后，利用德国 ZEISS-高分辨电子扫描显微镜-EVO10 对每个叶片
+样本随机选择的10（上、下各5处）处进行扫描拍摄图片。获取叶片表面微结构图
+像每种共 50 张，并利用对叶片表面气孔和表皮毛的密度和长度以及沟槽宽度等数
+据进行了统计。
+2.2.2 数据处理与分析
+（1） 统计分析
+使用 SPSS 27.0 软件分析了物种、季节和地点对植物叶片 PM 累积量、蜡含量
+和 TE 含量的影响。结果进行方差分析（P≤0.05），采用 Tukey’s honest significant
+difference （HSD）检验确定均值间差异的显著性。数据以平均值和±标准误（SE）
+表示，利用 Origin 2021实现数据结果的绘图。
+（2） 相关性分析
+使用 SPSS 27.0软件和 R Studio 对植物生理因素、环境气象因素与地理位置因
+素各因子对植物叶片累积 PM 能力、降雨对植物叶片累积 PM 的洗脱能力进行
+Pearson相关性分析以及 Mantel相关性分析。
+（3） 回归分析
+为进一步分析植物生理因素、环境气象因素与地理位置因素对植物叶片累积 PM 、
+10
+PM 量的综合影响，使用 SPSS 27.0软件进行多元线性回归分析，分别以植物生理
+2.5
+因素以及植物生理因素、环境气象因素与地理位置因素多因素作为自变量，植物叶
+片累积 PM 、PM 量为因变量构建植物降减 PM 量多元线性回归模型，识别影响
+10 2.5
+城市公园植物累积PM 、PM 量的主导因素， 明确调节各主导因素对空气 PM 、
+10 2.5 10
+PM 浓度的影响程度。
+2.5
+16
+--- PAGE 28 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+3 公园绿地常见植物叶片四季降减 PM 和微量元素能力分析
+3.1 公园绿地常见植物叶片四季累积 PM 和微量元素能力分析
+3.1.1 春季植物叶片累积 PM和微量元素能力分析
+（1） 不同种类植物叶片累积 PM能力分析
+分析春季所选17种植物叶片累积PM量可知（图 5），不同植物种类累积PM能
+力的差异较为显著（P < 0.05）。各物种对 PM 的累积能力大小为：紫薇＞水杉＞
+10
+麦冬＞狗牙根＞杜鹃＞栾树＞桂花＞鸡爪槭＞枫香＞广玉兰＞红花檵木＞樟树＞海
+桐＞石楠＞悬铃木＞枫杨＞女贞。单位叶面积累积 PM 最多的紫薇（15.36 ±1.72
+10
+μg/cm2）是单位叶面积累积 PM 最少的女贞（5.40 ±0.26 μg/cm2）的2.84倍。各物
+10
+种对 PM 的累积能力大小为：紫薇＞杜鹃＞狗牙根＞栾树＞麦冬＞鸡爪槭＞水杉
+2.5
+＞红花檵木＞枫香＞石楠＞悬铃木＞枫杨＞桂花＞海桐＞樟树＞广玉兰＞女贞。单
+位叶面积累积 PM 能力最强和最弱的植物依然分别是紫薇和女贞，而其他植物累
+2.5
+积 PM 能力的顺序同累积 PM 能力相比有较大差异。单位叶面积累积 PM 最多
+2.5 10 2.5
+的紫薇（6.33 ±1.09 μg/cm2）是单位叶面积累积PM 最少的女贞（2.02 ±0.20 μg/cm2）
+2.5
+的3.14倍。紫薇和杜鹃累积 PM 能力显著高于除栾树外的 14种植物（P < 0.05），
+2.5
+其余植物累积 PM 量无显著差异。
+2.5
+根据乔灌草累积 PM 、PM 量的平均值来看（图 6），累积 PM 和PM 的能
+10 2.5 10 2.5
+力大小均呈现出：草本＞灌木＞乔木。累积能力最强的草本的平均累积 PM 量
+10
+（12.08 ±0.65 μg/cm2）是灌木（9.88 ±0.74 μg/cm2）的 1.22 倍，是乔木（7.96 ±0.35
+μg/cm2）的 1.52 倍，平均累积 PM 量（4.41 ±0.20 μg/cm2）与灌木（4.35 ±0.38
+2.5
+μg/cm2）相差较小，但累积量是乔木（2.82 ±0.15 μg/cm2）的 1.57 倍。表明春季草
+本对 PM 、PM 的累积能力总体强于灌木和乔木。
+10 2.5
+17
+--- PAGE 29 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+图 5 春季17种植物叶片累积PM （上）、PM （下）能力
+10 2.5
+Fig. 5 The cumulative PM (top) and PM (below) capacity of 17 plant species in spring
+10 2.5
+图 6 春季乔灌草累积PM均值对比分析
+Fig. 6 Comparative analysis of cumulative PM mean value of shrub and grass in spring
+18
+--- PAGE 30 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+（2） 不同种类植物叶片叶表和蜡质层累积 PM能力分析
+春季 17种植物叶表和蜡质层内累积的 PM量分析结果如图 7。不同植物种类叶
+表和蜡质层累积 PM 、PM 能力具有显著差异（P < 0.05）。各物种叶表累积 PM
+10 2.5 10
+能力大小：紫薇＞麦冬＞狗牙根＞栾树＞桂花＞广玉兰＞水杉＞枫香＞樟树＞鸡爪
+槭＞杜鹃＞红花檵木＞海桐＞石楠＞悬铃木＞枫杨＞女贞。紫薇的叶表累积 PM
+10
+能力显著高于其他植物（P < 0.05）。单位叶面积叶表累积 PM 能力最强的紫薇
+10
+（11.49 ±1.33 μg/cm2）是单位叶面积叶表累积 PM 能力最弱的女贞（2.45 ±0.28
+10
+μg/cm2）的 4.68 倍。各物种蜡质层累积 PM 能力大小：水杉＞杜鹃＞狗牙根＞鸡
+10
+爪槭＞麦冬＞栾树＞石楠＞枫香＞红花檵木＞紫薇＞海桐＞悬铃木＞枫杨＞桂花＞
+女贞＞樟树＞广玉兰。单位叶面积蜡质层累积 PM 能力最强的水杉（7.64 ±0.70
+10
+μg/cm2）是单位叶面积蜡质层累积 PM 能力最弱的广玉兰（2.50 ±0.25 μg/cm2）的
+10
+3.05 倍。各物种叶表累积 PM 能力大小：紫薇＞栾树＞麦冬＞狗牙根＞鸡爪槭＞
+2.5
+杜鹃＞枫香＞水杉＞红花檵木＞海桐＞樟树＞广玉兰＞石楠＞桂花＞悬铃木＞女贞
+＞枫杨。紫薇的叶表累积 PM 能力依然显著高于其他植物（P < 0.05）。单位叶面
+2.5
+积叶表累积 PM 能力最强的紫薇（4.59 ±0.81 μg/cm2）是单位叶面积叶表累积
+2.5
+PM 能力最弱的枫杨（0.73 ±0.15 μg/cm2）的 6.28倍。各物种蜡质层累积 PM 能
+2.5 2.5
+力大小：紫薇＞栾树＞杜鹃＞麦冬＞鸡爪槭＞狗牙根＞水杉＞石楠＞枫香＞樟树＞
+悬铃木＞海桐＞红花檵木＞桂花＞女贞＞枫杨＞广玉兰。单位叶面积蜡质层累积
+PM 能力最强的紫薇（3.71 ±1.05 μg/cm2）是单位叶面积蜡质层累积 PM 能力最
+2.5 2.5
+弱的广玉兰（1.13 ±0.24 μg/cm2）的 3.27倍。
+19
+--- PAGE 31 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+图 7 春季17种植物叶片叶表和蜡质层累积PM能力分析
+Fig. 7 Analysis of cumulative PM capacity in leaf surface and wax layer of 17 plant species in spring
+（3） 公园内外不同植物叶片累积 PM对比分析
+公园内部和外部不同植物的累积PM量分析结果如图 8。对于春季的 17种植物
+总体而言，位于公园外部的植物平均累积 PM 、PM 量显著高于位于公园内部的
+10 2.5
+植物（P < 0.01）。对于单一植物种类而言，除了栾树在公园外部累积 PM 、PM
+10 2.5
+量显著高于公园内部（P < 0.05），紫薇在公园外部累积 PM 量显著高于公园内部
+2.5
+之外（P < 0.05），其余多数植物在公园外部累积 PM 、PM 量均略高于公园内部。
+10 2.5
+但也有部分植物显示出公园内部累积 PM 量高于公园外部的情况。例如桂花、悬铃
+木、枫香、水杉、海桐、狗牙根在公园内部的累积 PM 量（8.87 ±2.02 μg/cm2, 6.21
+10
+±0.27 μg/cm2, 9.15 ±0.59 μg/cm2, 14.00 ±0.77 μg/cm2, 6.96 ±0.79 μg/cm2, 11.46 ±1.25
+μg/cm2）略高于公园外部（8.86 ±1.37 μg/cm2, 5.65 ±0.89 μg/cm2, 7.95 ±0.76 μg/cm2,
+12.08 ±1.37 μg/cm2, 6.82 ±1.12 μg/cm2, 11.38 ±1.21 μg/cm2）；女贞、石楠、悬铃木、
+20
+--- PAGE 32 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+枫香、海桐、狗牙根公园内部累积 PM 量（2.07 ±0.52 μg/cm2, 2.77 ±0.35 μg/cm2,
+2.5
+2.59 ±0.29 μg/cm2, 3.34 ±0.35 μg/cm2, 2.54 ±0.34 μg/cm2, 4.66 ±0.64 μg/cm2）略高于公
+园外部（1.97 ±0.29 μg/cm2, 2.75 ±0.55 μg/cm2, 2.47 ±0.48 μg/cm2, 3.03 ±0.42 μg/cm2,
+2.34 ±0.26 μg/cm2, 4.55 ±0.28 μg/cm2）。
+图 8 春季公园内外不同植物叶片累积PM （上）、PM （下）对比分析
+10 2.5
+Fig. 8 Comparative analysis of cumulative PM (top) and PM (below) in leaves of different plants
+10 2.5
+inside and outside the park in spring
+（4） 不同植物种类叶片累积微量元素数量分析
+分析春季武汉市 17 种公园绿地常见植物叶片累积 PM 中的微量元素可知（图
+9），累积微量元素总量能力大小为：狗牙根＞麦冬＞杜鹃＞悬铃木＞鸡爪槭＞红花
+檵木＞枫香＞海桐＞石楠＞水杉＞紫薇＞女贞＞广玉兰＞枫杨＞桂花＞樟树＞栾树。
+不同植物种类叶片累积不同微量元素能力的差异较为显著。各物种对 Mn 元素
+的累积能力大小为：狗牙根＞鸡爪槭＞杜鹃＞悬铃木＞桂花＞海桐＞枫香＞女贞＞
+紫薇＞麦冬＞枫杨＞广玉兰＞樟树＞红花檵木＞水杉＞栾树＞石楠。单位叶面积累
+21
+--- PAGE 33 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+积Mn元素量最多的狗牙根（285.63 mg/kg）是单位叶面积累积Mn元素量最少的石
+楠（46.50 mg/kg）的6.14倍。
+各物种对 Fe 元素的累积能力大小为：狗牙根＞麦冬＞杜鹃＞悬铃木＞鸡爪槭
+＞枫香＞红花檵木＞石楠＞紫薇＞水杉＞广玉兰＞樟树＞女贞＞海桐＞枫杨＞桂花
+＞栾树。单位叶面积累积 Fe 元素量最多的狗牙根（3571.25 mg/kg）是单位叶面积
+累积Fe元素量最少的栾树（341.25 mg/kg）的10.47倍。
+各物种对 Cu 元素的累积能力大小为：狗牙根＞悬铃木＞红花檵木＞紫薇＞枫
+杨＞麦冬＞鸡爪槭＞水杉＞海桐＞栾树＞桂花＞枫香＞杜鹃＞女贞＞樟树＞广玉兰
+＞石楠。单位叶面积累积 Cu 元素量最多的狗牙根（38.88 mg/kg）是单位叶面积累
+积Cu元素量最少的石楠（10.88 mg/kg）的3.57倍。
+各物种对 Zn 元素的累积能力大小为：海桐＞狗牙根＞麦冬＞紫薇＞女贞＞水
+杉＞栾树＞桂花＞鸡爪槭＞枫杨＞悬铃木＞杜鹃＞樟树＞红花檵木＞枫香＞广玉兰
+＞石楠。单位叶面积累积 Zn元素量最多的海桐（110.63 mg/kg）是单位叶面积累积
+Zn元素量最少的石楠（35.50 mg/kg）的 3.12倍。
+各物种对 As 元素的累积能力大小为：狗牙根＞红花檵木＞杜鹃＞枫香＞悬铃
+木＞麦冬＞鸡爪槭＞樟树＞广玉兰＞海桐＞桂花＞石楠＞枫杨＞紫薇＞栾树＞水杉
+＞女贞。单位叶面积累积 As元素量最多的狗牙根（5.38 mg/kg）是单位叶面积累积
+As元素量最少的女贞（3.25 mg/kg）的 1.65倍。
+各物种对 Ba 元素的累积能力大小为：狗牙根＞悬铃木＞红花檵木＞鸡爪槭＞
+海桐＞麦冬＞枫香＞枫杨＞女贞＞水杉＞杜鹃＞石楠＞桂花＞广玉兰＞樟树＞栾树
+＞紫薇。单位叶面积累积 Ba元素量最多的狗牙根（551.00 mg/kg）是单位叶面积累
+积Ba元素量最少的紫薇（180.50 mg/kg）的3.05倍。
+各物种对Pt元素的累积能力大小为：鸡爪槭＞狗牙根＞悬铃木＞红花檵木＞水
+杉＞桂花＞枫香＞麦冬＞石楠＞广玉兰＞栾树＞樟树＞枫杨＞杜鹃＞紫薇＞海桐＞
+女贞。单位叶面积累积Pt元素量最多的鸡爪槭（22.63 mg/kg）是单位叶面积累积Pt
+元素量最少的女贞（19.63 mg/kg）的1.15倍。
+各物种对 Cd 元素的累积能力大小为：悬铃木＞樟树＞栾树＞枫杨＞石楠＞水
+杉＞杜鹃＞海桐＞紫薇＞麦冬，有 7 种植物在叶片上没有明显的 Cd 元素累积。单
+位叶面积累积 Pt元素量最多的悬铃木（17.67 mg/kg）是单位叶面积累积 Cd元素量
+最少的麦冬（10.00 mg/kg）的1.77倍。
+22
+--- PAGE 34 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+在春季，仅观察到有两种植物在叶片上明显累积了Pb元素，分别为石楠（2.75
+mg/kg）和杜鹃（2.00 mg/kg）。
+5000
+4500
+4000
+3500
+3000
+g
+k
+/g 2500
+m
+2000
+1500
+1000
+500
+0
+Mn Fe Cu Zn As Ba Pt Cd Pb
+图 9 春季17种植物叶片累积不同微量元素能力分析
+Fig. 9 Analysis of the ability of 17 plant species to accumulate different trace elements in leaves in
+spring
+3.1.2 夏季植物叶片累积 PM和微量元素能力分析
+（1） 不同种类植物叶片累积 PM能力分析
+夏季所选17种植物叶片累积PM量的分析结如图 10，不同植物种类滞留PM能
+力的也存在显著差异（P < 0.05）。各物种对 PM 的累积能力大小为：狗牙根＞麦
+10
+冬＞紫薇＞水杉＞海桐＞红花檵木＞杜鹃＞桂花＞鸡爪槭＞枫杨＞枫香＞栾树＞石
+楠＞樟树＞悬铃木＞女贞＞广玉兰。单位叶面积累积 PM 最多的狗牙根（18.10
+10
+±1.34 μg/cm2）是单位叶面积累积 PM 最少的广玉兰（5.14 ±0.43 μg/cm2）的 3.52
+10
+倍。麦冬、狗牙根累积 PM 能力显著高于除紫薇外的 14种植物（P < 0.05），其余
+10
+植物累积 PM 量差异较小。各物种对 PM 的累积能力大小为：水杉＞狗牙根＞麦
+10 2.5
+冬＞紫薇＞红花檵木＞杜鹃＞栾树＞悬铃木＞枫香＞石楠＞桂花＞鸡爪槭＞海桐＞
+樟树＞枫杨＞女贞＞广玉兰。单位叶面积累积 PM 能力最强的水杉（5.55 ±0.75
+2.5
+μg/cm2）是单位叶面积累积 PM 能力最弱的广玉兰（1.86 ±0.19 μg/cm2）的2.98倍。
+2.5
+水杉、狗牙根、麦冬、紫薇四种植物累积 PM 能力显著强于除红花檵木外的其余
+2.5
+植物（P < 0.05），而其余植物累积 PM 能力均无显著差异。
+2.5
+23
+--- PAGE 35 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+根据乔灌草累积 PM 、PM 量的平均值来看（图 11），累积 PM 和 PM 的
+10 2.5 10 2.5
+能力大小均呈现出：草本＞灌木＞乔木。累积能力最强的草本的平均累积 PM 量
+10
+（17.15 ±0.87 μg/cm2）是灌木（8.79 ±0.41 μg/cm2）的 1.95 倍，是乔木（7.96 ±0.35
+μg/cm2）的 2.36 倍，平均累积 PM 量（5.14 ±0.46 μg/cm2）是灌木（3.18 ±0.21
+2.5
+μg/cm2）的 1.62倍，是乔木（2.73 ±0.14 μg/cm2）的 1.88倍。表明在夏季，草本对
+PM 、PM 的累积能力总体依然显著强于灌木和乔木（P < 0.05）。
+10 2.5
+图 10 夏季17种植物叶片累积PM （上）、PM （下）能力
+10 2.5
+Fig. 10 The cumulative PM (top) and PM (below) capacities of 17 plant species in summer
+10 2.5
+24
+--- PAGE 36 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+图 11 夏季乔灌草累积PM均值对比分析
+Fig. 11 Comparative analysis of cumulative PM mean value of shrub and grass in Summer
+（2） 不同种类植物叶片叶表和蜡质层累积 PM能力分析
+夏季 17 种植物叶表和蜡质层内累积的 PM 量分析结果如图 12。不同植物种类
+叶表和蜡质层累积 PM 、PM 能力存在显著差异（P < 0.05）。各物种叶表累积
+10 2.5
+PM 能力大小：狗牙根＞麦冬＞水杉＞紫薇＞桂花＞红花檵木＞鸡爪槭＞海桐＞
+10
+杜鹃＞枫香＞栾树＞石楠＞枫杨＞悬铃木＞樟树＞女贞＞广玉兰。狗牙根、麦冬、
+水杉和紫薇的叶表累积 PM 能力显著高于其他植物（P < 0.05），而其余植物叶表
+10
+累积 PM 能力无显著差异。单位叶面积叶表累积 PM 能力最强的狗牙根（9.53
+10 10
+±0.99 μg/cm2）是单位叶面积叶表累积PM 能力最弱的广玉兰（2.34 ±0.17 μg/cm2）
+10
+的 4.08 倍。各物种蜡质层累积 PM 能力大小：麦冬＞水杉＞狗牙根＞紫薇＞红花
+10
+檵木＞杜鹃＞桂花＞鸡爪槭＞枫香＞樟树＞海桐＞悬铃木＞栾树＞石楠＞女贞＞枫
+杨＞广玉兰。麦冬、水杉、狗牙根和紫薇的蜡质层累积 PM 能力仍然强于其他植
+10
+物（P < 0.05），而其余植物蜡质层累积 PM 能力无显著差异。单位叶面积蜡质层
+10
+累积PM 能力最强的麦冬（8.75 ±0.54 μg/cm2）是单位叶面积蜡质层累积PM 能力
+10 10
+最弱的广玉兰（2.81 ±0.37 μg/cm2）的 3.12倍。各物种叶表累积 PM 能力大小：水
+2.5
+杉＞紫薇＞狗牙根＞麦冬＞桂花＞红花檵木＞栾树＞鸡爪槭＞枫香＞樟树＞悬铃木
+＞石楠＞海桐＞枫杨＞杜鹃＞女贞＞广玉兰。单位叶面积叶表累积 PM 能力最强
+2.5
+的水杉（2.38 ±037 μg/cm2）是单位叶面积叶表累积 PM 能力最弱的广玉兰（0.59
+2.5
+25
+--- PAGE 37 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+±0.07 μg/cm2）的4.02倍。各物种蜡质层累积PM 能力大小：狗牙根＞水杉＞麦冬
+2.5
+＞紫薇＞杜鹃＞红花檵木＞悬铃木＞石楠＞海桐＞枫香＞栾树＞樟树＞鸡爪槭＞广
+玉兰＞枫杨＞桂花＞女贞。单位叶面积蜡质层累积 PM 能力最强的狗牙根（3.41
+2.5
+±0.58 μg/cm2）是单位叶面积蜡质层累积PM 能力最弱的女贞（1.18 ±0.14 μg/cm2）
+2.5
+的2.88倍。
+图 12 夏季17种植物叶片叶表和蜡质层累积PM能力分析
+Fig. 12 Analysis of cumulative PM capacity in leaf surface and waxlayer of 17 plant species in
+summer
+（3） 公园内外不同植物叶片累积 PM对比分析
+夏季公园内部和外部的植物的累积 PM 量分析结果如图 13。对于夏季的 17 种
+植物总体而言，公园外部植物平均累积 PM 、PM 量略高于公园内部。对于单一
+10 2.5
+植物种类而言，多数植物在公园外部累积 PM 、PM 量高于公园内部，例如紫薇、
+10 2.5
+26
+--- PAGE 38 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+狗牙根在公园外部累积 PM 量显著高于公园内部（P < 0.05）。但仍有部分植物显
+2.5
+示出公园内部累积 PM 量高于公园外部的情况。例如广玉兰、女贞、水杉、鸡爪槭、
+麦冬在公园内部的累积 PM 量（5.92 ±0.59 μg/cm2, 6.23 ±0.92 μg/cm2, 15.43 ±1.52
+10
+μg/cm2, 7.58 ±0.38 μg/cm2, 17.45 ±1.64 μg/cm2）略高于公园外部（4.37 ±0.33 μg/cm2,
+5.34 ±0.49 μg/cm2, 14.48 ±1.13 μg/cm2, 7.07 ±0.90 μg/cm2, 14.95 ±1.39 μg/cm2），海桐
+在公园内部累积 PM 量（8.54 ±1.05 μg/cm2）甚至显著高于公园外部（5.37 ±0.38
+10
+μg/cm2）。樟树、广玉兰、女贞、栾树、枫杨、枫香、海桐在公园内部累积 PM 量
+2.5
+（2.54 ±0.24 μg/cm2, 2.18 ±0.27 μg/cm2, 1.99 ±0.38 μg/cm2, 2.79 ±0.23 μg/cm2, 2.27 ±0.31
+μg/cm2, 3.07 ±0.19 μg/cm2, 2.95 ±0.46 μg/cm2）略高于公园外部（2.40 ±0.29 μg/cm2,
+1.54 ±0.13 μg/cm2, 1.78 ±0.19 μg/cm2, 2.70 ±0.19 μg/cm2, 2.10 ±0.35 μg/cm2, 2.31 ±0.58
+μg/cm2, 2.02 ±0.45 μg/cm2）。
+图 13 夏季公园内外不同植物叶片累积PM （上）、PM （下）对比分析
+10 2.5
+Fig. 13 Comparative analysis of cumulative PM (top) and PM (below) in leaves of different plants
+10 2.5
+inside and outside the park in summer
+27
+--- PAGE 39 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+（4）不同植物种类叶片累积微量元素数量分析
+分析夏季武汉市 17 种公园绿地常见植物叶片累积 PM 中的微量元素可知（图
+14），累积微量元素总量能力大小为：狗牙根＞麦冬＞杜鹃＞悬铃木＞鸡爪槭＞红
+花檵木＞石楠＞水杉＞海桐＞枫杨＞广玉兰＞紫薇＞樟树＞枫香＞栾树＞女贞＞桂
+花。
+不同植物种类叶片累积不同微量元素能力的差异较为显著。各物种对 Mn 元素
+的累积能力大小为：狗牙根＞樟树＞杜鹃＞海桐＞鸡爪槭＞悬铃木＞紫薇＞枫杨＞
+麦冬＞女贞＞枫香＞桂花＞广玉兰＞石楠＞栾树＞水杉＞红花檵木。单位叶面积累
+积Mn元素量最多的狗牙根（238.25 mg/kg）是单位叶面积累积Mn元素量最少的红
+花檵木（38.63 mg/kg）的 6.17倍。
+各物种对 Fe 元素的累积能力大小为：狗牙根＞麦冬＞杜鹃＞悬铃木＞石楠＞
+红花檵木＞广玉兰＞鸡爪槭＞水杉＞枫杨＞紫薇＞枫香＞樟树＞女贞＞海桐＞栾树
+＞桂花。单位叶面积累积 Fe 元素量最多的狗牙根（2431.88 mg/kg）是单位叶面积
+累积Fe元素量最少的桂花（383.25 mg/kg）的6.35倍。
+各物种对 Cu 元素的累积能力大小为：狗牙根＞悬铃木＞紫薇＞栾树＞麦冬＞
+红花檵木＞鸡爪槭＞水杉＞海桐＞枫杨＞杜鹃＞枫香＞广玉兰＞樟树＞桂花＞女贞
+＞石楠。单位叶面积累积 Cu 元素量最多的狗牙根（43.25 mg/kg）是单位叶面积累
+积Cu元素量最少的石楠（11.63 mg/kg）的3.72倍。
+各物种对 Zn 元素的累积能力大小为：狗牙根＞麦冬＞海桐＞紫薇＞栾树＞水
+杉＞悬铃木＞杜鹃＞鸡爪槭＞枫杨＞桂花＞女贞＞樟树＞广玉兰＞枫香＞石楠＞红
+花檵木。单位叶面积累积 Zn 元素量最多的狗牙根（98.88 mg/kg）是单位叶面积累
+积Zn元素量最少的红花檵木（34.38 mg/kg）的2.88倍。
+各物种对 As 元素的累积能力大小为：麦冬＞悬铃木＞红花檵木＞狗牙根＞杜
+鹃＞鸡爪槭＞石楠＞樟树＞广玉兰＞水杉＞紫薇＞栾树＞海桐＞枫杨＞枫香＞桂花
+＞女贞。单位叶面积累积As元素量最多的麦冬（5.13 mg/kg）是单位叶面积累积As
+元素量最少的女贞（2.75 mg/kg）的 1.86倍。
+各物种对 Ba 元素的累积能力大小为：狗牙根＞悬铃木＞麦冬＞红花檵木＞海
+桐＞鸡爪槭＞杜鹃＞枫杨＞水杉＞栾树＞桂花＞枫香＞石楠＞樟树＞女贞＞紫薇＞
+广玉兰。单位叶面积累积 Ba元素量最多的狗牙根（570.13 mg/kg）是单位叶面积累
+积Ba元素量最少的广玉兰（198.75 mg/kg）的2.87倍。
+28
+--- PAGE 40 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+各物种对Pt元素的累积能力大小为：狗牙根＞红花檵木＞鸡爪槭＞水杉＞悬铃
+木＞杜鹃＞桂花＞麦冬＞樟树＞栾树＞广玉兰＞枫香＞石楠＞紫薇＞枫杨＞海桐＞
+女贞。单位叶面积累积Pt元素量最多的狗牙根（23.13 mg/kg）是单位叶面积累积Pt
+元素量最少的女贞（17.88 mg/kg）的 1.29倍。
+在夏季仅有 3种植物在叶片上没有明显的 Cd元素累积，其余各物种对 Cd元素
+的累积能力大小为：麦冬＞水杉＞杜鹃＞红花檵木＞石楠＞栾树＞鸡爪槭＞广玉兰
+＞枫香＞海桐＞桂花＞紫薇＞枫杨＞女贞。单位叶面积累积 Cd 元素量最多的麦冬
+（19.00 mg/kg）是单位叶面积累积Cd元素量最少的女贞（10.50 mg/kg）的1.81倍。
+在夏季，仅观察到石楠 1种植物在叶片上明显累积了 Pb元素（3.50 mg/kg）。
+4000
+3500
+3000
+2500
+g
+k 2000
+/g
+m
+1500
+1000
+500
+0
+Mn Fe Cu Zn As Ba Pt Cd Pb
+图 14 夏季17种植物叶片累积不同微量元素能力分析
+Fig. 14 Analysis of the ability of 17 plant species to accumulate different trace elements in leaves in
+summer
+29
+--- PAGE 41 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+3.1.3 秋季植物叶片累积 PM和微量元素能力分析
+（1） 不同种类植物叶片累积 PM能力分析
+由于秋季采样时部分植物叶片已经全部脱落，故秋季分析了所选植物中的 16
+种（除紫薇）进行叶片累积 PM 量的分析，结果如图 15。各物种对 PM 的累积能
+10
+力大小为：狗牙根＞水杉＞麦冬＞海桐＞枫杨＞樟树＞栾树＞鸡爪槭＞杜鹃＞桂花
+＞红花檵木＞女贞＞广玉兰＞石楠＞枫香＞悬铃木。单位叶面积累积 PM 最多的
+10
+狗牙根（60.32 ±15.54 μg/cm2）是单位叶面积累积 PM 最少的悬铃木（11.65 ±1.80
+10
+μg/cm2）的 5.18 倍。各物种对 PM 的累积能力大小为：狗牙根＞水杉＞麦冬＞鸡
+2.5
+爪槭＞杜鹃＞海桐＞女贞＞栾树＞红花檵木＞枫杨＞石楠＞枫香＞樟树＞桂花＞广
+玉兰＞悬铃木。单位叶面积累积 PM 能力最强的狗牙根（11.94 ±2.13 μg/cm2）是
+2.5
+单位叶面积累积 PM 能力最弱的悬铃木（2.62 ±0.42 μg/cm2）的 4.56 倍。总体来
+2.5
+看，狗牙根与水杉累积 PM 、PM 能力均显著强于其他植物（P < 0.05），其余植
+10 2.5
+物累积PM 、PM 能力均无显著差异。
+10 2.5
+根据乔灌草累积 PM 、PM 量的平均值来看（图 16），秋季乔灌草累积 PM
+10 2.5 10
+能力大小有所不同，呈现出：草本＞乔木＞灌木，累积 PM 的能力大小则仍呈现
+2.5
+出：草本＞灌木＞乔木。累积能力最强的草本的平均累积 PM 量（43.98 ±9.05
+10
+μg/cm2）是灌木（17.00 ±1.53 μg/cm2）的 2.59倍，是乔木（18.46 ±1.27 μg/cm2）的
+2.38倍，平均累积PM 量（8.55 ±1.41 μg/cm2）是灌木（3.92 ±0.23 μg/cm2）的2.18
+2.5
+倍，是乔木（3.82 ±0.27 μg/cm2）的2.24倍。结果表明在秋季，草本对 PM 、PM
+10 2.5
+的累积能力总体依然显著强于灌木和乔木（P < 0.05）。
+30
+--- PAGE 42 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+图 15 秋季16种植物叶片累积PM （上）、PM （下）能力
+10 2.5
+Fig. 15 The cumulative PM (top) and PM (below) capacities of 16 plant species in autumn
+10 2.5
+图 16 秋季乔灌草累积PM均值对比分析
+Fig. 16 Comparative analysis of cumulative PM mean value of shrub and grass in autumn
+31
+--- PAGE 43 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+（2） 不同种类植物叶片叶表和蜡质层累积 PM能力分析
+对秋季 16 种植物的叶表和蜡质层累积 PM 量分别进行分析，结果如图 17。各
+物种叶表累积 PM 能力大小：狗牙根＞水杉＞麦冬＞海桐＞广玉兰＞樟树＞红花
+10
+檵木＞栾树＞桂花＞枫香＞枫杨＞女贞＞石楠＞鸡爪槭＞杜鹃＞悬铃木。狗牙根叶
+表累积 PM 能力显著高于除水杉外的其他植物（P < 0.05），而其余植物叶表累积
+10
+PM 能力无显著差异。单位叶面积叶表累积 PM 能力最强的狗牙根（46.40 ±14.90
+10 10
+μg/cm2）是单位叶面积叶表累积 PM 能力最弱的悬铃木（6.79 ±0.88 μg/cm2）的
+10
+6.83 倍。各物种蜡质层累积 PM 能力大小：水杉＞狗牙根＞麦冬＞杜鹃＞鸡爪槭
+10
+＞枫杨＞栾树＞桂花＞女贞＞海桐＞樟树＞石楠＞红花檵木＞枫香＞悬铃木＞广玉
+兰。单位叶面积蜡质层累积 PM 能力最强的水杉（15.28 ±2.20 μg/cm2）是单位叶
+10
+面积蜡质层累积 PM 能力最弱的广玉兰（3.51 ±0.79 μg/cm2）的4.35倍。各物种叶
+10
+表累积 PM 能力大小：狗牙根＞水杉＞麦冬＞海桐＞红花檵木＞栾树＞广玉兰＞
+2.5
+鸡爪槭＞杜鹃＞女贞＞枫香＞樟树＞枫杨＞石楠＞桂花＞悬铃木。狗牙根叶表累积
+PM 能力显著高于其他植物（P < 0.05）。单位叶面积叶表累积 PM 能力最强的狗
+2.5 2.5
+牙根（9.40 ±1.93 μg/cm2）是单位叶面积叶表累积 PM 能力最弱的悬铃木（1.35
+2.5
+±0.23 μg/cm2）的6.98倍。各物种蜡质层累积PM 能力大小：水杉＞狗牙根＞鸡爪
+2.5
+槭＞杜鹃＞女贞＞枫杨＞麦冬＞栾树＞石楠＞海桐＞红花檵木＞桂花＞枫香＞悬铃
+木＞樟树＞广玉兰。单位叶面积蜡质层累积 PM 能力最强的水杉（2.93 ±0.60
+2.5
+μg/cm2）是单位叶面积蜡质层累积 PM 能力最弱的广玉兰（0.70 ±0.11 μg/cm2）的
+2.5
+4.18倍。
+32
+--- PAGE 44 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+图 17 秋季16种植物叶片叶表和蜡质层累积PM能力分析
+Fig. 17 Analysis of cumulative PM capacity in leaf surface and wax layer of 16 plant species in
+autumn
+（3） 公园内外不同植物叶片累积 PM对比分析
+分析秋季公园内部和外部的植物的累积 PM 量，结果如图 18。对于秋季的 16
+种植物总体而言，公园外部植物平均累积 PM 、PM 量均显著高于公园内部（P <
+10 2.5
+0.05）。对于单一植物种类而言，多数植物在公园外部累积 PM 、PM 量高于公园
+10 2.5
+内部。但仍有部分植物显示出公园内部累积 PM 量高于公园外部的情况。例如樟树、
+广玉兰、桂花、悬铃木、鸡爪槭、麦冬在公园内部的累积 PM 量（17.12 ±1.78
+10
+μg/cm2, 17.42 ±2.85 μg/cm2, 17.61 ±3.63 μg/cm2, 11.99 ±2.78 μg/cm2, 17.62 ±5.11 μg/cm2,
+27.97 ±9.68 μg/cm2）略高于公园外部（17.00 ±3.72 μg/cm2, 12.79 ±2.49 μg/cm2, 15.68
+±3.44 μg/cm2, 11.32 ±2.70 μg/cm2, 16.03 ±2.00 μg/cm2, 27.32 ±7.79 μg/cm2）。樟树、广
+玉兰、桂花、水杉、麦冬在公园内部累积 PM 量（3.14 ±0.39 μg/cm2, 2.76 ±0.42
+2.5
+μg/cm2, 3.24 ±0.63 μg/cm2, 11.29 ±2.16 μg/cm2, 5.53 ±1.61 μg/cm2）略高于公园外部
+33
+--- PAGE 45 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+（2.98 ±0.80 μg/cm2, 2.53 ±0.68 μg/cm2, 2.78 ±0.56 μg/cm2, 6.97 ±0.34 μg/cm2, 4.78 ±0.63
+μg/cm2）。
+图 18 秋季公园内外不同植物叶片累积PM （上）、PM （下）对比分析
+10 2.5
+Fig. 18 Comparative analysis of cumulative PM (top) and PM (below) in leaves of different plants
+10 2.5
+inside and outside the park in autumn
+（4） 不同植物种类叶片累积微量元素数量分析
+在秋季，分析了除紫薇外的 16 种研究植物的叶片累积微量元素量，结果如图
+（图 19），累积微量元素总量能力大小为：狗牙根＞麦冬＞鸡爪槭＞杜鹃＞水杉＞
+海桐＞枫香＞广玉兰＞栾树＞悬铃木＞枫杨＞红花檵木＞女贞＞桂花＞石楠＞樟树。
+不同植物种类叶片累积不同微量元素能力的差异较为显著。各物种对 Mn 元素
+的累积能力大小为：狗牙根＞鸡爪槭＞杜鹃＞海桐＞悬铃木＞桂花＞樟树＞麦冬＞
+枫香＞水杉＞枫杨＞广玉兰＞女贞＞红花檵木＞石楠＞栾树。单位叶面积累积 Mn
+元素量最多的狗牙根（254.13 mg/kg）是单位叶面积累积 Mn 元素量最少的栾树
+（36.50 mg/kg）的6.96倍。
+34
+--- PAGE 46 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+各物种对 Fe 元素的累积能力大小为：狗牙根＞麦冬＞鸡爪槭＞水杉＞枫香＞
+杜鹃＞广玉兰＞栾树＞枫杨＞红花檵木＞石楠＞悬铃木＞海桐＞女贞＞樟树＞桂花。
+单位叶面积累积 Fe元素量最多的狗牙根（5010.88 mg/kg）是单位叶面积累积 Fe元
+素量最少的桂花（392.88 mg/kg）的 12.75倍。
+各物种对 Cu 元素的累积能力大小为：狗牙根＞麦冬＞枫杨＞红花檵木＞栾树
+＞桂花＞女贞＞广玉兰＞樟树＞杜鹃＞石楠＞鸡爪槭＞海桐＞水杉＞枫香＞悬铃木。
+单位叶面积累积Cu元素量最多的狗牙根（28.25 mg/kg）是单位叶面积累积Cu元素
+量最少的悬铃木（7.25 mg/kg）的 3.90倍。
+各物种对 Zn 元素的累积能力大小为：狗牙根＞麦冬＞海桐＞悬铃木＞水杉＞
+广玉兰＞桂花＞女贞＞枫杨＞杜鹃＞鸡爪槭＞栾树＞红花檵木＞枫香＞樟树＞石楠。
+单位叶面积累积 Zn元素量最多的狗牙根（96.38 mg/kg）是单位叶面积累积 Zn元素
+量最少的石楠（28.88 mg/kg）的3.34倍。
+各物种对 As 元素的累积能力大小为：狗牙根＞鸡爪槭＞麦冬＞石楠＞水杉＞
+红花檵木＞广玉兰＞桂花＞悬铃木＞枫香＞杜鹃＞樟树＞枫杨＞栾树＞女贞＞海桐。
+单位叶面积累积 As 元素量最多的狗牙根（5.25 mg/kg）是单位叶面积累积 As 元素
+量最少的海桐（2.00 mg/kg）的2.63倍。
+各物种对 Ba 元素的累积能力大小为：海桐＞狗牙根＞鸡爪槭＞杜鹃＞麦冬＞
+桂花＞红花檵木＞水杉＞女贞＞悬铃木＞枫杨＞栾树＞石楠＞枫香＞樟树＞广玉兰。
+单位叶面积累积 Ba 元素量最多的海桐（330.38 mg/kg）是单位叶面积累积 Ba 元素
+量最少的广玉兰（146.38 mg/kg）的 2.26倍。
+各物种对Pt元素的累积能力大小为：桂花＞狗牙根＞鸡爪槭＞红花檵木＞麦冬
+＞樟树＞石楠＞广玉兰＞杜鹃＞水杉＞枫香＞海桐＞栾树＞女贞＞枫杨＞悬铃木。
+单位叶面积累积 Pt 元素量最多的桂花（19.38 mg/kg）是单位叶面积累积 Pt 元素量
+最少的悬铃木（16.13 mg/kg）的1.20倍。
+在秋季有 8种植物在叶片上没有明显的 Cd元素累积，其余各物种对 Cd元素的
+累积能力大小为：红花檵木＞枫杨＞樟树＞桂花＞杜鹃＞麦冬＞海桐＞悬铃木。单
+位叶面积累积Cd元素量最多的红花檵木（13.00 mg/kg）是单位叶面积累积Cd元素
+量最少的悬铃木（9.00 mg/kg）的 1.44倍。
+在秋季，有 11 种植物在叶片上明显累积了 Pb 元素。各物种对 Pb 元素的累积
+能力大小为：石楠＞狗牙根＞枫杨＞红花檵木＞栾树＞广玉兰＞枫香＞水杉＞海桐
+35
+--- PAGE 47 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+＞杜鹃＞鸡爪槭。单位叶面积累积 Pb元素量最多的石楠（4.75 mg/kg）是单位叶面
+积累积Pb元素量最少的鸡爪槭（2.00 mg/kg）的2.38倍。
+7000
+6000
+5000
+4000
+g
+k
+/g
+3000
+m
+2000
+1000
+0
+Mn Fe Cu Zn As Ba Pt Cd Pb
+图 19 秋季16种植物叶片累积不同微量元素能力分析
+Fig. 19 Analysis of the ability of 16 plant species to accumulate different trace elements in leaves in
+autumn
+3.1.4 冬季植物叶片累积 PM和微量元素能力分析
+（1） 不同种类植物叶片累积 PM能力分析
+冬季分析所选植物中的 9种常绿植物进行叶片累积 PM量的分析，结果如图 20。
+各物种对 PM 的累积能力大小为：杜鹃＞麦冬＞红花檵木＞海桐＞桂花＞樟树＞
+10
+广玉兰＞石楠＞女贞。单位叶面积累积 PM 最多的杜鹃（22.65 ±2.44 μg/cm2）是
+10
+单位叶面积累积 PM 最少的女贞（10.20 ±1.35 μg/cm2）的2.22倍。各物种对 PM
+10 2.5
+的累积能力大小为：麦冬＞杜鹃＞红花檵木＞海桐＞樟树＞桂花＞石楠＞女贞＞广
+玉兰。单位叶面积累积 PM 能力最强的麦冬（5.37 ±0.58 μg/cm2）是单位叶面积累
+2.5
+积PM 能力最弱的广玉兰（1.97 ±0.18 μg/cm2）的2.72倍。杜鹃、麦冬累积PM 、
+2.5 10
+PM 能力较强，其余植物累积 PM 、PM 能力均无显著差异。
+2.5 10 2.5
+根据乔灌草累积 PM 、PM 量的平均值来看（图 21）乔灌草累积能力大小则
+10 2.5
+仍呈现出：草本＞灌木＞乔木。累积能力最强的草本的平均累积 PM 量（19.44
+10
+±2.37 μg/cm2）与灌木（18.52 ±1.38 μg/cm2）相差较小，是乔木（11.91 ±0.66 μg/cm2）
+的1.63倍，平均累积 PM 量（5.37 ±0.58 μg/cm2）是灌木（3.88 ±0.37 μg/cm2）的
+2.5
+36
+--- PAGE 48 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+1.38倍，是乔木（2.13 ±0.09 μg/cm2）的2.52倍。结果表明在冬季，草本对PM 、
+10
+PM 的累积能力总体依然显著强于灌木和乔木（P < 0.05）。
+2.5
+图 20 冬季9种植物叶片累积PM （上）、PM （下）能力
+10 2.5
+Fig. 20 The cumulative PM10 (top) and PM2.5 (below) capacity of 9 plant leaves in winter
+图 21 冬季乔灌草累积PM均值对比分析
+Fig. 21 Comparative analysis of cumulative PM mean value of shrub and grass in winter
+37
+--- PAGE 49 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+（2） 不同种类植物叶片叶表和蜡质层累积 PM能力分析
+对冬季 9种常绿植物的叶表和蜡质层累积 PM量分别进行分析，结果如图 22。
+各物种叶表累积 PM 能力无显著差异，能力大小排序为：杜鹃＞海桐＞麦冬＞桂
+10
+花＞樟树＞红花檵木＞广玉兰＞石楠＞女贞。单位叶面积叶表累积 PM 能力最强
+10
+的杜鹃（14.79 ±1.79 μg/cm2）是单位叶面积叶表累积 PM 能力最弱的女贞（8.36
+10
+±1.52 μg/cm2）的1.77倍。各物种蜡质层累积 PM 能力大小：杜鹃＞麦冬＞红花檵
+10
+木＞桂花＞海桐＞石楠＞广玉兰＞女贞＞樟树。杜鹃、麦冬蜡质层滞留 PM 量显
+10
+著高于除红花檵木外的植物，其他 6 种植物蜡质层滞留 PM 能力无显著差异。单
+10
+位叶面积蜡质层累积 PM 能力最强的杜鹃（7.86 ±1.20 μg/cm2）是单位叶面积蜡质
+10
+层累积PM 能力最弱的樟树（1.82 ±0.24 μg/cm2）的4.32倍。各物种叶表累积PM
+10 2.5
+能力大小：麦冬＞红花檵木＞杜鹃＞海桐＞樟树＞广玉兰＞桂花＞女贞＞石楠。单
+位叶面积叶表累积 PM 能力最强的麦冬（3.86 ±0.68 μg/cm2）是单位叶面积叶表累
+2.5
+积 PM 能力最弱的石楠（1.42 ±0.17 μg/cm2）的 2.72倍。各物种蜡质层累积 PM
+2.5 2.5
+能力大小：杜鹃＞红花檵木＞麦冬＞石楠＞樟树＞海桐＞桂花＞女贞＞广玉兰。单
+位叶面积蜡质层累积 PM 能力最强的杜鹃（2.17 ±0.45 μg/cm2）是单位叶面积蜡质
+2.5
+层累积PM 能力最弱的广玉兰（0.39 ±0.13 μg/cm2）的 5.57倍。
+2.5
+38
+--- PAGE 50 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+图 22 冬季9种植物叶片叶表和蜡质层累积PM能力分析
+Fig. 22 Analysis of cumulative PM capacity in leaf surface and wax layer of 9 plant species in winter
+（3） 公园内外不同植物叶片累积 PM对比分析
+分析冬季公园内部和外部的植物的累积 PM量，结果如图 23。对于冬季的 9种
+常绿植物总体而言，公园外部植物平均累积 PM 、PM 量均显著高于公园内部
+10 2.5
+（P < 0.05）。对于单一植物种类而言，绝大多数植物在公园外部累积 PM 、PM 量
+10 2.5
+高于公园内部。例如桂花、海桐公园外部累积 PM 量（18.00 ±2.30 μg/cm2, 20.91
+10
+±1.35 μg/cm2）显著高于公园内部（10.79 ±1.21 μg/cm2, 11.08 ±1.17 μg/cm2）（P <
+0.05）；樟树、桂花、杜鹃在公园外部累积 PM 量（2.83 ±0.22 μg/cm2, 2.56 ±0.13
+2.5
+μg/cm2, 5.90 ±0.18 μg/cm2）显著高于公园内部（1.77 ±0.16 μg/cm2, 1.76 ±0.26 μg/cm2,
+3.29 ±0.45 μg/cm2）（P < 0.05）。但仍有部分植物显示出公园内部累积 PM量高于公
+39
+--- PAGE 51 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+园外部的情况。例如麦冬在公园内部的累积 PM 量（22.87 ±1.59 μg/cm2）高于公
+10
+园外部（16.01 ±3.99 μg/cm2）。广玉兰、麦冬在公园内部累积 PM 量（2.01 ±0.36
+2.5
+μg/cm2, 5.82 ±0.72 μg/cm2）略高于公园外部（1.94 ±0.10 μg/cm2, 4.91 ±0.96 μg/cm2）。
+图 23 冬季公园内外不同植物叶片累积PM （上）、PM （下）对比分析
+10 2.5
+Fig. 23 Comparative analysis of cumulative PM (top) and PM (below) in leaves of different plants
+10 2.5
+inside and outside the park in winter
+（4） 不同种类植物叶片累积微量元素数量分析
+40
+--- PAGE 52 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+在冬季，分析了 9 种常绿植物，结果如图（图 24），累积微量元素总量能力大
+小为：杜鹃＞红花檵木＞麦冬＞海桐＞樟树＞桂花＞广玉兰＞石楠＞女贞。
+不同植物种类叶片累积不同微量元素能力的差异较为显著。各物种对 Mn 元素
+的累积能力大小为：杜鹃＞海桐＞桂花＞樟树＞女贞＞麦冬＞广玉兰＞石楠＞红花
+檵木。单位叶面积累积 Mn 元素量最多的杜鹃（250.75 mg/kg）是单位叶面积累积
+Mn元素量最少的红花檵木（38.00 mg/kg）的6.60倍。
+各物种对 Fe 元素的累积能力大小为：杜鹃＞红花檵木＞麦冬＞广玉兰＞石楠
+＞樟树＞海桐＞桂花＞女贞。单位叶面积累积 Fe 元素量最多的杜鹃（1189.25
+mg/kg）是单位叶面积累积 Fe元素量最少的女贞（360.25 mg/kg）的 3.30倍。
+各物种对 Cu 元素的累积能力大小为：麦冬＞红花檵木＞杜鹃＞樟树＞桂花＞
+女贞＞海桐＞广玉兰＞石楠。单位叶面积累积 Cu 元素量最多的麦冬（22.38 mg/kg）
+是单位叶面积累积 Cu元素量最少的石楠（8.00 mg/kg）的2.80倍。
+各物种对 Zn 元素的累积能力大小为：海桐＞麦冬＞女贞＞杜鹃＞桂花＞广玉
+兰＞红花檵木＞樟树＞石楠。单位叶面积累积 Zn元素量最多的海桐（106.25 mg/kg）
+是单位叶面积累积 Zn元素量最少的石楠（26.75 mg/kg）的3.97倍。
+各物种对 As 元素的累积能力大小为：红花檵木＞杜鹃＞麦冬＞桂花＞广玉兰
+＞樟树＞石楠＞海桐＞女贞。单位叶面积累积 As 元素量最多的红花檵木（5.25
+mg/kg）是单位叶面积累积 As元素量最少的女贞（2.88 mg/kg）的 1.83倍。
+各物种对 Ba 元素的累积能力大小为：红花檵木＞麦冬＞海桐＞杜鹃＞桂花＞
+樟树＞广玉兰＞石楠＞女贞。单位叶面积累积 Ba 元素量最多的红花檵木（483.88
+mg/kg）是单位叶面积累积 Ba元素量最少的女贞（232.88 mg/kg）的2.08倍。
+各物种对Pt元素的累积能力大小为：麦冬＞红花檵木＞樟树＞桂花＞石楠＞广
+玉兰＞杜鹃＞海桐＞女贞。单位叶面积累积Pt元素量最多的麦冬（21.75 mg/kg）是
+单位叶面积累积 Pt元素量最少的女贞（18.88 mg/kg）的1.15倍。
+在冬季有 6 种植物在叶片上有明显的 Cd 元素累积，累积能力大小为：杜鹃＞
+海桐＞樟树＞桂花＞石楠＞女贞。单位叶面积累积 Cd 元素量最多的杜鹃（16.00
+mg/kg）是单位叶面积累积 Cd元素量最少的女贞（9.00 mg/kg）的 1.78倍。
+在冬季，仅有 2种植物在叶片上明显累积了 Pb元素。分别为石楠（2.50 mg/kg）
+和杜鹃（2.00 mg/kg）。
+41
+--- PAGE 53 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+2500
+2000
+1500
+g
+k
+/
+g
+m
+1000
+500
+0
+樟树 广玉兰 桂花 女贞 石楠 海桐 杜鹃 红花继木 麦冬
+Mn Fe Cu Zn As Ba Pt Cd Pb
+图 24 冬季9种植物叶片累积不同微量元素能力分析
+Fig. 24 Analysis of the ability of 9 plant species to accumulate different trace elements in leaves in
+winter
+3.1.5 四季植物叶片累积 PM及微量元素能力对比分析
+（1） 四季植物累积 PM能力对比分析
+受气候条件和植物生长情况变化的影响，植物叶片累积颗粒物能力有很大差异。
+对四季所选植物整体累积颗粒物能力进行分析（图 25），结果显示，秋季植物叶片
+平均累积颗粒物 PM 、PM 量均显著高于其他季节（P < 0.05），分别为 21.28
+10 2.5
+μg/cm2和 4.43 μg/cm2，是平均累积 PM 量最低的夏季（8.88 μg/cm2）的 2.40倍，
+10
+平均累积 PM 量最低的冬季（3.07 μg/cm2）的 1.44 倍。春季和夏季植物叶片平均
+2.5
+累积 PM 、PM 量较为接近。冬季植物平均累积 PM 量（14.95 μg/cm2）显著高
+10 2.5 10
+于春（9.01 μg/cm2）、夏季（8.88 μg/cm2）（P < 0.05），但平均累积 PM 量（3.07
+2.5
+μg/cm2）则与春3.46 μg/cm2）、夏季（3.14 μg/cm2）无显著差异。
+42
+--- PAGE 54 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+图 25 四季植物叶片平均累积PM 、PM 量
+10 2.5
+Fig. 25 Average cumulative PM and PM of plant leaves in four seasons
+10 2.5
+（2） 四季植物累积微量元素能力对比分析
+对四季所选植物整体累积颗粒物能力进行分析（图 26），结果显示，四季植物
+整体累积微量元素能力大小顺序为：春季＞秋季＞冬季＞夏季，植物叶片平均累积
+微量元素量最多的春季（1396.37 mg/kg）是平均累积微量元素最少的夏季
+（1191.66 mg/kg）的 1.17 倍，可见四季植物叶片平均累积微量元素总量相差不多。
+对于单一微量元素而言，累积 Mn 元素最多的季节为冬季（126.22 mg/kg），最少的
+为夏季（92.93 mg/kg）；累积Fe元素最多的季节为秋季（877.57 mg/kg），最少的为
+冬季（650.56 mg/kg）；累积Cu元素最多的季节为春季（22.39 mg/kg），最少的为秋
+季（11.51 mg/kg）；累积 Zn 元素最多的季节为春季（63.77 mg/kg），最少的为秋季
+（53.04 mg/kg）；累积As元素最多的季节为春季（4.20 mg/kg），最少的为秋季（3.27
+mg/kg）；累积 Ba 元素最多的季节为冬季（329.43 mg/kg），最少的为秋季（195.65
+mg/kg）；累积 Pt 元素最多的季节为夏季（21.12 mg/kg），最少的为秋季（17.59
+mg/kg）；累积 Cd 元素最多的季节为夏季（10.91 mg/kg），最少的为秋季（5.52
+mg/kg）；累积 Pb 元素最多的季节为秋季（1.87 mg/kg），最少的为夏季（0.21
+mg/kg）。从四季整体看，所有元素中植物叶片累积最多的为 Fe元素，其次为 Ba元
+素和 Mn元素，最少的元素为 Pb元素。
+43
+--- PAGE 55 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+1600
+1400
+1200
+1000
+g
+k
+/g 800
+m
+600
+400
+200
+0
+春 夏 秋 冬
+Mn Fe Cu Zn As Ba Pt Cd Pb
+图 26 四季植物叶片平均累积微量元素数量
+Fig. 26 Average accumulated trace element quantity in leaves of plants in four seasons
+3.2 降雨对公园绿地常见植物叶片 PM 和微量元素的洗脱效应
+3.2.1 降雨对不同植物叶片 PM洗脱效应量化分析
+为量化研究降雨对植物叶片 PM的洗脱效应，在植物生长季分析了 30 mm人工
+降雨条件下 17种植物降雨前后叶片累积 PM能力的差值（图 27）。结果显示，所有
+植物在人工降雨后叶片PM量均有不同程度的下降。在夏季17种植物中，降雨洗脱
+PM 量的大小顺序为：狗牙根＞麦冬＞桂花＞紫薇＞水杉＞鸡爪槭＞枫香＞杜鹃
+10
+＞樟树＞红花檵木＞栾树＞女贞＞海桐＞石楠＞悬铃木＞广玉兰＞枫杨，洗脱
+PM 量最高的狗牙根（4.97 ±0.39 μg/cm2）是洗脱量最低的枫杨（1.19 ±0.25 μg/cm2）
+10
+的 4.17 倍；降雨洗脱 PM 量的大小顺序为：狗牙根＞水杉＞紫薇＞麦冬＞红花檵
+2.5
+木＞海桐＞枫香＞栾树＞鸡爪槭＞女贞＞杜鹃＞樟树＞石楠＞桂花＞悬铃木＞枫杨
+＞广玉兰，洗脱 PM 量最高的狗牙根（0.87 ±0.08 μg/cm2）是洗脱量最低的广玉兰
+2.5
+（0.13 ±0.04 μg/cm2）的 6.54倍。分析各物种 PM降雨去除率可得（图 28），各物种
+在 30 mm的人工降雨后可直接洗脱叶片 18%~32%的 PM 以及 9%~28%的 PM 。
+10 2.5
+其中，降雨对狗牙根叶片 PM 的洗脱率最高，对水杉的叶片 PM 洗脱率最低；对
+10 10
+海桐叶片 PM 的洗脱率最高，对桂花的叶片 PM 洗脱率最低。
+2.5 2.5
+44
+--- PAGE 56 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+图 27 30mm降雨对17种植物叶片PM的洗脱量
+Fig. 27 PM removal from the leaves of 17 plant species by 30mm rainfall
+图 28 30mm降雨对17种植物叶片PM的洗脱率
+Fig. 28 Removal rate of PM in leaves of 17 plant species by 30mm rainfall
+3.2.2 降雨对不同植物叶片微量元素洗脱效应量化分析
+分析了 30 mm 人工降雨条件下 17 种植物降雨前后叶片累积微量元素的差值
+（图 29）。结果显示，所有植物在人工降雨后叶片微量元素量均有不同程度的下降。
+在夏季 17 种植物中，降雨洗脱微量元素总量的大小顺序为：麦冬＞狗牙根＞杜鹃
+＞鸡爪槭＞红花檵木＞石楠＞水杉＞紫薇＞桂花＞海桐＞枫香＞悬铃木＞栾树＞枫
+杨＞广玉兰＞女贞＞樟树，洗脱总微量元素量最高的麦冬（794 mg/kg）是洗脱量
+最低的樟树（141.5 mg/kg）的5.61倍；降雨对 Mn元素的洗脱量大小排序为：鸡爪
+槭＞狗牙根＞紫薇＞麦冬＞悬铃木＞枫香＞女贞＞海桐＞红花檵木＞樟树＞枫杨＞
+水杉＞桂花＞栾树＞杜鹃＞石楠＞广玉兰，洗脱 Mn 元素量最多的鸡爪槭（65.50
+mg/kg）是最少的广玉兰（4.00 mg/kg）的16.38倍。降雨对Fe元素的洗脱量大小排
+序为：麦冬＞狗牙根＞杜鹃＞水杉＞石楠＞鸡爪槭＞紫薇＞红花檵木＞桂花＞栾树
+45
+--- PAGE 57 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+＞女贞＞广玉兰＞海桐＞悬铃木＞枫香＞樟树＞枫杨，洗脱 Fe 元素量最多的麦冬
+（657.00 mg/kg）是最少的枫杨（37.75 mg/kg）的17.40倍。降雨对Cu元素的洗脱量
+大小排序为：狗牙根＞麦冬＞枫杨＞红花檵木＞栾树＞杜鹃＞桂花＞悬铃木＞海桐
+＞石楠＞女贞＞广玉兰＞水杉＞鸡爪槭＞紫薇＞枫香＞樟树，洗脱 Cu 元素量最多
+的狗牙根（10.00 mg/kg）是最少的樟树（2.75 mg/kg）的3.64倍。降雨对Zn元素的
+洗脱量大小排序为：海桐＞麦冬＞狗牙根＞枫杨＞悬铃木＞枫香＞鸡爪槭＞女贞＞
+石楠＞紫薇＞水杉＞栾树＞樟树＞桂花＞杜鹃＞红花檵木＞广玉兰，洗脱 Zn 元素
+量最多的海桐（21.50 mg/kg）是最少的广玉兰（4.00 mg/kg）的5.38倍。降雨对 As
+元素的洗脱量大小排序为：樟树＞桂花＞广玉兰＞石楠＞悬铃木＞杜鹃＞红花檵木
+＞枫杨＞枫香＞水杉＞紫薇＞麦冬＞狗牙根＞女贞＞栾树＞海桐＞鸡爪槭，洗脱
+As 元素量最多的樟树（1.50 mg/kg）是最少的鸡爪槭（0.50 mg/kg）的 3.00 倍。降
+雨对 Ba 元素的洗脱量大小排序为：红花檵木＞枫杨＞石楠＞鸡爪槭＞麦冬＞枫香
+＞桂花＞广玉兰＞海桐＞悬铃木＞杜鹃＞樟树＞狗牙根＞栾树＞紫薇＞女贞＞水杉，
+洗脱 Ba 元素量最多的红花檵木（106.25 mg/kg）是最少的水杉（25.75 mg/kg）的
+4.13倍。降雨对Pt元素的洗脱量大小排序为：石楠＞栾树＞水杉＞红花檵木＞鸡爪
+槭＞狗牙根＞樟树＞广玉兰＞桂花＞悬铃木＞枫杨＞枫香＞海桐＞杜鹃＞麦冬＞女
+贞＞紫薇，洗脱Pt元素量最多的石楠（1.50 mg/kg）是最少的紫薇（0.75 mg/kg）的
+2.00倍。降雨对Pt元素的洗脱量大小排序为：石楠＞栾树＞水杉＞红花檵木＞鸡爪
+槭＞狗牙根＞樟树＞广玉兰＞桂花＞悬铃木＞枫杨＞枫香＞海桐＞杜鹃＞麦冬＞女
+贞＞紫薇，洗脱Pt元素量最多的石楠（1.50 mg/kg）是最少的紫薇（0.75 mg/kg）的
+2倍。由于 Cd仅在部分植物上有明显的累积，故仅有 3种植物观察到明显的 Cd洗
+脱，分别为紫薇（4.50 mg/kg），樟树（3.00 mg/kg）以及悬铃木（1.00 mg/kg）。Pb
+元素在本次采样的夏季植物叶片未观察到明显累积及洗脱。
+分析植物总体降雨后去除微量元素量占比可得（图 30），植物总体在 30 mm的
+人工降雨后可直接平均洗脱叶片约19%的Mn元素，22.6%的Fe元素，30%的Cu元
+素，16%的Zn元素，18%的As元素，50%的Cd元素，16%的Ba元素以及6%的Pt
+元素。其中，降雨对 Cd元素的洗脱率最高，对 Pt元素的洗脱率最低。
+46
+--- PAGE 58 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+900
+800
+700
+600
+g 500
+k
+/
+g
+m 400
+300
+200
+100
+0
+Mn Fe Cu Zn As Ba Pt Cd Pb
+图 29 30mm降雨对17种植物叶片微量元素的洗脱量
+Fig. 29 Removal of trace elements from leaves of 17 plant species by 30mm rainfall
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Mn Fe Cu Zn As Cd Ba Pt
+洗脱 滞留
+图 30 30mm降雨对17种植物叶片微量元素的洗脱率
+Fig. 30 Removal rate of trace elements in leaves of 17 plant species by 30mm rainfall
+47
+--- PAGE 59 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+3.3 小结与讨论
+3.3.1 小结
+（1）武汉市公园绿地常见植物叶片累积 PM 、PM 量均为秋季最高。对于叶
+10 2.5
+片累积PM 量，四季植物叶片累积量呈现出：秋季（21.28 μg/cm2）＞冬季（14.95
+10
+μg/cm2）＞春季（9.01 μg/cm2）＞夏季（8.88 μg/cm2）的季节特征；对于叶片累积
+PM 量则呈现出：秋季（4.43 μg/cm2）＞春季（3.46 μg/cm2）＞夏季（3.14 μg/cm2）
+2.5
+＞冬季（3.07 μg/cm2）的季节特征。表明植物叶片累积 PM 的季节变化特征受到空
+气污染状况、气候条件、植物生长状况等多重因素影响，具有一定的复杂性。
+（2）对于不同种类植物叶片累积 PM 能力的分析结果表明，不同种类植物叶片
+累积 PM 量具有显著差异，并且这种差异随季节变化而变化。在春季，单位叶面积
+累积PM 和PM 量最多的植物为紫薇，最少的为女贞；在夏季，单位叶面积累积
+10 2.5
+PM 量最多的植物为狗牙根，最少的为广玉兰，单位叶面积累积 PM 量最多的植
+10 2.5
+物为水杉，最少的仍然为广玉兰；在秋季，单位叶面积累积 PM 量和 PM 量最多
+10 2.5
+的植物为狗牙根，最少的为悬铃木；在冬季，单位叶面积累积 PM 量最多的植物
+10
+为杜鹃，最少的为女贞，单位叶面积累积 PM 量最多的植物为麦冬，最少的为广
+2.5
+玉兰。通过不同季节不同种类植物累积 PM 量和PM 量的能力大小排序分析可以
+10 2.5
+发现，累积 PM能力（包括 PM 和 PM ）整体较强的植物有狗牙根、麦冬、紫薇、
+10 2.5
+水杉、杜鹃，较弱的有女贞、广玉兰、悬铃木。 此外，通过四季乔灌草累积 PM 、
+10
+PM 量的平均值来看，春夏冬三季累积 PM 和 PM 的能力大小几乎均呈现出：
+2.5 10 2.5
+草本＞灌木＞乔木的特征，秋季呈现出：草本＞乔木＞灌木的特征，草本累积 PM
+的能力在所有季节都强于灌木和乔木。
+（3）四季叶表累积 PM 量总体高于蜡质层累积 PM 量，表明叶表累积 PM 占叶
+片累积总 PM的大部分。蜡质层累积 PM 占比略高于蜡质层累积 PM 占比。不同
+2.5 10
+种类植物叶表和蜡质层累积 PM 量具有显著差异，这种差异也随季节变化而明显变
+化。在春季，叶表累积 PM 能力最强的为紫薇，最弱的为女贞，而蜡质层累积
+10
+PM 最强的为水杉，最弱的为广玉兰；叶表累积 PM 能力最强的是紫薇，最弱的
+10 2.5
+是枫杨，蜡质层累积 PM 能力最强的仍然为紫薇，最弱的为广玉兰。春季植物蜡
+2.5
+质层累积 PM 量低于叶表累积 PM 量，但累积 PM 量则与叶表持平，甚至略高
+10 10 2.5
+于叶表累积量。在夏季，叶表累积 PM 能力最强的为狗牙根，最弱的为广玉兰，
+10
+48
+--- PAGE 60 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+而蜡质层累积 PM 最强的为水杉，最弱的依然为广玉兰；叶表累积 PM 能力最强
+10 2.5
+的是水杉，最弱的仍为广玉兰，蜡质层累积 PM 能力最强为狗牙根，最弱的为女
+2.5
+贞。夏季植物蜡质层累积 PM 量较春季略有增加，在叶片总累积 PM 量中占比明
+10 10
+显提高；夏季蜡质层累积PM 量较春季略有下降，但占比仍略高于叶表累积PM
+2.5 2.5
+量。在秋季，叶表累积 PM 能力最强的为狗牙根，最弱的为悬铃木，而蜡质层累
+10
+积PM 最强的为水杉，最弱的为广玉兰；叶表累积 PM 能力最强的是狗牙根，最
+10 2.5
+弱的为悬铃木，蜡质层累积 PM 能力最强为水杉，最弱的为广玉兰。秋季植物蜡
+2.5
+质层累积 PM 、PM 量较春、夏季都明显增加，但在叶片总累积 PM 、PM 量
+10 2.5 10 2.5
+中的占比略有下降。在冬季，叶表累积 PM 能力最强的为杜鹃，最弱的为女贞，
+10
+蜡质层累积 PM 最强的仍为杜鹃，最弱的为樟树；叶表累积PM 能力最强的是麦
+10 2.5
+冬，最弱的为石楠，蜡质层累积 PM 能力最强的为杜鹃，最弱的为广玉兰。冬季
+2.5
+植物蜡质层累积 PM 、PM 量较秋季明显下降，且在叶片总累积 PM 、PM 量
+10 2.5 10 2.5
+中的占比略有下降。
+（3） 公园内外植物累积 PM能力比较分析小结
+四季位于公园外部的植物总体累积 PM 、PM 量总体均显著高于位于公园内部
+10 2.5
+的植物。但对于单一植物种类而言，不同季节均存在一些植物在公园内部累积
+PM 和 PM 量高于公园外部的情况，且随季节略有变化。在春季，除桂花、悬铃
+10 2.5
+木、枫香、水杉、海桐、狗牙根叶片累积 PM 量，女贞、石楠、悬铃木、枫香、
+10
+海桐、狗牙根叶片累积 PM 量在公园内部高于公园外部之外，其余植物在公园外
+2.5
+部累积 PM 、PM 量均高于公园内部。在夏季，除广玉兰、女贞、水杉、鸡爪槭、
+10 2.5
+麦冬叶片累积 PM 量，樟树、广玉兰、女贞、栾树、枫杨、枫香、海桐叶片累积
+10
+PM 量在公园内部高于公园外部之外，其余植物在公园外部累积PM 、PM 量均
+2.5 10 2.5
+高于公园内部。在秋季，除樟树、广玉兰、桂花、悬铃木、鸡爪槭、麦冬叶片累积
+PM 量，樟树、广玉兰、桂花、水杉、麦冬叶片累积 PM 量在公园内部高于公园
+10 2.5
+外部之外，其余植物在公园外部累积 PM 、PM 量均高于公园内部。在冬季，除
+10 2.5
+麦冬叶片累积 PM 量，广玉兰、麦冬叶片累积 PM 量在公园内部高于公园外部之
+10 2.5
+外，其余植物在公园外部累积 PM 、PM 量均高于公园内部。
+10 2.5
+（4）对于植物叶片累积微量元素总量而言，累积量最多的季节是春季，最少的
+为夏季，与累积 PM 量情况略有不同。对于植物叶片累积的单一微量元素而言，不
+同微量元素累积量也存在季节变化，总体来看，累积微量元素种类较多的季节为春
+49
+--- PAGE 61 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+季，较少的为秋季。通过四季不同种类植物累积不同微量元素量的能力大小排序分
+析可以发现，累积Mn元素能力较强的植物有狗牙根、杜鹃、海桐；累积Fe元素能
+力较强的植物有狗牙根、麦冬、杜鹃；累积 Cu 元素能力较强的植物有狗牙根、红
+花檵木、麦冬；累积 Zn元素能力较强的植物有海桐、狗牙根、麦冬；累积 As元素
+能力较强的植物有狗牙根、红花檵木、麦冬；累积 Ba 元素能力较强的植物有狗牙
+根、麦冬、红花檵木；不同植物间累积Pt元素量相差较小，累积能力较强的植物有
+鸡爪槭、狗牙根、红花檵木；累积 Cd 元素能力较强的植物有悬铃木、樟树、杜鹃、
+红花檵木；仅有较少植物叶片表面有明显的 Pb 元素积累，且植物种类和累积量随
+着季节有较大变化，总体而言，累积 Pb 元素能力较强的植物有石楠、杜鹃；累积
+微量元素总体能力较强的植物有狗牙根、麦冬、杜鹃。可见，草本和灌木在累积微
+量元素量上仍表现突出。
+（5）夏季植物 30 mm 人工降雨对 17种植物叶片的洗脱效应研究发现，降雨能
+显著减少植物叶片累积 PM量，但这种效应在不同物种间有明显差异。30 mm强度
+人工降雨下，对PM 洗脱量最多的植物为狗牙根，最少的为枫杨；对 PM 洗脱量
+10 2.5
+最多的仍为狗牙根，最少的是广玉兰。该强度人工降雨在夏季可直接洗脱叶片
+18%~32%的 PM 以及 9%~28%的 PM 。其中，降雨对狗牙根叶片 PM 的洗脱率
+10 2.5 10
+最高，对水杉的叶片 PM 洗脱率最低；对海桐叶片 PM 的洗脱率最高，对桂花的
+10 2.5
+叶片PM 洗脱率最低。
+2.5
+（6）降雨对微量元素总量洗脱效果最好的植物有麦冬、狗牙根、杜鹃。对单一
+微量元素而言，降雨对Mn元素洗脱效果的植物有鸡爪槭、狗牙根、紫薇，对Fe元
+素洗脱效果最好的植物有麦冬、狗牙根、杜鹃，对 Cu 元素洗脱效果最好的植物有
+狗牙根、麦冬、枫杨；对 Zn 元素洗脱效果最好的植物有海桐、麦冬、狗牙根；对
+As 元素洗脱效果最好的植物有樟树、桂花、广玉兰；对 Ba 元素洗脱效果最好的植
+物有红花檵木、枫杨、石楠；对Pt元素洗脱效果最好的植物有石楠、栾树、水杉；
+对 Cd 元素洗脱效果最好的植物有紫薇、樟树。植物总体在 30mm 的人工降雨后可
+直接平均洗脱叶片约19%的Mn元素，22.6%的Fe元素，30%的Cu元素，16%的Zn
+元素，18%的As元素，50%的Cd元素，16%的Ba元素以及 6%的Pt元素。其中，
+降雨对Cd元素的洗脱率最高，对 Pt元素的洗脱率最低。
+50
+--- PAGE 62 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+3.3.2 讨论
+（1） 公园绿地常见园林植物降减 PM能力的季节变化
+植物叶片降减 PM 能力受到不同季节植物生长情况、生理特征变化以及气候条
+件、颗粒物污染水平不同的影响，有着明显的季节变化。在本研究中，植物叶片总
+体PM 和PM 的累积量在秋季均略高于其他三个季节。而目前多数研究表明，冬
+2.5 10
+季PM在植物叶片上的积累更多（Cai et al 2017, 2019, Zha et al 2019, Lyu et al 2023），
+因为冬季的空气污染水平通常高于生长季节（Lyu et al 2023）。然而，大多数先前
+的研究集中在 PM 积累的时间变化上，而且大多是在针叶植物上进行的。这些植物
+在PM积累和保留能力方面表现出与阔叶常绿植物不同的特征（Cai et al 2017, Xu et
+al 2018, Chávez-García and González-Méndez 2021, Corada et al 2021）。因此，基于
+主要针对针叶树的研究，得出冬季 PM在叶片上沉积最高的结论是片面的（Xu et al
+2018）。本研究得出的植物叶片累积 PM 量的季节特征并非异常，与 Sgrigna 等
+（2015）先前的研究一致，PM浓度与沉积在植物上的污染物数量之间缺乏相关性不
+是异常现象。Wang 等（2013）研究了西安市一个类似植被条件的地点，发现两种
+落叶植物和一种常绿植物的 PM 在叶片上的积累存在季节变化，所有树种的 PM 累
+积量在春季和秋季都有所增加，而常绿杉木上的 PM 沉积量在秋季和冬季之间没有
+差异。与本研究的条件相似，在该实验的秋冬期也未记录到显著降水。
+植物叶片颗粒物的季节非线性积累受多方面影响。一方面，这种现象可以解释
+为植物在冬季的生理活动较低，特别是在气体交换方面。在空气植物过滤过程中，
+气体交换负责在植物附近创造特定的小气候和空气运动，PM 会被困在植物附近，
+从而更容易积聚在叶片上（Wróblewska and Jeong 2021）。另一方面，在气候较冷
+的地区，冬季 PM 积累减少可能是因为植物叶片上的植物蜡和毛状体的逐渐降解以
+及随后无法再生（Barwise and Kumar 2020）。但在本研究中，某些物种在秋冬过渡
+期间蜡含量增加，表明武汉地区园林植物在秋冬两个季节的代谢和生理活动强于高
+纬度地区。因此，即使蜡/毛的再生受到抑制，它们的降解理论上也不足以阻碍叶
+片对 PM 的吸附。然而，本研究发现尽管大多数被测物种叶片的蜡量在冬季没有减
+少，但蜡中沉积的PM显著减少。这可以归因于蜡在生长季节后可能发生的形态/化
+学变化（Sachse et al 2009），以及蜡质层被疏脂 PM层包裹，该层对亲脂颗粒的深
+层渗透起屏障作用。
+51
+--- PAGE 63 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+除了物种和形态因素外，冬季 PM 积累没有增加的另一个原因可能是落叶植物
+的叶子脱落，仅留下常绿植物可供研究，这也将造成结果的差异。此外，冬季落叶
+将导致公园（以及街道和城市其他地方）绿化密度下降，PM 更易在空气中分散，
+而不是累积在叶片上（Cai et al 2017）。因此，在城市绿地建设中，可考虑在植物
+生长季过后绿地植物的整体 PM 降减效果处于最低水平时，保持适当的常绿植物密
+度，确保对污染排放源的隔离效果，以达到植物周年降减 PM能力的最大化。
+PM 积累的季节变化比传统认为的更复杂。植物形态属性、植被种类组成、地
+理位置、临近排放源和气象条件等因素都可引起 PM 在植被上累积的季节性变化。
+植物不会以连续的方式积累 PM。这一过程被各种环境因素打断，主要是降水和强
+风，这可以去除附着在叶面上的很大一部分污染物（Popek et al 2019）。不同植物
+物种的叶片结构表现出不同的 PM 积累能力，它们可以滞留的最大 PM 负荷量具有
+固有限制（Liu et al 2013）。超过叶片最大负荷量的PM通常会在环境中重新悬浮。
+目前的科学认识尚未充分阐明植物物种、气象条件和 PM 积累动态之间复杂的相互
+作用。因此，即使是在植物生长季节过后，也该考虑常绿植物的生物多样性，在种
+植设计时纳入不同的植物物种并确保其 PM 积累能力相辅相成，从而为全年缓解空
+气污染提供有效的解决方案。
+（2） 城市公园绿地不同植物降减 PM能力的种间差异
+本研究调查了武汉17种最常见公园绿地植物（乔木、灌木和禾草）的PM降减
+能力，这些植物对城市环境的耐受性相对较好。所有被测植物四季降减 PM 能力在
+物种间均有显著差异。这通常可以用叶子的形态特征（例如，叶表粗糙度、绒毛、
+气孔、沟槽、蜡质层等）以及植株的大小形态（高度、胸径、冠幅）的不同来解释
+（Chiam et al 2019, Corada et al 2021）。
+在本研究中，低矮植物（灌木和草）单位叶面积积累 PM 和PM 的能力高于
+2.5 10
+乔木。这与 Cai 等（2017）的结果一致，他们的研究也表明灌木比树木更有效地积
+累 PM。灌木和草本植物的 PM 累积能力强可归因于它们靠近地面，这允许它们不
+仅可以直接从大气中拦截 PM，还能累积那些被降水从乔木上冲走的 PM 和邻近的
+乔木被风吹落以及再悬浮在空气的 PM（Przybysz et al 2020, Steinparzer et al 2023）。
+此外，与高大的乔木物种相比，灌木典型的紧凑和密集的形态可以增强 PM 的保留
+效果（Steinparzer et al 2023）。
+52
+--- PAGE 64 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+叶表和蜡质层滞留能力具有明显的种间差异，且这种差异也受到季节影响。植
+物蜡质层和叶表累积 PM 量依然随着季节而变化，因为植物叶片蜡质层厚度随着生
+长过程不断发生变化（Sgrigna et al 2015）。一般而言叶表滞留的 PM量多于蜡质层。
+蜡质层似乎更易滞留细颗粒物，这与 Sgrigna 等人（2015）的研究结果一致，即细
+颗粒物（占总颗粒物的 40%）比大颗粒物（占总颗粒物的 4%）更频繁地沉积在蜡
+质层中。植物叶表面蜡质对颗粒物吸附是一个固定过程，颗粒物进入蜡质层后不会
+发生再悬浮（Dzierżanowski et al 2011），能够永久的降减空气中的 PM，并且已有
+许多研究表明，蜡质层的厚度和蜡质量与叶片累积 PM 量成正比（Dzierżanowski et
+al 2011, Sæbø et al 2012, Popek et al 2013, Przybysz et al 2014），因此应作为城市绿地
+植物降减 PM效应评估的一个重要参考指标。
+本研究的植物叶片累积 PM 量与以往研究夏季和冬季评估的落叶植物的典型值
+一致（Sæbø et al 2012, Chen et al 2021, Jin et al 2021, Bui et al 2022），累积量超过了
+植物在冬季保留的衰老叶片的积累（Przybysz et al 2019），但仍远低于针叶树物种，
+特别是那些位于高污染地区的物种（Jin et al 2021, Przybysz et al 2014，2019, Zhang
+et al 2022）。针叶树独特的形态特征（灌木状的芽、粗糙的树皮、针鞘、粘稠的分
+泌物）增强了它们从环境中拦截和保留 PM的能力（Liang et al 2016, Xu et al 2018,
+Corada et al 2021, Steinparzer et al 2023）。然而，过量的 PM沉积在植物上可能是有
+害的，叶片上颗粒物浓度升高会对植物生理产生负面影响，在极端条件下可能最终
+导致植物死亡（Sæbø et al 2012, Gawronski et al 2017, Łukowski et al 2018）。长期暴
+露于不断上升的 PM水平会损害针叶树物种对城市空气污染的适应能力（Sæbø et al
+2012, Burkhardt and Pariyar 2014, Gawronski et al 2017）。植物必须处于不妨碍其生
+理功能的 PM 浓度水平，否则将会大大降低植物过滤的可持续性和成本效益，因为
+需要经常更换受损或死亡的植物。然而，相比之下，本研究所研究的植物似乎足够
+有效地积累 PM，尤其是在秋冬这样高污染条件下，这表明它们有可能在不损害其
+健康和生存能力的情况下改善秋冬季空气质量，这些物种应当被纳入改善城市空气
+质量的策略中。
+（3） 植物降减 PM能力的空间差异
+平均而言，本研究的植物在公园外部（即靠近主要交通）生长时积累的 PM 量
+多于在公园内部生长的。这一结果符合常见的规律，即离排放源越近的植物对 PM
+的积累越多（Popek et al 2015）。对于单一植物物种而言，大部分物种在公园外围
+53
+--- PAGE 65 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+生长时 PM 累积量较多，而有些物种在公园内生长时 PM 累积量较多。位置效应对
+PM 沉积的影响很难用物种形态差异来解释，起到决定性因素的是植物所处位置的
+具体环境。在公园内，PM 的来源明显较少，它们排放的污染物比道路交通或工业
+少，但由于各种设施（例如餐馆，停车场甚至有沙坑的游乐场）的存在，在附近生
+长的植物可积累大量的 PM，如公园内的樟树、广玉兰、女贞、麦冬等植物位于户
+外活动和体育锻炼的广场以及便利店、公共洗手间附近。此外，公园内很大一部分
+PM来自自然来源，包括植物和动物残骸、花粉和真菌孢子（Zeb et al 2018, Velasco-
+Jiménez et al 2020）。虽然这些天然PM成分通常被认为危害较小，但它们仍会累积
+到公园内部的植物叶片表面。因此，在规划公园绿化时，也应考虑公园内部的 PM
+来源。公园内的 PM 来源不太可能对城市范围内的空气污染产生重大影响，但对于
+希望公园空气更清洁的游客来说很重要。
+（4） 植物叶片微量元素累积能力差异
+本研究所选植物均表现出不同程度的有毒微量元素累积，这表明植物可以直接
+从空气中累积微量元素，包括重金属（Shahid et al 2017, Przybysz et al 2019, Chen et
+al 2023）。在本研究中，与两种 PM 组分（PM 和 PM ）的研究结果一致，灌木
+10 2.5
+和草本上累积的微量元素总体上多于乔木。由于 PM 是包括微量元素在内的许多污
+染物的重要载体，因此累积 PM 量多的植物往往微量元素量也较高，且微量元素更
+易被吸附到最小的 PM组分上（Deng et al 2006, Przybysz et al 2019, Wang et al 2020）。
+但值得注意的是，所有研究的植物在春季更有效的积累微量元素，这与累积 PM 的
+情况有所不同，因为春季整体累积 PM 量显著低于秋冬季。这可能是由于植物叶片
+会直接吸收空气中的微量元素（Alfani et al 1996, Maisto et al 2004, Mingorance and
+Oliva 2006），因此空气微量元素浓度显著影响植物累积微量元素的效果。春季微
+量元素浓度可能较高（刘佩琪等 2017, 孙淑萍 2012），因此植物更易从空气中累积
+微量元素到叶片表面，基于此，植物叶片也可以作为城市环境中空气特定污染元素
+的生物指标（Tomašević et al 2005）。此外，有些微量元素为植物生长所必需（如
+Cu、Zn、Fe 等），而春季是植物生长代谢最旺盛的时期，植物叶片会吸收大量的微
+量元素运输到植物其他部位用于各种生理活动。入秋后，植物的代谢活动会减弱，
+吸收微量元素能力也随之下降，故叶表微量元素含量也会降低。另外，当环境中某
+些微量元素超过某一临界值时，会对植物产生一定的毒害作用（孙淑萍 2012），
+因此应当注意合理控制环境中的污染物浓度，保障生态系统的稳定性。
+54
+--- PAGE 66 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+（5） 降雨对植物叶片 PM和微量元素的洗脱效应
+植物叶片累积 PM 量会随着时间达到饱和，这会显著降低其累积 PM 的效果
+（Cai et al 2017, Cai et al 2019, Yan et al 2024），而降水会将植物叶片表面的颗粒冲
+走，这是恢复植物颗粒滞留能力的关键（Przybysz et al 2014, Wang et al 2015, Xu et
+al 2017, Weerakkody et al 2018a, Cai et al 2019, Xie et al 2019, Zhang et al 2019, Miao et
+al 2020, Bui et al 2022）。由于野外试验和环境不可预测性的限制，模拟降雨是评估
+降雨对 PM 沉积在叶片上的影响的基本方法（ Weerakkody et al 2018a, Kwak et al
+2023）。本研究结果显示，多数植物在模拟降雨后叶片滞留 PM 量均值显著降低，
+证明降雨对植物叶片累积 PM具有明显的洗脱效应。30 mm模拟降雨可以直接洗脱
+叶片 18%~32%的 PM 以及 9%~28%的 PM ，这与前人的研究结果较为接近
+10 2.5
+（Przybysz et al 2014, Wang H et al 2015, Xu et al 2017, Weerakkody et al 2018a, Zhang
+et al 2019, Jia and Zhou 2020, Corada et al 2021）通过降雨前后各物种叶片 PM各组分
+的差值可以发现，模拟降雨能更有效、更迅速地去除叶片表面较粗（PM ）的 PM
+10
+颗粒，尤其是那些形状规则或有棱角的 PM颗粒（Przybysz et al 2014, Wang H et al
+2015, Weerakkody et al 2018a, Cai et al 2019, Zhang et al 2020, Zhou et al 2020, 2021,
+Chávez-García and González-Méndez 2021, Chen et al 2021, Kwak et al 2023, Xu et al
+2024）。相比之下，细颗粒物（PM ）在叶片表面的粘附更强（Przybysz et al 2014,
+2.5
+Weerakkody et al 2018a, Cai et al 2019） 。这可能是由于较大的颗粒物与叶片表面以
+及水流相互作用的相对接触面积较大，从而更容易受到雨滴的冲刷，且因此不易被
+叶表绒毛、沟槽等微小结构捕获，更容易在降雨过程中被洗脱。细颗粒物则由于粒
+径较小，更易被叶片的微结构捕获，其在叶片表面主要是通过附着和粘附在叶片毛
+状体和叶表的不规则区域，形成一个广泛而密集的接触区域，因此需要较强的降雨
+以及较长的降水时间才能将其洗脱（ Wang H et al 2015, Zhou et al 2020, 2021, Ghosh
+et al 2023）。然而，降雨有时会使 PM分解或溶解，改变颗粒形态，导致 PM在降
+雨事件前后的粒径变化，从而影响降雨对颗粒物的洗脱效果（Cai et al 2019, Zhang
+et al 2019）。
+以往研究表明，阔叶树的 PM降雨去除率比针叶树更高（Jia and Zhou 2020），
+草本的 PM 降雨去除率比乔木更高（Zhou et al 2021），但也存在一些相反的观点
+（Chen et al 2017）。Cai（2019）等人证明粗颗粒物从乔木和灌木上都能有效被洗脱，
+而细颗粒物则更易从乔木上被洗脱。本研究则发现，在模拟降雨条件下，PM 更易
+55
+--- PAGE 67 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+从落叶植物以及灌木和草本上被洗脱，对于常绿植物而言，差异则不明显。此外，
+研究还发现细颗粒物似乎更易从草本植物上被洗脱，这可能是由于低矮的草本植物
+更易累积上层沉降的 PM 以及土壤中的 PM，因此在降雨前其叶片的 PM 累积量较
+高，而降雨对 PM 的去除量与降雨事件前沉积在树叶上的 PM 量相关（Chen et al
+2017, Cai et al 2019）。
+虽然降雨前后植物叶片滞留 PM 量差值越大，表明植物叶片滞留 PM 能力越弱，
+但相应的，植物叶片累积 PM 量越不易达到饱和，并更容易进入新的 PM 滞留—洗
+涤循环，能够降减更多的空气 PM。应当注意 PM 冲刷率并不完全受降雨量控制，
+还应考虑到积累天数和植物的最大 PM 累积能力，而这些则强烈依赖于环境和植物
+本身（Dzierżanowski et al 2011, Sæbø et al 2012）。累积 PM能力通常与滞留 PM能
+力相关，因为二者都受植物生理结构以及叶片微结构的影响，但二者能力并不是越
+强就越利于降减空气颗粒物的降减，因为叶片累积或滞留能力强的植物往往叶表
+PM 不易被降雨洗脱，从而因为叶片累积 PM 达到饱和而难以发挥其降减 PM 的作
+用。因此，在选择物种时应该综合考虑植物的降减 PM 能力，以确定具有较高去除
+空气中的 PM 能力的物种，将植物降减 PM 效应最大化。此外，建议在长期干旱期
+间，在城市条件下使用人工降雨去除植被表面的 PM。
+需要注意的是，模拟降雨的雨滴一般较为清洁，而自然降雨的雨滴往往会携带
+PM，这些PM在截留水分蒸发后会沉积在叶片表面，从而增加PM在叶片的滞留量
+（Wang H et al 2015），因此在未来的研究中应考虑脏雨滴对 PM积累的不可避免的
+影响（Beckett et al 2000, Freer-Smith et al 2005）。此外，模拟降雨是在一个封闭的
+房间内，而自然降雨发生在一个开放的区域，在这个区域内，空气中的 PM 很容易
+被强风扩散。目前尚不清楚强风是增强还是减弱降雨对 PM 去除的影响。因此，需
+要进一步研究强风和暴雨对 PM去除的协同作用（Xu et al 2017）。另外，从叶子表
+面吹出 PM 会使其悬浮在空气中。这会导致大气的再污染（ Wang H et al 2015,
+Zheng and Li 2019, Ghosh et al 2023, Lindén et al 2023）。因此，充分了解叶片表面
+PM 积累、保留、冲洗和再悬浮过程的动力学似乎至关重要。在自然条件下，这些
+过程同时发生，并决定了绿色植物在空气生物过滤中的功能（Cai et al 2017）。这
+些知识对于正确估计城市绿地颗粒物去除总量非常重要。
+当前的文献缺乏关于降雨去除叶片表面 TE 的数据。目前的假设是降雨可以冲
+洗掉含有TE的PM，从而减少其在叶片表面的含量。然而，这一过程的效率随着降
+56
+--- PAGE 68 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+雨强度和持续时间、大气条件、金属的溶解度和叶片表面特征而变化（Xu et al
+2019）。在本研究中，模拟降雨对所有测试的微量元素都具有洗脱能力，尽管效率
+各不相同。目前很难确定这些差异的确切原因，很可能是由于 TE 不同的化学性质，
+植物的特征以及二者的相互作用（Deljanin et al 2016, Shahid et al 2017, He et al 2023,
+Chen et al 2023）。从树叶中去除 TE是一个复杂的过程，这取决于除 PM以外的多
+重因素，还需要进一步的研究。
+57
+--- PAGE 69 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+4 公园绿地常见植物降减 PM 能力的影响因素
+4.1 植物生理形态特征
+4.1.1 植物生理形态特征指标描述
+为研究植物生理特征因素对植物叶片降减 PM 能力的影响，对生长季植物胸径、
+冠幅、高度、冠高、叶面积指数（LAI）等植株空间尺度变量（表 2、表 3）和植物
+叶片单叶面积、蜡质层厚度、气孔密度、气孔长度、沟槽宽度、绒毛密度、绒毛长
+度等叶片结构变量进行了观察、测量和统计（表 4、表 5、图 31~图 39）。
+表 2 17种植物植株空间尺度变量
+Table 2 Plant spatial scale variables of 17 species
+物种 胸径（m） 冠幅（m） 高度（m） 冠高（m）
+樟树 0.49 ±0.37 10.54 ±5.57 10.48 ±3.70 8.98 ±4.57
+广玉兰 0.26 ±0.04 6.61 ±1.12 8.51 ±1.76 6.08 ±1.69
+桂花 0.33 ±0.11 5.83 ±1.86 5.20 ±0.96 4.85 ±0.93
+女贞 0.32 ±0.07 7.03 ±0.88 7.79 ±2.04 6.73 ±2.79
+石楠 0.28 ±0.12 5.47 ±1.08 5.75 ±1.29 5.11 ±1.15
+悬铃木 0.88 ±0.12 15.86 ±4.72 16.39 ±2.21 12.69 ±2.24
+栾树 0.42 ±0.14 11.05 ±1.64 12.44 ±2.5 9.88 ±3.19
+枫杨 0.62 ±0.19 11.47 ±2.48 16.38 ±3.46 12.66 ±3.57
+枫香 0.22 ±0.11 9.24 ±3.10 11.13 ±4.97 8.68 ±4.86
+水杉 0.41 ±0.17 8.85 ±2.42 19.88 ±3.64 16.83 ±3.69
+海桐 0.12 ±0.03 3.88 ±2.07 2.85 ±1.45 2.20 ±1.02
+杜鹃 0.08 ±0.02 1.84 ±0.38 1.19 ±0.06 1.19 ±0.06
+红花檵木 0.08 ±0.03 1.64 ±0.32 0.99 ±0.38 0.99 ±0.38
+紫薇 0.09 ±0.02 1.96 ±0.49 3.8 ±1.56 2.90 ±1.46
+鸡爪槭 0.10 ±0.02 3.85 ±0.67 2.96 ±0.50 1.96 ±0.50
+麦冬 0.25 ±0.05
+狗牙根 0.26 ±0.06
+58
+--- PAGE 70 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+表 3 四季木本植物叶面积指数
+Table 3 LAI of woody plants in four seasons
+植物 LAI
+植物生活型 编号 物种 春季 夏季 秋季 冬季
+01 樟树 1.684 2.018 1.880 1.504
+02 广玉兰 1.999 2.482 1.908 1.530
+常绿乔木 03 桂花 1.686 2.356 1.634 1.448
+04 女贞 1.195 1.631 1.040 1.343
+05 石楠 2.158 2.391 1.522 1.593
+06 悬铃木 2.156 2.268 1.483
+07 栾树 1.920 1.953 1.383
+落叶乔木 08 枫杨 1.824 1.409 1.979
+09 枫香 1.848 1.960 1.534
+10 水杉 1.001 1.275 1.045
+11 海桐 2.110 1.916 1.114 1.422
+常绿灌木 12 杜鹃 1.962 1.972 2.330 1.522
+13 红花檵木 2.187 1.967 1.953 2.130
+14 紫薇 1.589 1.788
+落叶灌木
+15 鸡爪槭 1.754 1.626 0.963
+59
+--- PAGE 71 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+表 4 17种植物叶片微结构特征描述
+Table 4 Description of leaf microstructure of 17 plant species
+科 物种 叶片微结构特征描述
+两面无毛，上表皮光滑，凹陷结构非常浅，下表面有气孔和网状
+樟科 樟树
+沟槽与凸起。
+上表面光滑，有微微波浪起伏，下表面有密集绒毛，气孔周围抬
+木兰科 广玉兰
+高，与周边表皮细胞形成沟状组织。
+叶片厚革质，上表面有微微波浪凸起，下表面密布无规则排列的
+木犀科 桂花
+气孔，上下表面浅沟槽，均无毛。
+叶片无毛，上表面平滑略有起伏、具厚蜡质，下表面褶皱明显，
+木犀科 女贞
+密布沟壑。
+叶片无毛，上表面光滑略有起伏，下表面有多条线状突起浅沟，
+蔷薇科 石楠
+沟壑较多，气孔密集。
+成熟叶无毛，上表面凹凸不平，沟槽明显；下表面气孔附近有褶
+悬铃木科 悬铃木
+皱。
+无患子科 栾树 叶片无毛，上、下表面有密集的条纹沟槽和凸起结构。
+胡桃科 枫杨 成熟叶片光滑无毛，上下表面均有网状浅凸起和稀疏腺体。
+金缕梅科 枫香 上下表面光滑无毛，均有不规则网状凸起和浅褶皱。
+叶片无毛，叶条形，沿中脉有两条较边带稍宽的淡黄色气孔带，
+杉科 水杉 上表面光滑有条带状凸起，下表面有密集不规则条状和点状凸
+起。
+叶革质，两表面有稀疏绒毛，上表面光滑略有起伏，下表面气孔
+海桐花科 海桐
+周围有环状深沟壑。
+叶薄革质，上面近无毛，下面被微柔毛和糙伏毛，上下表面均有
+杜鹃花科 杜鹃
+密集条状沟壑。
+叶革质，两面均有星状毛上表面有网状微凸起，下表面粗糙有沟
+金缕梅科 红花檵木
+壑，密布气孔。
+千屈菜科 紫薇 叶表面革质，无毛、上下表面均有褶皱和密集细条状凸起。
+上下表面均无毛，上表面粗糙有密集网状和条状凸起，下表面光
+槭树科 鸡爪槭
+滑，气孔较多。
+叶革质，叶片光滑无毛，具条状脉，气孔位于叶脉之间呈带状分
+百合科 麦冬 布，形成气孔带，气孔带处的表皮细胞平周壁向外突起呈瘤状形
+成网状沟壑，上表面有带状浅沟壑。
+60
+--- PAGE 72 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+科 物种 叶片微结构特征描述
+叶片无毛，叶表具有不同程度和密度的乳状突起，上下表皮都有
+禾本科 狗牙根 气孔；气孔排列成行与叶的长轴平行；只分布在各叶脉之间，叶
+脉上不见气孔分布。
+表 5 17种植物叶片微结构特征量化指标
+Table 5 Quantitative indices of leaf microstructure characteristics of 17 plant species
+单叶面积 气孔密度 气孔长度 沟槽宽度 绒毛密度（根 绒毛长度
+物种
+（cm2） （个/mm2） （μm） （μm） /mm2） （μm）
+樟树 18.28 ±3.02 257.83 ±43.00 23.00 ±0.97 23.5 ±6.20 -- --
+广玉兰 129.95 ±16.55 183.44 ±61.36 6.07 ±1.06 7.00 ±2.07 392.00 ±72.00 282.00 ±128.00
+桂花 32.62 ±7.10 561.68 ±101.85 6.72 ±1.13 10.08 ±3.42 -- --
+女贞 17.74 ±10.06 258.99 ±37.41 18.25 ±1.21 15.90 ±6.23 -- --
+石楠 44.15 ±9.44 293.84 ±41.33 18.92 ±1.11 13.18 ±5.15 -- --
+悬铃木 159.70 ±30.47 284.54 ±58.67 8.92 ±2.11 11.80 ±3.40 -- --
+栾树 27.14 ±4.69 887.81 ±150.13 7.67 ±1.34 8.22 ±4.03 -- --
+枫杨 23.23 ±7.51 249.03 ±43.59 9.29 ±2.17 88.58 ±28.17 -- --
+枫香 53.98 ±5.57 777.25 ±116.52 7.76 ±1.15 158.8 ±22.77 -- --
+水杉 0.23 ±0.02 144.06 ±29.01 17.70 ±1.05 100.65 ±22.09 -- --
+海桐 16.62 ±1.93 289.19 ±47.03 13.46 ±1.15 13.70 ±5.20 38.52 ±2.16 66.34 ±20.26
+杜鹃 4.51 ±1.10 318.23 ±57.75 8.49 ±0.82 8.25 ±3.11 1.94 ±1.06 833.85 ±192.55
+红花檵木 2.95 ±0.18 421.59 ±99.92 10.42 ±0.99 17.98 ±4.94 7.59 ±2.92 612.19 ±222.89
+紫薇 8.86 ±1.49 424.47 ±167.92 10.88 ±2.30 6.85 ±3.75 -- --
+鸡爪槭 8.01 ±1.59 1016.23 ±82.85 6.35 ±1.81 15.48 ±5.85 -- --
+麦冬 1.14 ±0.35 69.36 ± 17.81 12.89 ±1.08 29.25 ±14.26 -- --
+狗牙根 0.51 ±0.04 74.82 ±56.40 13.63 ±1.92 63.90 ±46.81 -- --
+61
+--- PAGE 73 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+图 31 春季植物叶片蜡质层含量
+Fig. 31 Wax layer content of plant leaves in spring
+图 32 夏季植物叶片蜡质层含量
+Fig. 32 Wax layer content of plant leaves in summer
+图 33 秋季植物叶片蜡质层含量
+Fig. 33 Wax layer content of plant leaves in autumn
+62
+--- PAGE 74 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+图 34 冬季植物叶片蜡质层含量
+Fig. 34 Wax layer content of plant leaves in winter
+63
+--- PAGE 75 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+图 35 17种植物叶片表面微结构扫描电镜图像一
+A:樟树；B:广玉兰；C:桂花；D:女贞；1:叶片上表面；2:叶片下表面
+Fig. 35 SEM images of surface microstructure of 17 plant species 1
+A: Camphora officinarum; B: Magnolia grandiflora; C: Osmanthus fragrans; D: Ligustrum lucidum;1:
+Adaxial; 2: Abaxial
+64
+--- PAGE 76 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+图 36 17种植物叶片表面微结构扫描电镜图像二
+E:石楠；F:悬铃木；G:栾树；H:枫杨；
+1:叶片上表面；2:叶片下表面
+Fig. 36 SEM images of surface microstructure of 17 plant species 2
+E: Photinia serrulate; F: Platanus acerifolia; G: Koelreuteria paniculata; H: Pterocarya stenoptera; 1:
+Adaxial; 2: Abaxial
+65
+--- PAGE 77 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+图 37 17种植物叶片表面微结构扫描电镜图像三
+I:枫香；J:水杉；K:海桐；L:杜鹃；
+1:叶片上表面；2:叶片下表面
+Fig. 37 SEM images of surface microstructure of 17 plant species 3
+I: Liquidambar formosana; J: Metasequoia glyptostroboides; K: Pittosporum tobira; L: Rhododendron
+simsii; 1: Adaxial; 2: Abaxial
+66
+--- PAGE 78 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+图 38 17种植物叶片表面微结构扫描电镜图像四
+M:红花檵木；N:紫薇；O:鸡爪槭；P:麦冬；
+1:叶片上表面；2:叶片下表面
+Fig. 38 SEM images of surface microstructure of 17 plant species 4
+M: Loropetalum chinense; N: Lagerstroemia indica; O: Acer palmatum; P: Ophiopogon japonicus;1:
+Adaxial; 2: Abaxial
+67
+--- PAGE 79 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+图 39 17种植物叶片表面微结构扫描电镜图像五
+Q:狗牙根；
+1:叶片上表面；2:叶片下表面
+Fig. 39 SEM images of surface microstructure of 17 plant species 5
+Q: Cynodon dactylon;
+1: Adaxial; 2: Abaxial
+4.1.2 植物生理特征因素对植物叶片累积 PM的影响
+（1）植物生理特征因素与植物叶片累积 PM的相关性分析
+将各变量与叶片累积 PM 、PM 量进行相关性分析（图 40）。结果显示，植
+10 2.5
+物生理特征因素对植株叶片累积 PM 能力具有一定影响。生长季各物种叶片累积
+PM 量与植株冠幅、树高、冠高、LAI 这四个植株空间尺度变量有显著相关性（P
+10
+< 0.01），而仅与叶片微结构中的沟槽宽度变量具有显著相关性（P < 0.01）；叶片累
+积 PM 量仅与树高、冠高、LAI 三个植株空间尺度变量和沟槽宽度一个叶片微结
+2.5
+构变量具有显著相关性（P < 0.01）。
+68
+--- PAGE 80 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+图 40 植物生理特征因素与植物生长季叶片累积PM能力的Mantel相关性分析
+Fig. 40 Mantel correlation analysis between plant trait factors and cumulative PM capacity of plant
+leaves during the growing season
+（2）植物生理特征因素对植物叶片累积 PM能力影响的回归模型
+a. 春季
+以植物生理特征因子为自变量，春季植物叶片累积 PM 量、PM 为因变量分
+10 2.5
+别建立线性回归模型，结果如表 6 所示。春季植物叶片累积 PM 量与植物生理特
+10
+征因子建立的回归模型为 Y=1.107-0.388*Ln 冠幅+0.462*Ln 树高+0.141*Ln 蜡质层
+厚度-0.223*Ln 气孔长度-0.184*Ln 胸径-0.076*Ln 沟槽宽度-0.002 单叶面积（P <
+0.01）。从模型标准化系数大小可知，影响春季植物叶片累积 PM 量的植物生理特
+10
+征因素按影响大小排序为树高、冠幅、胸径、气孔长度、蜡质层厚度、沟槽宽度、
+单叶面积，春季植物叶片累积 PM 量与树高、蜡质层厚度呈现正相关关系，而与
+10
+冠幅、气孔长度、胸径、沟槽宽度和单叶面积呈负相关关系；春季植物叶片累积
+PM 量与植物生理特征因子建立的回归模型为 Y=-0.361*Ln冠幅+0.234*Ln蜡质层
+2.5
+厚度-0.338*Ln 气孔长度+0.215*Ln 树高（P < 0.01），影响春季植物叶片累积 PM
+2.5
+量的植物生理特征因素按影响大小排序为冠幅、树高、蜡质层厚度、气孔长度，春
+69
+--- PAGE 81 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+季植物叶片累计 PM 量与蜡质层厚度、树高呈正相关关系，而与冠幅、气孔长度
+2.5
+呈负相关关系。
+表 6 春季植物生理特征因素与植物叶片累积PM量回归模型
+Table 6 Regression model of plant trait factors and cumulative PM of plant leaves in spring
+模型 未标准化系数 标准错误 标准化系数 t 显著性 R2 调整后R2
+B Beta
+（常量） 1.107 0.369 2.996 0.003
+Ln冠幅 -0.388 0.083 -1.257 -4.670 0.000
+Ln树高 0.462 0.081 1.519 5.687 0.000
+Ln蜡质层厚度 0.141 0.050 0.217 2.804 0.006
+PM 0.381 0.347
+10
+Ln气孔长度 -0.223 0.075 -0.230 -2.982 0.003
+Ln胸径 -0.184 0.083 -0.563 -2.202 0.029
+Ln沟槽宽度 -0.076 0.033 -0.191 -2.344 0.021
+单叶面积 -0.002 0.001 -0.180 -2.014 0.046
+（常量） 0.454 0.248 1.836 0.069
+Ln冠幅 -0.361 0.084 -0.995 -4.317 0.000
+PM Ln蜡质层厚度 0.234 0.058 0.306 4.005 0.000 0.297 0.276
+2.5
+Ln气孔长度 -0.338 0.089 -0.296 -3.803 0.000
+Ln树高 0.215 0.082 0.603 2.625 0.010
+b. 夏季
+以植物生理特征因子为自变量，夏季植物叶片累积 PM 量、PM 为因变量分
+10 2.5
+别建立线性回归模型，结果如表 7 所示。夏季植物叶片累积 PM 量与植物生理特
+10
+征 因 子 建 立 的 回 归 模 型 为 Y=1.804-0.449*Ln 冠 幅+0.277*Ln 冠 高-0.256
+LAI+0.108*Ln蜡质层厚度+0.090*Ln气孔密度（P < 0.01）。影响夏季植物叶片累积
+PM 量的植物生理特征因素按影响大小排序为冠幅、冠高、LAI、蜡质层厚度、气
+10
+孔密度，夏季植物叶片累积 PM 量与冠高、蜡质层厚度、气孔密度呈现正相关关
+10
+系，而与冠幅、LAI 呈负相关关系；夏季植物叶片累积 PM 量与植物生理特征因
+2.5
+子建立的回归模型为 Y=1.510-0.343*Ln冠幅+0.244*Ln冠高-0.178 LAI（P < 0.01），
+影响夏季植物叶片累积 PM 量的植物生理特征因素按影响大小排序为冠幅、冠高、
+2.5
+LAI，夏季植物叶片累计PM 量与冠高呈正相关关系，而与冠幅、LAI呈负相关关
+2.5
+系。
+70
+--- PAGE 82 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+表 7 夏季植物生理特征因素与植物叶片累积PM量回归模型
+Table 7 Regression model of plant trait factors and cumulative PM of plant leaves in summer
+模型 未标准化系数 标准化系数 t 显著性 R2 调整后R2
+B 标准错误 Beta
+（常量） 1.804 0.289 6.234 0.000
+Ln冠幅 -0.449 0.062 -1.411 -7.200 0.000
+Ln冠高 0.277 0.059 0.841 4.672 0.000
+PM 0.611 0.596
+10
+LAI -0.256 0.062 -0.265 -4.159 0.000
+Ln蜡质层厚度 0.108 0.037 0.161 2.918 0.004
+Ln气孔密度 0.090 0.043 0.150 2.081 0.039
+（常量） 1.510 0.143 10.580 0.000
+Ln冠幅 -0.343 0.074 -1.026 -4.648 0.000
+PM 0.301 0.285
+2.5
+Ln冠高 0.244 0.073 0.703 3.330 0.001
+LAI -0.178 0.084 -0.175 -2.113 0.036
+c. 秋季
+以植物生理特征因子为自变量，秋季植物叶片累积 PM 量、PM 为因变量分
+10 2.5
+别建立线性回归模型，结果如表 8 所示。秋季植物叶片累积 PM 量与植物生理特
+10
+征因子建立的回归模型为 Y=3.445-0.637*Ln 冠幅+0.541*Ln 树高-0.003 单叶面积-
+0.254 LAI（P < 0.01）。影响秋季植物叶片累积 PM 量的植物生理特征因素按影响
+10
+大小排序为冠幅、树高、单叶面积、LAI，秋季植物叶片累积PM 量与树高呈现正
+10
+相关关系，而与冠幅、单叶面积、LAI 均呈负相关关系；秋季植物叶片累积 PM
+2.5
+量与植物生理特征因子建立的回归模型为 Y=1.001-0.47*Ln 冠幅+0.3*Ln 树高
++0.146*Ln 蜡质层厚度+0.104*Ln 沟槽宽度（P < 0.01），影响秋季植物叶片累积
+PM 量的植物生理特征因素按影响大小排序为冠幅、树高、沟槽宽度、蜡质层厚
+2.5
+度，秋季植物叶片累计 PM 量与树高、蜡质层厚度、沟槽宽度呈正相关关系，而
+2.5
+与冠幅呈负相关关系。
+71
+--- PAGE 83 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+表 8 秋季植物生理特征因素与植物叶片累积PM量回归模型
+Table 8 Regression model of plant trait factors and cumulative PM of plant leaves in autumn
+模型 未标准化系数 标准化系数 t 显著性 R2 调整后R2
+B 标准错误 Beta
+PM （常量） 3.445 0.164 20.949 0.000 0.401 0.382
+10
+Ln冠幅 -0.637 0.106 -1.431 -5.985 0.000
+Ln树高 0.541 0.102 1.240 5.292 0.000
+单叶面积 -0.003 0.001 -0.221 -2.853 0.005
+LAI -0.254 0.102 -0.188 -2.494 0.014
+PM （常量） 1.001 0.272 3.684 0.000 0.392 0.372
+2.5
+Ln冠幅 -0.470 0.109 -1.166 -4.298 0.000
+Ln树高 0.300 0.106 0.759 2.83 0.005
+Ln蜡质层厚度 0.146 0.06 0.171 2.425 0.017
+Ln沟槽宽度 0.104 0.045 0.194 2.307 0.023
+d.冬季
+以植物生理特征因子为自变量，冬季植物叶片累积 PM 量、PM 为因变量分
+10 2.5
+别建立线性回归模型，结果如表 9 所示。冬季植物叶片累积 PM 量与植物生理特
+10
+征因子建立的回归模型为 Y=-0.208*Ln 冠幅+0.276*Ln 气孔密度（P < 0.01）。影响
+冬季植物叶片累积 PM 量的植物生理特征因素按影响大小排序为冠幅、气孔密度，
+10
+冬季植物叶片累积 PM 量与气孔密度呈现正相关关系，而与冠幅呈负相关关系；
+10
+冬季植物叶片累积 PM 量与植物生理特征因子建立的回归模型为 Y=0.799-
+2.5
+0.320*Ln冠幅+0.130*Ln蜡质层厚度（P < 0.01），影响冬季植物叶片累积 PM 量的
+2.5
+植物生理特征因素按影响大小排序为冠幅、蜡质层厚度，冬季植物叶片累计 PM
+2.5
+量与蜡质层厚度呈正相关关系，而与冠幅呈负相关关系。
+72
+--- PAGE 84 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+表 9 冬季植物生理特征因素与植物叶片累积PM量回归模型
+Table 9 Regression model of plant trait factors and cumulative PM of plant leaves in winter
+模型 未标准化系数 标准化系数 t 显著性 R2 调整后R2
+B 标准错误 Beta
+PM （常量） 1.286 0.685 1.876 0.065 0.303 0.283
+10
+Ln冠幅 -0.208 0.041 -0.511 -5.079 0.000
+Ln气孔密度 0.276 0.120 0.231 2.295 0.025
+PM （常量） 0.799 0.265 3.014 0.004 0.504 0.489
+2.5
+Ln冠幅 -0.320 0.039 -0.696 -8.193 0.000
+Ln蜡质层厚度 0.130 0.060 0.186 2.185 0.032
+4.1.3 植物生理形态特征因素对降雨洗脱植物叶片 PM效应的影响
+（1）植物生理特征因素与降雨洗脱叶片PM量相关性分析
+将各变量与降雨去除叶表的 PM 、PM 量进行相关性分析（图 41）。结果显
+10 2.5
+示，植物生理特征因素对植株叶片累积 PM 能力具有一定影响。生长季降雨对各物
+种叶片 PM 量的去除效果与冠幅变量有弱显著相关性（P < 0.01），与 LAI 变量具
+10
+有较强显著相关性（P < 0.01，r≥0.4），与沟槽宽度变量具有弱显著相关性（P <
+0.05）。降雨对各物种叶片 PM 量的去除效果与冠幅、冠高、沟槽宽度具有弱显著
+2.5
+相关性（P < 0.05），与树高具有弱中等显著相关性（P < 0.01），与 LAI有较强显著
+相关性（P < 0.01，r＞0.2）。
+73
+--- PAGE 85 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+图 41 植物生理特征因素与降雨洗脱植物叶片PM量的Mantel相关性分析
+Fig. 41 Mantel correlation analysis between plant trait factors and PM amount of plant leaves removed
+by precipitation
+（2）植物生理特征因素对植物叶片降雨洗脱PM效应的影响的回归模型
+以植物生理特征因子为自变量，降雨洗脱植物叶片 PM 、PM 量为因变量分
+10 2.5
+别建立线性回归模型，结果如表 10所示。降雨洗脱植物叶片 PM 量与植物生理特
+10
+征因子建立的回归模型为 Y=1.511-0.152*Ln冠幅-0.401*LAI（P < 0.01）。影响降雨
+洗脱植物叶片PM 量的植物生理特征因素按影响大小排序为冠幅、LAI，降雨洗脱
+10
+植物叶片PM 量与冠幅和LAI均呈负相关关系；降雨洗脱植物叶片PM 量与植物
+10 2.5
+生理特征因子建立的回归模型为 Y=-0.609-0.249*Ln 冠幅+0.210*Ln 沟槽宽度（P <
+0.01），影响降雨洗脱植物叶片 PM 量的植物生理特征因素按影响大小排序为冠幅、
+2.5
+沟槽宽度，降雨洗脱植物叶片 PM 量与沟槽宽度呈正相关关系，而与冠幅呈负相
+2.5
+关关系。
+74
+--- PAGE 86 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+表 10 植物生理特征因素与降雨洗脱叶片PM量的回归模型
+Table 10 Regression model of plant trait factors and PM removal from leaves by precipitation
+模型 未标准化系数 标准化系数 t 显著性 R2 调整后R2
+B 标准错误 Beta
+PM （常量） 1.511 0.189 7.991 0.000 0.472 0.456
+10
+Ln冠幅 -0.152 0.041 -0.405 -3.732 0.000
+LAI -0.401 0.116 -0.374 -3.444 0.001
+PM （常量） -0.609 0.141 -4.335 0.000 0.273 0.251
+2.5
+Ln冠幅 -0.249 0.064 -0.414 -3.884 0.000
+Ln沟槽宽度 0.210 0.083 0.269 2.522 0.014
+4.2 环境与气象因素
+城市绿地降减空气 PM 过程是一个复杂的动态过程，受到多种气象因素的影响，
+为探究环境与气象因素对城市绿地植物叶片降减 PM 的影响，对四季植物叶片累积
+PM 、PM 量与背景PM 、PM 浓度、温度、湿度、风速变量进行了相关性分析，
+10 2.5 10 2.5
+结果如图 42。
+在春季，植物叶片累积 PM 量与温度、湿度具有显著正相关关系，而叶片累
+10
+积 PM 量仅与湿度呈显著正相关。夏季植物叶片累积 PM 量与风速、背景 PM
+2.5 10 10
+浓度呈显著正相关，累积 PM 量与背景 PM 浓度、PM 浓度呈显著正相关。在
+2.5 10 2.5
+秋季，植物叶片累积 PM 和 PM 量均与温度、湿度呈显著正相关，与其他环境气
+10 2.5
+象因子无显著相关关系。在冬季，叶片累积 PM 量仅与温度呈显著正相关，而叶
+10
+片累积 PM 量则与温度、湿度呈显著正相关。
+2.5
+综上可见，环境与气象变量对四季植物叶片累积 PM 量具有不同程度的影响。
+总体来看，温度对四季叶片累积 PM 量均具有显著影响，在各季节均呈现温度越高
+累积 PM 量越高的正相关关系。而 PM 背景浓度在各季节周期内对叶片累积 PM 量
+无显著相关关系。
+75
+--- PAGE 87 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+图 42 环境与气象因素和四季植物叶片累积PM量的Mantel相关性分析
+Fig. 42 Mantel correlation analysis of environmental and meteorological factors and cumulative PM of
+plant leaves in four seasons
+4.3 地理位置因素
+植物降减 PM 量不仅会受到其自身生理特征因素和环境气象因素的影响，其所
+处地理位置城市空气颗粒物污染状况的不同，对其降减 PM 量也存在一定程度的影
+响。为了研究地理因素对植物叶片降减 PM 量的影响，对四季植物叶片累积 PM 量
+和植物与水体距离、与污染源距离两个地理因素进行了相关性分析（图 43）。结果
+显示，植物与污染源距离对春季、冬季植物叶片累积 PM 、PM 量均呈现显著负
+10 2.5
+相关关系，而在夏季和秋季则无显著相关关系。植物与水体距离仅对冬季植物叶片
+累积PM 量具有显著正相关关系，而与其他季节植物累积 PM量无显著相关。
+10
+76
+--- PAGE 88 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+图 43 地理位置因素与植物叶片累积PM量的相关性矩阵
+Fig. 43 Correlation matrix between geographical location factors and cumulative PM of plant leaves
+4.4 多因素对植物叶片累积 PM 能力综合影响的回归模型建立
+4.4.1 春季多因素对植物叶片累积 PM 能力综合影响的回归模型
+分别以春季植物叶片累积 PM 、PM 量作为因变量，以植物生理特征因素、
+10 2.5
+环境气象因素与地理位置因素作为自变量纳入逐步回归模型。得到如表 11 所示模
+型。春季植物叶片累积 PM 量与植物生理特征因素、环境气象因素与地理位置多
+10
+因素建立的回归模型为 Y=-0.259*Ln 冠幅+0.385*Ln 冠高-0.247*Ln 气孔长度
++1.005*LnPM 浓度-0.216*Ln胸径+0.109*Ln风速-0.003单叶面积-0.07Ln沟槽宽度
+2.5
++0.085Ln与水体距离（P < 0.01）。从模型标准化系数大小可知，影响春季植物叶片
+累积 PM 量的因子按影响大小排序为树高、冠幅、胸径、单叶面积、气孔长度、
+10
+风速、PM 浓度、与水体距离、沟槽宽度。春季植物叶片累积 PM 量与树高、
+2.5 10
+PM 浓度、风速、与水体距离呈现正相关关系，而与冠幅、气孔长度、胸径、单
+2.5
+叶面积、沟槽宽度呈负相关关系；春季植物叶片累积 PM 量与植物生理特征因素、
+2.5
+环境气象因素与地理位置多因素建立的回归模型为Y=-0.281*Ln气孔长度+0.193*Ln
+蜡质层厚度+0.283*Ln 树高-0.261*Ln 胸径-2.073*Ln 湿度+1.461*LnPM 浓度
+2.5
++0.092*Ln风速（P < 0.01），影响春季植物叶片累积 PM 量的因子按影响大小排序
+2.5
+为树高、胸径、湿度、蜡质层厚度、气孔长度、PM 浓度、风速，春季植物叶片
+2.5
+累计 PM 量与蜡质层厚度、树高、PM 浓度、风速呈正相关关系，而与胸径、气
+2.5 2.5
+孔长度、湿度呈负相关关系。
+77
+--- PAGE 89 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+表 11 春季多因素对植物叶片累积PM 能力综合影响的回归模型
+Table 11 Regression model of comprehensive effects of multiple factors on cumulative PM capacity of
+plant leaves in spring
+模型 未标准化系数 标准化系数 t 显著性 R2 调整后R2
+B 标准错误 Beta
+PM （常量） -2.217 1.622 -1.367 0.174
+10
+Ln冠幅 -0.259 0.086 -0.840 -3.013 0.003
+Ln树高 0.385 0.080 1.267 4.792 0.000
+Ln气孔长度 -0.247 0.072 -0.254 -3.412 0.001
+Ln胸径 -0.216 0.082 -0.663 -2.649 0.009
+0.438 0.398
+LnPM 1.005 0.395 0.187 2.547 0.012
+2.5
+单叶面积 -0.003 0.001 -0.306 -3.768 0.000
+Ln沟槽宽度 -0.070 0.032 -0.175 -2.209 0.029
+Ln风速 0.109 0.039 0.199 2.828 0.005
+Ln与水体距离 0.085 0.033 0.184 2.586 0.011
+PM （常量） 2.614 2.513 1.040 0.300
+2.5
+Ln冠幅 -0.159 0.095 -0.439 -1.670 0.097
+Ln气孔长度 -0.281 0.083 -0.246 -3.405 0.001
+Ln蜡质层厚度 0.193 0.055 0.253 3.538 0.001
+Ln树高 0.283 0.085 0.793 3.333 0.001 0.431 0.395
+Ln胸径 -0.261 0.092 -0.681 -2.856 0.005
+Ln湿度 -2.073 0.489 -0.307 -4.236 0.000
+LnPM 1.461 0.467 0.231 3.128 0.002
+2.5
+Ln风速 0.092 0.046 0.143 1.991 0.049
+4.4.2 夏季多因素对植物叶片累积 PM 能力综合影响的回归模型
+分别以夏季植物叶片累积 PM 、PM 量作为因变量，以植物生理特征因素、
+10 2.5
+环境气象因素与地理位置因素作为自变量纳入逐步回归模型。得到如表 12 所示模
+型。夏季植物叶片累积 PM 量与植物生理特征因素、环境气象因素与地理位置多
+10
+因素建立的回归模型为Y=-11.082-0.383*Ln冠幅+0.235*Ln冠高-0.289 LAI+0.131*Ln
+蜡质层厚度+2.852*Ln温度-0.141*Ln气孔密度+0.822Ln湿度（P < 0.01）。影响夏季
+植物叶片累积PM 量的因子按影响大小排序为冠幅、冠高、温度、湿度、LAI、蜡
+10
+质层厚度、气孔长度，夏季植物叶片累积 PM 量与冠高、蜡质层厚度、温度、湿
+10
+度呈现正相关关系，而与冠幅、LAI、气孔长度呈负相关关系；夏季植物叶片累积
+78
+--- PAGE 90 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+PM 量与植物生理特征因素、环境气象因素与地理位置多因素建立的回归模型为
+2.5
+Y=-9.809-0.245*Ln冠幅+0.624*Ln冠高-0.209*LAI+2.668*Ln温度+0.628*LnPM 浓
+2.5
+度-0.426Ln 树高（P < 0.01），影响夏季植物叶片累积 PM 量的因子按影响大小排
+2.5
+序为冠高、树高、冠幅、温度、PM 浓度、LAI，夏季植物叶片累计 PM 量与冠
+2.5 2.5
+高、温度、PM 浓度呈正相关关系，而与冠幅、树高、LAI呈负相关关系。
+2.5
+表 12 夏季多因素对植物叶片累积PM 能力综合影响的回归模型
+Table 12 Regression model of comprehensive effects of multiple factors on cumulative PM capacity of
+plant leaves in summer
+模型 未标准化系数 标准化系数 t 显著性 R2 调整后R2
+B 标准错误 Beta
+PM （常量） -11.082 4.826 -2.296 0.023 0.645 0.625
+10
+Ln冠幅 -0.383 0.052 -1.204 -7.298 0.000
+Ln冠高 0.235 0.052 0.713 4.481 0.000
+LAI -0.289 0.062 -0.299 -4.675 0.000
+Ln蜡质层厚度 0.131 0.037 0.195 3.504 0.001
+Ln温度 2.852 0.967 0.605 2.950 0.004
+Ln气孔长度 -0.141 0.061 -0.141 -2.309 0.023
+Ln湿度 0.822 0.356 0.475 2.306 0.023
+PM （常量） -9.809 2.382 -4.119 0.000 0.415 0.388
+2.5
+Ln冠幅 -0.245 0.077 -0.732 -3.171 0.002
+Ln冠高 0.624 0.192 1.800 3.258 0.001
+LAI -0.209 0.080 -0.206 -2.631 0.010
+Ln温度 2.668 0.565 0.538 4.719 0.000
+LnPM 0.628 0.145 0.492 4.315 0.000
+2.5
+Ln树高 -0.426 0.201 -1.291 -2.113 0.037
+4.4.3 秋季多因素对植物叶片累积 PM 能力综合影响的回归模型
+分别以秋季植物叶片累积 PM 、PM 量作为因变量，以植物生理特征因素、
+10 2.5
+环境气象因素与地理位置因素作为自变量纳入逐步回归模型。得到如表 13 所示模
+型。秋季植物叶片累积 PM 量与植物生理特征因素、环境气象因素与地理位置多
+10
+因素建立的回归模型为 Y=-0.896*Ln 冠幅+0.27*Ln 与污染源距离+0.433*Ln 气孔密
+度-0.728*Ln树高（P < 0.01）。影响秋季植物叶片累积 PM 量的因子按影响大小排
+10
+序为冠幅、树高、气孔密度、与污染源距离，秋季植物叶片累积 PM 量与气孔密
+10
+79
+--- PAGE 91 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+度、与污染源距离、树高呈现正相关关系，而与冠幅呈负相关关系；秋季植物叶片
+累积 PM 量与植物生理特征因素、环境气象因素与地理位置多因素建立的回归模
+2.5
+型为 Y=1.751-0163*Ln 冠幅-0.005 单叶面积（P < 0.01）。影响秋季植物叶片累积
+PM 量的因子按影响大小排序为冠幅、单叶面积，秋季植物叶片累积 PM 量与二
+2.5 2.5
+者均呈负相关关系。
+表 13 秋季多因素对植物叶片累积PM 能力综合影响的回归模型
+Table 13 Regression model of comprehensive effects of multiple factors on cumulative PM capacity of
+plant leaves in autumn
+模型 未标准化系数 标准化系数 t 显著性 R2 调整后R2
+B 标准错误 Beta
+PM （常量） -0.789 0.920 -0.858 0.404 0.734 0.667
+10
+Ln冠幅 -0.896 0.289 -2.842 -3.105 0.007
+Ln与污染源 0.270 0.075 0.504 3.581 0.002
+Ln气孔密度 0.433 0.137 0.675 3.149 0.006
+Ln树高 0.728 0.336 1.825 2.166 0.046
+PM （常量） 1.751 0.114 15.396 0.000 0.655 0.617
+2.5
+Ln冠幅 -0.163 0.053 -0.477 -3.050 0.007
+单叶面积 -0.005 0.002 -0.468 -2.995 0.008
+4.4.4 冬季多因素对植物叶片累积 PM 能力综合影响的回归模型
+分别以冬季植物叶片累积 PM 、PM 量作为因变量，以植物生理特征因素、
+10 2.5
+环境气象因素与地理位置因素作为自变量纳入逐步回归模型。得到如表 14 所示模
+型。冬季植物叶片累积 PM 量与植物生理特征因素、环境气象因素与地理位置多
+10
+因素建立的回归模型为 Y=18.372-4.360*Ln 湿度（P < 0.01）。影响冬季植物叶片累
+积PM 量的因子只有湿度，且呈现负相关关系；冬季植物叶片累积 PM 量与植物
+10 2.5
+生理特征因素、环境气象因素与地理位置多因素建立的回归模型为 Y=13.360-
+0.231*Ln树高-3.337*Ln湿度（P < 0.01）。影响冬季植物叶片累积 PM 量的因子按
+2.5
+影响大小排序为树高、湿度，且两个因子均与植物叶片累积 PM 量呈负相关关系。
+2.5
+80
+--- PAGE 92 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+表 14 冬季多因素对植物叶片累积PM 能力综合影响的回归模型
+Table 14 Regression model of comprehensive effects of multiple factors on cumulative PM capacity of
+plant leaves in winter
+模型 未标准化系数 标准化系数 t 显著性 R2 调整后R2
+B 标准错误 Beta
+PM （常量） 18.372 6.418 2.863 0.011 0.280 0.235
+10
+Ln湿度 -4.360 1.748 -0.529 -2.495 0.024
+PM （常量） 13.360 5.122 2.608 0.020 0.650 0.603
+2.5
+Ln树高 -0.231 0.054 -0.665 -4.307 0.001
+Ln湿度 -3.337 1.397 -0.369 -2.389 0.030
+4.5 小结与讨论
+4.5.1 小结
+（1）植物生理因素与生长季植物累积 PM 、PM 量的相关性分析结果显示，
+10 2.5
+树高、冠高、LAI以及沟槽宽度对叶片累积 PM 和 PM 均有显著影响（P < 0.01），
+10 2.5
+且 LAI相较其他变量而言，相关关系更强。植物生理特征因素对春、夏、秋、冬四
+季植物叶片累积 PM 能力影响的回归模型调整后 R2分别为 0.347、0.596、0.382、
+10
+0.283。春季植物叶片累积 PM 量与树高、蜡质层厚度呈现正相关关系，与冠幅、
+10
+气孔长度、胸径、沟槽宽度和单叶面积呈负相关关系；夏季植物叶片累积 PM 量
+10
+与冠高、蜡质层厚度、气孔密度呈现正相关关系，与冠幅、LAI 呈负相关关系；秋
+季植物叶片累积PM 量与树高呈现正相关关系，而与冠幅、单叶面积、LAI均呈负
+10
+相关关系；冬季植物叶片累积 PM 量与气孔密度呈现正相关关系，而与冠幅呈负
+10
+相关关系。从四季总体来看，植物叶片累积 PM 量与树高冠高、蜡质层厚度、气
+10
+孔密度呈正相关，与冠幅、胸径、LAI、单叶面积、气孔长度、沟槽宽度则呈负相
+关。植物生理特征因素对春、夏、秋、冬四季植物叶片累积 PM 能力影响的回归
+2.5
+模型调整后R2分别为0.276、0.285、0.372、0.489。春季植物叶片累计PM 量与蜡
+2.5
+质层厚度、树高呈正相关关系，而与冠幅、气孔长度呈负相关关系；夏季植物叶片
+累计 PM 量与冠高呈正相关关系，而与冠幅、LAI 呈负相关关系；秋季植物叶片
+2.5
+累计 PM 量与树高、蜡质层厚度、沟槽宽度呈正相关关系，而与冠幅呈负相关关
+2.5
+系；冬季植物叶片累计 PM 量与蜡质层厚度呈正相关关系，而与冠幅呈负相关关
+2.5
+系。从四季总体来看，植物叶片累积 PM 量与树高冠高、蜡质层厚度、沟槽宽度
+2.5
+81
+--- PAGE 93 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+呈正相关，与冠幅、LAI、气孔长度、则呈负相关。可以发现沟槽宽度与累积 PM
+10
+量呈现负相关关系，而与累积 PM 量呈现正相关关系，表明该变量在影响植物叶
+2.5
+片累积不同组分的 PM可能起到的作用不同。
+（2）植物生理特征因素与降雨去除叶表的 PM 、PM 量的相关性分析结果显
+10 2.5
+示，植株冠幅、LAI 以及沟槽宽度对降水洗脱叶表 PM 和 PM 均有显著影响（P
+10 2.5
+< 0.01），且 LAI相较其他变量而言，相关关系更强。植物生理特征因素对降雨去除
+叶表的 PM 量影响的回归模型调整后 R2为 0.456，降雨洗脱植物叶片 PM 量与冠
+10 10
+幅和 LAI 均呈负相关关系。植物生理特征因素对降雨洗脱叶表的 PM 量影响的回
+2.5
+归模型调整后 R2为 0.251，降雨洗脱植物叶片 PM 量与沟槽宽度呈正相关关系，
+2.5
+而与冠幅呈负相关关系。综上可见，冠幅、LAI、沟槽宽度是对降雨洗脱植物叶表
+PM 量有影响的关键变量。冠幅小、叶片稀疏、沟槽宽度较大的植物叶片 PM 更易
+被降雨洗脱。
+（3）环境与气象变量与地理位置变量对植物叶片降减 PM 能力的影响相关性分
+析结果显示，环境与气象因素与地理位置因素对四季植物叶片累积 PM 量具有不同
+程度的影响。从相关性分析结果总体来看，温度、与污染源距离对叶片累积 PM 量
+均具有显著影响，在各季节均呈现正相关关系。而 PM 背景浓度、湿度、风速、与
+水体距离等因素在各季节周期内对叶片累积 PM量无显著相关关系。
+（4）多因素对春、夏、秋、冬四季植物叶片累积 PM 能力综合影响的回归模
+10
+型调整后 R2分别为0.398、0.625、0.667、0.235。春季植物叶片累积 PM 量与树高、
+10
+PM 浓度、风速、与水体距离呈现正相关关系，而与冠幅、气孔长度、胸径、单
+2.5
+叶面积、沟槽宽度呈负相关关系；夏季植物叶片累积 PM 量与冠高、蜡质层厚度、
+10
+温度、湿度呈现正相关关系，而与冠幅、LAI、气孔长度呈负相关关系；秋季植物
+叶片累积 PM 量与气孔密度、与污染源距离、树高呈现正相关关系，而与冠幅呈
+10
+负相关关系；影响冬季植物叶片累积 PM 量的因子只有湿度，且呈现负相关关系；
+10
+从四季总体来看，植物叶片累积 PM 量与树高冠高、蜡质层厚度、气孔密度、温
+10
+度、风速、PM 浓度、与污染源距离呈正相关，与冠幅、胸径、LAI、单叶面积、
+2.5
+气孔长度、沟槽宽度则呈负相关。值得注意的是，湿度与植物叶片累积 PM 量的
+10
+相关关系在夏季呈现正相关，但在冬季则呈现负相关。
+（5）多因素对春、夏、秋、冬四季植物叶片累积 PM 能力综合影响的回归模
+2.5
+型调整后R2分别为0.395、0.388、0.617、0.603。春季植物叶片累计PM 量与蜡质
+2.5
+82
+--- PAGE 94 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+层厚度、树高、PM 浓度、风速呈正相关关系，而与胸径、气孔长度、湿度呈负
+2.5
+相关关系。夏季植物叶片累计 PM 量与冠高、温度、PM 浓度呈正相关关系，而
+2.5 2.5
+与冠幅、树高、LAI 呈负相关关系。秋季植物叶片累积 PM 量与冠幅、单叶面积
+2.5
+均呈负相关关系。冬季植物叶片累积 PM 量的因子与树高、湿度均呈负相关关系。
+2.5
+从四季总体来看，植物叶片累积 PM 量与树高冠高、蜡质层厚度、温度、风速、
+2.5
+PM 浓度呈正相关，与冠幅、胸径、LAI、单叶面积、气孔长度、湿度则呈负相关。
+2.5
+综上可见，植物生理特征因素如冠幅、树高冠高、LAI、单叶面积、蜡质层厚度、
+气孔长度，环境与气象因素如温度、湿度、风速、 PM 浓度，地理位置因素如与
+2.5
+污染源距离与植物叶片累积 PM 具有显著相关关系。从植物生理因素而言，冠幅小、
+树冠高、LAI 低、单叶面积较小、叶片蜡质层厚、气孔小而密的植物叶片累积 PM
+量较高；从环境与气象因素而言，温度高、湿度低、风速较大，PM 浓度较高的环
+境更利于植物叶片累积 PM；从地理位置因素而言，与污染源距离越近，越利于植
+物叶片累积 PM。
+4.5.2 讨论
+（1）植物叶片累积 PM的影响因素
+植物的宏观形态与叶片的微观特征都可能对植物叶片捕获和保留所有粒径组分
+PM 的能力有显著影响。在本研究中，冠幅小、树冠高、LAI 低、单叶面积较小、
+叶片蜡质层厚、气孔密度高、气孔小是单位叶面积 PM 累积量高的植物的综合生理
+特征。
+已有研究表明叶片大小对叶表 PM 累积量的影响，单叶面积小的叶片比单叶面
+积大的叶片更易累积 PM，因为其较小的叶面积，导致表面比阻力较低，扇动较少
+（ Vogel 1989, Leonard et al 2016）。LAI对PM在叶片的沉积也有很大影响，LAI代
+表了植物叶片的密度，一般认为 LAI越高，植物叶片累积总 PM量越高。而单位叶
+面积累积 PM 量与 LAI 的关系则存在争议。本研究发现 LAI 值与单位叶面积累积
+PM量呈负相关，与Mori等（2018）的研究结果不同。本研究认为，高LAI的植物
+由于叶片多而密，分散了 PM 在单位叶面积的累积量，且树叶稀疏的植物更易捕获
+气流扩散带来的 PM。同样值得注意的是，本研究发现冠幅小，树高冠高较大的植
+物单位叶面积累积 PM 量更高，似乎植物纵向的生长结构更有利于叶片累积 PM 量，
+这与以往研究简单地认为树木越大，越有利于叶片累积 PM 的观点有所不同（Jim
+83
+--- PAGE 95 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+and Chen 2008, Liu et al 2015, Zhao et al 2018, Zhu et al 2019）。这可能是由于冠幅
+小、树冠高的结构相比树冠较大而冠高较小的结构，增加了植物叶片与空气的接触
+面积以及对横向扩散的 PM 的捕获，且冠高较大的植物一般与地面距离较小，更易
+捕获地面扬尘（图 44）。
+图 44 冠幅与冠高对植物累积PM的影响（图源：作者自绘）
+Fig. 42 Effects of crown width and crown height on cumulative PM of plants (by the author)
+许多研究已经观察到与叶片粗糙度相关的特征对 PM 沉积的影响（Wang et al
+2015, Weerakkody et al 2018b, Shao et al 2019）。PM沉积与叶片解剖和形态特征密
+切相关（Popek et al 2017），因为更复杂的叶片结构更有效地捕获颗粒。叶面附属物
+如毛、沟壑（Beckett et al 2000, Hofman et al 2014）不仅增加了表面粗糙度和 PM的
+拦截面积，而且减少了 PM被风重新带走的量（Sæbø et al 2012）。此外，叶片蜡质
+表皮的疏水性减少了在叶片表面收集的 PM量（Faini et al 1999, Sawidis et al 2011）。
+Popek 等（2015）认为叶片上疏水性质的表皮蜡质会形成对水溶性物质的限制屏障。
+值得注意的是，一些特征如沟槽与绒毛，虽然在 PM 捕获中不是至关重要的，但它
+们的存在与其他特征相互作用，虽然单独可能不会显著促进 PM 沉积，但与其他不
+同性状的组合则可能成为提高PM累积量的关键因素（Chen et al 2017）。
+在环境与气象方面，本研究发现，温度高、湿度低、风速较大，PM 浓度较高
+的环境更利于植物叶片累积 PM，该结果与先前的研究大体一致。风速越大，粒子
+惯性越大，大气颗粒物水平方向运动越强烈，与绿地内植被的接触程度越大，越容
+易被植物滞留和消减；此外，干沉降速度反映了叶片捕获 PM 的能力。叶片干沉降
+速度随风速的增加而增加，这可能是强风速下叶片 PM 累积量增加的原因之一
+84
+--- PAGE 96 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+（Nowak et al 2013, Trivedi et al 2014）。其他气象因素也会通过影响干沉降速度影响
+叶片 PM 的累积（Han et al 2020）。Chen 等（2015）研究发现，风速、湿度和温度
+能显著影响绿地去除PM 的效果，且湿度的影响最大。Jian 等（2012）发现，空气
+10
+温度对超细颗粒物有显著影响。随着粒径的增大，温度的作用逐渐减弱，相对湿度
+的作用逐渐增强。风速、湿度和温度之间具有复杂的相互作用，可能会通过成核、
+凝结、凝聚、运输和分散等方式影响细颗粒物的浓度，进而影响其在植物叶片的沉
+积。
+在地理位置因素方面，PM 浓度随离污染源距离的增加而降低的发现与多数研
+究一致（Cavanagh et al 2009, Fares et al 2016, Viippola et al 2018, Zhu et al 2019）。
+靠近污染源的植物不仅与污染物有更多接触，还可以限制污染物向周围环境扩散。
+（2）降雨对植物叶片 PM洗脱的影响因素
+降雨对叶片表面 PM 的洗脱效果受到植物特定叶片性状、朝向以及位置的显著
+影响（Xu et al 2017, Chávez-García and González-Méndez 2021）。普遍认为，在形
+状和形态复杂和叶片密度高的植物上沉积的 PM 受雨水的影响较小，而且更难被洗
+掉（Wang H et al 2015, Leonard et al 2016, Chen et al 2017, Xu et al 2017, Weerakkody
+et al 2018a, Cai et al 2019, Xie et al 2019, Chávez-García and González-Méndez 2021,
+Huang et al 2023, Yan et al 2024）。叶片表面微结构的变化不仅会影响叶片的粗糙度，
+还会导致水滴与叶片表面接触角度的不同，从而影响叶片的疏水性（Cai et al 2019,
+Kwak et al 2023）。与光滑表面相比，粗糙表面降低了雨滴动能（Xu et al 2017, Cai
+et al 2019），这些差异导致叶片具有不同的疏水性，是影响 PM洗脱阻力的主要因
+素之一。识别叶片不同的微结构对不同组分的 PM 影响也十分关键，例如，凹槽会
+促进细颗粒物在叶片的附着，而绒毛则更有利于粗颗粒物的滞留（Yan et al 2024）。
+此外，对于同一种微结构，其不同的尺寸也会对不同组分的 PM 产生不同的影响
+（Yan et al 2018）。叶片表面的蜡类化合物有不同的形式，每一种都会影响 PM的滞
+留方式（Barthlott et al 1998, Wang H et al 2015）。本研究也发现，模拟降雨对叶片
+PM 滞留与洗脱的效应受到植物形态和和叶片形态的影响，且每种形态对 PM 的滞
+留和洗脱影响都各不相同。降雨更易洗掉大而光滑的叶片表面的粗颗粒物。树高、
+冠幅、冠高和 LAI都会影响降雨对叶表 PM的洗脱效率。冠幅小、叶片稀疏的植株
+更有利于叶表 PM 的洗脱。这与主流观点一致即植物密度与 PM 洗脱效率呈现负相
+85
+--- PAGE 97 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+关（Chen et al 2017, Popek et al 2019）。由于粗颗粒物极易被雨水冲走，叶表微结
+构以及蜡质层对其洗脱效应的影响几乎微不足道。
+对于细颗粒物而言，叶片微结构和植株与叶片形态都对其洗脱效应有一定的影
+响。叶片微结构存在的最重要影响是形成不同的防水性，从而导致树叶的润湿性能
+的差异（Zhang et al 2019, Chávez-García and González-Méndez 2021, Corada et al 2021,
+Xu et al 2022）。叶片微结构特征如蜡层、毛发、凹槽和其他突出物可以在水滴和
+不同叶片表面之间产生不同的接触角（Wang et al，2015），从而影响叶片湿润性
+（Wang H et al 2015, Chen et al 2017, Chávez-García and González-Méndez 2021）。Xu
+等（2022）研究表明，当叶片具有高湿润性的时候，雨水会在叶片表面形成一层薄
+膜，需要足够的雨水来浸湿整个叶片从而形成能将叶片表面 PM 冲刷掉的雨滴。相
+比之下，低湿润性的叶片更容易形成雨滴，从而更有效地去除叶片表面的 PM。因
+此，在疏水叶片上沉积的 PM 比在亲水叶片上的 PM 更容易被雨水洗脱。Zhang 等
+（2019）的研究进一步表明，叶片表面与降雨强度与持续时间之间的相互作用是重
+要的。对于光滑的叶片表面，在总降雨量相同的情况下，长时间的低强度降雨可能
+会增加 PM 的去除率，而对于粗糙的叶片表面，短强度的高强度降雨可以去除更多
+的PM （Zhang et al 2019）。降雨的持续时间对粗糙叶片表面的重要性强于光滑叶
+片表面，因为前者可能需要更长的时间来浸湿。
+86
+--- PAGE 98 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+5 公园绿地常见植物周年降减 PM 能力评估
+5.1 公园绿地常见植物降减 PM 能力分析
+（1）四季不同植物单位土地面积累积 PM能力分析
+通过四季测量的叶面积指数（LAI）数据（4.1.1表 3），得到图 45~图 46四季单
+位土地面积植物累积 PM 量（草本植物按叶面积指数为 1 来计算）。当利用 LAI 参
+数将估算的每平方厘米树木上的 PM 累积量转换为土地面积单位时，可以发现，和
+单位叶面积累积 PM 量相同，秋季单位土地面积植物累积 PM 量仍然是四季中最高
+的，夏季和冬季植物单位土地面积累积 PM量则处于较低水平。
+在春季，单位土地面积累积 PM 能力排序为：紫薇＞杜鹃＞栾树＞红花檵木
+10
+＞广玉兰＞枫香＞鸡爪槭＞桂花＞石楠＞海桐＞水杉＞悬铃木＞麦冬＞樟树＞狗牙
+根＞枫杨＞女贞，单位土地面积累积 PM 能力最强的紫薇（244.00 mg/m2）是单位
+10
+土地面积累积 PM 能力最弱的女贞（64.55 mg/m2）的 3.78倍；单位土地面积累积
+10
+PM 能力排序为：杜鹃＞紫薇＞栾树＞红花檵木＞鸡爪槭＞石楠＞枫香＞悬铃木
+2.5
+＞海桐＞广玉兰＞狗牙根＞枫杨＞麦冬＞桂花＞樟树＞水杉＞女贞，单位土地面积
+累积 PM 能力最强的杜鹃（110.98 mg/m2）是单位土地面积累积 PM 能力最弱的
+2.5 2.5
+女贞（24.14 mg/m2）的 4.60倍；
+在夏季，单位土地面积累积 PM 能力排序为：紫薇＞桂花＞水杉＞红花檵木
+10
+＞狗牙根＞杜鹃＞麦冬＞石楠＞悬铃木＞枫香＞海桐＞栾树＞广玉兰＞樟树＞鸡爪
+槭＞女贞＞枫杨，单位土地面积累积 PM 能力最强的紫薇（215.65 mg/m2）是单位
+10
+土地面积累积 PM 能力最弱的枫杨（86.06 mg/m2）的 2.51倍；单位土地面积累积
+10
+PM 能力排序为：紫薇＞水杉＞红花檵木＞石楠＞悬铃木＞桂花＞杜鹃＞栾树＞
+2.5
+狗牙根＞枫香＞樟树＞麦冬＞海桐＞广玉兰＞鸡爪槭＞枫杨＞女贞，单位土地面积
+累积 PM 能力最强的紫薇（85.91 mg/m2）是单位土地面积累积 PM 能力最弱的
+2.5 2.5
+女贞（30.70 mg/m2）的 2.80倍；
+在秋季，单位土地面积累积 PM 能力排序为：狗牙根＞水杉＞杜鹃＞枫杨＞
+10
+樟树＞红花檵木＞广玉兰＞麦冬＞桂花＞栾树＞枫香＞石楠＞海桐＞悬铃木＞鸡爪
+槭＞女贞，单位土地面积累积 PM 能力最强的狗牙根（603.16 mg/m2）是单位土地
+10
+面积累积 PM 能力最弱的女贞（161.45 mg/m2）的 3.74 倍；单位土地面积累积
+10
+PM 能力排序为：狗牙根＞水杉＞杜鹃＞枫杨＞红花檵木＞樟树＞栾树＞麦冬＞
+2.5
+87
+--- PAGE 99 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+广玉兰＞桂花＞石楠＞枫香＞海桐＞女贞＞鸡爪槭＞悬铃木＞紫薇，单位土地面积
+累积 PM 能力最强的狗牙根（119.43 mg/m2）是单位土地面积累积 PM 能力最弱
+2.5 2.5
+的悬铃木（38.85 mg/m2）的3.07倍；
+冬季单位土地面积累积 PM 能力排序为：红花檵木＞杜鹃＞海桐＞桂花＞麦
+10
+冬＞樟树＞广玉兰＞石楠＞女贞，单位土地面积累积 PM 能力最强的红花檵木
+10
+（360.39 mg/m2）是单位土地面积累积PM 能力最弱的女贞（136.96 mg/m2）的2.63
+10
+倍；单位土地面积累积 PM 能力排序为：红花檵木＞杜鹃＞麦冬＞海桐＞樟树＞
+2.5
+石楠＞桂花＞广玉兰＞女贞，单位土地面积累积 PM 能力最强的红花檵木（85.82
+2.5
+mg/m2）是单位土地面积累积 PM 能力最弱的女贞（28.03 mg/m2）的 3.06倍。
+2.5
+700
+600 春PM10 夏PM10
+秋PM10 冬PM10
+500
+2 400
+m
+/
+g
+m 300
+200
+100
+0
+图 45 四季不同植物单位土地面积累积PM 量
+10
+Fig. 44 Cumulative PM per unit land area of different plants in four seasons
+10
+140
+春PM2.5 夏PM2.5
+120
+秋PM2.5 冬PM2.5
+100
+2 80
+m
+/
+g
+m 60
+40
+20
+0
+图 46 四季不同植物单位土地面积累积PM 量
+2.5
+Fig. 45 Cumulative PM per unit land area of different plants in four seasons
+2.5
+（2）四季不同植物单位土地面积降雨去除 PM量分析
+88
+--- PAGE 100 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+叶片表面的PM去除总量是由PM沉积和洗涤循环控制的，一个植物物种总PM
+降减能力由 PM 累积能力和降雨对叶表 PM 的去除能力共同决定。本研究利用人工
+降雨去除的叶表 PM 量数据结合四季植物叶面积指数（草本植物按 1 计算）对四季
+不同植物单位土地面积降雨去除 PM量进行了计算，结果如图 47~图 48。总体来看，
+四季植物单位面积洗脱 PM量波动较小，夏季略高于其他三季。
+在春季，单位土地面积不同植物降雨去除 PM 量排序为：狗牙根＞桂花＞紫
+10
+薇＞麦冬＞红花檵木＞杜鹃＞鸡爪槭＞枫香＞海桐＞栾树＞石楠＞悬铃木＞樟树＞
+水杉＞广玉兰＞枫杨＞女贞，单位土地面积降雨去除 PM 量最多的狗牙根（49.66
+10
+mg/m2）单位土地面积降雨去除 PM 量最少的女贞（19.49 mg/m2）的 2.55 倍；单
+10
+位土地面积不同植物降雨去除 PM 量排序为：红花檵木＞紫薇＞海桐＞水杉＞狗
+2.5
+牙根＞枫香＞栾树＞麦冬＞鸡爪槭＞杜鹃＞石楠＞悬铃木＞樟树＞桂花＞女贞＞枫
+杨＞广玉兰，单位土地面积降雨去除 PM 量最多的红花檵木（11.19 mg/m2）是单
+2.5
+位土地面积降雨去除 PM 量最少的女贞（2.65 mg/m2）的4.23倍；
+2.5
+在夏季，单位土地面积不同植物降雨去除 PM 量排序为：桂花＞狗牙根＞紫
+10
+薇＞麦冬＞枫香＞杜鹃＞樟树＞石楠＞红花檵木＞鸡爪槭＞栾树＞悬铃木＞水杉＞
+海桐＞广玉兰＞女贞＞枫杨，单位土地面积降雨去除 PM 量最多的桂花（61.83
+10
+mg/m2）单位土地面积降雨去除 PM 量最少的枫杨（16.77 mg/m2）的 3.69 倍；单
+10
+位土地面积不同植物降雨去除 PM 量排序为：紫薇＞水杉＞红花檵木＞海桐＞狗
+2.5
+牙根＞枫香＞栾树＞麦冬＞石楠＞桂花＞鸡爪槭＞樟树＞女贞＞杜鹃＞悬铃木＞广
+玉兰＞枫杨，单位土地面积降雨去除 PM 量最多的紫薇（12.14 mg/m2）是单位土
+2.5
+地面积降雨去除 PM 量最少的枫杨（2.82 mg/m2）的4.31倍；
+2.5
+在秋季，单位土地面积不同植物降雨去除 PM 量排序为：狗牙根＞桂花＞杜
+10
+鹃＞麦冬＞红花檵木＞樟树＞枫香＞水杉＞枫杨＞广玉兰＞栾树＞石楠＞悬铃木＞
+鸡爪槭＞海桐＞女贞，单位土地面积降雨去除 PM 量最多的狗牙根（49.66 mg/m2）
+10
+单位土地面积降雨去除 PM 量最少的枫杨（16.96 mg/m2）的 2.93倍；单位土地面
+10
+积不同植物降雨去除 PM 量排序为：红花檵木＞水杉＞狗牙根＞麦冬＞杜鹃＞枫
+2.5
+香＞海桐＞栾树＞樟树＞枫杨＞桂花＞石楠＞女贞＞悬铃木＞鸡爪槭＞广玉兰，单
+位土地面积降雨去除PM 量最多的红花檵木（9.99 mg/m2）是单位土地面积降雨去
+2.5
+除PM 量最少的广玉兰（2.53 mg/m2）的3.96倍；
+2.5
+89
+--- PAGE 101 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+在冬季，单位土地面积不同植物降雨去除 PM 量排序为：桂花＞麦冬＞红花
+10
+檵木＞杜鹃＞樟树＞石楠＞海桐＞女贞＞广玉兰，单位土地面积降雨去除 PM 量
+10
+最多的桂花（37.99 mg/m2）单位土地面积降雨去除 PM 量最少的广玉兰（18.56
+10
+mg/m2）的 2.05 倍；单位土地面积不同植物降雨去除 PM 量排序为：红花檵木＞
+2.5
+海桐＞麦冬＞女贞＞杜鹃＞樟树＞石楠＞桂花＞广玉兰，单位土地面积降雨去除
+PM 量最多的红花檵木（10.89 mg/m2）是单位土地面积降雨去除PM 量最少的广
+2.5 2.5
+玉兰（2.03 mg/m2）的5.38倍。
+春去除PM10 夏去除PM10
+70
+秋去除PM10 冬去除PM10
+60
+50
+2 m 40
+/
+g m 30
+20
+10
+0
+图 47 四季不同植物单位土地面积降雨去除PM 量
+10
+Fig. 46 PM removal by rainfall per unit land area of different plants in four seasons
+10
+春去除PM2.5 夏去除PM2.5
+14
+秋去除PM2.5 冬去除PM2.5
+12
+10
+2 m 8
+/
+g m 6
+4
+2
+0
+图 48 四季不同植物单位土地面积降雨去除PM 量
+2.5
+Fig. 47 PM removal by rainfall per unit land area of different plants in four seasons
+2.5
+（3） 公园绿地常见植物周年降减 PM能力评估
+将植物四季单位土地面积累积 PM 量与四季单位土地面积降雨去除 PM 量之和
+作为植物周年降减PM总能力。结果显示，不同植物单位土地面积周年降减PM 能
+10
+力（图 49）排序为：杜鹃＞红花檵木＞狗牙根＞桂花＞麦冬＞水杉＞樟树＞广玉
+兰＞海桐＞石楠＞栾树＞枫香＞枫杨＞紫薇＞女贞＞悬铃木＞鸡爪槭。单位土地面
+90
+--- PAGE 102 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+积周年降减 PM 能力最强的杜鹃（1258.32 mg/m2）是单位土地面积周年降减PM
+10 10
+能力最弱的鸡爪槭（518.82 mg/m2）的 2.43 倍；不同植物单位土地面积周年降减
+PM 能力（图 50）排序为：杜鹃＞红花檵木＞狗牙根＞水杉＞麦冬＞石楠＞海桐
+2.5
+＞栾树＞紫薇＞樟树＞桂花＞广玉兰＞枫香＞悬铃木＞鸡爪槭＞枫杨＞女贞。单位
+土地面积周年降减PM 能力最强的杜鹃（350.99 mg/m2）是单位土地面积周年降减
+2.5
+PM 能力最弱的女贞（139.24 mg/m2）的2.52倍。
+10
+1400
+系列1
+1200
+1000
+2 800
+m
+/
+g
+m 600
+400
+200
+0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+图 49 不同植物周年降减PM 量
+10
+Fig. 48 Annual PM reduction by different plants
+10
+400
+系列1
+350
+300
+250
+2
+m
+/ 200
+g
+m
+150
+100
+50
+0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+图 50 不同植物周年降减PM 量
+2.5
+Fig. 49 Annual PM reduction by different plants
+2.5
+91
+--- PAGE 103 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+5.2 公园绿地植物周年降减 PM 量评估——以武汉解放公园为例
+5.2.1 解放公园植物资源调查
+依据武汉市解放公园管理处提供的主要园林植物名录和数量清单（附表 1、附
+表 2）进行公园绿地周年降减 PM 量评估，评估对象包括主要乔木 89 种，共 6316
+棵；灌木 78种，共 763260株；草本植物按照公园已知 85%的绿地率折算草本植物
+的覆盖面积。
+5.2.2 解放公园植物物种聚类
+利用植物叶片微结构数据、中国植物志以及相关文献的植物叶片特征数据，将
+解放公园的 89 种乔木、78 种主要灌木植物叶片特征分为粗糙程度、是否有绒毛、
+革质/纸质程度、叶片大小、叶片形状五个特征因子，并分别根据数据赋值。采用K
+最近邻（KNN）算法对研究未涉及的89种乔木、78种灌木聚类到已知的15种木本
+植物中。结果如图 51、图 52。其中 89 种乔木被聚类到共 13种研究植物中，78种
+灌木被聚类到共 9种研究植物中。
+92
+--- PAGE 104 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+图 51 乔木聚类分析图
+Fig. 50 Tree cluster analysis diagram
+93
+--- PAGE 105 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+图 52 灌木聚类分析图
+Fig. 51 Shrub cluster analysis diagram
+5.2.3 武汉解放公园植物周年降减 PM量
+利用解放公园植物聚类数据、植物四季单位面积土地累积 PM 量、单位土地面
+积降雨去除 PM 量，武汉四季平均累积降雨量数据以及解放公园提供的植物数量与
+冠幅数据，计算出解放公园植物周年降减 PM量。
+（1） 解放公园乔木周年降减 PM量
+解放公园乔木四季与周年降减PM量如表 15所示。解放公园乔木周年可以降减
+PM 约898 kg，PM 约186 kg。秋季公园乔木累积PM 、PM 量均为最高，冬季
+10 2.5 10 2.5
+最低，春、夏季累积量相差较小。春、夏降雨去除两种粒径的 PM 量均明显高于秋、
+冬季。
+94
+--- PAGE 106 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+表 15 解放公园乔木周年降减PM量
+Table 15 Annual PM reduction of trees in Jiefang Park
+降减PM 量（kg/年） 降减PM 量（kg/年）
+10 2.5
+累积PM 降雨去除PM 累积PM 降雨去除PM
+10 10 2.5 2.5
+春 64.16 172.15 22.80 38.72
+夏 71.79 261.40 27.57 60.48
+秋 163.03 91.55 33.31 21.13
+冬 54.96 19.20 10.75 4.51
+合计 353.94 544.30 94.43 124.84
+降减总量 898.24 219.27
+（2）解放公园灌木周年降减 PM量
+解放公园灌木四季与周年降减PM量如表 16所示。解放公园灌木周年可以降减
+PM 约 90 kg，PM 约 23 kg。春、夏季累积 PM量相较秋冬较小，但春、夏降雨
+10 2.5
+去除两种粒径的PM量均明显高于秋、冬季。
+表 16 解放公园灌木周年降减PM量
+Table 16 Annual PM reduction of shrubs in Jiefang Park
+降减PM 量（kg/年） 降减PM 量（kg/年）
+10 2.5
+累积PM 降雨去除PM 累积PM 降雨去除PM
+10 10 2.5 2.5
+春 7.36 19.08 3.31 4.25
+夏 6.53 25.47 2.28 5.57
+秋 11.61 5.11 2.71 1.81
+冬 10.57 4.25 2.18 0.96
+合计 36.07 53.91 10.48 12.59
+降减总量 89.98 23.07
+（3）解放公园草本植物周年降减 PM量
+解放公园草本植物四季与周年降减PM量如表 17所示。解放公园草本植物周年
+可以降减 PM 约 557 kg，PM 约 111 kg。秋季公园草本植物累积 PM 、PM 量
+10 2.5 10 2.5
+均为最高，冬季最低，春、夏季累积量相差较小。春、夏降雨去除两种粒径的 PM
+量均明显高于秋、冬季。
+95
+--- PAGE 107 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+表 17 解放公园草本植物周年降减PM量
+Table 17 Annual PM reduction of herbs in Jiefang Park
+降减PM 量（kg/年） 降减PM 量（kg/年）
+10 2.5
+累积PM 降雨去除PM 累积PM 降雨去除PM
+10 10 2.5 2.5
+春 26.28 122.96 9.60 21.51
+夏 37.30 166.03 11.17 29.04
+秋 95.66 70.41 18.59 12.32
+冬 21.14 17.30 5.84 3.04
+合计 180.38 376.71 45.20 65.91
+降减总量 557.09 111.11
+（4）解放公园植物周年整体降减PM量
+解放公园四季植物整体四季与周年降减PM量如表 18所示。解放公园植物周年
+可以降减 PM 约 1.5 t，PM 约 0.4 t。秋季公园植物整体累积 PM 、PM 量均为
+10 2.5 10 2.5
+最高，冬季最低，春、夏季累积量相差较小。春、夏降雨去除两种粒径的 PM 量均
+明显高于秋、冬季。降雨去除的 PM量显著高于累积在植物叶片上的 PM量。
+表 18 解放公园全园植物周年降减PM量
+Table 18 Annual PM reduction of all plants in Jiefang Park
+降减PM 量（kg/年） 降减PM 量（kg/年）
+10 2.5
+累积PM 降雨去除PM 累积PM 降雨去除PM
+10 10 2.5 2.5
+春 97.81 314.19 35.70 64.48
+夏 115.62 452.90 41.03 95.10
+秋 270.30 167.07 54.60 35.26
+冬 86.67 40.75 18.77 8.51
+合计 570.39 974.91 150.10 203.34
+降减总量 1545.30 353.45
+96
+--- PAGE 108 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+5.3 小结与讨论
+5.3.1 小结
+（1）从四季整体来看，秋季单位土地面积植物累积 PM 量仍然为四季最高，而
+夏季和冬季植物单位土地面积累积各组分 PM 量则处于较低水平。从单个季节来看，
+在春季，单位土地面积累积 PM 能力较强的植物有紫薇、杜鹃、栾树，较弱的有
+10
+女贞、枫杨、狗牙根；单位土地面积累积 PM 能力较强的植物有杜鹃、紫薇、栾
+2.5
+树，较弱的植物有女贞、水杉、樟树。在夏季，单位土地面积累积 PM 能力较强
+10
+的植物有紫薇、桂花、水杉，较弱的有枫杨、女贞、鸡爪槭；单位土地面积累积
+PM 能力较强的植物有紫薇、水杉、红花檵木，较弱的植物有女贞、枫杨、鸡爪
+2.5
+槭。在秋季，单位土地面积累积 PM 能力较强的植物有狗牙根、水杉、杜鹃，较
+10
+弱的有女贞、鸡爪槭、悬铃木；单位土地面积累积 PM 能力较强的植物有狗牙根、
+2.5
+水杉、杜鹃，较弱的植物有紫薇、悬铃木、鸡爪槭。在冬季，单位土地面积累积
+PM 能力较强的植物有红花檵木、杜鹃，较弱的有女贞、石楠；单位土地面积累
+10
+积 PM 能力较强的植物有红花檵木、杜鹃，较弱的植物有女贞、广玉兰。综合四
+2.5
+季来看，单位土地面积累积 PM 能力较强的植物有紫薇、杜鹃、水杉，累积 PM
+10 2.5
+能力较强的植物有杜鹃、红花檵木、水杉，累积 PM 各组分能力均较强的植物有杜
+鹃、紫薇、红花檵木、水杉。
+（2）从四季整体来看，四季植物单位面积洗脱 PM 量波动较小，夏季略高于其
+他三季。对于单个季节而言，春季单位土地面积降雨去除 PM 量较多的植物有狗
+10
+牙根、桂花、紫薇，去除 PM 量较多的植物有红花檵木、紫薇、海桐。夏季单位
+2.5
+土地面积降雨去除 PM 量较多的植物有桂花、狗牙根、紫薇，去除 PM 量较多的
+10 2.5
+植物有紫薇、水杉、红花檵木。秋季单位土地面积降雨去除 PM 量较多的植物有
+10
+狗牙根、桂花、杜鹃，去除 PM 量较多的植物有红花檵木、水杉、狗牙根。冬季
+2.5
+单位土地面积不同植物降雨去除 PM 量较多的植物有桂花、麦冬、红花檵木，去
+10
+除 PM 量较多的植物有红花檵木、海桐、麦冬。综合四季来看，单位土地面积去
+2.5
+除PM 量较多的植物有狗牙根、桂花、紫薇，去除 PM 量较多的植物有红花檵木、
+10 2.5
+水杉、紫薇。在不同植物中，草本植物降雨去除粗颗粒物（PM ）明显高于乔木和
+10
+灌木，而降雨对灌木如红花檵木、紫薇的叶片细颗粒物去除效果较强。另外，降雨
+97
+--- PAGE 109 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+对桂花叶表的粗颗粒物具有较强的洗脱效应，对水杉叶表的细颗粒物具有较强的洗
+脱效应。
+（3）周年降减 PM 能力较强的植物为杜鹃、红花檵木、狗牙根，降减 PM 能
+10 2.5
+力较强的植物为杜鹃、红花檵木、狗牙根。可见，在一年中，对于不同粒径的颗粒
+物，杜鹃均有较强的降减能力，其余具有较强降减 PM 能力的植物还有红花檵木、
+狗牙根、麦冬、桂花，而周年降减 PM 能力整体较弱的有鸡爪槭、女贞、枫杨、悬
+铃木、枫香。可以发现，单位土地面积、单位叶面积累积 PM 能力较强的紫薇、水
+杉等植物周年降减 PM 能力却显著降低，而一些单位土地面积、单位叶面积累积
+PM 能力较弱的植物，如海桐、樟树、广玉兰在周年降减 PM 方面却表现突出。可
+见，植物的周年降减 PM 能力还受到植物生长周期、降水等因素的多重影响，某些
+常绿植物即使在单位叶面积方面累积 PM 能力弱于落叶植物，但由于其较长的生长
+周期，能在非生长期仍保留叶片，可以全年累积 PM 并进行降雨的洗脱循环，因此
+整体比落叶植物更易降减更多的 PM。
+（4）武汉市解放公园植物总体周年可以降减 PM 约 1.5 t，其中乔木降减 898
+10
+kg，灌木降减 90 kg，草本降减 111 kg；周年降减PM 约0.4 t，其中乔木降减 219
+2.5
+kg，灌木降减23 kg，草本降减111 kg。乔木对于各组分PM周年降减量均显著高于
+灌木和草本，可见，尽管对于单位叶面积而言，草本和灌木显示出较强的降减 PM
+能力，但由于乔木具有较大的树冠和叶面积，周年总体降减效果仍然显著强于草本
+和灌木。此外，秋季公园植物总体累积 PM 各组分两均为最高，冬季最低，春夏两
+季相差较小，可见植物在秋季的 PM 降减效果最好。降雨可以去除大量的 PM，植
+物总体周年降雨去除各组分 PM 显著高于累积在叶片上的 PM 量。植物春夏季降雨
+去除各组分 PM量均高于秋冬季。
+5.3.2 讨论
+本研究以武汉市解放公园为例探讨了城市典型综合公园周年降减的 PM 量。公
+园植物周年降减 PM量随污染物类型、植物类型、季节的变化而变化。
+在本研究中，部分植物单位叶面积累积 PM 能力较强，且植株具有较高的叶面
+积，因此显示出较强的 PM 累积能力，如紫薇、杜鹃、红花檵木等。而有些植物尽
+管单位叶面积平均累积 PM 量较少，但考虑到其较高的叶面积，其植物群落整体仍
+具有较高的累积 PM 能力，如广玉兰、桂花等。草本植物与木本植物具有很大的形
+98
+--- PAGE 110 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+态结构差异，通常总叶面积较低，但仍具有较强的累积 PM 能力。因为其在群落中
+处于较低的位置，更易捕获地面扬尘并吸滞来自乔灌木脱落或洗脱的 PM（Nguyen
+et al 2015）。乔木因具较大的总叶面积，被认为是降减 PM 最有效的植被类型
+（Fowler et al 1989, McDonald et al 2007），因此多数针对植物滞尘的研究仍然聚焦
+于木本植物特别是乔木上（Sæbø et al 2012, Przybysz et al 2014, Chen et al 2017, Zhang
+et al 2019, Chen et al 2021），但本研究表明草本植物在降减 PM方面发挥着不可忽
+视的作用，应当在城市绿地植物配置和种植设计中加以重视。
+本研究也表明，PM 降减量受树木条件和大小的影响。有研究表明健康的大树
+每年清除的污染大约是健康的小树的 60 倍（Nowak 1994）。因此，在城市绿地中
+维持大型健康树木，更益于改善城市的空气质量。除了物种选择之外，管理人员还
+应当注意绿地内植物的空间分布，通过植被的遮挡来减少空气污染的扩散（Wania
+et al 2012）。本研究仅研究了 17种常见园林树种的 PM降减量，公园内其余物种的
+PM 降减量则利用聚类来进行估算，因此可能存在一定的误差，需要更多的研究来
+了解不同物种去除空气污染的能力。同时，园林植物也可以产生颗粒（如花粉），
+从而增加当地污染物浓度（Gromke and Ruck 2009, Wania et al 2012, Salmond et al
+2013, Velasco-Jiménez et al 2020）。本研究还发现了环境与气象条件对植物降减 PM
+效应的影响，将为当地的规划者和管理者了解当地园林树木资源的 PM 降减效果提
+供了理论和数据支撑。然而，污染也会影响植物的健康和功能，为了鼓励可持续的
+城市绿地管理，绿地规划时应当考虑具有不同特征的物种，如对污染的敏感性、对
+场地的适应性、维护需求等。
+99
+--- PAGE 111 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+6 结论与展望
+6.1 结论
+本研究量化了分析公园绿地17种常见植物叶片四季累积PM和微量元素能力，
+并通过相关性分析、回归分析研究了影响公园绿地常见园林植物降减 PM 能力的因
+素，最后通过量化数据评估了武汉市解放公园植物周年降减 PM 量。具体研究结论
+如下：
+（1）公园绿地常见园林植物叶片四季累积 PM能力：武汉市公园绿地常见植物
+叶片累积PM 、PM 量均为秋季最高。对于叶片累积PM 量，四季植物叶片累积
+10 2.5 10
+量呈现出：秋季＞冬季＞春季＞夏季；对于叶片累积 PM 量则呈现出：秋季＞春
+2.5
+季＞夏季＞冬季。累积 PM能力（包括 PM 和 PM ）整体较强的植物有狗牙根、
+10 2.5
+麦冬、紫薇、水杉、杜鹃，较弱的有女贞、广玉兰、悬铃木。通过四季乔灌草累积
+PM 、PM 量的平均值来看，春夏冬三季累积 PM 和 PM 的能力大小几乎均呈
+10 2.5 10 2.5
+现出：草本＞灌木＞乔木，秋季呈现出：草本＞乔木＞灌木，草本累积 PM 的能力
+在所有季节都强于灌木和乔木。四季叶表累积 PM 量总体高于蜡质层累积 PM 量，
+蜡质层累积 PM 占比略高于蜡质层累积 PM 占比。总体而言，水杉和杜鹃蜡质层
+2.5 10
+累积 PM 各组分能力都较强。四季位于公园外部的植物总体累积 PM 、PM 量总
+10 2.5
+体均显著高于位于公园内部的植物。但对于单一植物种类而言，不同季节均存在一
+些植物在公园内部累积 PM 和 PM 量高于公园外部的情况，且随季节略有变化。
+10 2.5
+（2）公园绿地常见园林植物叶片四季累积微量元素能力：对于植物叶片累积微
+量元素总量而言，累积量最多的季节是春季，最少的为夏季，与累积 PM 量情况略
+有不同。对于植物叶片累积的单一微量元素而言，不同微量元素累积量也存在季节
+变化，总体来看，累积微量元素种类较多的季节为春季，较少的为秋季。通过四季
+不同种类植物累积不同微量元素量的能力大小排序分析可以发现，累积 Mn 元素能
+力较强的植物有狗牙根、杜鹃、海桐。累积 Fe 元素能力较强的植物有狗牙根、麦
+冬、杜鹃。累积Cu元素能力较强的植物有狗牙根、红花檵木、麦冬。累积Zn元素
+能力较强的植物有海桐、狗牙根、麦冬。累积 As 元素能力较强的植物有狗牙根、
+红花檵木、麦冬。累积 Ba 元素能力较强的植物有狗牙根、麦冬、红花檵木。不同
+植物间累积 Pt 元素量相差较小，累积能力较强的植物有鸡爪槭、狗牙根、红花檵
+木。累积 Cd 元素能力较强的植物有悬铃木、樟树、杜鹃、红花檵木。仅有较少植
+100
+--- PAGE 112 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+物叶片表面有明显的 Pb 元素积累，且植物种类和累积量随着季节有较大变化，总
+体而言，累积 Pb 元素能力较强的植物有石楠、杜鹃。累积微量元素总体能力较强
+的植物有狗牙根、麦冬、杜鹃。可见，草本和灌木在累积微量元素量上仍表现突出。
+（3）降雨对植物叶片 PM 和微量元素的洗脱效应：降雨对 17 种植物叶片的洗
+脱效应研究发现，降雨能显著减少植物叶片累积 PM 量，但这种效应在不同物种间
+有明显差异。30 mm 强度人工降雨下，对 PM 洗脱量最多的植物为狗牙根，最少
+10
+的为枫杨；对 PM 洗脱量最多的仍为狗牙根，最少的是广玉兰。该强度人工降雨
+2.5
+在夏季可直接洗脱叶片 18%~32%的 PM 以及 9%~28%的 PM 。其中，降雨对狗
+10 2.5
+牙根叶片 PM 的洗脱率最高，对水杉的叶片 PM 洗脱率最低；对海桐叶片 PM
+10 10 2.5
+的洗脱率最高，对桂花的叶片 PM 洗脱率最低。降雨对微量元素总量洗脱效果最
+2.5
+好的植物有麦冬、狗牙根、杜鹃。植物总体在30 mm的人工降雨后可直接平均洗脱
+叶片约 19%的 Mn元素，22.6%的 Fe元素，30%的 Cu 元素，16%的 Zn 元素，18%
+的 As元素，50%的 Cd元素，16%的 Ba元素以及 6%的 Pt元素。其中，降雨对 Cd
+元素的洗脱率最高，对 Pt元素的洗脱率最低。
+（4）公园绿地植物降减 PM能力的影响因素：从植物生理特征因素对春、夏、
+秋、冬四季植物叶片累积 PM 能力影响的回归模型来看，植物叶片累积 PM 量与
+10 10
+树高冠高、蜡质层厚度、气孔密度呈正相关，与冠幅、胸径、LAI、单叶面积、气
+孔长度、沟槽宽度则呈负相关。对于叶片累积 PM 量，则与树高冠高、蜡质层厚
+2.5
+度、沟槽宽度呈正相关，与冠幅、LAI、气孔长度、则呈负相关。沟槽宽度与累积
+PM 量呈现负相关关系，而与累积 PM 量呈现正相关关系，表明该变量在影响植
+10 2.5
+物叶片累积不同组分的 PM 可能起到的作用不同。植物生理特征因素对降雨去除叶
+表的 PM 量影响的回归模型表明，降雨洗脱植物叶片 PM 量与冠幅和 LAI 均呈负
+10
+相关关系；降雨洗脱植物叶片 PM 量与沟槽宽度呈正相关关系，而与冠幅呈负相
+2.5
+关关系。综上可见，冠幅、LAI、沟槽宽度是对降雨洗脱植物叶表 PM 量有影响的
+关键变量。冠幅小、叶片稀疏、沟槽宽度较大的植物叶片 PM更易被降雨洗脱。
+综合分析植物生理生态特征、气象因子、地理位置等多因素对春、夏、秋、冬
+四季植物叶片累积 PM 能力的影响发现，植物叶片累积 PM 量与树高冠高、蜡质
+10 10
+层厚度、气孔密度、温度、风速、PM 浓度、与污染源距离呈正相关，与冠幅、
+2.5
+胸径、LAI、单叶面积、气孔长度、沟槽宽度则呈负相关；植物叶片累积 PM 量
+2.5
+与树高冠高、蜡质层厚度、温度、风速、PM 浓度、呈正相关，与冠幅、胸径、
+2.5
+101
+--- PAGE 113 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+LAI、单叶面积、气孔长度、湿度则呈负相关。综上可见，植物生理特征因素如冠
+幅、树高冠高、LAI、单叶面积、蜡质层厚度、气孔长度，环境与气象因素如温度、
+湿度、风速、 PM 浓度，地理位置因素如与污染源距离与植物叶片累积 PM 具有
+2.5
+显著相关关系。从植物生理因素而言，冠幅小、树冠高、树叶稀疏、单叶面积较小、
+叶片蜡质层厚、气孔小的植物叶片累积 PM 量较高；从环境与气象因素而言，温度
+高、湿度低、风速较大，PM浓度较高的环境更利于植物叶片累积PM；从地理位置
+因素而言，与污染源距离越近，越利于植物叶片累积 PM。
+（5）公园绿地常见园林植物单位土地面积周年降减 PM能力：从四季整体来看，
+秋季单位土地面积植物累积 PM 量仍然为四季最高，而夏季和冬季植物单位土地面
+积累积各组分 PM 量则处于较低水平。综合四季来看，单位土地面积累积 PM 能
+10
+力较强的植物有紫薇、杜鹃、水杉，累积 PM 能力较强的植物有杜鹃、红花檵木、
+2.5
+水杉，累积 PM 各组分能力均较强的植物有杜鹃、紫薇、红花檵木、水杉。四季植
+物单位面积洗脱PM量波动较小，夏季略高于其他三季。单位土地面积去除PM 量
+10
+较多的植物有狗牙根、桂花、紫薇，去除 PM 量较多的植物有红花檵木、水杉、
+2.5
+紫薇。在不同植物中，草本植物降雨去除粗颗粒物（PM ）明显高于乔木和灌木，
+10
+而降雨对灌木如红花檵木、紫薇的叶片细颗粒物去除效果较强。另外，降雨对桂花
+叶表的粗颗粒物具有较强的洗脱效应，对水杉叶表的细颗粒物具有较强的洗脱效应。
+周年降减PM 和PM 能力较强的植物均为杜鹃、红花檵木、狗牙根。其余具有较
+10 2.5
+强降减 PM 能力的植物还有麦冬、桂花，而周年降减 PM 能力整体较弱的有鸡爪槭、
+女贞、枫杨、悬铃木、枫香。
+（6） 武汉解放公园园林植物总体周年滞尘能力：解放公园植物总体周年可以
+降减PM 约1.5 t，其中乔木降减 898 kg，灌木降减 90 kg，草本降减 111 kg；周年
+10
+降减PM 约0.4 t，其中乔木降减 219 kg，灌木降减 23 kg，草本降减 111 kg。乔木
+2.5
+对于各组分 PM 周年降减量均显著高于灌木和草本，可见，尽管对于单位叶面积而
+言，草本和灌木显示出较强的降减 PM 能力，但由于乔木具有较大的树冠和叶面积，
+周年总体降减效果仍然显著强于草本和灌木。此外，秋季公园植物总体滞留 PM 各
+组分两均为最高，冬季最低，春夏两季相差较小。降雨可以去除大量的 PM，植物
+总体周年降雨去除各组分 PM 显著高于滞留在叶片上的 PM 量。植物春夏季降雨去
+除各组分 PM量均高于秋冬季。
+102
+--- PAGE 114 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+6.2 基于 PM 降减的公园植物优化策略
+为了应对空气污染问题对社会发展与人民生活造成的危害，在当前城市发展规
+模有限的背景下，建立完善的公园绿地降尘评估体系，建设生态效益与社会效益最
+大化的城市公园急需研究与理论支撑，对城市公园绿地的降减空气 PM 功能的效应
+机制的详细研究具有重要意义。本研究通过量化分析，评估了武汉市公园内 17 种
+常见植物叶片在四季中累积降减 PM 和微量元素的能力。基于此提出以下公园植物
+优化策略，旨在提高公园绿地的生态效益，增强其降减颗粒物的能力。
+在本研究中，低矮植物（灌木和草）单位叶面积累积 PM 能力高于乔木。虽然
+草本植物的总叶面积较低，因为其在群落中处于较低的位置，更易捕获地面扬尘并
+吸滞来自乔灌木脱落或洗脱的 PM，因此在降减 PM 方面发挥着不可忽视的作用，
+应当在城市绿地植物配置和种植设计中加以重视。例如在公园绿地中引入多样化的
+灌木和草本植物，设计多层次的植物布局，将乔木、灌木和草本植物合理搭配，形
+成立体的降尘网络。在植物配置时，考虑低矮植物的覆盖率，尤其是那些单位叶面
+积积累 PM 能力较高的种类。在公园绿地的边缘和人行道旁等易受扬尘影响的区域，
+优先种植低矮植物，以有效捕获扬尘。乔木因具较大的总叶面积，仍被认为是降减
+PM 最有效的植被类型，因此，在公园绿地中维持大型健康树木，更益于改善空气
+质量。
+研究结果显示，植物纵向的生长结构更有利于叶片累积 PM 量，因此，在污染
+严重区域可以优先选择冠幅小、冠高较大的植物，以增加叶片与空气的接触面积，
+提高 PM累积效率。
+本研究发现，对植物叶片累积 PM 量起到决定性因素的是植物所处位置的具体
+环境，因此除了物种选择之外，应当注意绿地内植物的空间分布，通过植被的遮挡
+来减少空气污染的扩散。除了外部的交通污染源，在规划公园绿化时，也应考虑公
+园内部的 PM 来源。公园内的 PM 来源不太可能对城市范围内的空气污染产生重大
+影响，但对于希望公园空气更清洁的游客来说很重要。可以在公园内 PM 来源较多
+区域，如餐厅、便利店、停车场、游乐场附近，选择耐污染和 PM 吸附能力强的植
+物种类，在污染源和游客活动区之间设置绿化带，利用植物的吸附和过滤作用减少
+PM 的扩散，并通过乔木、灌木和草本植物的合理搭配，形成多层次的绿化结构，
+增强 PM的吸附和阻隔能力。
+103
+--- PAGE 115 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+植物的周年降减 PM 能力还受到植物生长周期、降水等因素的多重影响，某些
+常绿植物即使在单位叶面积方面累积 PM 能力弱于落叶植物，但由于其较长的生长
+周期，能在非生长期仍保留叶片，可以全年累积 PM 并进行降雨的洗脱循环，因此
+整体比落叶植物更易降减更多的 PM。因此，在选择物种时应该综合考虑植物的降
+减 PM 能力，以确定具有较高去除空气中的 PM 能力的物种，例如，在本研究中周
+年降减 PM 能力较强的杜鹃、红花檵木、狗牙根、麦冬、桂花等，将植物降减 PM
+效应最大化。此外，研究结果显示，降雨能够去除大量的 PM，降雨在四季去除叶
+表 PM 量显著高于累积在叶片表面的 PM 量。因此，建议在长期干旱期间，在城市
+条件下使用人工降雨去除植被表面的 PM，以让叶片累积 PM 达到饱和的植物重新
+进入下一轮累积 PM循环。
+6.3 展望与不足
+本研究针对绿地的降减空气颗粒物的生态功能进行详细研究，为缓解城市空气
+污染，完善绿地功能研究提供重要参考。在研究内容上，针对武汉解放公园 17 种
+典型人工群落植物进行了四个季节的降减 PM 能力测定，并考虑了降雨的洗脱效应、
+气象因素以及地理因素的影响，弥补了华中地区植物降减 PM 能力研究的不足。研
+究方法上，采用水洗称量法、扫描电镜法、实地测量与数理统计模型多种方法结合，
+通过实测数据建立了数理统计回归模型，为精确评估绿地降减空气 PM 能力提供了
+重要的方法参考。研究结果上，计算了武汉典型城市综合公园——解放公园的周年
+降减空气 PM 能力，为未来绿地规划设计提供重要数据支撑。但本研究尚存在不足
+之处：
+（1）本研究对植物叶片累积 PM 量及叶片结构特征进行了的研究，但尚未涉及
+植物其他部位的降减 PM 能力研究。树木的每个部分都可以对整体 PM 去除产生影
+响（Han et al 2020），因此未来可以进一步研究树木其他器官在微观水平上的相互
+作用机制。
+（2）在降雨对植物叶片洗脱效应的研究上，仅研究了一种常见中等降雨强度的
+洗脱效果，且未考虑降雨持续时间、以及风等要素的影响，未来研究应当考虑增设
+多种降雨强度并考虑降雨持续时间的影响，结合植物的立地条件，详细研究降雨对
+植物降减 PM的作用机制。
+104
+--- PAGE 116 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+（3）公园绿地植物周年降减 PM 能力评估利用聚类方法将公园所有植物种类与
+研究所选植物进行了近似归类，但不同植物的生长状况、形态等仍存在差异，因此
+结果存在一定的误差，在未来应当涉及更多类型植物降减 PM 能力的量化，建立常
+见植物降减 PM 能力量化数据库，为未来可持续的绿地规划选种提供更完善的数据
+支撑。
+105
+--- PAGE 117 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+参考文献
+1. 包红光．城市公园绿地内空气颗粒物浓度时空变化规律．[博士学位论文]．中国
+林业科学研究院．2016
+2. 陈小平，裴婷婷，周志翔．园林植物吸附细颗粒物 PM 效应研究进展．生态学
+2.5
+杂志．2014，3:2558-2566
+3. 陈羽阳，王婧，赵聆言，朱春阳．城市公园绿地对周边环境空气 PM 和PM 的
+10 2.5
+影响及效应场特征——以武汉市中山公园为例．生态学杂志．2021， 40(7): 2263-
+2276
+4. 贾彦，吴超，董春芳，李常平，廖慧敏．7 种绿化植物滞尘的微观测定．中南大
+学学报（自然科学版）．2012，43(11): 4547-4553
+5. 刘璐，管东生，陈永勤．广州市常见行道树种叶片表面形态与滞尘能力． 生态学
+报． 2013，33(8): 2604-2614
+6. 刘佩琪，邓志华，杨淏舟．城市森林对大气中重金属的富集特征．环境化
+学．2017，36: 265-273
+7. 莫莉．植物叶片对不同粒径颗粒物的吸附效果研究．[博士学位论文]．北京林业
+大学，2014
+8. 邱玲，刘芳，张祥，高天．城市公园不同植被结构绿地削减空气颗粒物浓度研
+究． 环境科学研究．2018(10 vo 31): 1685-1694
+9. 宋宇，唐孝炎，张远航，胡敏，方晨，曾立民，王玮．夏季持续高温天气对北京
+市大气细粒子 PM 的影响． 环境科学． 2002，23(4): 33-36
+2.5
+10. 孙淑萍．3 种垂直绿化植物对污染物的富集及生理响应．[博士学位论文]．南京
+林业大学，2012
+11.王万平．武汉市公园绿地人工植物群落特征及景观评价研究．[硕士学位论
+文]．华中农业大学，2012
+12. 闫珊珊．城市公园对大气颗粒污染物浓度分布影响的实测与数值模拟研究．[博
+士学位论文]．西北农林科技大学，2019
+13. 杨貌，张志强，陈立欣，刘辰明，邹瑞．春季城区道路不同绿地配置模式对大
+气颗粒物的削减作用．生态学报．2016，36(7): 2076-2083
+14. 刘文平，宇振荣．北京海淀区绿色空间 PM 滞尘服务模拟．应用生态学
+2.5
+106
+--- PAGE 118 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+报．2016，27: 2580-2586
+15. 张芳菲．基于 ENVI-met 的城市公园绿地对微气候及 PM2.5 的影响研究[硕士学
+位论文]．北京林业大学，2020
+16. 张维康，王兵，牛香．北京不同污染地区园林植物对空气颗粒物的滞纳能
+力．环境科学． 2015，36(07): 2381-2388
+17. 张新献，古润泽，陈自新，李延明，韩丽莉，李辉．北京城市居住区绿地的滞
+尘效益．北京林业大学学报．1997，(04):14-19
+18. 赵勇，李树人，阎志平．城市绿地的滞尘效应及评价方法．华中农业大学学
+报．2002，(06): 582-586
+19. Alfani A, Maisto G, Iovieno P, Rutigliano FA, Bartoli G. Leaf Contamination by
+Atmospheric Pollutants as Assessed by Elemental Analysis of Leaf Tissue, Leaf Surface
+Deposit and Soil. J Plant Physiol. 1996, 148(1): 243-248
+20. Barthlott W, Neinhuis C, Cutler D, Ditsch F, Meusel I, Theisen I, Wilhelmi H.
+Classification and terminology of plant epicuticular waxes. Bot J Linn Soc. 1998, 126(3):
+237-260
+21. Barwise Y, Kumar K. Designing vegetation barriers for urban air pollution abatement:
+a practical review for appropriate plant species selection. npj Clim Atmos Sci. 2020: 19
+22. Beckett KP, Freer-Smith PH, Taylor G. Urban woodlands: their role in reducing the
+effects of particulate pollution. Environmental Pollution. 1998, 99(3): 347-360
+23. Beckett KP, Freer-Smith PH, Taylor G. Particulate pollution capture by urban trees:
+effect of species and windspeed. Global Change Biol. 2000, 6(8): 995-1003
+24. Bui H-T, Odsuren U, Kim S-Y, Park B-J. Seasonal Variations in the Particulate Matter
+Accumulation and Leaf Traits of 24 Plant Species in Urban Green Space. Land. 2022, 11(11)
+25. Burkhardt J. Hygroscopic particles on leaves: nutrients or desiccants? Ecological
+Monographs. 2010, 80(3): 369-399
+26. Burkhardt J, Pariyar S. Particulate pollutants are capable to ‘degrade’ epicuticular waxes
+and to decrease the drought tolerance of Scots pine (Pinus sylvestris L.). Environmental
+Pollution. 2014, 184: 659-667
+27. Burnett R, Chen H, Szyszkowicz M, Fann N, Hubbell B, Pope CA, Apte JS, Brauer M,
+Cohen A, Weichenthal S, Coggins J, Di Q, Brunekreef B, Frostad J, Lim SS, Kan H, Walker
+KD, Thurston GD, Hayes RB, Lim CC, et al. Global estimates of mortality associated with
+long-term exposure to outdoor fine particulate matter. Proc. Natl. Acad. Sci. U.S.A.. 2018,
+115(38): 9592-9597
+107
+--- PAGE 119 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+28. Cai M, Xin Z, Yu X. Spatio-temporal variations in PM leaf deposition: A meta-analysis.
+Environmental Pollution. 2017, 231: 207-218
+29. Cai M, Xin Z, Yu X. Particulate matter transported from urban greening plants during
+precipitation events in Beijing, China. Environmental Pollution. 2019, 252: 1648-1658
+30. Cavanagh J-AE, Zawar-Reza P, Wilson JG. Spatial attenuation of ambient particulate
+matter air pollution within an urbanised native forest patch. Urban For Urban Gree. 2009,
+8(1): 21-30
+31. Chávez-García E, González-Méndez B. Particulate matter and foliar retention: current
+knowledge and implications for urban greening. Air Qual Atmos Hlth. 2021, 14(9): 1433-
+1454
+32. Chen G, Lin L, Hu Y, Zhang Y, Ma K. Net particulate matter removal ability and
+efficiency of ten plant species in Beijing. Urban For Urban Gree. 2021, 63: 127230
+33. Chen L, Liu C, Zhang L, Zou R, Zhang Z. Variation in Tree Species Ability to Capture
+and Retain Airborne Fine Particulate Matter (PM2.5). Sci Rep. 2017, 7(1): 3206
+34. Chen L, Liu C, Zou R, Yang M, Zhang Z. Experimental examination of effectiveness
+of vegetation as bio-filter of particulate matters in the urban environment. Environmental
+Pollution. 2016, 208: 198-208
+35. Chen X. Efficiency differences of roadside greenbelts with three configurations in
+removing coarse particles (PM10): A street scale investigation in Wuhan, China. Urban For
+Urban Gree. 2015: 7
+36. Chen Y, Xu Y, Liang X, Yan W, Zhang R, Yan Y, Qin S. Foliar particulate matter
+retention and toxic trace element accumulation of six roadside plant species in a subtropical
+city. Scientific Reports. 2023, 13(1): 12831
+37. Chiam Z, Song XP, Lai HR, Tan HTW. Particulate matter mitigation via plants:
+Understanding complex relationships with leaf traits. Sci Total Environ. 2019, 688: 398-
+408
+38. Cohen AJ, Brauer M, Burnett R, Anderson HR, Frostad J, Estep K, Balakrishnan K,
+Brunekreef B, Dandona L, Dandona R, Feigin V, Freedman G, Hubbell B, Jobling A, Kan
+H, Knibbs L, Liu Y, Martin R, Morawska L, Pope CA, et al. Estimates and 25-year trends
+of the global burden of disease attributable to ambient air pollution: an analysis of data from
+the Global Burden of Diseases Study 2015. The Lancet. 2017, 389(10082): 1907-1918
+39. Cohen P, Potchter O, Schnell I. The impact of an urban park on air pollution and noise
+levels in the Mediterranean city of Tel-Aviv, Israel. Environmental Pollution. 2014, 195:
+73-83
+108
+--- PAGE 120 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+40. Corada K, Woodward H, Alaraj H, Collins CM, de Nazelle A. A systematic review of
+the leaf traits considered to contribute to removal of airborne particulate matter pollution
+in urban areas. Environmental Pollution. 2021, 269: 116104
+41. Deljanin I, Antanasijević D, Bjelajac A, Urošević MA, Nikolić M, Perić-Grujić A,
+Ristić M. Chemometrics in biomonitoring: Distribution and correlation of trace elements
+in tree leaves. Sci Total Environ. 2016, 545-546: 361-371
+42. Deng WJ, Louie PKK, Liu WK, Bi XH, Fu JM, Wong MH. Atmospheric levels and
+cytotoxicity of PAHs and heavy metals in TSP and PM2.5 at an electronic waste recycling
+site in southeast China. Atmospheric Environment. 2006, 40(36): 6945-6955
+43. Dzierżanowski K, Popek R, Gawrońska H, Sæbø A, Gawroński SW. Deposition of
+Particulate Matter of Different Size Fractions on Leaf Surfaces and in Waxes of Urban
+Forest Species. Int J Phytoremediat. 2011, 13(10): 1037-1046
+44. Escobedo FJ, Wagner JE, Nowak DJ, Maza CLD la, Rodriguez M, Crane DE. Analyzing
+the cost effectiveness of Santiago, Chile’s policy of using urban forests to improve air
+quality. J Environ Manage. 2008, 86(1): 148-157
+45. Faini F, Labbé C, Coll J. Seasonal changes in chemical composition of epicuticular
+waxes from the leaves of Baccharis linearis. Biochem Syst Ecol. 1999, 27(7): 673-679
+46. Fantozzi F, Monaci F, Blanusa T, Bargagli R. Holm Oak (Quercus ilex L.) canopy as
+interceptor of airborne trace elements and their accumulation in the litter and topsoil.
+Environmental Pollution. 2013, 183: 89-95
+47. Fares S, Savi F, Fusaro L, Conte A, Salvatori E, Aromolo R, Manes F. Particle
+deposition in a peri-urban Mediterranean forest. Environmental Pollution. 2016, 218: 1278-
+1286
+48. Fowler D, Cape JN, Unsworth MH, Mayer H, Crowther JM, Jarvis PG, Gardiner B,
+Shuttleworth WJ, Jarvis PG, Monteith JL, Shuttleworth WJ, Unsworth MH. Deposition of
+atmospheric pollutants on forests. Biological Sciences. 1989, 324(1223): 247-265
+49. Fowler D, Skiba U, Nemitz E, Choubedar F, Branford D, Donovan R, Rowland P.
+Measuring Aerosol and Heavy Metal Deposition on Urban Woodland and Grass Using
+Inventories of 210Pb and Metal Concentrations in Soil. Water Air Soil Poll: Focus. 2004,
+4(2): 483-499
+50. Freer-Smith PH, Beckett KP, Taylor G. Deposition velocities to Sorbus aria, Acer
+campestre, Populus deltoides × trichocarpa ‘Beaupré’, Pinus nigra and × Cupressocyparis
+leylandii for coarse, fine and ultra-fine particles in the urban environment. Environmental
+Pollution. 2005, 133(1): 157-167
+109
+--- PAGE 121 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+51. Fu Z, Xi S. The effects of heavy metals on human metabolism. Toxicol Mech Methods.
+2020, 30(3): 167-176
+52. García-Gómez H, Aguillaume L, Izquieta-Rojano S, Valiño F, Àvila A, Elustondo D,
+Santamaría JM, Alastuey A, Calvete-Sogo H, González-Fernández I, Alonso R.
+Atmospheric pollutants in peri-urban forests of Quercus ilex: evidence of pollution
+abatement and threats for vegetation. Environmental Science and Pollution Research. 2016,
+23(7): 6400-6413
+53. Gawronski SW, Gawronska H, Lomnicki S, Sæbo A, Vangronsveld J. Chapter Eight -
+Plants in Air Phytoremediation. Cuypers A, Vangronsveld J, eds.//Academic Press, 2017:
+319-346
+54. Ghosh S, Dutta R, Mukhopadhyay S. A Review on Seasonal Changes in Particulate
+Matter Accumulation by Plant Bioindicators: Effects on Leaf Traits. Water, Air, & Soil
+Pollution. 2023, 234(8): 529
+55. Gromke C, Ruck B. On the Impact of Trees on Dispersion Processes of Traffic
+Emissions in Street Canyons. Boundary-Layer Meteorology. 2009, 131(1): 19-34
+56. Han D, Shen H, Duan W, Chen L. A review on particulate matter removal capacity by
+urban forests at different scales. Urban For Urban Gree. 2020, 48: 126565
+57. Han L, Zhou W, Li W, Li L. Impact of urbanization level on urban air quality: A case
+of fine particles (PM2.5) in Chinese cities. Environmental Pollution. 2014, 194: 163-170
+58. Haswani D, Raman RS, Yadav K, Dhandapani A, Iqbal J, Kumar RN, Prasad SVL,
+Yogesh A, B.M SM, Lokesh KS. Pollution characteristics and ecological risks of trace
+elements in PM2.5 over three COALESCE network sites - Bhopal, Mesra, and Mysuru,
+India. Chemosphere. 2023, 324: 138203
+59. He L, Wang S, Liu M, Chen Z, Xu J, Dong Y. Transport and transformation of
+atmospheric metals in ecosystems: A review. Journal of Hazardous Materials Advances.
+2023, 9: 100218
+60. Hoek G, Krishnan RM, Beelen R, Peters A, Ostro B, Brunekreef B, Kaufman JD. Long-
+term air pollution exposure and cardio- respiratory mortality: a review. Environ Health.
+2013, 12(1): 43
+61. Hofman J, Bartholomeus H, Calders K, Wittenberghe SV, Wuyts K, Samson R. On the
+relation between tree crown morphology and particulate matter deposition on urban tree
+leaves: A ground-based LiDAR approach. Atmospheric Environment. 2014, 99(dec.): 130-
+139
+62. Huang R, Tian Q, Zhang Y, Chen Z, Wu Y, Li Z, Wen Z. Differences in particulate
+110
+--- PAGE 122 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+matter retention and leaf microstructures of 10 plants in different urban environments in
+Lanzhou City. Environ Sci Pollut R. 2023, 30(47): 103652-103673
+63. Huang R-J, Zhang Y, Bozzetti C, Ho K-F, Cao J-J, Han Y, Daellenbach KR, Slowik JG,
+Platt SM, Canonaco F, Zotter P, Wolf R, Pieber SM, Bruns EA, Crippa M, Ciarelli G,
+Piazzalunga A, Schwikowski M, Abbaszade G, Schnelle-Kreis J, et al. High secondary
+aerosol contribution to particulate pollution during haze events in China. Nature. 2014,
+514(7521): 218-222
+64. Huang T, Chen J, Zhao W, Cheng J, Cheng S. Seasonal Variations and Correlation
+Analysis of Water-Soluble Inorganic Ions in PM2.5 in Wuhan, 2013. Atmosphere. 2016,
+7(4)
+65. Irga PJ, Burchett MD, Torpy FR. Does urban forestry have a quantitative effect on
+ambient air quality in an urban environment? Atmospheric Environment. 2015, 120: 173-
+181
+66. Jia Luo YT Yandong Niu, Yi Zhang, Min Zhang, Zhou X. Dynamic analysis of retention
+PM2.5 by plant leaves in rainfall weather conditions of six tree species. Energ Source Part
+A. 2020, 42(8): 1014-1025. Taylor & Francis, 2020: 1014-1025
+67. Jian L, Zhao Y, Zhu Y-P, Zhang M-B, Bertolatti D. An application of ARIMA model to
+predict submicron particle concentrations from meteorological factors at a busy roadside in
+Hangzhou, China. Sci Total Environ. 2012, 426: 336-345
+68. Jim CY, Chen WY. Assessing the ecosystem service of air pollutant removal by urban
+trees in Guangzhou (China). J Environ Manage. 2008, 88(4): 665-676
+69. Jin EJ, Yoon JH, Bae EJ, Jeong BR, Yong SH, Choi MS. Particulate Matter Removal
+Ability of Ten Evergreen Trees Planted in Korea Urban Greening. Forests. 2021, 12(4).
+70. Kašpar V, Zapletal M, Samec P, Komárek J, Bílek J, Juráň S. Unmanned aerial systems
+for modelling air pollution removal by urban greenery. Urban For Urban Gree. 2022, 78:
+127757
+71. Koukoulakis KG, Chrysohou E, Kanellopoulos PG, Karavoltsos S, Katsouras G,
+Dassenakis M, Nikolelis D, Bakeas E. Trace elements bound to airborne PM10 in a heavily
+industrialized site nearby Athens: Seasonal patterns, emission sources, health implications.
+Atmos Pollut Res. 2019, 10(4): 1347-1356
+72. Kwak MJ, Lee J, Park S, Lim YJ, Kim H, Jeong SG, Son J, Je SM, Chang H, Oh C-Y,
+Kim K, Woo SY. Understanding Particulate Matter Retention and Wash-Off during Rainfall
+in Relation to Leaf Traits of Urban Forest Tree Species. Horticulturae. 2023, 9(2)
+73. Leonard RJ, McArthur C, Hochuli DF. Particulate matter deposition on roadside plants
+111
+--- PAGE 123 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+and the importance of leaf trait combinations. Urban For Urban Gree. 2016, 20: 249-253
+74. Liang D, Ma C, Wang Yun-qi, Wang Yu-jie, Chen-xi Z. Quantifying PM2.5 capture
+capability of greening trees based on leaf factors analyzing. Environ Sci Pollut R. 2016,
+23(21): 21176-21186
+75. Lindén J, Gustafsson M, Uddling J, Watne Å, Pleijel H. Air pollution removal through
+deposition on urban vegetation: The importance of vegetation characteristics. Urban For
+Urban Gree. 2023, 81: 127843
+76. Liu D, Deng Q, Zhou Z, Lin Y, Tao J. Variation Trends of Fine Particulate Matter
+Concentration in Wuhan City from 2013 to 2017. Int J Env Res Pub He. 2018, 15(7).
+77. Liu L, Guan D, Peart MR, Wang G, Zhang H, Li Z. The dust retention capacities of
+urban vegetation—a case study of Guangzhou, South China. Environ Sci Pollut Res. 2013,
+20(9): 6601-6610
+78. Liu S, Tian H, Zhu C, Cheng K, Wang Y, Luo L, Bai X, Hao Y, Lin S, Zhao S, Wang S,
+Chu B, Guo Z, Lv Y, Hao J. Reduced but still noteworthy atmospheric pollution of trace
+elements in China. One Earth. 2023, 6(5): 536-547
+79. Liu X, Yu X, Zhang Z. PM2.5 Concentration Differences between Various Forest Types
+and Its Correlation with Forest Structure. Atmosphere. 2015, 6(11): 1801-1815
+80. Łukowski A, Popek R, Jagiełło R, Mąderek E, Karolewski P. Particulate matter on two
+Prunus spp. decreases survival and performance of the folivorous beetle Gonioctena
+quinquepunctata. Environ Sci Pollut R. 2018, 25(17): 16629-16639
+81. Lv J, Christie P, Zhang S. Uptake, translocation, and transformation of metal-based
+nanoparticles in plants: recent advances and methodological challenges. Environ. Sci.:
+Nano. 2019, 6(1): 41-59. The Royal Society of Chemistry, 2019: 41-59
+82. Lyu X, Chang L, Lu Z, Li J. The ability of three climbing plant species to capture
+particulate matter and their physiological responses at different environmental sampling
+sites. Front Env Sci-Switz. 2023, 10
+83. Maisto G, Alfani A, Baldantoni D, Marco AD, Santo AVD. Trace metals in the soil and
+in Quercus ilex L. leaves at anthropic and remote sites of the Campania Region of Italy.
+Geoderma. 2004, 122(2): 269-279
+84. Manning WJ, Feder WA. Biomonitoring air pollutants with plants. United Kingdom: N.
+p. 1980, 130-135
+85. McDonald AG, Bealey WJ, Fowler D, Dragosits U, Skiba U, Smith RI, Donovan RG,
+Brett HE, Hewitt CN, Nemitz E. Quantifying the effect of urban tree planting on
+concentrations and depositions of PM10 in two UK conurbations. Atmospheric
+112
+--- PAGE 124 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+Environment. 2007, 41(38): 8455-8467
+86. Miao Zhou, Wang X, Lin X, Yang S, Zhang J, Chen J. Automobile exhaust particles
+retention capacity assessment of two common garden plants in different seasons in the
+Yangtze River Delta using open-top chambers. Environmental Pollution. 2020, 263:
+114560
+87. Mingorance MD, Oliva SR. Heavy Metals Content in N. OleanderLeaves As Urban
+Pollution Assessment. Environ Monit Assess. 2006, 119(1): 57-68
+88. Mitchell R, Maher BA, Kinnersley R. Rates of particulate pollution deposition onto leaf
+surfaces: temporal and inter-species magnetic analyses. Environ Pollut. 2010, 158(5):
+1472-1478
+89. Mori J, Fini A, Galimberti M, Ginepro M, Burchi G, Massa D, Ferrini F. Air pollution
+deposition on a roadside vegetation barrier in a Mediterranean environment: Combined
+effect of evergreen shrub species and planting density. Sci Total Environ. 2018, 643: 725-
+737
+90. Nguyen T, Yu X, Zhang Z, Liu M, Liu X. Relationship between types of urban forest
+and PM2.5 capture at three growth stages of leaves. J Environ Sci. 2015, 27: 33-41
+91. Nowak D. Air pollution removal by Chicago’s urban forest. Chicago’s Urban Forest
+Ecosystem: Results of the Chicago Urban Forest Climate Project. 1994: 63-81
+92. Nowak DJ, Crane DE, Stevens JC. Air pollution removal by urban trees and shrubs in
+the United States. Urban For Urban Gree. 2006, 4(3): 115-123
+93. Nowak DJ, Hirabayashi S, Bodine A, Greenfield E. Tree and forest effects on air quality
+and human health in the United States. Environmental Pollution. 2014, 193: 119-129
+94. Nowak DJ, Hirabayashi S, Bodine A, Hoehn R. Modeled PM2.5 removal by trees in
+ten U.S. cities and associated health effects. Environmental Pollution. 2013, 178: 395-402
+95. Ould-Dada Z, Baghini NM. Resuspension of small particles from tree surfaces.
+Atmospheric Environment. 2001, 35(22): 3799-3809
+96. Popek R, Gawrońska H, Gawronski S. The Level of Particulate Matter on Foliage
+Depends on the Distance from the Source of Emission. Int J Phytoremediat. 2015, 17
+97. Popek R, Gawrońska H, Wrochna M, Gawroński SW, Saebø A. Particulate matter on
+foliage of 13 woody species: deposition on surfaces and phytostabilisation in waxes--a 3-
+year study. Int J Phytoremediation. 2013, 15(3): 245-256
+98. Popek R, Haynes A, Przybysz A, Robinson SA. How Much Does Weather Matter?
+Effects of Rain and Wind on PM Accumulation by Four Species of Australian Native Trees.
+Atmosphere. 2019, 10(10)
+113
+--- PAGE 125 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+99. Popek R, Łukowski A, Karolewski P. Particulate matter accumulation - further
+differences between native Prunus padusand non-native P. serotina. Dendrobiology. 2017,
+78: 85-95
+100. Przybysz A, Nersisyan G, Gawroński SW. Removal of particulate matter and trace
+elements from ambient air by urban greenery in the winter season. Environ Sci Pollut R.
+2019, 26(1): 473-482
+101. Przybysz A, Sæbø A, Hanslin HM, Gawroński SW. Accumulation of particulate matter
+and trace elements on vegetation as affected by pollution level, rainfall and the passage of
+time. Sci Total Environ. 2014, 481: 360-369
+102. Przybysz A, Wińska-Krysiak M, Małecka-Przybysz M, Stankiewicz-Kosyl M, Skwara
+M, Kłos A, Kowalczyk S, Jarocka K, Sikorski P. Urban wastelands: On the frontline
+between air pollution sources and residential areas. Sci Total Environ. 2020, 721: 137695
+103. Riondato E, Pilla F, Sarkar Basu A, Basu B. Investigating the effect of trees on urban
+quality in Dublin by combining air monitoring with i-Tree Eco model. Sustain Cities Soc.
+2020, 61: 102356
+104. Sachse D, Kahmen A, Gleixner G. Significant seasonal variation in the hydrogen
+isotopic composition of leaf-wax lipids for two deciduous tree ecosystems (Fagus sylvativa
+and Acerpseudoplatanus). Organic Geochemistry. 2009, 40(6): 732-742
+105. Sæbø A, Borzan Ž, Ducatillion C, Hatzistathis A, Lagerström T, Supuka J, García-
+Valdecantos JL, Rego F, Van Slycken J. The Selection of Plant Materials for Street Trees,
+Park Trees and Urban Woodland. Urban Forests and Trees. Springer 2005: 257-280
+106. Sæbø A, Popek R, Nawrot B, Hanslin HM, Gawronska H, Gawronski SW. Plant
+species differences in particulate matter accumulation on leaf surfaces. Sci Total Environ.
+2012, 427-428: 347-354
+107. Salmond JA, Williams DE, Laing G, Kingham S, Dirks K, Longley I, Henshaw GS.
+The influence of vegetation on the horizontal and vertical distribution of pollutants in a
+street canyon. Sci Total Environ. 2013, 443: 287-298
+108. Sawidis T, Metentzoglou E, Mitrakas M, Vasara E. A Study of Chromium, Cooper,
+and Lead Distribution from Lignite Fuels Using Cultivated and Non-cultivated Plants as
+Biological Monitors. Water Air Soil Poll. 2011, 220(1): 339-352
+109. Selmi W, Weber C, Rivière E, Blond N, Mehdi L, Nowak D. Air pollution removal by
+trees in public green spaces in Strasbourg city, France. Urban For Urban Gree. 2016, 17:
+192-201
+110. Sgrigna G, Sæbø A, Gawronski S, Popek R, Calfapietra C. Particulate Matter
+114
+--- PAGE 126 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+deposition on Quercus ilex leaves in an industrial city of central Italy. Environmental
+Pollution. 2015, 197: 187-194
+111. Shahid M, Dumat C, Khalid S, Schreck E, Xiong T, Niazi NK. Foliar heavy metal
+uptake, toxicity and detoxification in plants: A comparison of foliar and root metal uptake.
+J Hazard Mater. 2017, 325: 36-58
+112. Shao F, Wang L, Sun F, Li G, Yu L, Wang Y, Zeng X, Yan H, Dong L, Bao Z. Study
+on different particulate matter retention capacities of the leaf surfaces of eight common
+garden plants in Hangzhou, China. Sci Total Environ. 2019, 652: 939-951
+113. Steinparzer M, Schaubmayr J, Godbold DL, Rewald B. Particulate matter
+accumulation by tree foliage is driven by leaf habit types, urbanization- and pollution levels.
+Environmental Pollution. 2023, 335: 122289.
+114. Tai A, Mickley LJ, Jacob DJ. Correlations between fine particulate matter (PM2.5)
+and meteorological variables in the United States: implications for the sensitivity of PM2.5
+to climate change. Atmospheric Environment. 2010(32)
+115. Tallis M, Taylor G, Sinnett D, Freer-Smith P. Estimating the removal of atmospheric
+particulate pollution by the urban tree canopy of London, under current and future
+environments. Landscape Urban Plan. 2011, 103(2): 129-138
+116. Terzaghi E, Wild E, Zacchello G, Cerabolini BEL, Jones KC, Di Guardo A. Forest
+Filter Effect: Role of leaves in capturing/releasing air particulate matter and its associated
+PAHs. Atmospheric Environment. 2013, 74: 378-384
+117. Tiwary A, Sinnett D, Peachey C, Chalabi Z, Vardoulakis S, Fletcher T, Leonardi G,
+Grundy C, Azapagic A, Hutchings TR. An integrated tool to assess the role of new planting
+in PM10 capture and the human health benefits: A case study in London. Environmental
+Pollution. 2009, 157(10): 2645-2653
+118. Tomašević M, Vukmirović Z, Rajšić S, Tasić M, Stevanović B. Characterization of
+trace metal particles deposited on some deciduous tree leaves in an urban area.
+Chemosphere. 2005, 61(6): 753-760
+119. Trivedi DK, Ali K, Beig G. Impact of meteorological parameters on the development
+of fine and coarse particles over Delhi. Sci Total Environ. 2014, 478: 175-183
+120. Velasco-Jiménez MJ, Alcázar P, Cariñanos P, Galán C. Allergenicity of the urban green
+areas in the city of Córdoba (Spain). Urban For Urban Gree. 2020, 49: 126600
+121. Viippola V, Whitlow TH, Zhao W, Yli-Pelkonen V, Mikola J, Pouyat R, Setälä H. The
+effects of trees on air pollutant levels in peri-urban near-road environments. Urban For
+Urban Gree. 2018, 30: 62-71
+115
+--- PAGE 127 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+122. Vogel S. Drag and Reconfiguration of Broad Leaves in High Winds. J Exp Bot. 1989,
+40(8): 941-948
+123. Wang F, Lin T, Feng J, Fu H, Guo Z. Source apportionment of polycyclic aromatic
+hydrocarbons in PM2.5 using positive matrix factorization modeling in Shanghai, China.
+Environ. Sci.: Processes Impacts. 2015, 17(1): 197-205
+124. Wang H, Shi H, Li Y, Yu Y, Zhang J. Seasonal variations in leaf capturing of particulate
+matter, surface wettability and micromorphology in urban tree species. Front Env Sci Eng.
+2013, 7(4): 579-588
+125. Wang H, Shi H, Wang Y. Effects of weather, time, and pollution level on the amount
+of particulate matter deposited on leaves of Ligustrum lucidum. Sci World J. 2015, 2015:
+935942
+126. Wang R, Yang B, Yao Y, Bloom MS, Feng Z, Yuan Y, Zhang J, Liu P, Wu W, Lu Y,
+Baranyi G, Wu R, Liu Y, Dong G. Residential greenness, air pollution and psychological
+well-being among urban residents in Guangzhou, China. Sci Total Environ. 2020, 711:
+134843
+127. Wang S, Yu S, Yan R, Zhang Q, Li P, Wang L, Liu W, Zheng X. Characteristics and
+origins of air pollutants in Wuhan, China, based on observations and hybrid receptor models.
+J Air Waste Manag Assoc. 2017, 67(7): 739-753
+128. Wania A, Bruse M, Blond N, Weber C. Analysing the influence of different street
+vegetation on traffic-induced particle dispersion using microscale simulations. J Environ
+Manage. 2012, 94(1): 91-101
+129. Weerakkody U, Dover JW, Mitchell P, Reiling K. The impact of rainfall in
+remobilising particulate matter accumulated on leaves of four evergreen species grown on
+a green screen and a living wall. Urban For Urban Gree. 2018a, 35: 21-31
+130. Weerakkody U, Dover JW, Mitchell P, Reiling K. Evaluating the impact of individual
+leaf traits on atmospheric particulate matter accumulation using natural and synthetic leaves.
+Urban For Urban Gree. 2018b, 30: 98-107
+131. Wróblewska K, Jeong BR. Effectiveness of plants and green infrastructure utilization
+in ambient particulate matter removal. Environ Sci Eur. 2021, 33(1): 110
+132. Xie C, Kan L, Guo J, Jin S, Li Z, Chen D, Li X, Che S. A dynamic processes study of
+PM retention by trees under different wind conditions. Environmental Pollution. 2018, 233:
+315-322
+133. Xie C, Yan L, Liang A, Che S. Understanding the washoff processes of PM2.5 from
+leaf surfaces during rainfall events. Atmospheric Environment. 2019, 214: 116844.
+116
+--- PAGE 128 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+134. Xiong Y, Zhou J, Schauer JJ, Yu W, Hu Y. Seasonal and spatial differences in source
+contributions to PM2.5 in Wuhan, China. Sci Total Environ. 2017, 577: 155-165
+135. Xu L, He P, Duan Y, Yu Z, Yang F. Synergy of different leaf traits determines the
+particulate matter retention capacity and its susceptibility to rain wash-off. Sci Total
+Environ. 2024, 906: 167365
+136. Xu L, Yan Q, Liu L, He P, Zhen Z, Duan Y, Jing Y. Variations of particulate matter
+retention by foliage after wind and rain disturbance. Air Qual Atmos Hlth. 2022, 15(3): 437-
+447
+137. Xu X, Yu X, Bao L, Desai AR. Size distribution of particulate matter in runoff from
+different leaf surfaces during controlled rainfall processes. Environmental Pollution. 2019,
+255: 113234
+138. Xu X, Zhang Z, Bao L, Mo L, Yu X, Fan D, Lun X. Influence of rainfall duration and
+intensity on particulate matter removal from plant leaves. Sci Total Environ. 2017, 609: 11-
+16
+139. Xu X, Zhang Z, Bao L, Mo L, Yu X, Fan D, Lun X. Influence of rainfall duration and
+intensity on particulate matter removal from plant leaves. Sci Total Environ. 2017, 609: 11-
+16
+140. Xu Y, Xu W, Mo L, Heal MR, Xu X, Yu X. Quantifying particulate matter accumulated
+on leaves by 17 species of urban trees in Beijing, China. Environ Sci Pollut Res. 2018,
+25(13): 12545-12556
+141. Yan G, Liu J, Zhu L, Zhai J, Cong L, Ma W, Wang Y, Wu Y, Zhang Z. Effectiveness
+of wetland plants as biofilters for inhalable particles in an urban park. J Clean Prod. 2018,
+194: 435-443
+142. Yan Q, Xu L, Duan Y, Pan L, Wu Z, Chen X. Influence of leaf morphological
+characteristics on the dynamic changes of particulate matter retention and grain size
+distributions. Environ Technol. 2024, 45(1): 108-119
+143. Yin S, Shen Z, Zhou P, Zou X, Che S, Wang W. Quantifying air pollution attenuation
+within urban parks: An experimental approach in Shanghai, China. Environmental
+Pollution. 2011, 159(8-9): 2155-2163
+144. Zeb B, Alam K, Sorooshian A, Blaschke T, Ahmad I, Shahid I. On the Morphology
+and Composition of Particulate Matter in an Urban Environment. Aerosol Air Qual Res.
+2018, 18(6): 1431-1447
+145. Zha Y, Shi Y, Tang J, Liu X, Feng C, Zhang Y. Spatial-Temporal Variability and Dust-
+Capture Capability of 8 Plants in Urban China. Pol J Environ Stud. 2019, 28(1): 453-462
+117
+--- PAGE 129 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+146. Zhang H, Gao Z, Ding W, Zhang W. Numerical Study of the Impact of Green Space
+Layout on Microclimate. Procedia Engineering. 2017, 205: 1762-1768
+147. Zhang L, Zhang Z, Chen L, McNulty S. An investigation on the leaf accumulation-
+removal efficiency of atmospheric particulate matter for five urban plant species under
+different rainfall regimes. Atmospheric Environment. 2019, 208: 123-132
+148. Zhang W, Zhang Y, Gong J, Yang B, Zhang Z, Wang B, Zhu C, Shi J, Yue K.
+Comparison of the suitability of plant species for greenbelt construction based on
+particulate matter capture capacity, air pollution tolerance index, and antioxidant system.
+Environmental Pollution. 2020, 263: 114615
+149. Zhang Z, Gong J, Li Y, Zhang W, Zhang T, Meng H, Liu X. Analysis of the influencing
+factors of atmospheric particulate matter accumulation on coniferous species: measurement
+methods, pollution level, and leaf traits. Environ Sci Pollut R. 2022, 29(41): 62299-62311
+150. Zhao L, Li T, Przybysz A, Guan Y, Ji P, Ren B, Zhu C. Effect of urban lake wetlands
+and neighboring urban greenery on air PM10 and PM2.5 mitigation. Building and
+Environment. 2021, 206: 108291
+151. Zhao Y, Hu Q, Li H, Wang S, Ai M. Evaluating Carbon Sequestration and PM2.5
+Removal of Urban Street Trees Using Mobile Laser Scanning Data. Remote Sensing. 2018,
+10(11)
+152. Zheng G, Li P. Resuspension of settled atmospheric particulate matter on plant leaves
+determined by wind and leaf surface characteristics. Environ Sci Pollut R. 2019, 26(19):
+19606-19614
+153. Zhou S, Cong L, Liu Y, Xie L, Zhao S, Zhang Z. Rainfall intensity plays an important
+role in the removal of PM from the leaf surfaces. Ecological Indicators. 2021, 128: 107778
+154. Zhou S, Yan G, Wu Y, Zhai J, Cong L, Zhang Z. The PM removal process of wetland
+plant leaves with different rainfall intensities and duration. J Environ Manage. 2020, 275:
+111239
+155. Zhu C, Przybysz A, Chen Yiru, Guo H, Chen Yuyang, Zeng Y. Effect of spatial
+heterogeneity of plant communities on air PM10 and PM2.5 in an urban forest park in
+Wuhan, China. Urban For Urban Gree. 2019, 46: 126487
+156. Zhu C, Zeng Y. Effects of urban lake wetlands on the spatial and temporal distribution
+of air PM10 and PM2.5 in the spring in Wuhan. Urban For Urban Gree. 2018, 31: 142-156
+118
+--- PAGE 130 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+附录
+附表 1解放公园主要乔木种类及数量
+Attached Table 1 Species and quantity of main trees in Jiefang Park
+编号 科属 学名 物种 数量
+1 柏科 Cupressus funebris 柏木 77
+2 柏科 Juniperus virginiana 笔柏 102
+3 柏科 Platycladus orientalis 侧柏 70
+4 柏科 Juniperus formosana 刺柏 433
+5 柏科 Sabina chinensis 桧柏 2
+6 柏科 Cupressus glabra 'Blue Ice' 蓝冰柏 5
+7 柏科 Juniperus chinensis 'Kaizuca' 龙柏 320
+8 大戟科 Bischofia polycarpa 重阳木 128
+9 大戟科 Triadica sebifera 乌桕 29
+10 冬青科 Ilex rotunda 红果冬青 29
+11 豆科 Albizia julibrissin 合欢 38
+12 豆科 Robinia pseudoacacia 刺槐 66
+13 豆科 Styphnolobium japonicum 国槐 22
+14 豆科 Styphnolobium japonicum 'Winter Gold' 黄金槐 4
+15 豆科 Styphnolobium japonicum 'Pendula' 龙爪槐 23
+16 杜英科 Elaeocarpus decipiens 杜英 28
+17 杜仲科 Eucommia ulmoides 杜仲 2
+18 胡桃科 Carya cathayensis 山核桃 1
+19 胡桃科 Pterocarya stenoptera 枫杨 478
+20 胡颓子科 Elaeagnus pungens 胡颓子 2
+21 桦木科 Alnus trabeculosa 江南桤 3
+22 金缕梅科 Distylium racemosum 蚊母 7
+23 金缕梅科 Liquidambar formosana 枫香 65
+24 壳斗科 Quercus mongolica 柞树 2
+25 蓝果树科 Camptotheca acuminata 喜树 148
+26 楝科 Melia azedarach 苦楝 15
+27 楝科 Toona sinensis 香椿 6
+28 罗汉松科 Podocarpus macrophyllus 罗汉松 13
+29 木兰科 Michelia chapensis 乐昌含笑 44
+119
+--- PAGE 131 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+编号 科属 学名 物种 数量
+30 木兰科 Liriodendron chinense 马褂木 1
+31 木兰科 Magnolia grandiflora 广玉兰 201
+32 木兰科 Yulania denudata 白玉兰 80
+33 木犀科 Ligustrum lucidum 大叶女贞 144
+34 木犀科 Fraxinus insularis 苦枥木 16
+35 木犀科 Fraxinus americana 美国白蜡 1
+36 木犀科 Fontanesia philliraeoides var. fortunei 雪柳 5
+37 木犀科 Osmanthus fragrans 桂花 315
+38 漆树科 Cotinus coggygria 'Royal Purple' 红栌 2
+39 漆树科 Cotinus obovatus 美国红栌 5
+40 漆树科 Cotinus coggygria 美国黄栌 1
+41 槭树科 Acer serrulatum 青枫 49
+42 槭树科 Acer buergerianum 三角枫 25
+43 蔷薇科 Chaenomeles cathayensis 木瓜海棠 4
+44 蔷薇科 Eriobotrya japonica 枇杷 7
+45 蔷薇科 Cerasus serrulata 樱花 154
+46 蔷薇科 Prunus pseudocerasus 樱桃 2
+47 蔷薇科 Prunus cerasifera 'Atropurpurea' 紫叶李 173
+48 蔷薇科 Prunus mume 梅花 120
+49 蔷薇科 Prunus persica 桃树 144
+50 蔷薇科 Prunus armeniaca 杏树 1
+51 蔷薇科 Photinia lasiogyna 倒卵叶石楠 2
+52 蔷薇科 Photinia serratifolia 石楠 37
+53 桑科 Broussonetia papyrifera 构树 14
+54 桑科 Morus alba 桑树 5
+55 桑科 Morus alba 'Tortuosa' 龙桑 1
+56 松科 Pinus hwangshanensis 黄山松 4
+57 松科 Cedrus deodara 雪松 68
+58 松科 Pinus thunbergii 黑松 27
+59 杉科 Metasequoia glyptostroboides 水杉 434
+60 杉科 Taxodium distichum var. imbricarium 池杉 1110
+61 杉科 Cryptomeria japonica var. sinensis 柳杉 63
+62 杉科 Taxodium distichum 落羽杉 1
+120
+--- PAGE 132 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+编号 科属 学名 物种 数量
+63 南洋杉科 Araucaria cunninghamii 南洋杉 1
+64 南洋杉科 Araucaria heterophylla 澳洲杉 2
+65 石榴科 Punica granatum 石榴 31
+66 柿科 Diospyros kaki 柿树 26
+67 鼠李科 Hovenia dulcis 拐枣 2
+68 鼠李科 Ziziphus jujuba 'Tortuosa' 龙枣 2
+69 鼠李科 Ziziphus jujuba 枣树 1
+70 卫矛科 Euonymus maackii 丝棉木 7
+71 无患子科 Sapindus saponaria 无患子 67
+72 无患子科 Koelreuteria paniculata 栾树 176
+73 梧桐科 Firmiana simplex 青桐 64
+74 玄参科 Paulownia fortunei 泡桐 6
+75 悬铃木科 Platanus acerifolia 悬铃木 290
+76 杨柳科 Salix matsudana 旱柳 1
+77 杨柳科 Salix babylonica 柳树 158
+78 杨柳科 Populus × canadensis 'I-214' 意杨 6
+79 银杏科 Ginkgo biloba 银杏 125
+80 榆科 Ulmus parvifolia 榔榆 2
+81 榆科 Celtis sinensis 朴树 53
+82 榆科 Ulmus pumila 榆树 3
+83 芸香科 Tetradium glabrifolium 臭辣树 18
+84 芸香科 Citrus reticulata 柑橘 10
+85 紫葳科 Catalpa ovata 梓树 9
+86 棕榈科 Phoenix canariensis 加拿利海枣 7
+87 棕榈科 Washingtonia filifera 老人葵 8
+88 棕榈科 Trachycarpus fortunei 棕榈 450
+89 樟科 Camphora officinarum 樟树 422
+合计 6316
+121
+--- PAGE 133 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+附表 2解放公园主要灌木名录及数量
+Attached Table 2 Species and quantity of main shrubs in Jiefang Park
+编号 科 学名 植物名称 数量
+1 柏科 Juniperus procumbens 铺地柏 34
+2 柏科 Chamaecyparis pisifera 'Squarrosa' 绒柏 3
+3 柏科 Hesperocyparis lusitanica 速生柏 11
+4 唇形科 Rosmarinus officinalis 迷迭香 6
+5 唇形科 Teucrium fruticans 水果蓝 9
+6 冬青科 Ilex cornuta 枸骨 42
+7 冬青科 Ilex cornuta 'Fortunei' 无刺枸骨 6
+8 豆科 Cercis chinensis 紫荆 15
+9 豆科 Wisteria sinensis 紫藤 30
+10 豆科 Gleditsia sinensis 皂角 4
+11 豆科 Senna corymbosa 伞房决明 10
+12 豆科 Senna bicapsularis 双荚决明 7297
+13 杜鹃花科 Rhododendron × pulchrum 春鹃 104930
+14 杜鹃花科 Rhododendron simsii Planch. 夏鹃 23631
+15 海桐花科 Pittosporum tobira 海桐 445
+16 虎耳草科 Deutzia scabra 溲疏 3121
+17 虎耳草科 Hydrangea macrophylla 八仙花 21326
+18 黄杨科 Buxus sinica 黄杨 4822
+19 夹竹桃科 Nerium oleander 夹竹桃 21
+20 夹竹桃科 Trachelospermum jasminoides 络石 10548
+21 金缕梅科 Loropetalum chinense var. rubrum 红花檵木 61957
+22 锦葵科 Hibiscus hamabo 海滨木槿 7
+23 锦葵科 Hibiscus mutabilis 木芙蓉 18
+24 锦葵科 Hibiscus hamabo 木槿 2798
+25 蜡梅科 Chimonanthus praecox 蜡梅 52
+26 蓼科 Muehlenbeckia complexa 千叶兰 6395
+27 马鞭草科 Vitex trifolia 蔓荆 4397
+28 木兰科 Michelia figo 含笑 63
+29 木兰科 Schisandra propinqua subsp. sinensis 铁箍散 1
+30 木犀科 Ligustrum quihoui 小叶女贞 392
+31 木犀科 Ligustrum × vicaryi 金叶女贞 63788
+122
+--- PAGE 134 ---
+城市公园绿地植物降减颗粒物能力评估——以武汉解放公园为例
+编号 科 学名 植物名称 数量
+32 木犀科 Ligustrum sinense var. variegatum 银姬小蜡 1232
+33 木犀科 Jasminum mesnyi 云南黄馨 148
+34 木犀科 Forsythia suspensa 连翘 17280
+35 木犀科 Chrysojasminum odoratissimum 浓香茉莉 12875
+36 槭树科 Acer palmatum 鸡爪槭 191
+37 槭树科 Acer negundo 复叶槭 4
+38 茜草科 Serissa japonica 六月雪 4435
+39 茜草科 Gardenia jasminoides 栀子 59042
+40 千屈菜科 Lagerstroemia indica 紫薇 526
+41 蔷薇科 Malus halliana 垂丝海棠 2
+42 蔷薇科 Malus spectabilis 海棠 55
+43 蔷薇科 Pyracantha fortuneana 火棘 41
+44 蔷薇科 Kerria japonica 棣棠 2144
+45 蔷薇科 Physocarpus amurensis 风箱果 8
+46 蔷薇科 Photinia × fraseri 红叶石楠 22859
+47 蔷薇科 Amygdalus persica 'Juhuatao' 菊花桃 3
+48 蔷薇科 Spiraea salicifolia 绣线菊 25867
+49 蔷薇科 Rosa chinensis 月季 17383
+50 忍冬科 Lonicera japonica 忍冬 3766
+51 忍冬科 Viburnum keteleeri 'Sterile' 木绣球 13
+52 忍冬科 Viburnum awabuki 法国冬青 10908
+53 忍冬科 Weigela florida 锦带 1145
+54 忍冬科 Viburnum opulus 欧洲荚蒾 32058
+55 忍冬科 Viburnum japonicum 日本荚蒾 5
+56 忍冬科 Abelia × grandiflora 'Francis Mason' 金叶大花六道木 13400
+57 忍冬科 Viburnum tinus 地中海荚蒾 13700
+58 忍冬科 Symphoricarpos sinensis 毛核木 473
+59 山茶科 Camellia japonica 山茶 1068
+60 山茶科 Camellia sasanqua 茶梅 36667
+61 山茱萸科 Cornus alba 红瑞木 6000
+62 山茱萸科 Aucuba japonica var. variegata 洒金桃叶珊瑚 68233
+63 山茱萸科 Cornus kousa subsp. chinensis 四照花 2
+64 苏铁科 Cycas revoluta 苏铁 56
+123
+--- PAGE 135 ---
+华中农业大学2024届硕士研究生学位（毕业）论文
+编号 科 学名 植物名称 数量
+65 桃金娘科 Myrtus communis 香桃木 9
+66 桃金娘科 Callistemon rigidus 红千层 4
+67 藤黄科 Hypericum monogynum 金丝桃 1956
+68 五加科 Fatsia japonica 八角金盘 31340
+69 五加科 Hedera nepalensis var. sinensis 常春藤 2645
+70 五加科 Fatshedera lizei 熊掌木 22549
+71 卫矛科 Euonymus japonicus 冬青卫矛 6973
+72 小蘗科 Berberis thunbergii 'Atropurpurea' 紫叶小檗 8
+73 小蘗科 Nandina domestica 南天竹 19621
+74 小蘗科 Mahonia fortunei 十大功劳 4645
+75 小蘗科 Mahonia bealei 阔叶十大功劳 3650
+76 玄参科 Buddleja lindleyana 醉鱼草 1078
+77 杨柳科 Salix integra Hakuro Nishiki 彩叶杞柳 15
+78 杨柳科 Salix cv. Flame 火焰柳 1062
+合计 763260
+124

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import sys, io
+import sys, io, os
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 import pandas as pd
 import matplotlib
@@ -12,7 +12,9 @@ import numpy as np
 plt.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'DejaVu Sans']
 plt.rcParams['axes.unicode_minus'] = False
 
-df = pd.read_csv("C:/Users/政委/plant_dust_analysis/plant_dust_retention_dataset.csv")
+ROOT = os.path.dirname(os.path.abspath(__file__))
+CSV = os.path.join(ROOT, "data", "dataset.csv")
+df = pd.read_csv(CSV)
 fig, axes = plt.subplots(2, 2, figsize=(14, 10))
 
 # 1. 各城市TSP滞尘量分布（箱线图）
@@ -77,5 +79,6 @@ ax4.set_title('4. Species Mean TSP (cross-city, n>=2)')
 ax4.set_xlabel('TSP (g/m2)')
 
 plt.tight_layout()
-plt.savefig("C:/Users/政委/plant_dust_analysis/analysis_charts.png", dpi=150, bbox_inches='tight')
-print("图表已保存至: analysis_charts.png")
+OUT = os.path.join(ROOT, "output", "analysis_charts.png")
+plt.savefig(OUT, dpi=150, bbox_inches='tight')
+print(f"图表已保存至: {OUT}")

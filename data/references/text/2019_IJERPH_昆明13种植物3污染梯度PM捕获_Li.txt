@@ -1,0 +1,793 @@
+TOTAL PAGES: 12
+
+===== PAGE 1 =====
+International Journal of
+Environmental Research
+and Public Health
+Article
+Potential of Thirteen Urban Greening Plants to
+Capture Particulate Matter on Leaf Surfaces across
+Three Levels of Ambient Atmospheric Pollution
+YanmeiLi,ShaojunWang*andQiboChen
+CollegeofEcologyandSoil&WaterConservation,SouthwestForestryUniversity,300Bailongsi,
+Kunming650224,China;kmlymei@126.com(Y.L.);chengqb@swfu.edu.cn(Q.C.)
+* Correspondence:shaojunwang2009@163.com;Tel.:+86-871-63862778
+(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)
+Received:13December2018;Accepted:24January2019;Published:31January2019
+Abstract: Thepotentialofurbangreeningplantstocaptureparticulatematter(PM)fromtheambient
+atmosphereiscontingentoninteractionsbetweenthelevelofpollutionandleafsurfaces. Forthis
+study, thirteen plant species were investigated to quantify their capacity of PM accumulation
+underthreeatmosphericenvironments,thatis,industrial,trafficanduniversitycampus(control),
+in Kunming City (Southwest China). The sampled sites represented different pollution levels
+(that is, high pollution, slight pollution and clean air, respectively). The plant species differed
+in their accumulation of PM by six- to eight-fold across the three sites. Magnolia grandiflora was
+themostefficientevergreentreespecies,whereasPlatanusacerifoliahadthehighestcaptureofPM
+among deciduous trees. The accumulation capacity of the same species varied with the degree
+of pollution. For example, Osmanthus fragrans, Loropetalum chinense and Cinnamomum japonicum
+werehighlyefficientforthecaptureofPMinthetrafficanduniversitycampusareas;however,they
+exhibitedmediumaccumulationintheindustrialarea.Prunusmajesticademonstratedanintermediate
+accumulationcapacityintheindustrialarea,butwaslowinthetrafficanduniversitycampusareas.
+Thecapturingcapacityofthesamegenuswasalsodifferentamongthedifferentlevelsofpollution.
+Forexample,C.japonicumhada2.9–4.2-timeshigherPMaccumulationthandidC.camphoraacrossthe
+threesites. Thereweresignificantdifferencesinleafsurfacearea,stomatadensity/length,guardcell
+area,andtrichomedensity/lengthamongthesespecies. Thespecies-specificefficacyofPMcapture
+wasprimarilycontributedtobyleafsizeandsurfaceroughness,stomatadensity,andtrichomelength.
+Inparticular,hairy-leafleaveswithmediumstomataldensityexhibitedhigherPMcapture. Therefore,
+leafmicromorphology,leafsizeandlongevityappearedtobesignificantpredictivefactorsforthe
+accumulationofPM,whichmayaidintheselectionofgreeningplantspeciesfortheremediationof
+pollutantsinurbanareas.
+Keywords: airparticulatematter;functionalzone;micromorphologicaltraits;treesandshrubs
+1. Introduction
+Particulate matter (PM) in the ambient atmosphere serves as an important indicator for the
+evaluationofurbanairquality[1,2]. AtmosphericPMoriginatesprimarilyfromtheanthropogenic
+discharges of vehicles, coal burning, industrial production, domestic pollution and fertilizer
+production [3,4]. PM is a mixture of hazardous substances and other suspended matter in the
+atmosphere, which can exert serious negative health effects on urban populations that typically
+manifestasdegradativerespiratoryandcardiovasculardiseases[5,6].
+UrbangreeningplantshavethepotentialtopurifycontaminatedairthroughthecaptureofPM
+onthesurfacesoftheirleaves[7,8]. Theyreducetheconcentrationsoffineparticulateatmospheric
+Int.J.Environ.Res.PublicHealth2019,16,402;doi:10.3390/ijerph16030402 www.mdpi.com/journal/ijerph
+===== PAGE 2 =====
+Int.J.Environ.Res.PublicHealth2019,16,402 2of12
+pollutants,thusloweringtherisksofdiseaseforurbaninhabitants[9,10]. Theextensivesurfaceareas
+(perunitgroundarea)oftheleavesofurbanplantshavehigherefficienciesforthecaptureofairborne
+PM,incontrasttoothersurfacesintheseenvironments[11,12]. Urbanplantshavebeenreportedto
+reduce9.1%ofPMconcentrationsinShanghai,China,comparedwithexternalwoodlands[13].ThePM
+capturedbyurbanplantsmayalsoremoveheavymetal-associatedPMfromtheambientatmosphere.
+Various plant species differ in terms of their capacity for PM accumulation from the ambient
+atmosphere. TreeshaveimprovedefficienciesforthecaptureofPMduetotheirhigherleafsurface
+areas,comparedwithshrubsandherbs[14]. Treesareoftenlargewithsolidstructures,whichcan
+generateairturbulencetoincreasetheaccumulationofPMontheirleafsurfaces[15,16]. Broadleaved
+species exhibithigher PMcapture capacities thando thosewith smootherblade-like surfaces[17].
+Furthermore,evergreenbroadleavedspecieshaveimportantimplicationsforairpurification,asthey
+cancontinuouslyaccumulatePM.
+Atthesingle-leafscale,variousplantspecieshavedifferentPMpurificationcapacities,asthey
+develop distinct leaf dimensions and morphological traits (that is, ravine, stomata and epidermal
+trichome)thateffectivelycapturePMfromtheatmosphere[18,19]. Thedimensionsofleavesmayhave
+significanteffectsontheaccumulationofPM,wherecomplexleafshapes(e.g.,lobedleaves)show
+greaterpotentialforthecaptureofPMthanthosethataresimple[20]. Leafsurfaceswithtrichomes,
+ridgesandepicuticularwaxescanenhanceairfiltrationprocessesincontrasttosmoothsurfaces[20,21].
+HigherlevelsofleafstomatahavealsobeenreportedtohavepotentialforthecaptureofultrafinePM
+onleafsurfaces[8].
+Greening plants may serve as a cost effective and environmentally compatible means for the
+biomonitoringofpollutantsinurbansettings,asplantmaterials(e.g.,treeleavesandbark)areeasyto
+collect,maybeanalyzedcheaply,andproducenosecondarypollution[22,23]. Thus,plantscanbe
+widelyutilizedfortheremovalofairbornecontaminantsinurbanenvironments. However,littleis
+known in regard to the differences in the efficacy of PM capture among various species of urban
+greening plants. The ability to capture PM is an important trait in the selection of optimal plant
+speciesforurbangreening[24]. Therefore,itiscriticaltoidentifythecapacityofdifferentplantspecies
+to filter air-borne PM pollutants, toward optimizing the benefits of these plants in various urban
+environments[25].
+In recent decades, atmospheric PM has increased in conjunction with the advancement of
+urbanization,industrializationandrural–urbanmigrationinKunming[19],whichcanexertsevere
+negativehealtheffectsonitsresidents[19]. Therefore,anumberofplantspeciesarebeingemployed
+inKunmingCityforthepurificationofairpollutants. Itiscrucialtoidentifythedifferencesbetween
+these species for their PM capturing capacity, to subsequently select the optimal plant species for
+thisapplication. WeexaminedthePMsequesteringabilitiesof13commongreeningplantsinthree
+functionalzonesunderdifferentlevelsofpollutioninKunmingCity. Therefore,themainquestions
+were: 1)didtheseplantspeciesdifferintheirabilitytocapturePMontheirleafsurfaces? and2)did
+thesurfacecaptureofPMvarywithleaftraits(e.g.,size,longevity,andsurfacemicromorphological
+structuressuchasroughness,stomatadensityandtrichomedensity)?
+2. MaterialsandMethods
+2.1. SiteDesign
+Thethirteengreeningplants(atthemiddle-agegrowthstage)(Figure1andTable1)selectedfor
+thisstudywerecommonspecieswidelycultivatedacrossthreefunctionalzones,thatis,industrial,
+trafficanduniversitycampus(control),inKunmingCity,SouthwestChina. Fivesimilarindividuals
+perplantspecieswereemployedasreplicates. Theseplantswerefreeofpollutionwithlittle,orno,
+diseaseorpestspriortoplanting.Thesesites(eachwiththreerepetitions)(Figure2)wereconsideredas
+beingunderdifferentcontaminationlevels(thatis,highpollution,slightpollutionandclean)(Table2).
+These plant species were randomized in approximately the same manner in fields with minimal
+===== PAGE 3 =====
+Int. J. Environ. Res. Public Health 2019, 16 3 of 13
+individuals per plant species were employed as replicates. These plants were free of pollution with
+little, or no, disease or pests prior to planting. These sites (each with three repetitions) (Figure 2)
+Int.J.Environ.Res.PublicHealth2019,16,402 3of12
+were considered as being under different contamination levels (that is, high pollution, slight
+pollution and clean) (Table 2). These plant species were randomized in approximately the same
+metmeoarnonloerg icina lfviealrdias tiwonitshi nmsiinteimcoaln dmiteitoenosro(elo.gg.i,cwal invdaraiantdiopnsr ecinip istiattei ocno)n.dTihtiuosn,sw (ee.cgo.,u lwdienxda maninde if
+certparinecsippietaciteiosnh).a dThhuigs,h wereo croluolwd eerxPaMminacec iuf mceurltaatiino nspleecvieelss haatdd ihffiegrheenrt opro lllouwtieorn P-lMev ealcsciutmesu.lTahtieonP M
+conlceevnetlrsa atito dnisffwereenret mpoelalustuiorend-leavte5l msitiens.i nTtheer vPaMls ucosnincegnatrLataiosenrs Dwuesret Mmoeansiutorred(G aZt -55 ,m1i0n% inpterervcaisliso n,
+Shaunsgihnagi aG Laaoszehr iDPurestc iMsioonnitIonrs t(rGuZm-5e,n 1t0C%o .p,rLetcdis.,ioSnh,a Snhgahnagih,aCi hGinaao)z,hwi Phreerceiassiown iInndstsrpuemeednat nCdod., iLretdct.i, on
+werSehdaentgerhmaii,n eCdhianta2),m winheinretearsv walisnbdy sapeheadn da-nhde lddirEelcetcitorno nwicerAen deemteorrmuminebdo mate t2e rm(FinC -i1n6t0er2v5a,lSsh bayn gah ai
+Prechiasniodn-hIenlsdt ruEmlecetnrotnCico .,ALntdem.,oSrhuamngbohmaie,tCerh in(FaC).-16025, Shanghai Precision Instrument Co., Ltd.,
+Shanghai, China).
+A
+B C D E
+F G H I J
+K L M
+FiguFrigeu1r.eP 1i.c Ptuicrteusreosf othf ethsee lseecletectdedth tihritreteenenp plalanntts sppeecciieess iinn KKuunnmmiinngg CCiittyy.. AA: :MMaaggnnoloilai agrgarnadnidflioflroa rLainLnin; n;
+B:OBs:m Oasnmthanutshfursa gfrraagnrsan(Ts h(Tuhnubn.)b.L) oLuoru.;r.C; C:L: iLgiugustsrturunnl ulucciidduumm AAiitt;; DD:: CCiinnnnaammoommuumm cacmamphpohroar (aL(.L) .P)rPesrel.s; lE.;: E:
+CinnCaimnnoammuommujamp ojnapicounmicuSmie bS;ieFb:; PFh:o tPinhioatignlioam gelroamtaerRateah dR.ehetdW. eitl sW;Gil:sP; rGun: uPsrumnaujse smticaajeKstoiceah Knoee;hHn:eP; rHun: us
+ceraPsirfuernaus f. c a e t r r a o si p fe u ra r p f. u a re tr a o ; p I u :Prplautraenau; sI:a cPelraitfaonliuas A ac it e . r ; if J o : lCiae Altiist.;k uJ:n Cmeilntigse knusnism C in h g e e n n g sis e t C H he o n n g g ; et K H :Eounogn; yKm: us
+Euonymus japonica Thunb.; L: Loropetalum chinense var. rubrum; M: Rhododendron pulchrum Sweet.
+japonicaThunb.;L:Loropetalumchinensevar.rubrum;M:RhododendronpulchrumSweet.
+2.2. SamTplaebCleo l1l.e cPtliaonnt asnpdecPieMs uAsenda laynsdis clustering analysis with the surface accumulation of particulate
+matter (PM) as variables.
+Plantleaves(300and400cm2 perspecies)weresampledfromthetrafficsideof13plantsata
+Cluster in Cluster in
+0.6–2.0mheightaboveground,dependingontheplantstrucCtulursete[r2 i6n] . Thesampleswerecollectedinto
+Species Family Traffic Campus
+labelledpaperbags,andthenkeptincleanstorageboxesInudnudsteriralr oAorema temperatureinthelaboratory
+Area Area
+priortomeasurements[26]. Twosamplesfromtwogrowthseasons(JuneandSeptember2016)were
+Magnolia grandiflora Linn Magnoliaceae 1 1 1
+collectedatthesamelocationsonthesameday. Generally,precipitationofmorethan15mmwashed
+thedustofftheleaves;hence,theplantsbegananewdustrelease/retentioncycle[27]. Leafsampling
+began in June, five days after a period of heavy rain (19 mm), which ensured the same initial PM
+concentrationsontheleafsurfaces.
+===== PAGE 4 =====
+Int.J.Environ.Res.PublicHealth2019,16,402 4of12
+Table1.Plantspeciesusedandclusteringanalysiswiththesurfaceaccumulationofparticulatematter
+(PM)asvariables.
+Int. J. Environ. Res. Public Health 2019, 16 4 of 13
+Clusterin ClusterinTraffic Clusterin
+Species Family
+Osmanthus fragrans (Thunb.) Lour. OleaceaIen dustrialArea 2 Area 1 Campu1s Area
+MagnolLiaiggurastnrduiflno lruacLidinunm Ait MagnoliaceaeOleaceae 1 2 1 3 12
+OsmaCntihnunsafmraogmraunms( cTahmupnhbo.)raL (oLu.r). Presl. OleaceaeLauraceae 2 3 1 3 13
+LigustrunlucidumAit Oleaceae 2 3 2
+Cinnamomum japonicum Sieb Lauraceae 2 1 1
+Cinnamomumcamphora(L.)Presl. Lauraceae 3 3 3
+Photinia glomerata Rehd. et Wils. Rosaceae 2 2 3
+CinnamomumjaponicumSieb Lauraceae 2 1 1
+PhotiniagPlormuneruast amRaejehsdti.ceat KWoielsh.ne Rosaceae Rosaceae 2 2 2 3 33
+PPrruunnuussm caejreastsiicfaerKa ofe. hantreopurpurea Rosaceae Rosaceae 2 2 3 2 33
+PrunusceraPsliafetraanfu.sa atrcoepriuforlpiau rAeait. RosaceaePlatanaceae 2 1 2 2 32
+CePltlaist aknuunsmacinergifeonlisaisA Cith.eng et HongP latanaceaeUlmaceae 1 2 2 2 22
+CeltiskunmingensisChengetHong Ulmaceae 2 2 2
+Euonymus japonica Thunb. Celastraceae 2 2 2
+EuonymusjaponicaThunb. Celastraceae 2 2 2
+Loropetalum chinense var. rubrum hamamelidaceae 2 1 1
+Loropetalumchinensevar.rubrum hamamelidaceae 2 1 1
+RhodoRdheonddordonenpdurlocnhr puumlcShwruemet Sweet EricaceaeEricaceae 2 2 1 1 22
+PMcPoMnc ecnotnrcaetinotnrsaotifocnlus sotef rc1luinstienrd 1u sitnri ainl,dtruasftfirciaaln, dtrcaafmficp uasnadr ecaasmwpeures >a5r.e2a2sg wme−re2, >>52..2325 gg mm−−22, a>n2d.3>51 .g4 gmm−2 −2,
+respaenctdiv >e1ly.4; gth mos−e2, orfescpluesctteirv2elwy;e trheo1s.e2 4o–f5 c.2lu2sgtemr 2− 2w,e1r.0e5 1–.22.43–55g.2m2 −g 2ma−n2d, 10.0.657––21..345g gm m−−22 ,arnedsp 0e.c6t7iv–1el.4y ;gt hmo−s2e, of
+clust r e e r sp 3 e w ct e i r v e e < ly 1 ; . 2 t 4 ho g s m e − o 2 f , c < lu 1. s 0 t 5 er g 3 m w − e 2 r a e n < d 1 < .2 0 4 . 6 g 7 m g−m2, − < 2 1 , . r 0 e 5 s p g e m cti−v2 e a l n y. d <0.67 g m−2, respectively.
+FiFgiugruere2 .2.S Sitietea arrrraannggeemmeenntt iinn tthhiiss ssttuuddyy..
+TheTanbalen o2p. oErnovuisron(0m.4en5taµl mconinditdioinasm aectreors)s mthaet etrhiraeles fuusnectdionfoalr zfiolnteesr in(igndwusetrrieal, wtreaifgfihc edanda fter 30
+min of durnyivinergsituy ncadmerpu6s0) inºC Kuinnmaindgr Cyiitnyg, Soauptphawreasttu Csh,inwa.i th stabilized humidity in a weighing room.
+The filters were preweighed on a XS105DU balance (Mettler-Toledo International Inc., Zurich,
+Annual Annual Wind
+Switzerland). The PM was riLnesveeld ofo ff tIhnritoiaul Agihr PaMg itation for 60 s in a glassWciondn Stapeinede r with 250 mL
+Geographic Mean Air Mean Direction
+water. TShitee liquidwassubsequeAnirt lyvacCuonucment-rfiatlitoenr edthroughthefilters,whdicurhinwg teher ethenweighed
+Position Temperature Precipitati during the
+Pollution (mg m–3) Study (m/s)
+afterdrying. TheconcentrationsofcapturedPMwerethe(°nC) calculaotne d(mfmo)r eachsample. TheStutodyta lleaf
+areasweredeterminedwithalHeiagfhearr eameter(LicorLI-3050A/4,LICOR,Inc.,Lincoln,NE,USA)and
+Industrial 25°6’N,
+industrial 488.07 ± 57.52 14.9 1000.5 3.02 ± 0.41 Southwest
+SkyeLeaarfeas oftware1(0W2°8a’En shentestingtechnologyco. Ltd.,China). ThePMconcentrationswerethen
+pollution
+calculatedpergm−2ofleafareSali.ght
+25°21’N,
+Traffic area traffic 87.41 ± 6.36 14.5 1031 2.36 ± 0.22 Southwest
+The leaves of102s°e3l0e’Ec ted species (see above) were used to correlate the PM capture to leaf
+pollution
+traits,Uannivderstithy e surface area per blade and leaf longevity (deciduous or evergreen) were recorded.
+The mciacmrpoums orpho2l5o°1g8’iNca, l strCulceatnu arier s (th3a9t.1 ±i s2,.45 ravine,14s.t3o mata a1n03d5 epide2.r1m7 ±a 0l.27t richSoomuthew)eswt ere
+area(Control 102°27’E
+subsequseitne)t ly scanned using an E-1010 scanning electron microscope (SEM, Hitachi, Japan). Four
+tissue blocks (5 × 5 mm) per lamina (five leaves per plant species) were sampled and fixed with
+a2.25.%2. Sgalumtpalrea Cldolelehcytidone asnodl uPtMio nA,ncalleyasins edwitha0.1Mphosphatebuffersolution, dehydratedwith
+Plant leaves (300 and 400 cm2 per species) were sampled from the traffic side of 13 plants at a
+0.6–2.0 m height aboveground, depending on the plant structure [26]. The samples were collected
+===== PAGE 5 =====
+Int.J.Environ.Res.PublicHealth2019,16,402 5of12
+gradient-ethanoldehydration,fixedwithn-butylalcohol,andcoatedviaE-1010ion-plating(COXEM
+Co., Ltd., Daejeon, South Korea). The leaf roughness was evaluated by a experiential scale (1 =
+low and 5 = high) under a microscope (10x magnification). The stomatal density was observed
+under300xmagnification,whilethenumbersandlengthsofsurfacetrichomeswereobservedunder
+100xmagnification.
+2.3. StatisticalAnalyses
+All data were verified for normal distributions and variance homogeneities prior to analysis.
+Multiple comparisons of means between species were performed using the Duncan test. A least
+significant difference (LSD) test was used to compare the means at a p < 0.05 significance level.
+The plant species were grouped as three types (that is, low, intermediate or high capacity for PM
+accumulation),usingK-meansclustering. ThestandardizationforaveragePMcapturewasemployed
+toruntheclusterforeachsite. Multipleregressionmodelswereappliedtodeterminetherelationships
+betweenleafcharacteristicsandPMdeposition. ThesestatisticalanalyseswereconductedwithSPSS
+22.0(SPSSforWindows,Chicago,IL,USA).
+3. Results
+3.1. PMAccumulationamongSpeciesandLocations
+The thirteen plant species differed in their capacities for PM capture on their leaf surfaces in
+Kunming City, which were calculated as the mean values of total PM at three functional zones
+(thatis,industrial,trafficanduniversitycampus)(p<0.01;Figure3). ThePMcapturingabilitiesof
+theseplantspecieswererankedasMagnoliagrandiflora(4.20gm−2)>Platanusacerifolia(3.43gm−2)
+> Cinnamomum japonicum (2.53 g m−2) > Loropetalum chinense (2.46 g m−2) > Osmanthus fragrans
+(2.25gm−2)>Rhododendronpulchrum(2.12gm−2)>Euonymusjaponica(1.9gm−2)>Photiniaglomerata
+(1.83 g m−2) > Celtis kunmingensis (1.71 g m−2) > Prunus cerasifera (1.6 g m−2) > Ligustrun lucidum
+(1.47gm−2)>Prunusmajestica(1.34gm−2)>Cinnamomumcamphora(0.99gm−2)(p<0.05;Figure3).
+ThetotalPMcapturecapacitiesofthreesamplegroups(thatis,clusters1,2and3)variedacross
+thethreefunctionalzones(p<0.01; Figure4). ThequantitiesofPMdepositedontheleafsurfaces
+of the three groups were higher for the industrial area (1.24–7.8 g m−2) than for the traffic area
+(0.87–4.05gm−2)anduniversitycampusarea(0.4–2.76gm−2),whichreflectedtheeffectsofdifferent
+pollutantlevelsonthePMaccumulationatthethreesites. Theplantspeciesdifferedintheirabilities
+forPMcaptureaccordingtoclustering.C.camphorawasinthelowclusteratthethreesites,whereasthe
+C.kunmingensisandE.japonicaspecieswereintheintermediatecluster,andM.grandiflorawasinthe
+highestcluster. ThesamespeciesdifferedintheirPMcaptureabilitiesatdifferentsites. O.fragrans,L.
+chinenseandC.japonicumwereintheclusterwithhighaccumulationfortrafficanduniversitycampus
+areas,whiletheywereinthemediumclusterfortheindustrialarea. P.majesticawasinthecluster
+withintermediateaccumulationfortheindustrialarea,butwasinthelowclusterforthetrafficand
+universitycampusareas. Furthermore,differencesamongspecieswerealsoobservedwithinthesame
+genus. C.camphorawasinthelowclusterforallthreesites,whileC.japonicumwasinthemediumor
+highclusterforthetrafficanduniversitycampusareas. Forthetrafficarea,P.majesticahadlowPM
+capture,whereasP.cerasiferawasintheclusterwithmediumaccumulation.
+===== PAGE 6 =====
+Int.J.Environ.Res.PublicHealth2019,16,402 6of12
+Int. J. Environ. Res. Public Health 2019, 16 6 of 13
+Figure3.Accumulationoftotalparticulatematter(PM)ontheleafsurfacesoftreeandshrubspecies
+inKunm
+F
+i
+i
+n
+gu
+g
+r
+C
+e
+i
+3
+t
+.
+y
+A
+,C
+cc
+h
+u
+i
+m
+na
+u
+.
+l
+B
+at
+a
+io
+rs
+n
+a
+o
+r
+f
+e
+to
+m
+ta
+e
+l
+a
+p
+n
+ar±tic
+S
+u
+E
+la
+(
+t
+s
+e
+t a
+m
+n
+a
+d
+tt
+a
+e
+r
+r
+d
+(P
+e
+M
+rro
+)
+r
+o
+)
+n
+. T
+th
+re
+e
+a
+le
+tm
+af
+e
+s
+n
+u
+t
+r
+s
+fa
+w
+ce
+i
+s
+th
+of
+t h
+tr
+e
+e
+s
+e
+a
+a
+m
+nd
+e
+s
+le
+h
+t
+r
+t
+u
+e
+b
+r
+s
+w
+p
+e
+e
+r
+c
+e
+ies
+in Kunming City, China. Bars are mean ± SE (standard error). Treatments with the same letter were
+notsignificantlydifferent(ANOVAwithDuncantest,p<0.05).
+not significantly different (ANOVA with Duncan test, p < 0.05).
+Int. J. Environ. Res. Public Health 2019, 16 7 of 13
+The total PM capture capacities of three sample groups (that is, clusters 1, 2 and 3) varied across
+the three functional zones (p < 0.01; Figure 4). The quantities of PM deposited on the leaf surfaces of
+the three groups were higher for the industrial area (1.24–7.8 g m−2) than for the traffic area (0.87–4.05
+g m−2) and university campus area (0.4–2.76 g m−2), which reflected the effects of different pollutant
+levels on the PM accumulation at the three sites. The plant species differed in their abilities for PM
+capture according to clustering. C. camphora was in the low cluster at the three sites, whereas the C.
+kunmingensis and E. japonica species were in the intermediate cluster, and M. grandiflora was in the
+highest cluster. The same species differed in their PM capture abilities at different sites. O. fragrans,
+L. chinense and C. japonicum were in the cluster with high accumulation for traffic and university
+campus areas, while they were in the medium cluster for the industrial area. P. majestica was in the
+cluster with intermediate accumulation for the industrial area, but was in the low cluster for the
+traffic and university campus areas. Furthermore, differences among species were also observed
+within the same genus. C. camphora was in the low cluster for all three sites, while C. japonicum was in
+the medium or high cluster for the traffic and university campus areas. For the traffic area, P.
+majestica had low PM capture, whereas P. cerasifera was in the cluster with medium accum ulation.
+FigFuirgeu4re. A4.c Acuccmuumlautlaiotinono fotfo ttoatlalp paratritcicuulalattee mmaatttteerr ((mmeeaannss ±± SSEE) )ono nthteh elelaevaevse isni nthteh tehrteher ecelucsltuesrste rs
+fou
+f
+n
+o
+d
+un
+in
+d
+t
+i
+h
+n
+e
+th
+th
+e
+r
+t
+e
+h
+e
+re
+f
+e
+u n
+fu
+c
+n
+ti
+c
+o
+ti
+n
+o
+a
+n
+l
+a
+z
+l
+o
+z
+n
+o
+e
+n
+s
+e
+.
+s.
+B
+B
+a
+a
+r
+r
+s
+s
+a
+a
+r
+r
+e
+e
+m
+m
+e
+e
+a
+a
+n
+n
+s
+s ±± S
+S
+E
+E
+.
+.
+T
+T
+r
+r
+e
+e
+a
+a
+tm
+tm
+e
+e
+n
+n
+ts
+t s
+w
+w
+ith
+it h
+th
+t
+e
+h
+s
+e
+a
+s
+m
+am
+e l
+e
+et
+l
+t
+e
+e
+t
+r
+t e
+(a
+r
+–
+(
+h
+a
+)
+–
+w
+h)
+e
+w
+re
+e re
+not significantly different (ANOVA with Duncan test, p < 0.05). SE is standard error.
+notsignificantlydifferent(ANOVAwithDuncantest,p<0.05).SEisstandarderror.
+PMcaptureabilitiesofthesespeciessignificantlydifferedwithsites(p<0.05;Figure5). Inthe
+industrial area, M. grandiflora and P. acerifolia showed high PM accumulation on leaf surfaces
+(5.22–7.8gm−2)(Figure5).TheO.fragrans,C.japonicum,L.chinense,R.pulchrum,P.majestica,L.lucidum,
+P.cerasifera,C.kunmingensis,P.glomerataandE.japonicaspecieshadintermediatePMaccumulation
+(2.31–3.65gm−2),whileC.camphoracontributedconsiderablylowerPMaccumulation(1.24gm−2),
+andwastheonlyspeciesinthiscluster. Inthetrafficarea,thespecieswiththelargestPMaccumulation
+(2.18–4.05 g m−2) included M. grandiflora, C. japonicum, L. chinense, R. pulchrum, O. fragrans and P.
+acerifolia(Figure5). TheE.japonica,C.kunmingensis,P.glomerataandP.cerasiferaspeciesaccumulated
+amediumtotalPM(1.4–1.97gm−2),whereasL.lucidum,P.majesticaandC.camphorahadlowerPM
+accumulation(0.74–1.04gm−2). DatafromtheuniversitycampusarearevealedthatM.grandiflora,L.
+Figure 5. Particulate matter accumulated on leaf surfaces of trees and shrub species in three
+functional zones (industrial, traffic and university campus) in Kunming City, China. Bars are means
+± SE. Treatments with the same letter were not significantly different (ANOVA with Duncan test, p <
+0.05).
+===== PAGE 7 =====
+Int. J. Environ. Res. Public Health 2019, 16 7 of 13
+Int.J.Environ.Res.PublicHealth2019,16,402 7of12
+chinense,C.japonicumandO.fragranshadthehighestPMaccumulation(1.36–2.76gm−2)(Table1).
+The species with intermediate PM accumulation (0.8–1.23 g m−2) were P. acerifolia, E. japonica, L.
+lucidu F m ig , u R re . 4 p . u A lc c h cu ru m m ula a t n io d n o C f . t k o u ta n l m pa in rt g ic e u n la si te s . m T a h tte e r l ( o m w ea e n s s t ± P S M E) a o c n c u th m e l u e l a a v t e i s o n in s th (0 e . 3 th 3 r – e 0 e . c 6 l 6 us g ter m s −2) were
+found in the three functional zones. Bars are means ± SE. Treatments with the same letter (a–h) were
+observedontheleafsurfacesofP.cerasifera,P.glomerata,P.majesticaandC.camphora.
+not significantly different (ANOVA with Duncan test, p < 0.05). SE is standard error.
+FFiigguurree 55..P Paratritciuculalatetem matattetrera caccucmumulualtaetdedo nonle alefasfu rsfuarcfeasceosf torfe etsreaensd asnhdr usbhsrupbec isepseicnietsh riene tfhurnecet ional
+zfounnectsio(ninadl zuosntreisa l(,intdraufsfitrciaal,n tdrafufnici vanerds iutnyivcearmsiptyu csa)minpuKs)u innm KiunngmCinitgy ,CCityh,i nCah.inBa.a Brsarasr aerem meaenanss± SE.
+T±r eSaEt.m Terenattsmweintths twhieths athmee slaemttee rlewtteerr ewneoret sniogtn siifigcnaifnictlayndtlyif fdeirfefenrte(nAt N(AONVOAVwA iwthitDh uDnucnacnante tsets,tp, p< <0 .05).
+0.05).
+3.2. AssociationofLeafSurfaceTraitswithPMCapture
+Thereweresignificantdifferencesinleafareasperleaf,stomatadensity/length,guardcellarea,
+andtrichomedensity/lengthamongthesespecies(p<0.05;Table3). Leafsurfacetraitswereclosely
+associatedwithPMaccumulation(Tables3and4). M.grandiflorawiththehighestPMaccumulation
+hadthegreatestleafareaperleaf,trichomedensity/length,andguardcellarea,thoughtheleafsurface
+wasrelativelysmoothwithmediumstomatadensityatthelowerepidermis. However,C.camphora
+withthelowestPMaccumulationhadthesmoothestleafsurface, andnodistributionoftrichome,
+thoughtherewasmediumstomatadensityatthelowerepidermis. Leafsurfaceroughness,leafarea
+perleaf,stomatadensityandtrichomelengthwereimportantpredictorsforPMaccumulation(Table4).
+Anincreaseinleafsurfaceroughness,leafareaperleafandtrichomelengthpredictedanincrease
+in PM deposition, while an increase in stomata number induced a decrease in PM accumulation.
+Changesintheleafmicromorphologyindexrevealedastrongerexplanation(R2=0.992)forthePM
+accumulation(Table4).
+===== PAGE 8 =====
+Int.J.Environ.Res.PublicHealth2019,16,402 8of12
+Table2.Environmentalconditionsacrossthethreefunctionalzones(industrial,trafficanduniversitycampus)inKunmingCity,SouthwestChina.
+Geographic InitialAirPM AnnualMeanAir AnnualMean WindSpeedduring WindDirectionduring
+Site Position LevelofAirPollution Concentration(mgm−3) Temperature(◦C) Precipitation(mm) theStudy(m/s) theStudy
+Industrialarea 25◦6(cid:48)N,102◦8’E Higherindustrial 488.07±57.52 14.9 1000.5 3.02±0.41 Southwest
+pollution
+Trafficarea 25◦21(cid:48)N,102◦30’E Slighttrafficpollution 87.41±6.36 14.5 1031 2.36±0.22 Southwest
+Universitycampusarea 25◦18(cid:48)N,102◦27’E Cleanair 39.1±2.45 14.3 1035 2.17±0.27 Southwest
+(Controlsite)
+Table3.Leafsurfacetraitsof13treesandshrubspeciesinKunmingCity,China.
+Leaf LA(cm2 SD(300× TN(300×
+Species Longevity leaf−1) R RBA(µm) RBL(µm) view−1) SL(µm) SB(µm) GC(µm2) view−1) TL(µm)
+grandiflora Evergreen 58.27±9.6a 1 - 2.12±0.41e 37±7h 6.8±0.74h 2.46±0.55c 625.5±102a 73±10a 168±19c
+O.fragrans Evergreen 39.82±9b 4 3.61±0.23e 2.03±0.32e 113±35a 9.43±0.41e 3.38±0.41b 391.2±64d - -
+L.lucidum Evergreen 16.72±7.4g 2 3.09±0.18e 4.01±0.15c 30±7k 16.48±3.74a 6.26±0.32a 618.7±96b - -
+C.camphora Evergreen 20.57±2.9e 1 8.21±1.08b 5.04±0.66b 48±8f 12.85±2.47b 3.32±0.78b 171.3±51g - -
+C.japonicum Evergreen 21.23±9e 5 1.44±1.08f 2.96±0.66e 25±5l 11.53±2.32c 1.98±0.36d 93.5±46.5i 12±9d 81.25±9f
+P.glomerata Evergreen 30.16±6.3d 3 5.32±0.48c 1.9±0.34f 57±10e 4.77±0.57k 1.75±0.25d 85.8±21j - -
+P.majestica Deciduous 17.81±1.8f 2 2.28±0.17f 5.39±0.75b 63±14d 8.78±1.34f 2.41±0.51c 204.1±34f 9±7d 213±20b
+P.cerasifera Deciduous 15.32±1.6h 2 4.05±0.64d 2.22±0.48c 73±12c 4.14±0.42l 2.59±0.58c 261.7±68e - -
+P.acerifolia Deciduous 34.64±6.9c 5 4.88±0.51d 4.05±0.55c 32±8j 10.8±2.26d 3.86±0.91b 529.9±95c 68±12b 42.3±9g
+C.kunmingensis Deciduous 14.47±1.4i 3 - 2.06±0.34e 101±22b 6.2±0.84i 0.8±0.18e 138.3±45h 3±4e 137±17d
+E.japonica Evergreen 0.86±0.9k 4 3.3±0.26e 5.53±0.69b 43±7g 7.69±0.96g 3.58±0.88b 42.15±11l - -
+L.chinense Evergreen 9.31±1.1j 5 9.28±1.34a 5.85±0.87b 34±6i 8.18±1.08g 3.48±0.87b 210.9±46c 30±8c 100±15e
+R.pulchrum Evergreen 7.88±0.8l 4 5.08±0.96c 6.51±1.16a 61±16b 5.59±0.66j 2.42±0.52c 62.8±18k 5±6f 917±115a
+LA:leafareaperleaf;R:roughnessofleafsurface;RBAandRBL:ravinebreadthofaboveandlowerepidermis,respectively;SD:stomatadensityoflowerepidermis;SL:stomatalength;
+SB:stomatabreadth;GC:guardcellarea;TN:trichomedensityoflowerepidermis;Tl:trichomelengthoflowerepidermis.Treatmentswiththesameletterwerenotsignificantlydifferent.
+===== PAGE 9 =====
+Int.J.Environ.Res.PublicHealth2019,16,402 9of12
+Table 4. Partial regression coefficients (B) and standardized regression coefficients (beta) from a
+multipleregressionanalysisoftheleafsurface-traiteffectsonPMaccumulation.
+Item B beta p
+Constant 1.533 0.034
+LA 0.019 0.445 0.044
+R 0.343 0.809 0.012
+RBA –0.007 -0.032 0.749
+RBL 0.046 0.125 0.522
+SD –0.010 –0.434 0.041
+TL –0.089 0.052 0.036
+SB –0.135 –0.287 0.357
+GC 0.002 0.773 0.125
+TN –0.006 –0.301 0.250
+TL 0.0005 0.58 0.628
+R2 0.992
+LA:leafareaperleaf;R:roughnessofleafsurface;RBAandRBL:ravinebreadthofaboveandlowerepidermis,
+respectively;SD:stomatadensityoflowerepidermis;SL:stomatalength;SB:stomatabreadth;GC:guardcellarea;
+TN:trichomedensityoflowerepidermis;Tl:trichomelengthoflowerepidermis.
+4. Discussion
+Inthepresentstudy, theaveragePMaccumulation(2.12gm−2)ofthirteenplantspecieswas
+similartotheresults(2.23gm−2)reportedinGuangzhou,inSouthernChina[27],whileitwasgreater
+thanthat(1.69gm−2)inXi’an,inNorthwesternChina[28]. Thisindicatedthatregionallyclimatic
+conditionsmaybeanimportantfactorthataffectsdustretentiononplantleaves. Alltestedgreening
+plant species differed in the accumulation of PM on their leaves from surrounding atmospheric
+environments. Generally,talltreespecies(e.g.,arbor)hadahigherpotentialforthecaptureofPMon
+theirleafsurfaces. Forexample,M.grandifloraandP.acerifoliaaccumulatedhigherquantitiesofPMon
+theirleavesincontrasttoothershorterplantspecies. Thus,thesetalltreesmaybethemostefficient
+plantspecies,duetotheirlargertotalleafareasandsizes,andmorecomplextreecrownstructures,
+which facilitate the capture of PM on their leaves [14,15]. However, the tall trees of C. camphora
+hadthelowestPMaccumulation,indicatingthattreeheightisnottheonlyfactordeterminingthe
+abilities for PM accumulation. The shrubs, such as L. chinense and R. pulchrum, had medium PM
+accumulation. This may have been attributed to the easy exposure to soil splash on the leaves of
+low-heightplantspeciescomparedwithtalltrees. Theselow-growingshrubsoftenhadhigherPM
+captureefficienciescomparedwithothertreespecies[26]. Plantheighthadnosignificantimpacton
+theaccumulationofPM[29,30]. Further,severalstudiesrevealedthatevergreenspecieshadhigher
+PMcapturethandiddeciduousspecies[24]. Althoughtherewasnodifferenceintheeffectofleaf
+longevityonPMaccumulation,evergreenspeciesthatgrewyear-roundmayhavepossessedagreater
+temporaladvantage,whichfacilitatedthehigheraccumulationofPMoverdeciduousspecies.
+Some plant species of the same genus had different PM capturing capacities. For example,
+P.majesticashowedlowPMcapture(0.42and0.87gm−2,respectively)inthetrafficandcampusareas;
+however,P.cerasiferaaccumulatedmediumquantitiesofPM(0.67and1.4gm−2,respectively)atthe
+samesites. ThereasonmayhavebeendifferencesinsurfacetraitsamongthesePinusspecies. Onthe
+otherhand,siteconditionsmayhaveaffectedthePMcaptureofthesamegenusspecies. C.camphora
+showed low efficiency in PM capture at all three sites, while C. japonicum was at the medium or
+highlevelofPMaccumulationinthetrafficanduniversitycampusareas. Somespeciesaccumulated
+higherPMatsiteswithhigherpollutionlevelsbuthadlowerefficienciesincleanerenvironments.
+This might have been related to different PM concentrations, or fractions, at different sites. Thus,
+differentcapacitiesforthecaptureofPMonleavesmaybeattributednotonlytoplantspecies,but
+alsositeenvironmentalfactors[20]. Theaccumulationabilitiesofcertainplantspecieshadaclose
+associationwiththedepositionrateandlevelofcontamination,whichwereassociatedwithspecific
+siteenvironments[7,9]. Thetestspeciesatthethreelocationsunderdifferentpollutionconditions
+===== PAGE 10 =====
+Int.J.Environ.Res.PublicHealth2019,16,402 10of12
+provideddataonwhichplantsinthesameclusterhadhigherorlowerPMdeposition. Somegreening
+plantspecieshadthehighest(e.g.,M.grandiflora)orlowest(e.g.,C.camphora)accumulationofPMat
+relativelyhighlevelsofcontamination,whiletheyalsohadahigherorlowercapacityforPMcapture
+atsiteswithlow-levelcontamination. Thesamespecies(e.g.,P.acerifolia)accumulatedhigherPMat
+siteswithhigherlevelsofpollution,buthadlowerefficienciesincleanerenvironments. Furthermore,
+certainspecies(e.g.,O.fragrans,L.chinenseandC.japonicum)hadhighcapacitiesforPMaccumulation
+inrelativelyhighlypollutedareas, butaccumulatedlessPMincleanerareas. Therefore, thesame
+genus (or species) that differed in the accumulation of PM on their leaf surfaces might have been
+dependentonspecificleaftraitsandcontaminationlevels.
+SeveralstudieshavesuggestedthatthecapacitiesofgreeningplantstocapturePMwasprincipally
+determined by the morphological structures of leaves (e.g., cuticle roughness, stomata densities,
+morphologiesandquantitiesofepidermaltrichomes),leafareas,aswellasprevailingmeteorological
+conditions[28,29]. Forthisstudy,theleafsize,surfaceroughness,andstomatadensityandlength
+wereimportantpredictorsfortheaccumulationofPM.Increasedleafsizeandroughnesspredicted
+higher PM accumulation, while increased stomata density and length indicated a decrease in PM
+capture. M.grandiflora,whichisaspecieswithrelativelysmoothleafsurfaces,hadthehighestquantity
+ofPMretention,whichmayhavebeenattributedtoahigherleafareaperleaf,andtrichomedensity
+andlength,withaveragestomatadensity. Researchhasalsorevealedthatleaveswithlowstomatal
+density,highstomatalconductanceandgreaterleafhairinesshadahigherPMcapturecapacity[31].
+Missonetal. (2005)[32]andEnbaoetal. (2017)[33]reportedthathighstomataldensitysuppressedthe
+dustretentionofplants,throughtheformationofstronghydrophobicity,whichreducedtheaffinity
+andcontactareabetweenbladesandparticulatepollutants.
+PM was typically captured on the adaxial leaf surfaces, while only smaller PM fractions
+accumulatedontheabaxialsurfacesofstomatalareas. Anumberofstudieshaveobservedthatasmall
+portionofPMwasalsocapturedontheundersidesofleaves[34],whichindicatedthathighstomatal
+densitiesmaynotbenecessarytoinducehighPMaccumulation. Forourstudy,plantspecies(e.g.,M.
+grandiflora,P.acerifoliaandC.japonicum)withhighPMaccumulationshadamediumstomataldensity
+of32–48ind. under300xmagnification. TheseresultsweresimilartothosereportedbyLiuetal.[27].
+Thus,stomataldensitymayhaveathresholdeffectontheaccumulationofPM.Furthermore,thehairy
+undersidesofleaveshadahighercapacityforPMcapturethanhairlessuppersides[17]. Wesurmised
+thathairyleaveswithmediumstomataldensitiesmayexhibithigherPMcapturecapacities.
+TreesinthisstudyhadamorehighlyefficientcapacityforthecaptureofPMpollution,while
+shrubshadmediumPMaccumulationcapacities. Smallershrubplantsmaybeanimportantchoicefor
+thelowerstrataofurbangreening[35]. However,currently,thecontributionsofshrubstoPMcapture
+areoftenneglected. Thus,bothshrubandtreespeciesshouldbeconsideredinthedesignofurban
+greeningforthemitigationofurbanatmosphericpollution.
+5. Conclusions
+The present study documented the different PM capture abilities of 13 urban greening plant
+species, which were selected to reduce human exposure to air pollution. We found that the
+distinct efficiency of the same genus or species in PM accumulation varied with the level of
+pollution. Furthermore, leaf size, longevity and micromorphological structures had crucial roles
+inthedeterminationofPMcapture. Thesedatamaybecriticalfortheevaluationofthebenefitsof
+urbanplantsonPMcapture. Therefore,theidentificationandquantificationoftheefficacyofthese
+plantspecies,andtheirregulatingfactors,maybesignificanttowardtheselectionofgreeningplant
+speciesforpollutioncontrol.
+===== PAGE 11 =====
+Int.J.Environ.Res.PublicHealth2019,16,402 11of12
+AuthorContributions:Y.M.wrotethepaperandperformedtheexperiment.S.J.analyzedthedataandwrotethe
+paper.Q.B.designedtheexperiments.
+Funding: ThisresearchwassupportedbytheFoundationofNationalNatureScienceinChina(31660191and
+41461052),FundProjecttostartscienceresearchinSouthwestForestryUniversity(111902),China948Program
+of National Forestry Bureau (2015-4-39), Special Fund for Forestry Scientific Research in the Public Interest
+(201204101-10),ScienceresearchinSouthwestForestryUniversity(XL21621).
+ConflictsofInterest:Theauthorsdeclarenoconflictofinterest.
+References
+1. Zou,B.;Zheng,Z.;Wan,N.;Qiu,Y.;Wilson,J.G.Anoptimizedspatialproximitymodelforfineparticulate
+matterairpollutionexposureassessmentinareasofsparsemonitoring. Int. J.Geogr. Inf. Sci. 2015,30,
+727–747.[CrossRef]
+2. Segalin,B.;Kumar,P.;Micadei,K.;Fornaro,A.;Gonçalves,F.L.T.Size-segregatedparticulatematterinside
+residencesofelderlyinthemetropolitanareaofsãopaulo, brazil. Atmos. Environ. 2016, 148, 139–151.
+[CrossRef]
+3. Bosko,M.L.;Varrica,D.;Dongorrá,G.Casestudy:Inorganicpollutantsassociatedwithparticulatematter
+fromanareanearapetrochemicalplant.Environ.Res.2005,99,18–30.[CrossRef][PubMed]
+4. Suzuki,K.Characterisationofairborneparticulatesandassociatedtracemetalsdepositedontreebarkby
+ICP-OES,ICP-MS,SEM–EDXandlaserablationICP-MS.Atmos.Environ.2006,40,2626–2634.[CrossRef]
+5. Bhardawaj, A.; Habib, G.; Padhi, A.; Anand, A.; Mahala, N.; Singh, B.K. Deteriorating air quality and
+increasedhealthriskinDelhi:Thedecisionsbeingdelayed.IIOABJ2016,11,10–15.
+6. Trnjar,K.;Pintaric´,S.;Mornar,M.J.;Nesek,V.;Ostojic´,J.;Pleština,S.Correlationbetweenoccurrenceand
+deteriorationofrespiratorydiseasesandairpollutionwithinthelegallypermissiblelimits.ActaClin.Croat.
+2017,56,1–8.[CrossRef][PubMed]
+7. Amorim,J.H.;Rodrigues,V.;Tavares,R.;Valente,J.;Borrego,C.Cfdmodellingoftheaerodynamiceffectof
+treesonurbanairpollutiondispersion.Sci.TotalEnviron.2013,461–462,54–551.[CrossRef]
+8. Song, Y.; Maher, B.A.; Li, F.; Wang, X.; Sun, X.; Zhang, H. Particulate matter deposited on leaf of five
+evergreenspeciesinBeijing,China:Sourceidentificationandsizedistribution.Atmos.Environ.2015,105,
+53–60.[CrossRef]
+9. Tallis,M.;Taylor,G.;Sinnett,D.;Freer-Smith,P.Estimatingtheremovalofatmosphericparticulatepollution
+bytheurbantreecanopyofLondon,undercurrentandfutureenvironments.Landsc.UrbanPlan.2011,103,
+129–138.[CrossRef]
+10. Silvennoinen,S.;Taka,M.;Yli-Pelkonen,V.;Koivusalo,H.;Ollikainen,M.;Setälä,H.Monetaryvalueof
+urbangreenspaceasanecosystemserviceprovider:AcasestudyofurbanrunoffmanagementinFinland.
+Ecosyst.Serv.2017,28,17–27.[CrossRef]
+11. Escobedo,F.J.;Wagner,J.E.;Nowak,D.J.;DelaMaza,C.L.;Rodriguez,M.;Crane,D.E.Analyzingthecost
+effectivenessofSantiago,Chile’spolicyofusingurbanforeststoimproveairquality.J.Environ.Manag.2008,
+86,148–157.[CrossRef][PubMed]
+12. Cavanagh,J.A.E.;Peyman,Z.R.;Wilson,J.G.Spatialattenuationofambientparticulatematterairpollution
+withinanurbanizednativeforestpatch.UrbanFor.UrbanGreen.2009,8,21–30.[CrossRef]
+13. Yin,R.;Wang,D.;Deng,H.;Shi,R.;Chen,Z.Heavymetalcontaminationandassessmentofroadsideand
+foliardustalongtheouter-ringhighwayofShanghai,China.J.Environ.Qual.2013,42,1724–1732.[CrossRef]
+[PubMed]
+14. McDonald,A.G.;Bealey,W.J.;Fowler,D.;Dragosits,U.;Skiba,U.;Smith,R.I.Quantifyingtheeffectofurban
+treeplantingonconcentrationsanddepositionsofPM10intwoUKconurbations.Atmos.Environ.2007,41,
+8455–8467.[CrossRef]
+15. Lu, H.; Lu, L. A numerical study of particle deposition in ribbed duct flow with different rib shapes.
+Build.Environ.2015,94,43–53.[CrossRef]
+16. Grote,R.;Samson,R.;Alonso,R.;Amorim,J.H.;Cariñanos,P.;Churkina,G.Functionaltraitsofurbantrees:
+Airpollutionmitigationpotential.Front.Ecol.Environ.2017,14,543–550.[CrossRef]
+17. Hwang,H.J.;Yook,S.J.;Ahn,K.H.Experimentalinvestigationofsubmicronandultrafinesootparticlesby
+treeleaves.Atmos.Environ.2011,45,6987–6994.[CrossRef]
+===== PAGE 12 =====
+Int.J.Environ.Res.PublicHealth2019,16,402 12of12
+18. Burkhardt,J.Hygroscopicparticlesonleaves: Nutrientsordesiccants? Ecol. Monogr. 2010,80,369–399.
+[CrossRef]
+19. Gao,S.M.;Li,X.;Li,X.M.;Bi,T.T.;Pan,X.J.;Han,F.X.DistributionCharacteristicsandPotentialRiskof
+PolybrominatedDiphenylEthersAssociatedwithTotalSuspendedParticulatesandPM2.5Collectedfrom
+KunmingCity.Res.Environ.Sci.2018,31,860–867.
+20. Weerakkody,U.; Dover,J.W.; Mitchell,P.; Reiling,K.Evaluatingtheimpactofindividualleaftraitson
+atmosphericparticulatematteraccumulationusingnaturalandsyntheticleaves.UrbanFor.UrbanGreen.
+2018,30,98–107.[CrossRef]
+21. Jouraeva,V.A.;Johnson,D.L.;Hassett,J.P.;Nowak,D.J.Differencesinaccumulationofpahsandmetalson
+theleavesoftiliaxeuchloraandpyruscalleryana.Environ.Pollu.2002,120,331–338.[CrossRef]
+22. Gratani,L.;Crecente,M.F.;Varone,L.Long-termmonitoringofmetalpollutionbyurbantrees.Atmos.Environ.
+2008,42,8273–8277.[CrossRef]
+23. Nakazato, R.K.; Esposito, M.P.; Cardoso-Gustavson, P.; Bulbovas, P.; Pedroso, A.N.V.; Assis, P.I.L.S.D.
+Efficiencyofbiomonitoringmethodsapplyingtropicalbioindicatorplantsforassessingthephytoxicityof
+theairpollutantsinSE,Brazil.Environ.Sci.Pollut.Res.2018,25,19323–19337.[CrossRef][PubMed]
+24. Radhapriya,P.;Navaneethagopalakrishnan,A.;Malini,P.;Ramachandran,A.Assessmentofairpollution
+tolerancelevelsofselectedplantsaroundcementindustry,Coimbatore,India. J.Environ. Biol. 2012,33,
+635–641.[PubMed]
+25. Fang,Y.; Hu,Z.; Zou,Y.; Fan,J.; Wang,Q.; Zhu,Z.Increasingeconomicandenvironmentalbenefitsof
+media-basedaquaponicsthroughoptimizingaerationpattern.J.Clean.Prod.2017,162,1111–1117.[CrossRef]
+26. Dzierz˙anowski,K.;Popek,R.;Gawron´ska,H.;Sæbø,A.;Gawron´ski,S.W.Depositionofparticulatematterof
+differentsizefractionsonleafsurfacesandinwaxesofurbanforestspecies.Int.J.Phytoremediation2011,13,
+1037–1046.[CrossRef][PubMed]
+27. Liu,L.;Guan,D.S.;Peart,M.R.Themorphologicalstructureofleavesandthedust-retainingcapabilityof
+afforestedplantsinurbanGuangzhou.SouthChinaEnviron.Sci.Pollut.Res.2012,19,3440–3449.[CrossRef]
+28. Wang,H.X.;Shi,H.;Li,Y.Y.;Yu,Y.;Zhang,J.Seasonalvariationsinleafcapturingofparticulatematter,
+surfacewettabilityandmicromorphologyinurbantreespecies.Front.Environ.Sci.Environ.2013,7,579–588.
+[CrossRef]
+29. Ottelé,M.;vanBohemen,H.D.;Fraaij,A.L.A.Quantifyingthedepositionofparticulatematteronclimber
+vegetationonlivingwalls.Ecol.Eng.2010,36,154–162.[CrossRef]
+30. Terzaghi,E.;Wild,E.;Zacchello,G.;Cerabolini,B.E.L.;Jones,K.C.;Guardo,A.D.Forestfiltereffect:Role
+ofleavesincapturing/releasingairparticulatematteranditsassociatedpahs. Atmos. Environ. 2013,74,
+378–384.[CrossRef]
+31. Räsänen,J.V.;Holopainen,T.;Joutsensaari,J.;Ndam,C.;Pasanen,P.;Rinnan,Å.;Kivimäenpää,M.Effectsof
+species-specificleafcharacteristicsandreducedwateravailabilityonfineparticlecaptureefficiencyoftrees.
+Environ.Pollut.2013,183,64–70.[CrossRef][PubMed]
+32. Misson,L.;Lunden,M.;Mckay,M.;Goldstein,A.H.Atmosphericaerosollightscatteringandsurfacewetness
+influencethediurnalpatternofnetecosystemexchangeinasemi-aridponderosapineplantation.Agric.For.
+Meteor.2005,129,69–83.[CrossRef]
+33. Enbao,L.I.;Liu,M.;Lianhong,L.;Qiu,L.;Wang,L.;Lita,Y.I.Differencesofdustretentioncapacityandplant
+photosynthesisofeightgreenplantsinLin’an.J.For.Environ.2017,37,236–240.
+34. Wang,Z.H.;Li,J.B.CapacityofdustuptakebyleafsurfaceofEuonymusjaponicusThunb.andthemorphology
+ofcapturedparticleinairpollutedcity.Ecol.Environ.2006,15,327–330.
+35. Sæbø,A.;Popek,R.;Nawrot,B.;Hanslin,H.M.;Gawronska,H.;Gawronski,S.W.Plantspeciesdifferences
+inparticulatematteraccumulationonleafsurfaces.Sci.TotalEnviron.2012,427–428,347–354.[CrossRef]
+[PubMed]
+©2019bytheauthors.LicenseeMDPI,Basel,Switzerland.Thisarticleisanopenaccess
+articledistributedunderthetermsandconditionsoftheCreativeCommonsAttribution
+(CCBY)license(http://creativecommons.org/licenses/by/4.0/).

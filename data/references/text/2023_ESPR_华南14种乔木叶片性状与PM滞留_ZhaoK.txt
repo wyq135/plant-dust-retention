@@ -1,0 +1,1353 @@
+TOTAL PAGES: 15
+
+===== PAGE 1 =====
+Environmental Science and Pollution Research (2023) 30:33609–33623
+https://doi.org/10.1007/s11356-022-24638-6
+RESEARCH ARTICLE
+Trait‑mediated leaf retention of atmospheric particulate matter
+in fourteen tree species in southern China
+Kangning Zhao1 · Dandan Liu1 · Yongfa Chen2 · Jiayi Feng3 · Dong He4 · Chunhua Huang1 · Zhiyuan Wang1
+Received: 3 June 2022 / Accepted: 3 December 2022 / Published online: 9 December 2022
+© The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2022
+Abstract
+Particulate air pollution is a serious threat to human health, especially in urban areas, and trees can act as biological filters
+and improve air quality. However, studies on greening tree species selection are rare. We measured three particular matter
+adsorption metrics ( PM , PM , and PM captured per leaf area) and six functional traits for each of fourteen spe-
+2.5 2.5–10 >10
+cies and estimated their minimum light requirements based on field surveys. We found that shade-tolerant species captured
+more coarse particles ( PM ) than light-demanding species. For traits, a strong negative correlation was found between
+2.5–10
+photosynthetic capacity and adsorption capacity for all three PM size fractions, indicating that in comparison to acquisitive
+species, conservative species captured larger amounts of particles. Moreover, denser wood species and smaller leaves were
+more efficient in capturing large particles ( PM ), while species with “expensive” leaves (high leaf N or P) were more effi-
+>10
+cient in capturing fine particles (PM ), indicating that capturing large and fine particles was related to mechanical stability
+2.5
+traits and leaf surface traits, respectively. Our results demonstrated that the metabolism (e.g., photosynthetic capacity) and
+chemistry (e.g., leaf N and leaf P) of leaves help explain species capacity to capture PM. We encourage future studies to
+investigate the ecosystem functions and stress tolerance of tree species with the same framework and trait-based methods.
+Keywords Airborne particulate matter · Phytoremediation · Green infrastructure · Air pollution · PM retention · PM ·
+2.5
+Ecosystem functioning · Functional traits
+Introduction
+Responsible Editor: Elena Maestri
+Developing countries such as China have experienced fun-
+Highlights damental changes in recent decades, while gains in wealth
+• In comparison to light-demanding species, shade-tolerant have been achieved at a severe cost to the environment (Liu
+species captured larger amounts of particulate matter (PM), et al. 2018; Xu et al. 2018). Air pollution is a major threat
+which validated our hypothesis that species with high PM
+to people’s health, particularly in urban areas (Przybysz
+capture capacities need to adapt to shaded environments.
+et al. 2014; Yan et al. 2016), due to particulate matter (PM)
+• Conservative tree species have higher PM capture capacities
+than acquisitive species. emissions linked to traffic and industry (Simon et al. 2016).
+• Physiological traits and leaf chemistry help explain species Coarse particles can cause lung diseases, while smaller par-
+variation in PM capture capacities.
+ticles, such as P M , can be inhaled more deeply into the
+2.5
+* lungs (Beckett et al. 2000; Liang et al. 2016) and have been
+Kangning Zhao
+zhaokn@usc.edu.cn widely recognized as more harmful to human health. Air
+pollution is estimated to contribute to at least 5 million pre-
+1 School of Architecture, University of South China, mature deaths each year (WHO 2006).
+Hengyang 421001, China
+Vegetation can reduce particle concentrations and thereby
+2 School of Ecology, Sun Yat-Sen University, improve air quality (Litschke and Kuttler 2008; Liu et al.
+Guangzhou 510275, China
+2013; Shi et al. 2017; Weerakkody et al. 2018a). A leaf is
+3 South China Botanical Garden, Chinese Academy the main organ for particle deposition (Weerakkody et al.
+of Sciences, Guangzhou 510520, China
+2018b) and can even biodegrade or transform pollutants into
+4 School of Ecological and Environmental Sciences, East less or nontoxic molecules with its habituated microbes and
+China Normal University, Shanghai 200062, China
+Vol.:(0112 33456789)
+===== PAGE 2 =====
+33610 Environmental Science and Pollution Research (2023) 30:33609–33623
+endophytes (Zhang et al. 2017). Recognizing what kind of functional traits (Poorter et al. 2008; Wright et al. 2010). For
+plants are more powerful in capturing airborne PM is impor- instance, an acquisitive species tends to have a high photo-
+tant but challenging because the retention capacity of leaves synthetic capacity, dark respiration rate, specific leaf area
+in terms of accumulating PM is influenced by a variety of (SLA), and leaf nitrogen content (LNC) and hence a high
+factors, such as the concentration of atmospheric PM (Luo growth rate. In contrast, conservative species tend to have
+et al. 2020), days after rainfall (Xu et al. 2020), wind speed thicker leaves and a higher wood density (WD), reducing the
+(Beckett et al. 2000), leaf stage (Nguyen et al. 2015), and volumetric stem growth rate but facilitating leaf and stem
+sampling season (Zhang et al. 2017), which are linked with protection and high survival rates (Chave et al. 2009). In
+surface moisture (Wang et al. 2013; Sun et al. 2020). There- this study, we tested whether species with high PM adsorp-
+fore, it is necessary to investigate what kind of trait could tion abilities are characterized by conservative or acquisitive
+improve species’ PM adsorption abilities (Janhäll 2015; functional traits (question 2).
+Shao et al. 2019). For example, species with smaller leaves, Conservative species commonly have high WD and leaf
+more complex leaf structure, waxy leaves, and hairier leaves thickness but a low SLA and photosynthetic capacity, sug-
+usually capture PM more efficiently (Beckett et al. 2000; gesting a low growth rate strategy (Firn et al. 2019). Low
+Dzierżanowski et al. 2011; Weerakkody et al. 2017; Sun growth rate species tend to produce durable leaves with long
+et al. 2018; Liu et al. 2019). These findings have important life spans (Adler et al. 2014). The tough leaves of these spe-
+significance for selecting greening tree species, which is the cies may be associated with complex leaf surface structure
+primary task in the construction of urban forests. and waxes, which could trap PM (Dzierżanowski et al.
+In comparison to ecosystem functions, environmen- 2011). Therefore, we hypothesized that species with high
+tal stress tolerance is sometimes even more important in PM accumulation capacities should be characterized by con-
+greening tree species selection (Chaudhary and Rathore servative traits (hypothesis 2).
+2018, 2019; Przybysz et al. 2021). However, there are very If these two hypotheses were confirmed, then we would
+few studies investigating species’ PM adsorption abilities test the third question relating to which traits are good pre-
+in relation to species’ environmental stress tolerance, such dictors of the PM accumulation capacities of species (ques-
+as shade tolerance and drought tolerance. Therefore, it is tion 3). The functional traits measured in this study, includ-
+of great importance to test whether species with high PM ing photosynthetic capacity, leaf length, SLA, WD, LNC,
+adsorption abilities are fast- or slow-growing species and and leaf phosphorus content (LPC), represent relatively eas-
+whether they are resource-demanding species. Because light ily measured characteristics that can be obtained for large
+is the major limiting resource in moist forests (Zhao and He numbers of species (Li et al. 2021). Relationships among
+2016), we specifically sought to determine how PM adsorp- functional traits and PM adsorption capacities may reflect
+tion abilities are correlated with the light requirements of direct effects but could also result from trait coevolution
+tree species (question 1). (Reich et al. 2003). Therefore, we used structural equation
+Theoretically, plant traits can track environmental modeling (SEM) to investigate the relationships among a
+changes and reflect the adaptive strategies of plants (Liu suite of traits and PM adsorption capacities of different size
+et al. 2021). Dust accumulation reduces the light availabil- fractions.
+ity of leaves (Zhu et al. 2019) and may inhibit chlorophyll To test the first two hypotheses and establish linkages
+biosynthesis (Chen et al. 2015) and stomatal conductance between plant functional traits and ecosystem functioning
+(Lewis et al. 2017), which is important for plant photosyn- (PM adsorption in this study), we sampled leaves from 14
+thesis (Hetherington and Woodward 2003; Yu et al. 2018). evergreen tree species (Fig. 1) and experimentally measured
+Consequently, species with a greater ability to accumulate their PM adsorption capacities. We then quantified shade
+PM might need to be more shade tolerant from the perspec- tolerance and measured six functional traits of these species
+tive of evolution. We therefore hypothesized that species and compared them with their PM adsorption abilities.
+with high PM accumulation abilities should be able to adapt
+to poor light environments (hypothesis 1).
+Methods
+In forest ecology, there is a well-established trade-off
+between the survival rate in deep shade and the growth rate
+Study site
+in bright light (Adler et al. 2014). Fast-growing species
+that rapidly acquire resources thrive in rich light environ-
+ments, while slow-growing species that conserve resources The study was conducted in a 50-ha dynamic forest plot
+are dominant in poor light environments (Lohbeck et al. in the Heishiding Provincial Nature Reserve (23°27′N,
+2013). This acquisitive-conservative trade-off points to the 111°52′E; altitude, 150–927 m), located in Guangdong Prov-
+extremes of a continuum in plant design, and the position ince, southern China. This region is covered by a subtropical
+of a species along this continuum can be quantified by its evergreen broad-leaved forest and has a subtropical moist
+1 3
+===== PAGE 3 =====
+Environmental Science and Pollution Research (2023) 30:33609–33623 33611
+Fig. 1 Leaves of the fourteen
+tree species tested in the study.
+The species are ordered based
+on their total suspended particle
+accumulation capacity per leaf
+area
+1 3
+===== PAGE 4 =====
+33612 Environmental Science and Pollution Research (2023) 30:33609–33623
+monsoon climate. The annual precipitation is approximately sequentially using 10-μm and 2.5-μm filters (Whatman,
+1700 mm, and the mean daily temperature is 19.6 °C. UK, Types 91 and 42, respectively), and the eluent was
+poured into small beakers. The filters and beakers were
+Quantitative assessment of PM capturing ability
+oven dried at 80 °C for 8 and 12 h, respectively, and then
+left in the weighing room for an hour to obtain constant
+Samples were collected from three individuals for each of humidity and weight (W ). Leaf areas (S) of the samples
+2
+the 14 species. For each individual, 10–50 fully expanded were measured using an Epson Expression 11000XL scan-
+mature leaves were collected at 2–5 m above-ground with a ner (Epson, Inc., USA) and calculated using the Photoshop
+high branch scissor. Samples from the same tree were then CC2019 software (Adobe Corp., USA). The amount of PM
+put in a plastic bag, sprinkled with water, transported to was expressed per unit area ( cm2) of one side of the leaf
+the laboratory, and stored in a refrigerator at 4 °C until the surface and calculated as (W − W )/S.
+2 1
+laboratory experiment.
+To ensure that all samples experienced similar dust condi-
+Shade tolerance estimation
+tions, we used a dust box, a dust grinder, and an air blower
+(Fig. 2) to simulate a busy road environment, an approach
+similar to deposition chamber experiments (Hwang et al. The 50-ha plot (1000 × 500 m) was established following
+2011) or wind tunnel experiments (Burkhardt et al. 1995; the ForestGEO (https:// www. fores tgeo. si. edu) protocol
+Räsänen et al. 2013; Zhang et al. 2017). First, we cleaned the in 2011, and all free-standing individuals with diameters
+samples by immersing them with 250 ml distilled water and at breast height greater than 1 cm were tagged, mapped,
+washed them with a no-hair-loss brush. Next, the cleaned measured, and identified to species. More than 270,000
+leaves were hung on a rope installed in an experimental box stems belonging to 245 species were recorded in the first
+(1.4 × 1.2 × 0.8 m, Fig. 2). Sixty grams of soil was ground to census. The understorey light availability was estimated
+powder, sieved, and blown into the box to simulate a cloud using hemispherical photography at 2352 locations ran-
+of dust and left to set for half an hour. We then removed the domly distributed within the 50-ha plot (Zhao and He
+dusted leaves and measured the PM retained on them. 2016), and light availability was then interpolated to grids
+The method for rinsing and weighing was similar to that of 10 × 10 m using ordinary kriging in the AUTOMAP
+described by Dzierżanowski et al. (2011). The filters and package (Hiemstra et al. 2009) to estimate the environ-
+small beakers were dried for 60 min at 80 °C in a drying mental conditions where the individuals were located. The
+oven and then left in the weighing room for an hour to minimum light requirements (shade tolerance) of the spe-
+stabilize the humidity and obtain a constant weight (W ). cies were estimated by calculating the 10th percentile of
+1
+We immersed leaves with distilled water, cleaned them the distribution of juveniles (height < 4 m) in relation to
+softly with a nylon brush, and then washed them with dis- light availability. There were at least 200 juveniles for each
+tilled water. In the next step, the rinse water was filtered of the 14 species in the 50-ha plot.
+Fig. 2 Schematic diagram of
+the experimental dust box used
+in this study. Leaves in the box
+were vertically arranged
+1 3
+===== PAGE 5 =====
+Environmental Science and Pollution Research (2023) 30:33609–33623 33613
+Functional trait measurements species into acquisitive/conservative groups with reference
+to Flora of China (http:// www. eflor as. org/) and Zhou et al.
+We measured six traits, including leaf length (LL), maxi- (1999). Zhou et al. (1999) focused on the successional seral
+mum rate of electron transport (J ), specific leaf area (SLA), stages of species in the Heishiding Nature Reserve, in which
+m
+wood density (WD), leaf nitrogen concentration (LNC), species that reached maximum abundance by 35 years after
+and leaf phosphorus concentration (LPC). Leaf length was clear cutting were considered early successional species (Feng
+averaged from the samples collected for PM accumulation et al. 2018). We classified early successional species as acquis-
+measurements. However, the other five traits were measured itive species. Furthermore, species that were not included in
+separately at other times on different sampled individuals. Zhou et al. (1999) but were described as “pioneer species” in
+Shade-tolerant species with durable leaves tend to have Flora of China were classified as acquisitive species. At the
+lower J , higher WD, and lower SLA than those of light- same time, species described as “mesophyte,” “living in shady
+m
+demanding species with high leaf turnover rates (Walters environment,” “shade tolerant” in Flora of China, or reach-
+and Reich 1999; Reich 2014). ing maximum abundance after 35 years of clear cutting were
+J represents the light saturated photosynthetic capacity assigned to the group of conservative species.
+m
+per leaf area (Rascher et al. 2000). For J measurements,
+m
+Statistical analysis
+a total of 1056 leaves from 335 individuals of the 14 spe-
+cies were sampled in the growing season (May–September)
+of 2014. A PAM fluorometer (PAM-2000; Walz, Effeltrich, One-way analysis of variance (ANOVA) was applied to test
+Germany) was used with a leaf clip holder (2030-B) to whether individual PM values differed among species. If
+measure the quantum yield of PSII. The gradient of pho- the difference among the species was significant, then the
+ton flux density was set to 0, 21, 76, 134, 249, 371, 456, significance of the differences between the mean values was
+581, 726, 895, 1267, 1405, 1790, and 2190 µmol/(m2·s), tested using Tukey’s honest significant difference test (HSD)
+and the measurement was processed under the automatic at α = 0.05 with the function “HSD.test” in the R package
+light-curve program (Feng et al. 2018). The Smith model “agricolae” (R Development Core Team 2016). Differences
+(Smith 1937) was used to fit light-response curves with the between acquisitive and conservative groups in capturing
+measured photosynthetic data. J was calculated from the PM of different size classes per leaf area were assessed using
+m
+fitted light-response curves. Student’s t-test following confirmation of normality using
+SLA, LNC, and LPC were measured in a total of 464 the Shapiro‒Wilk test.
+individuals of the 14 species during September through To test the relationship between shade tolerance and PM
+November 2014. Initially, the leaf mid rib was removed; accumulation capacities, we examined the response of PM
+thereafter, a photograph was taken using an Epson Expres- to minimum light requirements using simple linear regres-
+sion 11000XL scanner (Epson, Inc., USA) and later analyzed sions. To test the effect of functional traits on PM accu-
+using the Photoshop CC2019 software (Adobe Corp., USA). mulation capacities, we also examined the response of PM
+Leaves were then oven dried at 70 °C for at least 48 h, the to traits using simple linear regressions. To better meet the
+dry mass was measured, and the SLA was calculated. Leaf assumptions of normality and homogenous variances, PM,
+nitrogen and phosphorus contents were determined using the shade tolerance, and trait values, except for WD, were log
+Kjeldahl acid digest method as detailed in Zhu et al. (2021). transformed before analysis.
+Wood density was measured in a total of 280 individu- Because functional traits are correlated with each other,
+als of the 14 species. For each species, 20 individuals were bivariate relationships alone provide limited information.
+selected. For each selected tree, an outer crown twig of We used a structural equation model with the function
+noncurrent year was harvested to measure wood density. “psem” in the R package “piecewiseSEM.” Initially, all
+All wood samples were wrapped with moist filter paper for possible paths were allowed in the model, and the complex
+transport to the laboratory. After removing the bark mate- model was further simplified by removing nonsignificant
+rial, the wood sample was cut into a smooth column, and the paths. This approach is useful for exploring the comparative
+volume was measured using water displacement. The wood strength of relationships. A bidirectional line was used to
+dry mass was weighed after 72 h of oven treatment at 80 °C denote the equivalent models.
+(He et al. 2018).
+Empirical data on functional groups Results
+Acquisitive species generally correspond to light-demanding Among the 14 species studied, accumulated total sus-
+pioneer species that are fast growing and characterized by pended particles (TSP) per leaf area ranged from 1.46 to
+acquisitive traits (Russo et al. 2021). We categorized the 14 4.12 g·m−2, PM ranged from 0.17 to 0.82 g·m−2, PM
+2.5 2.5–10
+1 3
+===== PAGE 6 =====
+33614 Environmental Science and Pollution Research (2023) 30:33609–33623
+ranged from 0.12 to 1.29 g·m−2, and PM ranged from species and the least effective plant species for capturing
+>10
+0.97 to 2.44 g·m−2 (Fig. 3 and Table 1). According to one- TSP per leaf area.
+way ANOVA, there were significant differences in PM ,
+2.5
+PM , and TSP capturing abilities (P < 0.05) among PM accumulation capacities of different functional
+2.5–10
+groups
+the species, whereas there were no significant differences
+in PM capturing abilities among the species (P = 0.06).
+>10
+The most effective plant species for capturing TSP per leaf Nine of the 14 species were classified as conservative spe-
+area were C. concinna (4.12 g·m−2) and X. hainanense cies, and five were classified as acquisitive species (Table 1).
+(3.87 g·m−2), while the least effective plant species were We found that conservative species captured larger amounts
+H. heptaphyllum (1.46 g·m−2), M. chinensis (1.56 g·m−2), of PM per leaf area (0.42 ± 0.21 g·m−2) than acquisitive
+2.5
+I. chinensis (1.66 g·m−2), and L. litseifolius (1.71 g·m−2). species (0.23 ± 0.05 g·m−2; P < 0.05), whereas the two
+In addition, the most effective plant species for capturing functional groups (acquisitive and conservative) showed
+PM per leaf area were C. concinna (0.82 g·m−2) and C. nonsignificant differences in capturing P M and P M
+2.5 2.5–10 >10
+subulatum (0.7 g·m−2), while the least effective plant species (P > 0.05).
+was H. heptaphyllum (0.17 g·m−2). In terms of capturing
+Bivariate relationships between functional traits
+coarse particles ( PM ) per leaf area, the most effective
+2.5–10
+plant species was C. concinna (1.29 g·m−2), while the least and PM accumulation capacities
+effective plant species was M. chinensis (0.12 g·m−2).
+For the morphological traits, we found that PM and
+2.5–10
+Relationships between shade tolerance and PM
+PM accumulation capacities were negatively correlated
+>10
+accumulation capacities
+with leaf length (Fig. 5b, c), whereas nonsignificant correla-
+tions were observed between PM accumulation capacity
+2.5
+We found that all three PM accumulation metrics were and leaf length (Fig. 5a). For the metabolism traits, pho-
+negatively correlated with the minimum light requirements tosynthetic capacity (J ) was negatively correlated with
+m
+(shade tolerance) of the species, but only the relation- PM accumulation capacity for all particle size fractions
+ship between P M and shade tolerance was significant (Fig. 5d–f).
+2.5–10
+(R2 = 0.72, P < 0.001, Fig. 4). C. carlesii, A. quinquegona, For the economic traits, the relationships between spe-
+and X. hainanense were observed as the most shade-tolerant cific leaf area (SLA) and P M , PM , and P M accu-
+2.5 2.5–10 >10
+species, and they ranked third, sixth, and second in accumu- mulation capacities were nonsignificant (Fig. 6a–c). Wood
+lating TSP per leaf area, respectively. M. chinensis and H. density (WD) was positively correlated with PM accu-
+>10
+heptaphyllum were observed to be the most light-demanding mulation capacity (Fig. 6f), whereas it was not significantly
+Fig. 3 PM captured per leaf
+area by different species of
+plants in the experiment. Data
+are arranged in descending
+order of total suspended parti-
+cles (TSP). Error bars for PM ,
+2.5
+PM , and TSP are presented.
+10
+Different letters above the
+column indicate a significant
+difference in TSP accumulation
+per leaf area (P < 0.05)
+1 3
+===== PAGE 7 =====
+1 3
+detcelloc
+erew
+atad
+tiart
+lanoitcnuf
+dna
+yticapac
+noitalumucca
+MP
+hcihw
+rof
+yduts
+siht
+ni
+desu
+seiceps
+41 eht
+fo
+yrammuS
+1 elbaT
+shpargotohP
+yrtsimehc
+faeL
+ygolohproM
+stiart
+cimonocE
+ygoloisyhP
+noitalumucca
+MP
+seicepS
+CPL
+CNL
+LL
+ALS
+DW
+m J
+01>MP
+01–5.2MP
+5.2MP
+)1−gk·g(
+)1−gk·g(
+)mc(
+)1−g·2mc(
+)3−mc·g(
+)1−s
+2−m·lomμ(
+)2−m·g(
+)2−m·g(
+)2−m·g(
+seiceps
+evitavresnoC
+39
+55551
+/ut
+/nc
+.tnalpi
+.cbpp
+//:sptth
+23.0
+±
+76.0
+0.2
+±
+3.81
+6.1
+±
+2.9
+5.94
+±
+3.341
+80.0
+±
+65.0
+3.71
+±
+33
+05.1
+±
+10.2
+14.0
+±
+92.1
+31.0
+± 28.0
+ecnaH
+annicnoc
+ayracotpyrC
+62
+31083
+/ut
+/nc
+.tnalpi
+.cbpp
+//:sptth
+70.0
+±
+66.0
+5.2
+±
+2.22
+3.1
+±
+6.7
+6.71
+±
+941
+90.0
+±
+17.0
+7.31
+±
+1.43
+65.0
+±
+44.2
+73.0
+±
+88.0
+42.0
+± 55.0
+uH esnenaniah
+mullyhpohtnaX
+95
+54999
+/ut
+/nc
+.tnalpi
+.cbpp
+//:sptth
+31.0
+±
+27.0
+9.1
+±
+51
+2.1
+±
+2.01
+2.92
+±
+5.161
+70.0
+±
+65.0
+3.61
+±
+24
+22.0
+±
+36.1
+22.0
+±
+16.0
+60.0
+± 13.0
+rreM
+iinuhc
+aredniL
+89
+83854
+/ut
+/nc
+.tnalpi
+.cbpp
+//:sptth
+70.0
+±
+73.0
+6.1
+±
+8.8
+8.2
+±
+2.31
+5.81
+±
+5.101
+80.0
+±
+17.0
+4.71
+±
+2.34
+62.0
+±
+93.1
+12.0
+±
+98.0
+80.0
+± 52.0
+éllievéL
+.H
+iiniuges
+enisryM
+18
+26382
+/ut
+/nc
+.tnalpi
+.cbpp
+//:sptth
+80.0
+±
+45.0
+1.1
+±
+4.51
+9.1
+±
+8.11
+4.03
+±
+1.941
+70.0
+±
+75.0
+1.42
+±
+2.04
+53.0
+±
+53.1
+83.0
+±
+77.0
+80.0
+± 43.0
+emulB
+anogeuqniuq
+aisidrA
+71
+57174
+/ut
+/nc
+.tnalpi
+.cbpp
+//:sptth
+01.0
+±
+44.0
+8.0
+±
+5.01
+9.0
+±
+1.01
+4.51
+±
+9.201
+90.0
+±
+85.0
+0.21
+±
+9.04
+92.0
+±
+26.1
+00.0
+±
+42.0
+21.0
+± 33.0
+lsmeH
+).htneB(
+arofliverb
+sulihcaM
+421335
+/ut
+/nc
+.tnalpi
+.cbpp
+//:sptth
+32.0
+±
+20.1
+8.2
+±
+02
+1.4
+±
+9.91
+45
+±
+7.912
+80.0
+±
+33.0
+2.32
+±
+3.44
+71.0
+±
+89.0
+30.0
+±
+62.0
+60.0
+± 7.0
+lliuG
+mutalubus
+muiranaC
+96
+30101
+/ut
+/nc
+.tnalpi
+.cbpp
+//:sptth
+02.0
+±
+96.0
+0.2
+±
+51
+3.1
+±
+4.11
+7.63
+±
+5.871
+60.0
+±
+75.0
+4.52
+±
+9.37
+93.0
+±
+32.1
+51.0
+±
+42.0
+30.0
+± 91.0
+nrA
+te
+.kooH
+sisnenihc
+aetI
+63
+48701
+/ut
+/nc
+.tnalpi
+.cbpp
+//:sptth
+90.0
+±
+44.0
+2.2
+±
+8.01
+7.2
+±
+1.51
+3.82
+±
+9.511
+90.0
+±
+55.0
+2.71
+±
+5.06
+94.0
+±
+71.1
+40.0
+±
+21.0
+50.0
+± 72.0
+).htneB
+xe .pmahC(
+sisnenihc
+sulihcaM lsmeH
+seiceps
+evitisiuqcA
+61
+85783
+/ut
+/nc
+.tnalpi
+.cbpp
+//:sptth
+80.0
+±
+14.0
+5.2
+±
+8.21
+5.2
+±
+5.8
+1.52
+±
+7.011
+70.0
+±
+6.0
+2.91
+±
+4.94
+48.0
+±
+96.1
+44.0
+±
+46.0
+61.0
+± 13.0
+yaH
+).lsmeH(
+iiselrac
+sisponatsaC
+76
+63261
+/ut
+/nc
+.tnalpi
+.cbpp
+//:sptth
+60.0
+±
+13.0
+6.1
+±
+5.11
+0.2
+±
+7.41
+5.32
+±
+9.901
+80.0
+±
+46.0
+8.01
+±
+1.65
+24.0
+±
+34.1
+41.0
+±
+72.0
+30.0
+± 2.0
+pmahC
+te
+.ndraG
+abrepus
+amihcS
+78
+38826
+/ut
+/nc
+.tnalpi
+.cbpp
+//:sptth
+80.0
+±
+73.0
+4.1
+±
+4.11
+7.2
+±
+9.31
+6.02
+±
+911
+60.0
+±
+35.0
+3.12
+±
+8.55
+22.0
+±
+79.0
+61.0
+±
+76.0
+70.0
+± 42.0
+htneB
+atsegnoc
+socolpmyS
+26
+40123
+/ut
+/nc
+.tnalpi
+.cbpp
+//:sptth
+61.0
+±
+55.0
+7.1
+±
+1.21
+7.2
+±
+2.61
+3.12
+±
+9.501
+70.0
+±
+36.0
+5.71
+±
+3.05
+80.0
+±
+31.1
+90.0
+±
+13.0
+20.0
+± 72.0
+nuhC
+)ecnaH(
+suilofiestil
+supracohtiL
+705621
+/ut
+/nc
+.tnalpi
+.cbpp
+//:sptth
+1.0
+±
+6.0
+6.1
+±
+7.31
+5.3
+±
+61
+64
+±
+8.971
+60.0
+±
+92.0
+9.52
+±
+6.85
+32.0
+±
+79.0
+51.0
+±
+23.0
+10.0
+± 71.0
+.Y
+).L(
+mullyhpatpeh
+muruelpatpeH
+gneD .F
+negortin
+fael
+;)mc
+,LL(
+htgnel
+fael
+;)1−g·2mc
+,ALS(
+aera
+fael
+cfiiceps
+;)3−mc·g
+,DW(
+ytisned
+doow
+;)1−s
+2−m·lomμ
+,
+J(
+yticapac
+citehtnysotohp
+;)2−m·g(
+aera
+fael
+rep
+MP
+dna
+,
+MP ,
+MP
+m
+01>
+01–5.2
+5.2
+nmuloc
+tsal
+eht
+ni
+detartsulli
+setisbew
+eht
+ta
+elbaliava
+era
+seiceps
+41
+eht
+fo
+shpargotohp
+tnalP
+.)DS
+±
+naem(
+detartsulli
+era
+)1−gk·g
+,CPL(
+tnetnoc
+surohpsohp
+fael
+dna ;)1−gk·g
+,CNL(
+tnetnoc
+Environmental Science and Pollution Research (2023) 30:33609–33623 33615
+===== PAGE 8 =====
+33616 Environmental Science and Pollution Research (2023) 30:33609–33623
+Fig. 4 Relationships between shade tolerance (minimum light least 200 individuals was quantified for each species, and shade toler-
+requirements) and PM capturing capacities of individual species for ance was calculated as the 10th percentile of species distribution in
+a PM 2.5 , b PM 2.5–10 , and c PM >10 . The light availability of each of at relation to light availability
+Fig. 5 Relationships between plant traits and PM capturing capaci- transport (J m ) and PM 2.5 , e J m and PM 2.5–10 , and f J m and PM >10 . A
+ties of individual species: a leaf length and P M 2.5 , b leaf length and dashed line denotes a nonsignificant relationship between trait and
+PM 2.5–10 , and leaf length and PM >10 , d maximum rate of electron PM capturing abilities
+correlated with PM and PM accumulation capacities was nonsignificantly correlated with P M and P M
+2.5 2.5–10 2.5–10 >10
+(Fig. 6d, e). accumulation capacities (Fig. 7b, c). Similar patterns were
+For the leaf chemical traits, leaf nitrogen content (LNC) found for leaf phosphorus content (LPC), where P M
+2.5
+was positively correlated with PM (Fig. 7a), whereas it accumulation capacity was positively correlated with LPC
+2.5
+1 3
+===== PAGE 9 =====
+Environmental Science and Pollution Research (2023) 30:33609–33623 33617
+Fig. 6 Relationships between economic traits and the PM capturing and PM . A dashed line denotes a nonsignificant relationship
+>10
+abilities of individual species: a SLA and P M 2.5 , b SLA and P M 2.5–10 , between trait and PM capturing abilities
+c SLA and PM >10 , d WD and PM 2.5 , e WD and PM 2.5–10 , and f WD
+(Fig. 7d), and the relationships between P M and P M leaf size (low LL), low photosynthetic capacity (low J ),
+2.5–10 >10 m
+and LPC were nonsignificant (Fig. 7e, f). high input into construction (high WD), and a conservative
+nutrient use strategy (high LNC and LPC) increased in PM
+Path analysis
+accumulation capacities. Our results indicate that conserva-
+tive species (characterized by low J and high WD) may
+m
+Among the six traits LNC, LPC, SLA, WD, leaf length, have higher PM accumulation capacities than acquisitive
+and J , mainly J , leaf length, and LPC influenced PM species (characterized by high J and low WD) and that
+m m m
+accumulation capacities. Leaf length decreased the PM species with high PM accumulation capacities are adapted
+>10
+accumulation capacity, and LPC increased the fine particle to poor light environments.
+(PM ) accumulation capacity. The photosynthetic capaci-
+2.5
+ties of leaves (J ), which may be related to cuticle thin- Leaf size affected PM retention capacity
+m
+ness, decreased the PM retention capacities of all three size
+classes (Fig. 8). We found that smaller leaves captured more PM per unit
+leaf area than larger leaves, especially for coarse and large
+particles (Fig. 5a–c). The three most effective plant species
+Discussion in capturing TSP per leaf area, X. hainanense, C. carlesii,
+and C. concinna, had the shortest leaves among the 14 spe-
+Leaf characteristics, including both leaf architecture and cies (Table 1). In line with our results, Weerakkody et al.
+material composition, may influence the ability of a leaf (2018b) found that smaller synthetic leaves accumulate
+surface to accumulate PM (Liang et al. 2016). In the present more PM than larger synthetic leaves with the same surface
+study, we found that suites of functional traits displayed a characteristics. This correlation between leaf size and PM
+tight association with the PM accumulation capacity of leaf accumulation capacity was also supported by field surveys
+area for each species. We showed that species with a small (Leonard et al. 2016) but not by the results of some other
+1 3
+===== PAGE 10 =====
+33618 Environmental Science and Pollution Research (2023) 30:33609–33623
+Fig. 7 Relationships between leaf chemistry and PM capturing abili- (LPC) and PM 2.5 , e LPC and PM 2.5–10 , and f LPC and PM >10 . A
+ties of individual species: a leaf nitrogen content (LNC) and PM 2.5 , dashed line denotes a nonsignificant relationship between trait and
+b LNC and PM 2.5–10 , c LNC and PM >10 , d leaf phosphorus content PM capturing abilities
+studies (Sæbø et al. 2012). Scanning electron microscopy shade-tolerant species have been shown to better survive
+images have shown that more particles are distributed near under shaded conditions, but they have lower maximum
+leaf edges (Weerakkody et al. 2018b); therefore, in com- photosynthetic rates under high light conditions (Val-
+parison to broadleaved species, conifer species commonly ladares and Niinemets 2008). We found a significantly
+capture larger amounts of particles (Freer-Smith et al. 2005; negative correlation between minimum light requirements
+Liu et al. 2012). and PM retention capacities for the species. Light-
+2.5–10
+However, broadleaved species have been reported to have demanding species, e.g., M. chinensis and H. heptaphyl-
+higher leaf retained PM wash-off efficiency than conifer spe- lum, accumulated less PM than shade-tolerant species,
+cies (Luo et al. 2020), and PM wash-off events are important such as C. carlesii and A. quinquegona. Moreover, light-
+for the net removal of airborne PM (Xu et al. 2020). demanding species usually have higher photosynthetic
+capacities than shade-tolerant species. Therefore, the
+Shade‑tolerant species captured larger amounts finding that photosynthetic capacity (J ) was significantly
+m
+of PM per area than light‑demanding species
+negatively correlated with the PM retention capacity of
+the species for all particle size classes (Fig. 5d–f) con-
+The stress tolerances of species (e.g., drought tolerance firmed that species with high PM accumulation abilities
+or shade tolerance) are sometimes even more important are adapted to poor light environments. In this study, we
+than the functions of species when we design vegetation showed that J is a good predictor and that it alone pre-
+m
+barriers for air pollution abatement (Barwise and Kumar dicted 45–64% (for different PM size classes) of interspe-
+2020). Species must adapt to the shade conditions created cific variation in PM accumulation. Compared with other
+by the deposited dust on leaves, tall buildings, and other commonly used traits, such as hairiness, roughness, and
+vegetation. In comparison to light-demanding species, waxiness of the leaf surface, photosynthetic capacity (J )
+m
+is objective and easily measured.
+1 3
+===== PAGE 11 =====
+Environmental Science and Pollution Research (2023) 30:33609–33623 33619
+Fig. 8 Path diagram representing how leaf nitrogen content (LNC), tic = 11.12 with 14 model degrees of freedom and P = 0.676 (indi-
+leaf phosphorus content (LPC), specific leaf area (SLA), wood den- cating close model-data fit). Path coefficients were calculated based
+sity (WD), leaf length (LL), and maximum rate of electron trans- on standardized values. Solid lines represent positive paths, and
+port (J ) influence species abilities to capture fine ( PM ), coarse dashed lines represent negative paths. Asterisks denote significance:
+m 2.5
+(PM ), and large ( PM ) particulates in the 14 species tested in ***P < 0.001; **P < 0.01; *P < 0.05. Nonsignificant paths were
+2.5–10 >10
+this study. The model was tested with Fisher’s C statistic, test statis- excluded from the model
+Relationships between economic traits and PM accumulation on leaf surfaces more directly. For instance,
+accumulation capacities a comprehensive study on 96 plant species showed that PM
+accumulation on leaf surfaces is influenced by leaf trichomes
+For leaf economics, an axis exists from “cheap” tissue (Muhammad et al. 2019), leaf wettability, and epicuticular
+investment and fast returns to “expensive” tissue investment wax structure types (Muhammad et al. 2020).
+and slow returns (Wright et al. 2004). Species with “expen- We found that species with denser wood (e.g., X. hain-
+sive” economic traits, such as low specific leaf area (SLA), anense, M. seguinii, and S. superba) accumulated larger
+tend to have a long leaf lifespan and low relative growth amounts of large particles (PM , Fig. 4f). Species with
+>10
+rates but high survival rates (Adler et al. 2014). These spe- high wood density (WD) represent a “slow” life history strat-
+cies produce durable leaves with thick cuticles (Kitajima egy (Wright et al. 2010); i.e., they have a limited potential
+1994) where interactions between PM and leaves occur. We growth rate but have low mortality risk under shaded con-
+thereby expected that “expensive” leaves should have high ditions. A negative relationship between WD and leaf size
+PM accumulation capacities, and a negative relationship was found in this study (Fig. 6) and has also been reported
+between SLA and PM deposition rate had been reported in some previous studies (Wright et al. 2007). This scenario
+by a previous wind-tunnel experiment (Chiam et al. 2019). occurs probably because species with denser wood usually
+Unexpectedly, nonsignificant correlations were found have lower hydraulic conductivity and thereby cannot sup-
+between SLA and all three PM size fractions in this study port large leaves as species with soft wood (Chave et al.
+(Figs. 6a–c and 8). Species with high SLA (e.g., C. subula- 2009). Wet leaves more easily retain PM; however, denser
+tum, H. heptaphyllum, and I. chinensis) were found to have wood species with lower hydraulic conductivity were found
+similar PM capturing capacities to species with low SLA to have higher PM accumulation capacity (Fig. 6f). The cor-
+(e.g., M. seguinii, M. breviflora, and L. litseifolius). This relations between WD and PM , as the path analysis dem-
+>10
+result probably occurred because we used the species mean onstrated (Fig. 8), were the result of a complex correlation
+SLA value to characterize all individuals of a species. How- network in the trait space.
+ever, intraspecific SLA variation can arise from both pheno- We found that leaf N and P concentrations were both
+typic plasticity and genetic diversity (Siefert et al. 2015). In positively correlated with P M accumulation capacities
+2.5
+comparison to SLA, some other leaf traits may influence PM (Fig. 7a, d). Species with high N and P concentrations, such
+1 3
+===== PAGE 12 =====
+33620 Environmental Science and Pollution Research (2023) 30:33609–33623
+as C. subulatum, showed a greater potential to capture PM . future studies to investigate relationships between plant
+2.5
+N and P are the two most limiting elements to plants and traits and leaf PM accumulation abilities with both experi-
+have specific functions in leaves. N is important for enzy- mental investigations and field surveys to comprehensively
+matic activity, and P affects protein synthesis. Greater leaf understand the mechanisms of PM deposition by plant
+N and P concentrations may enhance metabolic activity and species.
+facilitate the formation of complex leaf surface structures. Trees stand regularly occur along roads in many cities,
+Except for thicker cuticles for adsorbing PM, trees with and therefore, quantifying individual-level PM accumulation
+“expensive” leaves (low SLA) and denser wood may have capacity is needed. We encourage future studies to integrate
+higher structural stability (Reich et al. 1991) and sway less leaf-level PM accumulation capacity with leaf density and
+in wind, which may reduce the resuspension of PM back crown size to obtain whole-plant PM accumulation capacity
+into the air (Chiam et al. 2019) and further improve their and link it with functional traits of species.
+PM capturing efficiencies.
+Accumulation of different size fractions of PM
+Conclusion
+PM of different sizes has varying effects on human health
+(Przybysz et al. 2014), with the smallest fraction considered PM in different particle size fractions captured per leaf area
+to be the most hazardous. Particles > 100 μm in diameter differed among species. C. concinna, X. hainanense, and
+have not been measured in many studies (Przybysz et al. C. subulatum were efficient species in capturing PM and
+2014; Xu et al. 2017; Cai et al. 2017; Aguilera Sammari- might be suitable species for the roadside plantation. We
+tano et al. 2021). However, large particles near busy urban recommended easily measuring traits such as light saturated
+roads are not harmless, especially when they contain large photosynthetic capacity per leaf area (J ) and leaf length to
+m
+amounts of heavy metals such as mercury and lead (Liu determine the PM accumulation abilities of plant species.
+et al. 2012; Aguilera Sammaritano et al. 2018). We did not Our results provide encouraging evidence of correla-
+exclude PM in the washing solutions, but the ground tions between species functional traits and abilities to cap-
+>100
+soils used in this experiment were sieved through a metal ture airborne particulates, including P M , PM , and
+2.5 2.5–10
+sieve (retention 300 μm) before being blown into the experi- PM . J was negatively correlated with all three PM size
+>10 m
+mental box. Large particles ( PM ) made up the greatest fractions, indicating that conservative species accumulated
+>10
+mass proportion (48.9–75.3%) of total suspended particles, larger amounts of PM than acquisitive species. Denser
+followed by the coarse fraction (7.8–35.6%) and then the wood species and smaller leaves captured more large parti-
+fine fraction (9.7–36.1%). We found that the accumulation cles (PM ), while “expensive” leaves (high leaf N or leaf
+>10
+of large particles on leaves was related to leaf morphology P) captured more fine particles ( PM ), indicating differ-
+2.5
+(leaf length), while the accumulation of fine particles was ent mechanisms for capturing particles of different sizes.
+related to leaf chemistry. The mechanisms behind this result Although the correlations between economic traits (spe-
+need further research. We hypothesize that large particles cific leaf area and wood density) and PM deposition were
+may mainly be captured by interception, while fine particles weak, our findings highlight the great potential of functional
+may mainly be captured by waxes or deposited in the micro- traits as a tool for linking species’ efficiency at air purifica-
+structures (e.g., grooves), which may be related to LNC and tion with their growth strategies and environmental stress
+LPC. Fine particles are not easily removed, which may be a tolerances.
+possible reason for the poor correlation between morphology
+representing structural stability and fine particle accumula-
+Author contribution KZ designed the research. KZ, DL, JF, YC, and
+tion capacities.
+DH performed the experiments and conducted the fieldwork. KZ ana-
+We would like to note that leaves in our experimen-
+lyzed the data and wrote the first draft. All authors aided in revising
+tal dust box might have different mechanical or physi- the final manuscript.
+ological traits from leaves on field trees. Experimental
+Funding This study was financially supported by the National Natural
+investigations (e.g., deposition chamber experiments and
+Science Foundation of China (31800366) to KZ.
+wind tunnel experiments) and field surveys have their
+own advantages. Experimental investigations can control Data availability Data associated with this study are deposited in the
+environmental factors such as the PM concentration of TRY Plant Trait Database: https://w ww.t ry-d b.o rg/T ryWeb/D ata.p hp#
+68.
+air and wind speed (Burkhardt et al. 1995; Räsänen et al.
+2013; Zhang et al. 2017), while field surveys can maintain Declarations
+the mechanical and physiological characteristics of plant
+leaves (Aguilera Sammaritano et al. 2018). We encourage Conflict of interest The authors declare no competing interests.
+1 3
+===== PAGE 13 =====
+Environmental Science and Pollution Research (2023) 30:33609–33623 33621
+References soil niche within a subtropical forest. Ann Bot 121:1173–1182.
+https:// doi. org/ 10. 1093/ aob/ mcx222
+Hetherington AM, Woodward FI (2003) The role of stomata in sensing
+Adler PB, Salguero-Gómez R, Compagnoni A et al (2014) Func-
+and driving environmental change. Nature 424:901–908. https://
+tional traits explain variation in plant life history strategies.
+doi. org/ 10. 1038/ natur e01843
+Proc Natl Acad Sci USA 111:740–745. https://d oi.o rg/1 0.1 073/
+Hiemstra PH, Pebesma EJ, Twenhöfel CJW, Heuvelink GBM (2009)
+pnas. 13151 79111
+Real-time automatic interpolation of ambient gamma dose rates
+Aguilera Sammaritano ML, Bustos DG, Poblete AG et al (2018)
+from the Dutch radioactivity monitoring network. Comput Geosci
+Elemental composition of P M in the urban environment of
+2.5 35:1711–1721. https:// doi. org/ 10. 1016/j. cageo. 2008. 10. 011
+San Juan, Argentina. Environ Sci Pollut Res 25:4197–4203.
+Hwang H-J, Yook S-J, Ahn K-H (2011) Experimental investigation
+https:// doi. org/ 10. 1007/ s11356- 017- 0793-5
+of submicron and ultrafine soot particle removal by tree leaves.
+Aguilera Sammaritano ML, Cometto PM, Bustos DA, Wannaz ED
+Atmos Environ 45:6987–6994. https:// doi. org/ 10. 1016/j. atmos
+(2021) Monitoring of particulate matter (PM and PM ) in
+2.5 10 env. 2011. 09. 019
+San Juan city, Argentina, using active samplers and the species
+Janhäll S (2015) Review on urban vegetation and particle air pollution
+Tillandsia capillaris. Environ Sci Pollut Res 28:32962–32972.
+– deposition and dispersion. Atmos Environ 105:130–137. https://
+https:// doi. org/ 10. 1007/ s11356- 021- 13174-4
+doi. org/ 10. 1016/j. atmos env. 2015. 01. 052
+Barwise Y, Kumar P (2020) Designing vegetation barriers for urban
+Kitajima K (1994) Relative importance of photosynthetic traits and
+air pollution abatement: a practical review for appropriate plant
+allocation patterns as correlates of seedling shade tolerance of
+species selection. NPJ Clim Atmos Sci 3:12. https://d oi.o rg/1 0.
+13 tropical trees. Oecologia 98:419–428. https://d oi.o rg/1 0.1 007/
+1038/ s41612- 020- 0115-3
+BF003 24232
+Beckett KP, Freer-Smith PH, Taylor G (2000) Particulate pollution
+Leonard RJ, McArthur C, Hochuli DF (2016) Particulate matter depo-
+capture by urban trees: effect of species and windspeed. Glob
+sition on roadside plants and the importance of leaf trait combi-
+Change Biol 6:995–1003. https://d oi.o rg/1 0.1 046/j.1 365-2 486.
+nations. Urban for Urban Green 20:249–253. https:// doi. org/ 10.
+2000. 00376.x
+1016/j. ufug. 2016. 09. 008
+Burkhardt J, Peters K, Crossley A (1995) The presence of structural
+Lewis M, Schupp E, Monaco T (2017) Road dust correlated with
+surface waxes on coniferous needles affects the pattern of dry
+decreased reproduction of the endangered Utah shrub Hesperidan-
+deposition of fine particles. J Exp Bot 46:823–831. https:// doi.
+thus suffrutescens. Western North American Naturalist 77:430–
+org/ 10. 1093/ jxb/ 46.7. 823
+439. https:// doi. org/ 10. 3398/ 064. 077. 0404
+Cai M, Xin Z, Yu X (2017) Spatio-temporal variations in PM leaf
+Li Y, Jiang Y, Shipley B et al (2021) The complexity of trait–environ-
+deposition: a meta-analysis. Environ Pollut 231:207–218.
+ment performance landscapes in a local subtropical forest. New
+https:// doi. org/ 10. 1016/j. envpol. 2017. 07. 105
+Phytol 229:1388–1397. https:// doi. org/ 10. 1111/ nph. 16955
+Chaudhary IJ, Rathore D (2018) Suspended particulate matter depo-
+Liang D, Ma C, Wang Y et al (2016) Quantifying PM2.5 capture
+sition and its impact on urban trees. Atmospheric Pollut Res
+capability of greening trees based on leaf factors analyzing.
+9:1072–1082. https:// doi. org/ 10. 1016/j. apr. 2018. 04. 006
+Environ Sci Pollut Res 23:21176–21186. https://d oi.o rg/1 0.1 007/
+Chaudhary IJ, Rathore D (2019) Dust pollution: its removal and
+s11356- 016- 7687-9
+effect on foliage physiology of urban trees. Sustain Cities Soc
+Litschke T, Kuttler W (2008) On the reduction of urban particle con-
+51:101696. https:// doi. org/ 10. 1016/j. scs. 2019. 101696
+centration by vegetation – a review. Meteorol Z 17:229–240.
+Chave J, Coomes D, Jansen S et al (2009) Towards a worldwide
+https:// doi. org/ 10. 1127/ 0941- 2948/ 2008/ 0284
+wood economics spectrum. Ecol Lett 12:351–366. https:// doi.
+Liu L, Guan D, Peart MR (2012) The morphological structure of leaves
+org/ 10. 1111/j. 1461- 0248. 2009. 01285.x
+and the dust-retaining capability of afforested plants in urban
+Chen X, Zhou Z, Teng M et al (2015) Accumulation of three different
+Guangzhou, South China. Environ Sci Pollut Res 19:3440–3449.
+sizes of particulate matter on plant leaf surfaces: effect on leaf
+https:// doi. org/ 10. 1007/ s11356- 012- 0876-2
+traits. Arch Biol Sci (beogr) 67:1257–1267. https:// doi. org/ 10.
+Liu L, Guan D, Peart MR et al (2013) The dust retention capacities
+2298/ ABS15 03251 02C
+of urban vegetation—a case study of Guangzhou, South China.
+Chiam Z, Song XP, Lai HR, Tan HTW (2019) Particulate matter
+Environ Sci Pollut Res 20:6601–6610. https:// doi. org/ 10. 1007/
+mitigation via plants: understanding complex relationships with
+s11356- 013- 1648-3
+leaf traits. Sci Total Environ 688:398–408. https:// doi. org/ 10.
+Liu J, Cao Z, Zou S et al (2018) An investigation of the leaf retention
+1016/j. scito tenv. 2019. 06. 263
+capacity, efficiency and mechanism for atmospheric particulate
+Dzierżanowski K, Popek R, Gawrońska H et al (2011) Deposition
+matter of five greening tree species in Beijing, China. Sci Total
+of particulate matter of different size fractions on leaf surfaces
+Environ 616–617:417–426. https:// doi. org/ 10. 1016/j. scito tenv.
+and in waxes of urban forest species. Int J Phytoremediation
+2017. 10. 314
+13:1037–1046. https://d oi.o rg/1 0.1 080/1 52265 14.2 011.5 52929
+Liu Y, Yang Z, Zhu M, Yin J (2019) Size fractions of dust and amount
+Feng J, Zhao K, He D et al (2018) Comparing shade tolerance meas-
+of associated metals on leaf surface and inner wax of 15 plant
+ures of woody forest species. PeerJ 6:e5736. https://d oi.o rg/1 0.
+species at Beijing roadside. Int J Phytoremediation 21:334–351.
+7717/ peerj. 5736
+https:// doi. org/ 10. 1080/ 15226 514. 2018. 15248 34
+Firn J, McGree JM, Harvey E et al (2019) Leaf nutrients, not spe-
+Liu C, Li Y, Yan P, He N (2021) How to improve the predictions of
+cific leaf area, are consistent indicators of elevated nutrient
+plant functional traits on ecosystem functioning? Front Plant Sci
+inputs. Nat Ecol Evol 3:400–406. https:// doi. org/ 10. 1038/
+12:622260. https:// doi. org/ 10. 3389/ fpls. 2021. 622260
+s41559- 018- 0790-1
+Lohbeck M, Poorter L, Lebrija-Trejos E et al (2013) Successional
+Freer-Smith PH, Beckett KP, Taylor G (2005) Deposition velocities
+changes in functional composition contrast for dry and wet
+to Sorbus aria, Acer campestre, Populus deltoides × trichocarpa
+tropical forest. Ecology 94:1211–1216. https:// doi. org/ 10. 1890/
+‘Beaupré’, Pinus nigra and × Cupressocyparis leylandii for coarse,
+12- 1850.1
+fine and ultra-fine particles in the urban environment. Environ
+Luo J, Niu Y, Zhang Y et al (2020) Dynamic analysis of retention PM
+Pollut 133:157–167. https://d oi.o rg/1 0.1 016/j.e nvpol.2 004.0 3.0 31
+by plant leaves in rainfall weather conditions of six tree species.
+He D, Chen Y, Zhao K et al (2018) Intra- and interspecific trait varia- 2.5
+Energy Sources, Part a: Recovery, Utilization, and Environmental
+tions reveal functional relationships between specific leaf area and
+1 3
+===== PAGE 14 =====
+33622 Environmental Science and Pollution Research (2023) 30:33609–33623
+Effects 42:1014–1025. https:// doi. org/ 10. 1080/ 15567 036. 2019. Siefert A, Violle C, Chalmandrier L et al (2015) A global meta-analysis
+16022 12 of the relative extent of intraspecific trait variation in plant com-
+Muhammad S, Wuyts K, Samson R (2019) Atmospheric net particle munities. Ecol Lett 18:1406–1419. https:// doi. org/ 10. 1111/ ele.
+accumulation on 96 plant species with contrasting morpholog- 12508
+ical and anatomical leaf characteristics in a common garden Simon E, Harangi S, Baranyai E et al (2016) Influence of past industry
+experiment. Atmos Environ 202:328–344. https:// doi. org/ 10. and urbanization on elemental concentrations in deposited dust
+1016/j. atmos env. 2019. 01. 015 and tree leaf tissue. Urban for Urban Green 20:12–19. https://d oi.
+Muhammad S, Wuyts K, Samson R (2020) Immobilized atmospheric org/ 10. 1016/j. ufug. 2016. 07. 017
+particulate matter on leaves of 96 urban plant species. Envi- Smith EL (1937) The influence of light and carbon dioxide on pho-
+ron Sci Pollut Res 27:36920–36938. https:// doi. org/ 10. 1007/ tosynthesis. J Gen Physiol 20:807–830. https:// doi. org/ 10. 1085/
+s11356- 020- 09246-6 jgp. 20.6. 807
+Nguyen T, Yu X, Zhang Z et al (2015) Relationship between types Sun X, Li H, Guo X et al (2018) Capacity of six shrub species to
+of urban forest and PM2.5 capture at three growth stages of retain atmospheric particulates with different diameters. Envi-
+leaves. J Environ Sci 27:33–41. https:// doi. org/ 10. 1016/j. jes. ron Sci Pollut Res 25:2643–2650. https:// doi. org/ 10. 1007/
+2014. 04. 019 s11356- 017- 0549-2
+Poorter L, Wright SJ, Paz H et al (2008) Are functional traits good Sun Y, Lin W, Li Y, Xu D (2020) Dust deposition on vegetation leaves
+predictors of demographic rates? Evidence from five neotropi- in Shanghai, China. Int J Environ Health Res 1–14https://d oi.o rg/
+cal forests. Ecology 89:1908–1920. https:// doi. org/ 10. 1890/ 10. 1080/ 09603 123. 2020. 17145 59
+07- 0207.1 Valladares F, Niinemets Ü (2008) Shade tolerance, a key plant feature
+Przybysz A, Sæbø A, Hanslin HM, Gawroński SW (2014) Accumu- of complex nature and consequences. Ann Rev Ecol Evol Syst
+lation of particulate matter and trace elements on vegetation as 39:237–257. https:// doi. org/ 10. 1146/a nnur ev. ecols ys. 39. 110707.
+affected by pollution level, rainfall and the passage of time. Sci 173506
+Total Environ 481:360–369. https://d oi. org/ 10. 1016/j. scito tenv. Walters MB, Reich PB (1999) Low-light carbon balance and shade tol-
+2014. 02. 072 erance in the seedlings of woody plants: do winter deciduous and
+Przybysz A, Popek R, Stankiewicz-Kosyl M et al (2021) Where trees broad-leaved evergreen species differ? New Phytol 143:143–154.
+cannot grow – particulate matter accumulation by urban meadows. https:// doi. org/ 10. 1046/j. 1469- 8137. 1999. 00425.x
+Sci Total Environ 785:147310. https://d oi.o rg/1 0.1 016/j.s citot env. Wang H, Shi H, Li Y et al (2013) Seasonal variations in leaf capturing
+2021. 147310 of particulate matter, surface wettability and micromorphology in
+R Development Core Team (2016) R: A language and environment urban tree species. Front Env Sci Eng 7:579–588. https://d oi.o rg/
+for statistical computing. R Foundation for Statistical Computing, 10. 1007/ s11783- 013- 0524-1
+Vienna, Austria. https://w ww.R-p rojec t.o rg/. Accessed 9 Dec 2022 Weerakkody U, Dover JW, Mitchell P, Reiling K (2017) Particulate
+Räsänen JV, Holopainen T, Joutsensaari J et al (2013) Effects of spe- matter pollution capture by leaves of seventeen living wall spe-
+cies-specific leaf characteristics and reduced water availability on cies with special reference to rail-traffic at a metropolitan station.
+fine particle capture efficiency of trees. Environ Pollut 183:64–70. Urban for Urban Green 27:173–186. https:// doi. org/ 10. 1016/j.
+https:// doi. org/ 10. 1016/j. envpol. 2013. 05. 015 ufug. 2017. 07. 005
+Rascher U, Liebig M, Luttge U (2000) Evaluation of instant light- Weerakkody U, Dover JW, Mitchell P, Reiling K (2018a) Quantifica-
+response curves of chlorophyll fluorescence parameters obtained tion of the traffic-generated particulate matter capture by plant
+with a portable chlorophyll fluorometer on site in the field. Plant species in a living wall and evaluation of the important leaf char-
+Cell Environ 23:1397–1405. https://d oi.o rg/1 0.1 046/j.1 365-3 040. acteristics. Sci Total Environ 635:1012–1024. https:// doi. org/ 10.
+2000. 00650.x 1016/j. scito tenv. 2018. 04. 106
+Reich PB (2014) The world-wide ‘fast–slow’ plant economics spec- Weerakkody U, Dover JW, Mitchell P, Reiling K (2018b) Evaluat-
+trum: a traits manifesto. J Ecol 102:275–301. https:// doi. org/ 10. ing the impact of individual leaf traits on atmospheric particulate
+1111/ 1365- 2745. 12211 matter accumulation using natural and synthetic leaves. Urban
+Reich PB, Uhl C, Walters MB, Ellsworth DS (1991) Leaf lifespan as a for Urban Green 30:98–107. https://d oi.o rg/1 0.1 016/j.u fug.2 018.
+determinant of leaf structure and function among 23 Amazonian 01. 001
+tree species. Oecologia 86:16–24. https://d oi.o rg/1 0.1 007/B F003 WHO (2006) Air quality guidelines for particulate matter, ozone, nitro-
+17383 gen dioxide and sulfur dioxide: Global update 2005. Summary of
+Reich PB, Wright IJ, Cavender-Bares J et al (2003) The evolution of risk assessment. World Health Organization. Occupational and
+plant functional variation: traits, spectra, and strategies. Int J Plant Environmental Health Team, Geneva. Retrieved from: http://a pps.
+Sci 164:S143–S164. https:// doi. org/ 10. 1086/ 374368 who. int/ iris/ bitst ream/ handle/ 10665/ 69477/ WHO_ SDE_ PHE_
+Russo SE, McMahon SM, Detto M et al (2021) The interspecific OEH_ 06. 02_ eng. pdf? seque nce=1. Accessed 9 Dec 2022
+growth–mortality trade-off is not a general framework for tropi- Wright IJ, Reich PB, Westoby M et al (2004) The worldwide leaf eco-
+cal forest community structure. Nat Ecol Evol 5:174–183. https:// nomics spectrum. Nature 428:821–827. https:// doi. org/ 10. 1038/
+doi. org/ 10. 1038/ s41559- 020- 01340-9 natur e02403
+Sæbø A, Popek R, Nawrot B et al (2012) Plant species differences in Wright IJ, Ackerly DD, Bongers F et al (2007) Relationships among
+particulate matter accumulation on leaf surfaces. Sci Total Envi- ecologically important dimensions of plant trait variation in seven
+ron 427–428:347–354. https:// doi. org/ 10. 1016/j. scito tenv. 2012. neotropical forests. Ann Bot 99:1003–1015. https:// doi. org/ 10.
+03. 084 1093/ aob/ mcl066
+Shao F, Wang L, Sun F et al (2019) Study on different particulate mat- Wright SJ, Kitajima K, Kraft NJB et al (2010) Functional traits and
+ter retention capacities of the leaf surfaces of eight common gar- the growth–mortality trade-off in tropical trees. Ecology 91:3664–
+den plants in Hangzhou, China. Sci Total Environ 652:939–951. 3674. https:// doi. org/ 10. 1890/ 09- 2335.1
+https:// doi. org/ 10. 1016/j. scito tenv. 2018. 10. 182 Xu X, Zhang Z, Bao L et al (2017) Influence of rainfall duration and
+Shi J, Zhang G, An H et al (2017) Quantifying the particulate matter intensity on particulate matter removal from plant leaves. Sci
+accumulation on leaf surfaces of urban plants in Beijing, China. Total Environ 609:11–16. https:// doi. org/ 10. 1016/j. scito tenv.
+Atmospheric Pollut Res 8:836–842. https://d oi.o rg/1 0.1 016/j.a pr. 2017. 07. 141
+2017. 01. 011
+1 3
+===== PAGE 15 =====
+Environmental Science and Pollution Research (2023) 30:33609–33623 33623
+Xu Y, Xu W, Mo L et al (2018) Quantifying particulate matter accu- Zhou X, Wang B, Li M et al (1999) The community dynamics of the
+mulated on leaves by 17 species of urban trees in Beijing, China. forest secondary succession in Heishiding Natural Reserve of
+Environ Sci Pollut Res 25:12545–12556. https://d oi.o rg/1 0.1 007/ Guangdong province. Acta Botanica Sinica 41:877–886. https://
+s11356- 018- 1478-4 doi. org/ 10. 13287/j. 1001- 9332. 2000. 0001
+Xu X, Xia J, Gao Y, Zheng W (2020) Additional focus on particulate Zhu J, Yu Q, Zhu H et al (2019) Response of dust particle pollution
+matter wash-off events from leaves is required: a review of studies and construction of a leaf dust deposition prediction model based
+of urban plants used to reduce airborne particulate matter pollu- on leaf reflection spectrum characteristics. Environ Sci Pollut Res
+tion. Urban for Urban Green 48:126559. https://d oi.o rg/1 0.1 016/j. 26:36764–36775. https:// doi. org/ 10. 1007/ s11356- 019- 06635-4
+ufug. 2019. 126559 Zhu C, Zhang M, Chen Y et al (2021) Plant-caterpillar food web:
+Yan S, Cao H, Chen Y et al (2016) Spatial and temporal characteristics of Integrating leaf stoichiometry and phylogeny. Ecol Entomol
+air quality and air pollutants in 2013 in Beijing. Environ Sci Pollut Res 46:1026–1035. https:// doi. org/ 10. 1111/ een. 13038
+23:13996–14007. https:// doi. org/ 10. 1007/ s11356- 016- 6518-3
+Yu W, Wang Y, Wang Y et al (2018) Application of a coupled model Publisher's note Springer Nature remains neutral with regard to
+of photosynthesis and stomatal conductance for estimating plant jurisdictional claims in published maps and institutional affiliations.
+physiological response to pollution by fine particulate matter
+(PM2.5). Environ Sci Pollut Res 25:19826–19835. https:// doi. Springer Nature or its licensor (e.g. a society or other partner) holds
+org/ 10. 1007/ s11356- 018- 2128-6 exclusive rights to this article under a publishing agreement with the
+Zhang W, Wang B, Niu X (2017) Relationship between leaf surface author(s) or other rightsholder(s); author self-archiving of the accepted
+characteristics and particle capturing capacities of different tree manuscript version of this article is solely governed by the terms of
+species in Beijing. Forests 8. https:// doi. org/ 10. 3390/ f8030 092 such publishing agreement and applicable law.
+Zhao K, He F (2016) Estimating light environment in forests with a
+new thresholding method for hemispherical photography. Can J
+for Res 46:1103–1110. https:// doi. org/ 10. 1139/ cjfr- 2016- 0003
+1 3

@@ -1,0 +1,642 @@
+TOTAL PAGES: 11
+
+===== PAGE 1 =====
+浙 江 农 林 大 学 学 报, 2025, 42(3): 513−523 https://zlxb.zafu.edu.cn
+Journal of Zhejiang A&F University DOI: 10.11833/j.issn.2095-0756.20240415
+引用格式：贺丹, 原江琴, 高振飞, 等. 郑州市13种常绿灌木叶面微结构对大气颗粒物滞留能力的影响[J]. 浙江农林大学学
+报, 2025, 42(3): 513−523. HE Dan, YUAN Jiangqin, GAO Zhenfei, et al. Effects of leaf surface microstructure of 13 evergreen
+shrubs on atmospheric particulate retention capacity in Zhengzhou City[J]. Journal of Zhejiang A&F University, 2025, 42(3):
+513−523.
+郑州市 13 种常绿灌木叶面微结构对
+大气颗粒物滞留能力的影响
+贺 丹1，原江琴1，高振飞1，李朝梅2，雷雅凯1，刘艺平1，董娜琳1
+（1. 河南农业大学 风景园林与艺术学院，河南 郑州 450046；2. 泸州市自然资源保护开发利用中心，四川 泸州
+646000）
+摘要：【目的】探究园林植物叶面微结构对大气颗粒物滞留能力的影响，为城市园林树种的选择提供理论依据。
+【方法】以河南省郑州市火棘Pyracantha fortuneana、八角金盘Fatsia japonica和夹竹桃Nerium oleander等13种常绿灌
+木为研究对象，采用分级滤膜过滤法测定单位叶面积不同粒径颗粒物[总悬浮颗粒物(TSP)、大颗粒物(PM )、可吸入
+＞10
+颗粒物(PM )和细颗粒物(PM ) ]的滞留量，利用扫描电镜、超景深显微镜观察叶面微结构，并对叶面微结构特征与颗
+10 2.5
+粒物滞留能力的关系进行分析。【结果】①13种常绿灌木对不同粒径颗粒物的滞留能力存在显著差异(P＜0.05)，综合滞
+尘能力最强的为火棘、八角金盘和夹竹桃，单位叶面积滞留量分别为2.59、2.23和1.97 g· m−2，为滞尘能力较弱的十大
+功劳Mahonia fortunei和南天竹Nandina domestica的3.58~4.70倍。②颗粒物倾向于分布在靠近中脉和叶尖的位置上。叶
+表微结构观察发现：上表面存在沟槽、绒毛、凸起等多种结构，气孔大部分位于叶片下表面。这些结构协同作用影响植
+物对颗粒物的滞留，同时增加了叶表面的粗糙度。夹竹桃叶表面粗糙度最高(4.53 μm)，上表面有规则的半圆形凸起，下
+表面气孔凹陷且气孔面积较大，周围存在毛状组织，有助.于粉尘颗粒物的附着。③相关性分析表明：叶面积、粗糙度、
+气孔长度与单位叶面积TSP、PM 和PM 滞留量呈显著(P＜0.05)或极显著正相关(P＜0.01)，气孔宽度、气孔面积与
+10 2.5
+PM 和PM 滞留量呈显著正相关(P＜0.05)。【结论】在郑州市治理大气污染时，火棘、八角金盘和夹竹桃可作为优良
+10 2.5
+的园林滞尘树种。图5表3参35
+关键词：常绿灌木；颗粒物滞留；叶表面微形态特征；粗糙度；郑州市
+中图分类号：S718.5 文献标志码：A 文章编号：2095-0756(2025)03-0513-11
+Effects of leaf surface microstructure of 13 evergreen shrubs on atmospheric
+particulate retention capacity in Zhengzhou City
+HE Dan1，YUAN Jiangqin1，GAO Zhenfei1，LI Chaomei2，LEI Yakai1，LIU Yiping1，DONG Nalin1
+（1. College of Landscape Architecture and Art, Henan Agricultural University, Zhengzhou 450046, Henan, China;
+2. Natural Resources Protection, Development and Utilization Center of Luzhou City, Luzhou 646000, Sichuan, China）
+Abstract: [Objective] The objective is to investigate the effects of leaf surface microstructure of garden plants
+on particle retention capacity, and provide theoretical basis for the selection of urbangarden tree species.
+[Method] The 13 evergreen shrubs, including Pyracantha fortuneana, Fatsia japonica and Nerium oleander
+were studied in Zhengzhou City, Henan Province. The retention of particles of different sizes [total suspended
+particulate matter (TSP), large particulate matter (PM ), inhalable particulate matter (PM ) and fine
+>10 10
+particulate matter (PM )] per unit leaf area was measured by graded membrane filtration method. The
+2.5
+收稿日期：2024-06-25；修回日期：2024-09-15
+基金项目：河南省科技攻关项目(212102110185)；国家自然科学基金资助项目(31600579)
+作者简介：贺丹 (ORCID: 0000-0002-2703-6543)，副教授，博士，从事园林植物资源与应用研究。E-mail:
+dandan990111@163.com。通信作者：董娜琳(ORCID: 0000-0002-8104-0658)，实验师，从事风景园林规
+划与公共健康研究。E-mail: dongnalin@henau.edu.cn
+===== PAGE 2 =====
+514 浙 江 农 林 大 学 学 报 2025年6月20日
+microstructure of leaf surface was observed by scanning electron microscopy and ultra depth microscope, and
+the relationship between particle retention capacity and leaf surface microstructure features was analyzed.
+[Result] (1) There were significant differences in the retention capacity of 13 evergreen shrubs with different
+particle sizes (P＜0.05), and the strongest comprehensive dust-retention ability was found in P. fortuneana, F.
+japonica, and N. oleander, with a dust retention capacity per unit area of 2.59，2.23 and 1.97 g·m−2,
+respectively, 3.58−4.70 times that of Mahonia fortunei and Nandina domestica，which had a weak dust
+retention capacity. (2) Particles tended to be distributed near the midrib and leaf tip. Observation of leaf surface
+microstructure revealed that there were various structures such as grooves, fuzz, and protrusions on the upper
+surface. Most of the stomata were located on the lower surface of the leaf. These structures synergistically
+affected the retention of particles in plants, and concurrently enhanced the roughness of leaf surfaces. The
+surface roughness in N. oleander leaves was the highest (4.53 μm), with regular semi-circular protrusions on the
+upper surface and large concave stomata on the lower surface, surrounded by hairy tissue to attach dust
+particles. (3) Correlation analysis indicated that leaf area, roughness, stomatal length were significantly
+positively correlated with the content of TSP, PM and PM retention per unit leaf area (P＜0.05 or P＜0.01),
+10 2.5
+and stomatal width and stomatal area were significantly positively correlated with PM and PM retention
+10 2.5
+(P＜0.05). [Conclusion] P. fortuneana, F. japonica, and N. oleander are recommended as excellent garden
+dust-retaining species in controlling air pollution in Zhengzhou City. [Ch, 5 fig. 3 tab. 35 ref.]
+Key words: evergreen shrub; particulate matter retention; leaf surface micromorphological characteristics;
+roughness; Zhengzhou City
+.
+随着工业化、城镇化进程的加快，大气颗粒物(PM)成为影响城市环境质量的主要污染物之一，受
+到社会公众的广泛关注[1−2]。大气颗粒物污染不仅影响城市生态环境，导致能见度降低、光化学污染
+等，还会损害人体健康[3−4]。其中，可吸入颗粒物(PM ，空气动力学直径≤10 µm)已被证实是危害人体
+10
+健康的最主要物质之一，细颗粒物(PM ，直径≤2.5 µm)是雾霾天气形成的主要原因，可引起心血管、
+2.5
+肺泡炎症和呼吸系统等疾病，增加人类死亡风险[2, 5−6]。《中国环境公报》数据显示：2022年中国37.2%的
+城市空气污染物超标，因此，降低大气颗粒物污染及其危害成为当前研究的热点。
+城市植被是大气颗粒污染物的主要接收者，利用植物捕获颗粒物是缓解城市空气污染、改善生态环
+境质量的有效途径之一[7−9]。不同植物叶片形态和表面微结构特征的差异，包括叶片大小、形状，以及
+叶表面的绒毛、凹槽和气孔等，是影响植物叶片捕获颗粒物的重要因素[10−13]。较小尺寸的叶片和复杂的
+叶片形状显示出更大的颗粒物捕获能力[14]。叶片表面沟槽越深、宽度适中的树种能够增加PM 等细颗
+2.5
+粒物的滞留量，沟槽过窄或宽度过大时均不易滞留细颗粒物[13]。叶表面绒毛有利于吸附粒径较小的颗粒
+物[15]，但有研究表明绒毛密度与单位面积滞尘量并无显著相关性[16]。叶片表面的气孔密度和数量与颗粒
+物滞留量呈显著正相关关系，气孔数量较多且密度较大的树种有利于滞留更多的颗粒物[17]，但也有研究
+指出气孔密度以及气孔长宽与单位叶面积总悬浮颗粒物(TSP)和PM 滞留量均未达显著相关[12]。叶表
+2.5
+面粗糙多毛的植物颗粒物滞留效率更高，红花檵木 Loropetalum chinense var. rubrum相较于樟树
+Cinnamomum camphora和石楠Photinia serratifolia，其叶表面有绒毛，粗糙度更高，颗粒物捕获能力更
+强[18−19]。SHAO等[20]和LI等[21]发现：PM数量密度与叶片上表面粗糙度呈显著正相关，而与叶片下表
+面粗糙度无显著相关。由此可见：影响植物滞尘的因素较为复杂。一般来说，叶表面粗糙、沟槽较深、
+毛状体数量多且气孔开口大的树种，有利于截留和吸附颗粒物。此外，基于单一性状难以确定植物的颗
+粒物滞留能力，应针对不同地域环境、不同植被特点综合考虑叶表微结构间的协同效应。
+近年来，河南省郑州市雾霾天气频发，颗粒物污染问题越来越严重，尤其是在秋冬季[22]。尽管秋季
+植物叶片的生长状态好于冬季，但针对郑州市秋季颗粒物污染的研究相对较少。因此，本研究于秋季选
+取郑州市常见的13种常绿灌木，测定叶表面颗粒物滞留量并进行叶表微结构的观测，分析叶表面气孔
+===== PAGE 3 =====
+第42卷第3期 贺 丹等： 郑州市13种常绿灌木叶面微结构对大气颗粒物滞留能力的影响 515
+参数、粗糙度等微结构特征与叶片滞尘量之间的关系，从植物叶片微观结构上揭示不同植物颗粒物的滞
+留机制，为郑州市大气颗粒物污染管理及绿化树种的合理选择提供科学依据。
+1 材料与方法
+1.1 采样点概况
+郑州市位于河南省中部(34°16′~34°58′N，112°42′~114°14′E)，属温带大陆性季风气候，四季分明。
+采样区为郑州市文化公园，该公园占地面积为7.93万m2，植物种类丰富，周边大多是居民区和学校，没
+有大型工厂和其他污染源，可以代表郑州市的主要植被类型和城市环境条件。
+1.2 供试树种和样品采集
+在对树种进行初步调研的基础上，选择了公园内常见的 13种常绿灌木。其中，珊瑚树 Viburnum
+odoratissimum、夹竹桃Nerium oleander、蚊母树Distylium racemosum、十大功劳Mahonia fortunei、火棘
+Pyracantha fortuneana数量约 20株，其余树种约 50~200株；海桐 Pittosporum tobira、石楠 Photinia
+serratifolia、大叶黄杨Euonymus japonicus、南天竹Nandina domestica、蚊母树在郑州市主要公园的出现
+频率为100%，其余7种植物出现频率为75%。树种的基本信息见表1。
+表 1 供试植物
+Table 1 Test plants
+树种 叶形 叶长宽比 单叶面积/cm2
+八角金盘Fatsia japonica 掌状深裂 0.59~0.67 196.76~292.55
+珊瑚树Viburnum odoratissimum 宽卵形至尖卵状椭圆形 2.96~3.27 24.94~35.48
+洒金桃叶珊瑚Aucuba japonica var. variegata 卵状椭圆形 2.50~2.74 37.96~41.83
+夹竹桃Nerium oleander 披针形 6.08~7.41 15.91~16.68
+海桐Pittosporum tobira 倒卵形. 或倒卵状披针形 1.86~2.23 13.85~14.16
+石楠Photinia serratifolia 长椭圆形或长倒卵形 2.60~2.83 28.54~32.84
+蚊母树Distylium racemosum 椭圆形或倒卵状椭圆形 2.06~2.36 6.84~8.49
+十大功劳Mahonia fortunei 椭圆形 5.98~6.30 6.82~8.11
+枸骨Ilex cornuta 长卵状圆形 1.95~2.00 12.60~13.71
+金森女贞Ligustrum japonicum ‘Howardii’ 卵圆形 1.89~2.10 13.71~15.52
+大叶黄杨Euonymus japonicus 倒卵形或长椭圆形 1.54~1.66 15.22~17.29
+火棘Pyracantha fortuneana 倒卵形或倒卵状长圆形 2.50~2.75 5.00~5.99
+南天竹Nandina domestica 椭圆披针形 2.35~4.59 4.54~6.88
+本研究于2020年10月雨后7 d晴朗无风的环境下，在植株距离地面0.6~1.2 m处东南西北4个方向
+随机采集长势良好、无病虫害的叶片。每种植物单次采样总叶面积约200~300 cm2，约10~35枚叶片，
+每个树种重复取样3次。样品采集后小心放入自封袋中，带回实验室4 ℃保存。
+1.3 植物滞留颗粒物能力测定
+采用改良的分级滤膜过滤法[23]测定植物叶片不同粒径颗粒物 [总悬浮颗粒物 (TSP)、大颗粒物
+(PM )、可吸入颗粒物(PM )、细颗粒物(PM )]的滞留量；使用叶面积仪(CI-203)对清洗后的叶片面
+>10 10 2.5
+积进行测定，重复3次。
+1.4 叶片表面颗粒物的分布和微观结构观测
+从近中脉、远中脉和叶尖的区域切出 3个 1 cm×1 cm的正方形，利用超景深光学显微镜 (Leica-
+DVM6A)观察叶片表面颗粒物的分布情况。
+从中脉两侧切下2块直径为5 mm×5 mm的叶片，喷金处理后，在真空条件下，利用扫描电子显微
+镜(Philip XL30ESEM-FEG)在不同的放大倍数下分别观察叶片上下表面的微观结构以及颗粒物状态。用
+Image J软件对图像进行处理，测定叶片表面气孔长度、宽度以及视野下气孔数量等指标，并计算出气
+L
+孔开度、气孔密度、气孔面积和形状系数[24]。O =l /L ；D =N/S；S =πL W /4；λ=
+pP
+。其中：O 为
+P P P P P G S 2 πS P
+P
+气孔开度；l 为气孔宽度；L 为气孔长度；D 为气孔密度；N为视野下气孔数量；S为视野面积；S 为
+P P P P
+===== PAGE 4 =====
+516 浙 江 农 林 大 学 学 报 2025年6月20日
+气孔面积；λ为气孔形状系数；L 为气孔长轴；W 为气孔短轴。
+G S
+1.5 叶片表面粗糙度观测
+叶片表面颗粒物用蒸馏水清洗后，从叶脉两侧切下5 mm×5 mm的正方形叶片，用超深度光学显微
+镜 (Leica-DVM6A)在适当的放大倍数下观察叶片上表面的形态特征和粗糙度，并利用开源软件程序
+Gwyddion v. 2.49获取叶片表面的粗糙度数据。
+1.6 数据处理
+利用SPSS 26.0对数据进行单因素方差分析(one-way ANOVA)和聚类分析，皮尔逊相关性分析用来
+探讨叶面微结构特征参数与颗粒物滞留量的关系。运用 Excel 2021对数据进行整理和统计，Origin
+2021和Photoshop 2020生成图表。
+2 结果与分析
+2.1 13种常绿灌木单位叶面积TSP、PM 、PM 和PM 滞留量的差异
+>10 10 2.5
+13种常绿灌木单位叶面积TSP、PM 、PM 和PM 滞留量的变化范围分别为0.55~2.59，0.28~1.78，
+>10 10 2.5
+0.12~1.13，0.07~1.01 g· m−2，树种之间滞尘量存在显著差异(P＜0.05，表2)。其中，火棘的单位叶面积
+TSP滞留量最高，为 2.59 g·m−2，为滞留量最低的十大功劳的 4.71倍；不同绿化树种单位叶面积
+PM 的滞留量与TSP相似，火棘最高，南天竹最低；八角金盘对PM 和PM 的滞留量均最高，分
+>10 10 2.5
+别为1.13和1.01 g·m−2，洒金桃叶珊瑚对PM 和PM 的滞留量均最小，分别为0.12和0.07 g·m−2。各
+10 2.5
+灌木单位叶面积滞留 PM 、PM 和 PM 的质量分别占总粉尘量的 43.6%~85.7%、14.3%~56.4%和
+>10 10 2.5
+8.8%~51.9%。
+表 2 13种常绿灌木单位叶面积TSP、PM 、PM 和PM 滞留量
+>10 10 2.5
+.
+Table 2 Amount of TSP、PM >10、PM 10和PM
+2.5
+on unit per area of 13 evergreen shrub species
+单位叶面积滞留量/(g·m−2) 单位叶面积滞留量/(g·m−2)
+树种 树种
+TSP PM >10 PM 10 PM 2.5 TSP PM >10 PM 10 PM 2.5
+八角金盘 2.23±0.81 ab 1.09±0.45 bc 1.13±0.36 a 1.01±0.31 a 十大功劳 0.55±0.04 e 0.38±0.04 de 0.17±0.01 de 0.15±0.01 cd
+珊瑚树 0.70±0.14 de 0.42±0.10 de 0.29±0.07 cde 0.23±0.04 cd 枸骨 1.25±0.16 cd 0.81±0.03 cd 0.44±0.13 cd 0.34±0.07 cd
+洒金桃叶珊瑚 0.81±0.03 de 0.70±0.05 cde 0.12±0.07 e 0.07±0.06 d 金森女贞 0.84±0.16 de 0.60±0.15 de 0.24±0.08 cde 0.15±0.06 cd
+夹竹桃 1.97±0.15 b 1.08±0.26 bc 0.88±0.16 ab 0.80±0.16 ab 大叶黄杨 1.80±0.40 bc 1.29±0.22 b 0.51±0.22 c 0.42±0.25 c
+海桐 1.15±0.16 de 0.76±0.21 cd 0.39±0.08 cde 0.28±0.10 cd 火棘 2.59±0.69 a 1.78±0.46 a 0.82±0.24 b 0.69±0.17 b
+石楠 1.08±0.29 de 0.80±0.22 cd 0.28±0.08 cde 0.18±0.03 cd 南天竹 0.63±0.15 de 0.28±0.07 e 0.36±0.10 cde 0.33±0.09 cd
+蚊母树 0.75±0.14 de 0.56±0.03 de 0.20±0.12 de 0.16±0.12 cd
+说明：同列不同小写字母表示不同树种间差异显著(P＜0.05)。
+聚类分析将 13种常绿灌木按照单位叶面积 TSP、PM 、PM 和 PM 滞留量分别划分为 3大类
+>10 10 2.5
+(图1)，其中，各树种单位叶面积TSP和PM 滞留量的等级划分一致，单位叶面积TSP和PM 滞留
+>10 >10
+量较大的树种为火棘，其次是八角金盘、夹竹桃和大叶黄杨，珊瑚树、金森女贞、蚊母树较小。各树种
+单位叶面积PM 和PM 滞留量的等级划分一致，最强的是八角金盘，中等的是火棘和夹竹桃，较小
+10 2.5
+的绿化树种有十大功劳、金森女贞、蚊母树等。通过比较可以看出：综合滞尘能力最强的灌木为火棘、
+八角金盘和夹竹桃。
+2.2 颗粒物在叶片表面的分布情况
+13种常绿灌木不同叶面区域的PM分布存在明显差异(图2)。从叶面吸附的颗粒物具体位置来看，
+大部分树种的PM主要分布在叶片中脉、中脉周围区域和叶尖部分，而在远离中脉的区域颗粒物较少。
+从不同树种来看，火棘和八角金盘叶表面有大量的颗粒物，火棘滞留的PM主要分布在叶尖端，八角金
+盘则在中脉附近区域聚集了大量PM。十大功劳叶表面滞留的颗粒物较少，仅在中脉附近有少量分布。
+2.3 13种常绿灌木叶表面的微观形态特征
+不同常绿灌木树种叶片表面结构存在明显差异，同一植物叶片上下表面微观结构也不同 (图 3)。
+===== PAGE 5 =====
+第42卷第3期 贺 丹等： 郑州市13种常绿灌木叶面微结构对大气颗粒物滞留能力的影响 517
+洒金桃叶珊瑚 A. TSP 石楠 B. PM
+＞10
+金森女贞 枸骨
+珊瑚树 海桐
+蚊母树 洒金桃叶珊瑚
+十大功劳 蚊母树
+南天竹 金森女贞
+海桐 珊瑚树
+石楠 十大功劳
+枸骨 南天竹
+夹竹桃 八角金盘
+大叶黄杨 夹竹桃
+八角金盘 大叶黄杨
+火棘 火棘
+0 5 10 15 20 25 0 5 10 15 20 25
+欧氏距离 欧氏距离
+珊瑚树 C. PM 十大功劳 D. PM
+10 2.5
+石楠 金森女贞
+金森女贞 蚊母树
+蚊母树 石楠
+十大功劳 洒金桃叶珊瑚
+洒金桃叶珊瑚 枸骨
+海桐 南天竹
+南天竹 珊瑚树
+枸骨 海桐
+大叶黄杨 大叶黄杨
+夹竹桃 夹竹桃
+火棘 火棘
+八角金盘 八角金盘
+0 5 10 15 20 25 0 5 10 15 20 25
+欧氏距离 欧氏距离
+图 1 13种常绿灌木单位叶面积TSP、PM 、PM 和PM 滞留量的聚类分析
+>10 10 2.5
+.
+Figure 1 Clustering analysis on TSP、PM 、PM 和PM retention of 13 evergreen shrub species
+>10 10 2.5
+13种常绿灌木叶片上表面结构比下表面复杂，叶片 近中脉 叶尖 近中脉 叶尖 近中脉 叶尖
+上表面有绒毛、沟槽、凸起等，颗粒物滞留也较 A B C
+多，气孔主要分布在下表面。八角金盘叶片上表面
+D E F
+有浅沟槽，颗粒物附着于沟槽间隙，叶片下表面气
+孔稍内陷，且气孔呈现闭合状态(图3A1，A2)。珊 G H I
+瑚树叶表不平整，洒金桃叶珊瑚叶片上表面有细长
+J K L
+绒毛，部分颗粒物之间相互附着，形成体积更大的
+200 μm
+M
+颗粒物，两者气孔呈狭长形 (图 3B1，B2，C1，
+A. 八角金盘；B. 珊瑚树；C. 洒金桃叶珊瑚；D. 夹竹桃；E. 海桐；
+C2)。 夹竹桃叶片上表面有规则的半圆形凸起，叶 F. 石楠；G. 蚊母树；H. 十大功劳；I. 枸骨；J. 金森女贞；K. 大叶
+片下表面气孔凹陷，气孔周围可观察到毛状组织，
+黄杨；L. 火棘；M. 南天竹。红色箭头为不同植物叶表面颗粒物分
+布集中区域。由于叶片 “远离中脉” 区域颗粒物分布极少，因此图
+部分颗粒物滞留于凸起间隙和气孔周围下陷的绒毛处 中未显示。
+(图 3D1，D2)。海桐叶片表面较平整，可观察到少 图 2 13种常绿灌木叶表面的颗粒物分布
+量颗粒物沉积 (图 3E1，E2)。石楠叶片表面可见明 Figure 2 Distribution of particulate matter on the leaf surface of 13
+evergreen shrub species
+显的皱褶和凹槽，部分颗粒物散落在气孔和周围沟
+槽处 (图 3F1，F2)。蚊母树叶片上表面有不规则凸
+起，颗粒物滞留其间，叶片下表面气孔与叶片表皮处于同一水平面上(图3G1，G2)。十大功劳叶片上表
+面在条状凸起之间形成了较宽的凹槽结构，枸骨叶片上表面有大量的簇状结构形成的复杂网络，沟槽和
+簇状结构周围可见滞留的粉尘颗粒，叶片下表面气孔均较小(图3H1，H2，I1，I2)。金森女贞叶片上下
+表面不平整，有一定的波动，颗粒物滞留较少(图3J1，J2)。大叶黄杨叶片上表面积累了大量颗粒物，
+叶片下表面气孔密集(图3K1，K2)。火棘叶片上表面沟槽致密，叶片下表面气孔开口较大，气孔器形状
+近圆形，这些结构都有利于颗粒物的附着(图3L1，L2)。南天竹叶片上表面有疣状突起，有利于细小颗
+粒物的滞留，叶片下表面气孔周围有绒毛层覆盖(图3M1，M2)。
+===== PAGE 6 =====
+518 浙 江 农 林 大 学 学 报 2025年6月20日
+.
+1. 叶片上表面；2. 叶片下表面。A. 八角金盘；B. 珊瑚树；C. 洒金桃叶珊瑚；D. 夹竹桃；E. 海桐；F. 石楠；G. 蚊母树；H. 十大功
+劳；I. 枸骨；J. 金森女贞；K. 大叶黄杨；L. 火棘；M. 南天竹。红色箭头为不同植物叶表面颗粒物分布集中区域。
+图 3 13种常绿灌木叶表面微结构电镜扫描
+Figure 3 Scanning electron microscope of the leaf surface microstructure of 13 evergreen shrub species
+===== PAGE 7 =====
+第42卷第3期 贺 丹等： 郑州市13种常绿灌木叶面微结构对大气颗粒物滞留能力的影响 519
+不同植物叶表面气孔参数见表 3。金森女贞的气孔开度最大 (0.88)，是气孔开度最小的枸骨
+(0.58)的 1.52倍。火棘、南天竹、枸骨、海桐、蚊母树的气孔分布比较紧密，气孔密度也相应较高
+(＞350 个·mm−2)；珊瑚树和洒金桃叶珊瑚的气孔密度较小(100~200 个·mm−2)；夹竹桃气孔分布最分散
+(＜10 个·mm−2)。夹竹桃的气孔面积最大，显著高于其他 12种植物 (P＜0.05)。枸骨的形状系数最大
+(0.42)，其余12种植物的形状系数为0.34~0.39。
+表 3 13种常绿灌木叶面微结构特征
+Table 3 Leaf surface microstructure characteristics of 13 evergreen shrub species
+树种 气孔长度/μm 气孔宽度/μm 气孔开度 气孔密度/(个·mm−2) 气孔面积/μm2 形状系数
+八角金盘 17.46±1.02 c 11.46±0.64 b 0.66±0.03 e 351.49±22.51 bc 157.42±16.24 b 0.39±0.01 b
+珊瑚树 23.06±2.54 bc 16.41±1.63 b 0.71±0.01 de 106.80±26.91 d 299.32±61.21 b 0.38±0.00 bc
+洒金桃叶珊瑚 16.41±0.99 c 12.20±1.02 b 0.74±0.02 cd 175.25±22.20 d 157.79±22.21 b 0.37±0.00 cde
+夹竹桃 187.21±22.00 a 138.50±28.63 a 0.73±0.06 cd 8.99±2.23 e 20 693.96±6841.49 a 0.37±0.02 cd
+海桐 28.09±1.44 bc 22.88±0.81 b 0.82±0.04 ab 354.16±37.06 bc 505.17±37.76 b 0.35±0.01 efg
+石楠 28.21±0.36 bc 23.50±2.04 b 0.83±0.07 ab 280.89±45.51 c 520.93±49.33 b 0.35±0.01 fg
+蚊母树 19.29±1.02 bc 13.71±0.75 b 0.71±0.02 de 352.91±41.98 bc 208.12±21.36 b 0.38±0.00 bc
+十大功劳 20.42±0.25 bc 16.94±0.73 b 0.83±0.03 ab 297.18±44.34 bc 271.79±15.00 b 0.35±0.00 fg
+枸骨 23.88±1.17 bc 13.78±0.59 b 0.58±0.03 f 373.25±30.30 b 258.56±20.64 b 0.42±0.01 a
+金森女贞 30.37±1.38 b 26.68±1.79 b 0.88±0.03 a 315.02±30.50 bc 637.73±71.08 b 0.34±0.01 g
+大叶黄杨 27.13±0.96 bc 23.08±0.88 b 0.85±0.01 ab 320.33±24.02 bc 492.21±35.59 b 0.35±0.00 fg
+火棘 30.63±2.39 b 24.02±0.87 b 0.79±0.09 bc 363.82±75.70 b 576.98±28.57 b 0.36±0.02 def
+.
+南天竹 21.30±1.21 bc 18.16±0.89 b 0.85±0.01 ab 456.64±69.86 a 304.46±32.23 b 0.34±0.00 fg
+说明：同列不同小写字母表示同一参数不同树种间差异显著(P＜0.05)。
+2.4 不同植物叶表面粗糙度
+如图4所示：13种常绿灌木叶片上表面的粗糙度为0.674~4.530 μm，其中，夹竹桃的叶表面有明显
+的脊状突起，在13种灌木树种中粗糙度最高。枸骨、大叶黄杨、洒金桃叶珊瑚和火棘的叶表面有明显
+的起伏和凹槽，粗糙度中等。十大功劳和石楠的叶表面光滑，粗糙度相对较低。13种灌木树种叶表面粗
+糙度从高到低排序为夹竹桃 (4.53 μm)、枸骨 (1.841 μm)、大叶黄杨 (1.649 μm)、洒金桃叶珊瑚 (1.645
+μm)、八角金盘 (1.587 μm)、火棘 (1.361 μm)、南天竹 (1.244 μm)、珊瑚树 (1.141 μm)、蚊母树 (1.125
+μm)、金森女贞(1.081 μm)、海桐(1.079 μm)、十大功劳(0.802 μm)、石楠(0.674 μm)。
+2.5 植物滞留大气颗粒物与叶表微结构特征间的关系
+由图5可知：除单位叶面积PM 滞留量外，植物单位叶面积TSP、PM 和PM 滞留量与叶面
+＞10 10 2.5
+积和粗糙度呈极显著正相关 (P＜0.01)，与气孔长度呈显著正相关 (P＜0.05)；单位叶面积 PM 和
+10
+PM 滞留量与气孔宽度和气孔面积也呈显著正相关(P＜0.05)。
+2.5
+3 讨论
+不同植物对各粒径颗粒物的滞留存在显著差异。有研究发现：植物叶表吸附的不同粒径颗粒物中主
+要是PM [15, 25]。本研究中，13种常绿灌木叶片表面以捕获 PM 为主，大叶黄杨、石楠、金森女贞、
+10 >10
+洒金桃叶珊瑚、蚊母树叶片的PM 滞留量占TSP滞留量的70%以上，这与李耀华等[17]和DANG等[19]
+>10
+研究得出的树木叶片吸附的主要是粒径大于10 µm的大颗粒物,结果一致。另外，洒金桃叶珊瑚叶滞留
+TSP和 PM 的能力分别排第 9位和第 8位，但滞留 PM 和 PM 的能力却最弱。南天竹叶滞留
+>10 10 2.5
+TSP和 PM 的能力较弱，但滞留 PM 和 PM 的能力却较强，其 PM 滞留量占 TSP滞留量的
+>10 10 2.5 2.5
+52.38%。这表明叶表面滞留不同粒径颗粒物的比例因树种差异而不同，树种单位叶面积TSP的滞留能力
+不能决定各粒径颗粒物的滞留能力[12, 26]。造成这种差异的原因可能是叶表面微结构，包括粗糙度、沟
+===== PAGE 8 =====
+A B
+C D
+E F
+G H
+.
+I J
+K L
+M
+mμ/z
+m
+μ x/μm y/
+mμ/z
+m
+μ x/μm y/
+mμ/z
+m
+μ x/μm y/
+mμ/z
+m
+μ x/μm y/
+mμ/z
+m μ x/μm y/
+mμ/z
+m μ x/μm y/
+mμ/z
+m μ x/μm y/
+mμ/z
+m μ x/μm y/
+mμ/z
+m μ x/μm y/
+mμ/z
+m μ x/μm y/
+mμ/z
+m μ x/μm y/
+mμ/z
+m μ x/μm y/
+mμ/z
+520 浙 江 农 林 大 学 学 报 2025年6月20日
+48.43 4 3 2 1 9 0 8 8 9 9 . 6 μ . . . . 4 7 0 3 9 m 3 5 6 7 μ μ μ μ μ m m m m m 33.24 3 2 2 1 1 5 0 1 3 7 2 6 . 5 μ . . . . . 0 2 7 1 6 4 m 8 4 0 6 2 μ μ μ μ μ μ m m m m m m
+19.37 16.88 537.92
+0 449.09 0 448.26
+608.41 326.61 667.41 358.61
+459.31 244.96 533.93 268.96
+304.21 163.31 400.95 179.31
+152.10 81.64 266.97 133.48 89.65
+0 0 0 0
+32.76 μm 69. 89 μm
+26.80 μm 55.91 μm
+20.85 μm 41.93 μm
+14.89 μm 27.95 μm
+8.93 μm 13.98 μm
+32.76 0 μm 0 μm
+62.90
+0 0 0
+0 90.13 0 53.19
+134.37 180.27 0 106.38
+268.74 270.40 79.48 159.57
+403.12 360.53 158.95 212.75
+537.49 450.67 238.43 265.94 317.91 319.13
+671.86 540.80
+397.38 372.32
+476.86
+34.24 μm 14.28 μm
+28.53 μm 11.68 μm 22.83 μm 9.09 μm
+17.12 μm 6.49 μm
+11.41 μm 3.89 μm
+34.24 0 μm 0 μm
+14.28 0
+14.27 7.79 50.34
+47 0 2.39 30 3 4 5 . 5 7 . 0 48 0 0 20 1 1 5 1 . 1 0 3 . 0 7 0 . 3 69
+377.91 253.91 94.15 251.72
+283.43 188.95 94.48 50 1 .7 0 1 8 1 5 . 2 5 2 0 7 .3 3 5 .13 188.30 282.45 376.60 470.75 35 3 2 0 .4 2 0 .06
+0 0 30.28 μm 18.10 μm
+24.22 μm 15.51 μm
+18.17 μm 12.93 μm
+12.11 μm 10.34 μm
+6.06 μm 7.76 μm
+0 μm 5.17 μm
+27.25 18.10 2.59 μm
+0 μm 0 0 0 50 0 .79
+0 94.88 15 1 2 0 . 5 1 1 0 . 8 4 .7 5 3 0 95.08 20 1 3 5 1 . 2 1 0 . 4 1 3 . 6 57
+189.77 284.65 30 2 4 5 . 3 3 2 . 5 0 6 2 3 .90 190.16 285.24 380.32 35 3 5 0 .5 4 2 0 . 5 7 3 2 .93
+379.53 355.08 475.40
+474.42
+58.99 μm 47.01 μm
+50.56 μm 37.61 μm
+42.13 μm 28.21 μm
+33.71 μm 18.81 μm
+50.56 2 1 5 6 . . 2 8 8 5 μ μ m m 47.01 9 0 . 4 μ 0 m μm 0 0 8 0 . 4 μ 3 m μm 0 10 5 3 1 0 . . 4 7 8 4
+0 90.04 0 255.22
+136.20 180.08 95.51 206.96
+272.41 270.12 191.02 258.70 360.14 286.53 310.44 408.61 382.04 362.18
+450.20
+544.82 477.56
+540.24
+681.02
+25.98 μm
+22.20 μm 29.16 μm 18.50 μm 22.68 μm
+14.80 μm 16.20 μm
+11.10 μm 9.72 μm
+7.40 μm 0 μm
+25.90 3.70 μm 29.16 471 0 .36 30 3 2 5 .5 3 8 .0 0 1 μm 12.96 0 50 0 .74
+377.09 252.15 0 101.47
+282.82 201.72 94.89 152.51
+188.54 94.27 50 1 .4 0 1 3 0 5 .8 1 6 .29 x/μm 189.77 284.66 304 2 .1 5 2 2 3 0 .6 2 9 .95 y/ μ m
+0 0 379.54 355.16
+1 1 7 5 . . 7 2 4 0 μ μ m m 474.43
+12.67 μm
+10.14 μm
+17.60 μm
+5.07 μm
+17.74 2.53 μm
+0 0 0 μm
+50.78
+0 101.57
+152.35
+93.27 203.13
+186.53 253.91 279.80 304.70
+373.07 355.48
+466.33
+A. 八角金盘；B. 珊瑚树；C. 洒金桃叶珊瑚；D. 夹竹桃；E. 海桐；F. 石楠；G. 蚊母树；H. 十大功劳；I. 枸骨；J. 金森女贞；K. 大
+叶黄杨；L. 火棘；M. 南天竹。x、y 轴为叶片拍摄范围大小，右侧刻度值表示 z 轴叶片表面的起伏高度，粗糙度为整个叶片拍摄范
+围内的平均起伏。
+图 4 13种常绿灌木叶表面三维结构
+Figure 4 Three-dimensional structure of the leaf surface of 13 evergreen shrub species
+===== PAGE 9 =====
+槽、气孔特性以及气候和其他环境因素的综合影 TSP
+响[25, 27]。 PM ＞10
+PM
+13种常绿灌木的叶片上表面主要承担吸附颗粒 10
+PM
+2.5
+物的作用，这可能是因为颗粒物与上表面多种微观
+叶面积
+结构接触面积较大，有利于更好地吸附颗粒物，树 叶长宽比
+冠结构和叶片倾角也可能是其影响因素[28−29]。颗粒 气孔长度
+气孔宽度
+物倾向于分布在植物叶片的中脉、近中脉以及叶片
+气孔开度
+尖端等不平整的区域，这种现象在不同的植被类型
+气孔密度
+中都有发现[30]，可能是由于叶片表面的这些区域存 气孔面积
+在明显的波动和沟槽，一些叶片在中脉附近还有绒 形状系数
+粗糙度
+毛结构。叶片尖端狭窄，边缘卷曲，这也有利于滞
+P 积比度度度度积数度
+留更多颗粒物[18]。针叶树除了叶表面具有明显的突 T S P M＞1 P 0M1 P 0M 叶 2面.5 长 宽 孔 长 孔 宽 孔 开 孔 密 孔 面 状 系 粗 糙
+叶气气气气气形
+起和沟槽外，还能够分泌油脂[25, 30]，相对于阔叶树
+种可以捕获更多颗粒物。叶表面的各种微结构特征
+使叶片具有起伏的粗糙表面，叶表面存在大量的沟
+壑、孔状峰谷区域和气孔凹陷，则会使叶面的粗糙
+度较高[25, 31]。叶面粗糙度显著影响植物对颗粒物的
+滞留[20−21, 32]。本研究发现：夹竹桃叶面粗糙度最
+高，颗粒物捕获能力也较强，这主要是与夹竹桃气
+孔下陷，叶片具有发达的角质层且叶脉突出有关。火棘和八角金盘叶粗糙度较高，在13种常绿灌木中
+颗粒物滞留能力最强。火棘叶除了受其叶面自身的绒毛和沟槽结构影响外[21]，叶片下表面气孔开放，蒸
+腾速率较强，也会导致颗粒物的沉积；八角金盘较 . 大的叶片面积也可能有助于其滞留更多的颗粒物[33]。
+有研究表明：石楠的粗糙度较高，但在本研究中石楠颗粒物滞留能力排名中等，粗糙度却最低，这可能
+是石楠叶表面蜡质层的存在能够增强叶片的疏水性，维持植物体内的水分平衡，使得叶表面不易被水润
+湿，从而增加颗粒物在叶片上的附着能力[34]。此外，不同的品种和生长环境也可能造成研究结果的差
+异。十大功劳的粗糙度较低，叶表面光滑平整，滞尘能力较弱。相关性分析表明：叶表粗糙度与颗粒物
+滞留能力呈极显著正相关，叶面粗糙度可能是影响植物滞尘能力的关键因素之一[21]。其他指标(叶片长
+宽比、气孔密度和气孔开度)与各粒径颗粒物单位叶面积滞留量均未达显著相关，但粗糙度与叶长宽比
+显著相关，间接说明更大的叶片长宽比使颗粒物附着更稳定，可能由其较大的表面积和特定的形态特征
+所决定[35]。综上所述，灌木树种的滞尘能力并不是受叶片的单一因素影响，粗糙度可以作为叶片滞尘能
+力的一个衡量指标。除此之外，气孔开度、叶面积和植物所处的环境也会影响颗粒物的滞留。
+4 结论
+13种常绿灌木对不同粒径颗粒物的滞留能力存在显著差异，综合滞尘能力较强的是火棘、八角金盘
+和夹竹桃。这些植物宜作为郑州市的优良园林滞尘灌木树种。叶片面积大、叶表面气孔开度大、气孔排
+列紧密、沟槽狭窄、粗糙度高的树种颗粒物滞留能力较强。
+5 参考文献
+[1] 任飞虹, 白骅, 邱兆文, 等. 改善颗粒物污染的道路绿地植被屏障研究进展[J]. 生态学报, 2022, 42(13): 5177−5186.
+REN Feihong, BAI Hua, QIU Zhaowen, et al. Research progress on roadside vegetation barriers for reducing particulate
+matter pollution [J]. Acta Ecologica Sinica, 2022, 42(13): 5177−5186.
+[2] 陆海燕, 彭碧淼, 关超, 等. 7种校园道路绿化树种叶片形态与滞尘能力[J]. 热带农业科学, 2023, 43(11): 107−113.
+LU Haiyang, PENG Bimiao, GUAN Chao, et al. Leaf morphology and dust retention capacity of seven greening tree species
+on the campus [J]. Chinese Journal of Tropical Agriculture, 2023, 43(11): 107−113.
+[3] 李晓璐, 叶锦东, 章剑, 等. 乔木滞留大气颗粒物能力及其与叶表面微结构关系[J]. 中国城市林业, 2022, 20(3): 22−28,
+数系关相
+第42卷第3期 贺 丹等： 郑州市13种常绿灌木叶面微结构对大气颗粒物滞留能力的影响 521
+1.0
+0.5
+0
+−0.5
+−1.0
+TSP. 单位叶面积 TSP 滞留量；PM . 单位叶面积 PM 滞留量；
+＞10 ＞10
+PM . 单位叶面积 PM 滞留量；PM . 单位叶面积 PM 滞留量。
+10 10 2.5 2.5
+* 表示 P＜0.05，** 表示 P＜0.01。
+图 5 植物叶面滞留颗粒物与叶面微结构特征参
+数的相关性分析
+Figure 5 Correlation between plant foliar dust retention and leaf
+surface microstructure characteristics
+===== PAGE 10 =====
+522 浙 江 农 林 大 学 学 报 2025年6月20日
+120.
+LI Xiaolu, YE Jindong, ZHANG Jian, et al. Atmospheric particle retention capacity of trees and its relationship with leaf
+surface microstructure [J]. Journal of Chinese Urban Forestry, 2022, 20(3): 22−28, 120.
+[4] FENG Yingying, HUANG Xiji, SUN Huizhen, et al. Framingham risk score modifies the effect of PM on heart rate
+10
+variability [J]. Science of the Total Environment, 2015, 523: 146−151.
+[5] 王彤, 张丹, 杨轶晗, 等. 长春市南湖公园5种常绿针叶树种滞留大气颗粒物能力研究[J]. 安徽农业科学, 2023, 51(9):
+77−82.
+WANG Tong, ZHANG Dan, YANG Yihan, et al. Study on atmospheric particulate matter retention capacity of five
+evergreen coniferous trees in Nanhu Park, Changchun [J]. Journal of Anhui Agricultural Sciences, 2023, 51(9): 77−82.
+[6] WANG Cuiping, HAO Lipeng, LIU Cong, et al. Associations between fine particulate matter constituents and daily
+cardiovascular mortality in Shanghai, China [J/OL]. Ecotoxicology and Environmental Safety, 2020, 191: 110154[2024-05-
+25]. DOI: 10.1016/j.ecoenv.2019.110154.
+[7] ZHU Jiyou, XU Chengyang. Intraspecific differences in plant functional traits are related to urban atmospheric particulate
+matter [J/OL]. BMC Plant Biology, 2021, 21(1): 430[2024-05-25]. DOI: 10.1186/s12870-021-03207-y.
+[8] KUMAR A, SINGH H, KUMARI G, et al. Adaptive resilience of roadside trees to vehicular emissions via leaf enzymatic,
+physiological, and anatomical trait modulations [J/OL]. Environmental Pollution, 2022, 313: 120191[2024-05-25]. DOI:
+10.1016/j.envpol.2022.120191.
+[9] SELMI W, WEBER C, RIVIERE E, et al. Air pollution removal by trees in public green spaces in Strasbourg City, France
+[J]. Urban Forestry & Urban Greening, 2016, 17: 192−201.
+[10] XU Lishuai, YAN Qian, LIN Yongchong, et al. Selective retention of particulate matter by nine plant species in central
+Shanxi Province, China [J]. Environmental Science and Pollution Research, 2021, 28: 35902−35910.
+[11] XU Lishuai, YAN Qian, HE Peng, et al. Combined effects of different leaf traits on foliage dust-retention capacity and
+stability [J]. Air Quality, Atmosphere and Health, 2022, 15: 1263−1274.
+.
+[12] 王琴, 冯晶红, 黄奕, 等. 武汉市 15 种阔叶乔木滞尘能力与叶表微形态特征[J]. 生态学报, 2020, 40(1): 213−222.
+WANG Qin, FENG Jinghong, HUANG Yi, et al. Dust-retention capability and leaf surface micromorphology of 15 broad-
+leaved tree species in Wuhan [J]. Acta Ecologica Sinica, 2020, 40(1): 213−222.
+[13] 王松, 康红梅, 王晋, 等. 山西太原常绿植物滞尘能力差异性及叶面微结构[J]. 北方园艺, 2021(14): 80−86.
+WANG Song, KANG Hongmei, WANG Jin, et al. Dust catching property and leaf surface micro-structure of evergreen
+plants in Taiyuan, Shanxi [J]. Northern Horticulture, 2021(14): 80−86.
+[14] WEERAKKODY U, DOVER J W, MITCHELL P, et al. Evaluating the impact of individual leaf traits on atmospheric
+particulate matter accumulation using natural and synthetic leaves [J]. Urban Forestry & Urban Greening, 2018, 30:
+98−107.
+[15]查燕, 马华升, 俞祥群, 等. 城市绿化植物对不同粒径大气颗粒物的吸附特征研究[J]. 环境污染与防治, 2020, 42(7):
+807−811, 819.
+ZHA Yan, MA Huasheng, YU Xiangqun, et al. The adsorbing characteristic of urban greening plant on depositing size-
+fractionated particles [J]. Environmental Pollution & Control, 2020, 42(7): 807−811, 819.
+[16]孙应都, 陈奇伯, 李艳梅, 等. 昆明市6个绿化树种叶表微结构与滞尘能力的关系研究[J]. 西南林业大学学报 (自然科
+学), 2019, 39(3): 78−85.
+SUN Yingdu, CHEN Qibo, LI Yanmei, et al. Relationship between leaf structure and dust retention capacity of 6 greening
+tree species in Kunming [J]. Journal of Southwest Forestry University (Natural Sciences), 2019, 39(3): 78−85.
+[17] 李耀华, 玉米提·哈力克, 木尼拉·阿不都木太力甫, 等. 城市园林树木叶面微结构特征对大气颗粒物滞留能力的影响
+[J]. 生态学报, 2022, 42(6): 2228−2236.
+LI Yaohua, Umut Halik, Munila Abudumutailifu, et al. Effects of leaf microstructure characteristics of urban trees on
+atmospheric particulates retention capacity [J]. Acta Ecologica Sinica, 2022, 42(6): 2228−2236.
+[18] HE Chen, QIU Kaiyang, POTT R. Reduction of urban traffic-related particulate matter-leaf trait matters [J]. Environmental
+Science and Pollution Research, 2020, 27(6): 5825−5844.
+[19] DANG Ning, ZHANG Handan. SALAM M M A, et al. Foliar dust particle retention and metal accumulation of five garden
+tree species in Hangzhou: seasonal changes [J/OL]. Environmental Pollution, 2022, 306: 119472[2024-05-25]. DOI:
+10.1016/j.envpol.2022.119472.
+===== PAGE 11 =====
+第42卷第3期 贺 丹等： 郑州市13种常绿灌木叶面微结构对大气颗粒物滞留能力的影响 523
+[20] SHAO Feng, WANG Lihua, SUN Fengbin, et al. Study on different particulate matter retention capacities of the leaf
+surfaces of eight common garden plants in Hangzhou, China [J]. Science of the Total Environment, 2019, 652: 939−951.
+[21] LI Xiaolu, ZHANG Tianran, SUN Fengbin, et al. The relationship between particulate matter retention capacity and leaf
+surface micromorphology of ten tree species in Hangzhou, China [J/OL]. Science of the Total Environment, 2021, 771:
+144812[2024-05-25]. DOI: 10.1016/j.scitotenv.2020.144812.
+[22] 贺丹, 李海涛, 原江琴, 等. 郑州市7种园林植物滞尘能力与叶片生理及光合响应[J]. 浙江农林大学学报, 2023, 40(6):
+1205−1214.
+HE Dan, LI Haitao, YUAN Jiangqin, et al. Dust retention capacity and leaf physiology and photosynthesis response of 7
+garden plants in Zhengzhou City [J]. Journal of Zhejiang A&F University, 2023, 40(6): 1205−1214.
+[23] 李朝梅, 王军梦, 王腾飞, 等. 郑州市常见公园绿化植物的滞尘能力及叶片性状分析[J]. 西北林学院学报, 2021, 36(2):
+123−129.
+LI Chaomei, WANG Junmeng, WANG Tengfei, et al. Dust retention capability and leaf traits of common park greening
+plants species in Zhengzhou City [J]. Journal of Northwest Forestry University, 2021, 36(2): 123−129.
+[24] 张翠, 马瑞, 谭立佳, 等. 兰州市10种常用园林绿化树种叶表面微结构对其滞尘量的影响[J]. 甘肃农业大学学报, 2023,
+58(4): 192−200, 211.
+ZHANG Cui, MA Rui, TAN Lijia, et al. Influence of leaf surface microstructure of ten commonly-used landscaping tree
+species on dust retention in Lanzhou City [J]. Journal of Gansu Agricultural University, 2023, 58(4): 192−200, 211.
+[25] 张维康, 王兵, 牛香. 不同树种叶片微观结构对其滞纳空气颗粒物功能的影响[J]. 生态学杂志, 2017, 36(9): 2507−2513.
+ZHANG Weikang, WANG Bing, NIU Xiang. The leaf microstructure of different trees and impact on air particles-capturing
+ability [J]. Chinese Journal of Ecology, 2017, 36(9): 2507−2513.
+[26] 张少伟, 岳晨, 詹振枫, 等. 4种柳树叶片表面易去除与难去除颗粒物滞纳特征[J]. 林业科学, 2020, 56(6): 26−34.
+ZHANG Shaowei, YUE Chen, ZHAN Zhenfeng, et al. Characteristics of easy and different removable particulate matter
+retained by the leaves of 4 willow species [J]. Scientia Slivae Sinicae, 2020, 56(6): 26−34.
+[27] DZIERZANOWSKI K, POPEK P, GAWRONSKA H, e.t al. Deposition of particulate matter of different size fractions on
+leaf surfaces and in waxes of urban forest species [J]. International Journal of Phytoremediation, 2011, 13(10): 1037−1046.
+[28] 魏文俊. 城市绿化树种滞尘机制与叶片功能性状的响应研究[D]. 北京: 中国林业科学研究院, 2021.
+WEI Wenjun. Mechanisms of Particulate Matters Capture Capacity and Response of Leaf Functional Traits for Urban Tree
+Species [D]. Beijing: Chinese Academy of Forestry, 2021.
+[29] 衣妍. 城市生态系统典型植被对近地表颗粒物截留过程研究[D]. 长春: 吉林建筑大学, 2022.
+YI Yan. Study on the Interception Process of Near Surface Particulate Matter by Typical Vegetation in Urban Ecosystems
+[D]. Changchun: Jilin Jianzhu University, 2022.
+[30] 贺丹, 汪安印, 李紫萱, 等. 郑州市常绿树种滞尘能力与叶片生理结构的响应[J]. 福建农业学报, 2022, 37(2): 203−212.
+HE Dan, WANG Anyin, LI Zixuan, et al. Dust retention and physiological responses of evergreen tree leaves in Zhengzhou
+City [J]. Fujian Journal of Agricultural Sciences, 2022, 37(2): 203−212.
+[31] 魏文俊, 王兵, 牛香. 叶片微观结构变化对其颗粒物滞纳能力的影响[J]. 环境科学, 2020, 41(7): 3136−3147.
+WEI Wenjun, WANG Bing, NIU Xiang. Impacts of leaf surface micromorphology variation on the ability to capture
+particulate matter [J]. Environmental Science, 2020, 41(7): 3136−3147.
+[32] SGRIGNA G, BALDACCHINI C, DREVECK S, et al. Relationships between air particulate matter capture efficiency and
+leaf traits in twelve tree species from an Italian urban-industrial environment [J/OL]. Science of the Total Environment,
+2020, 718: 137310[2024-05-25]. DOI: 10.1016/j.scitotenv.2020.137310.
+[33] JIN E J, YOON J H, BAE E J, et al. Particulate matter removal ability of ten evergreen trees planted in Korea urban greening
+[J]. Forests, 2021, 12(4): 438[2024-05-25]. DOI. org/10.3390/f12040438.
+[34] 赖寒健, 葛照硕, 李小兵, 等. 微观结构和蜡质对植物叶表面疏水性能的影响[J]. 林业科学, 2017, 53(4): 74−82.
+LAI Hanjian, GE Zhaoshuo, LI Xiaobing, et al. Effect of microstructure and wax on the hydrophobic properties of plant
+leaves [J]. Scientia Silvae Sinicae, 2017, 53(4): 74−82.
+[35]ZHANG Xuyi, LYU Junyao, ZENG Yuxiao, et al. Individual effects of trichomes and leaf morphology on PM dry
+2.5
+deposition velocity: a variable-control approach using species from the same family or genus [J/OL]. Environmental
+Pollution, 2021, 272: 116385[2024-05-25]. DOI: 10.1016/j.envpol.2020.116385.

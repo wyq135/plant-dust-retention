@@ -1,0 +1,741 @@
+TOTAL PAGES: 14
+
+===== PAGE 1 =====
+sustainability
+Article
+Dust Retention Effect of Greenery in Typical Urban Traffic
+Landscapes of Nanjing—In the Case of Xuanwu Avenue in
+Nanjing City
+QianqianSheng1,2,3,4,*,XiangyiZhang1,2,ChenMeng1,XiruZhang1,2,WeizhengLi5,RuizhenYang6
+andZunlingZhu1,2,3,4,7,*
+1 CollegeofLandscapeArchitecture,NanjingForestryUniversity,Nanjing210037,China;
+zhangxiangyi@njfu.edu.cn(X.Z.);meganchenmc88@gmail.com(C.M.);xiru@njfu.edu.cn(X.Z.)
+2 Co-InnovationCenterfortheSustainableForestryinSouthernChina,NanjingForestryUniversity,
+Nanjing210037,China
+3 JinPuResearchInstitute,NanjingForestryUniversity,Nanjing210037,China
+4 ResearchCenterforDigitalInnovationDesign,NanjingForestryUniversity,Nanjing210037,China
+5 AdvancedAnalysisandTestingCenter,NanjingForestryUniversity,Nanjing210037,China;
+gisplayer@gmail.com
+6 NanjingSkyHuntDataTechnologyCo.,Ltd.,Nanjing210037,China;yangruizhen@foxmail.com
+7 CollegeofArtandDesign,NanjingForestryUniversity,Nanjing210037,China
+* Correspondence:qqs@njfu.edu.cn(Q.S.);zhuzunling@njfu.edu.cn(Z.Z.)
+Abstract:Withtheacceleratedprocessofurbanization,airpollutionhasbecomeincreasinglysevere.
+Gardenplantscantrapatmosphericparticulatematter,whichisofgreatsignificanceforimproving
+theurbanecologicalenvironmentandpromotingsustainabledevelopment.Toinvestigatethedust
+retention effect of typical transportation green spaces in Nanjing, this study focuses on thirteen
+garden plants on Xuanwu Avenue in Nanjing. The dust retention capacity of these plants was
+determinedusingthewash-offmethod,whilethemicrostructureoftheirleafsurfaceswasobserved
+usingscanningelectronmicroscopy. Theresultsareasfollows: Firstly,perunitleafarea,Liriope
+spicata,Ophiopogonjaponicus,andViburnumodoratissimumdemonstratesoliddustretentionabilities.
+Additionally,Viburnumodoratissimum,Prunusserrulatavar.Lannesiana,andLiriopespicatashowstrong
+dustretentionabilitiespersingleleaf. Moreover,Platanusacerifolia,Viburnumodoratissimum,and
+Citation:Sheng,Q.;Zhang,X.;Meng, Cinnamomumcamphorahavestrongdustretentionabilitiesperplant.Viburnumodoratissimum,Platanus
+C.;Zhang,X.;Li,W.;Yang,R.;Zhu,Z. acerifolia,andPrunusserrulatavar.Lannesianaexhibitthemostsubstantialdustretentioncapacities.
+DustRetentionEffectofGreeneryin Secondly,thereisasignificantnegativecorrelationbetweendustretentionperplantandthepotassium
+TypicalUrbanTrafficLandscapesof content,whileasignificantpositivecorrelationisobservedwithplantheight,canopyheight,andleaf
+Nanjing—IntheCaseofXuanwu width.Furthermore,thereisahighlysignificantpositivecorrelationbetweendustretentionperunit
+AvenueinNanjingCity.Sustainability
+leafareaandstomatallengthandahighlysignificantnegativecorrelationwithleaflength.Thesurface
+2024,16,917. https://doi.org/
+microstructureoftheblademainlyincreasesthedustretentioncapacityofthebladebyincreasingthe
+10.3390/su16020917
+frictionoftheleafsurface.Lastly,specificleafsurfacemicrostructures,suchasgroovedepidermisand
+Received:27November2023 trichomes,enhanceplants’dustretentioncapacity.Consequently,forthefutureconfigurationofroad
+Revised:12January2024 greenspacesinNanjing,amixedplantingmodeoftrees,shrubs,andgrassisrecommended.Priority
+Accepted:16January2024 shouldbegiventoselectingplantswithstrongoveralldustretentioncapabilities,suchasPlatanus
+Published:22January2024
+acerifolia, Viburnumodoratissimum, andPrunusserrulatavar. Lannesiana, toalleviateairpollution,
+improvetheurbanecologicalenvironment,andachievesustainabledevelopment.
+Keywords:roadgreenspaces;dustretentionamount;particulatematter;leafsurfacemicrostructure
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+Thisarticleisanopenaccessarticle
+distributed under the terms and
+1. Introduction
+conditionsoftheCreativeCommons
+Attribution(CCBY)license(https:// Withacceleratedurbanizationandrapideconomicdevelopment,theparticulatemat-
+creativecommons.org/licenses/by/ terpollutionfrommanyurbanareashascausedsevereenvironmentalproblems. Currently,
+4.0/).
+Sustainability2024,16,917.https://doi.org/10.3390/su16020917 https://www.mdpi.com/journal/sustainability
+===== PAGE 2 =====
+Sustainability2024,16,917 2of14
+theissueofparticulatematterpollutioncannotberesolvedsolelybycontrollingthepollu-
+tionsources[1]. Particulatematterpollutionseverelythreatenshumanhealth[2,3],and
+the smaller the particle diameter, the greater the harm [4]. The sources of atmospheric
+particulatemattercanbedividedintonaturalandanthropogenicsources. Naturalsources
+refertoparticlesgeneratednaturally,suchasplantpollen;fungalspores;andparticlesfrom
+soilweathering, volcaniceruptions, andforestfires. Ontheotherhand, anthropogenic
+sourcesrefertovariousparticlepollutantsproducedbyhumanactivities,mainlyincluding
+coal combustion emissions, vehicle exhaust, industrial waste gas, energy consumption
+pollutants,andconstructiondust[5,6].
+The2023AgendaforSustainableDevelopmentproposesglobalsustainabledevelopment
+goalsandindicators,whichprovideimportantguidancefortheplanningandmanagement
+ofurbanroadgreenspaces. Asanimportantpartoftheurbanecosystem,urbanroadgreen
+spacehasasignificantdustretentioneffect,whichisofgreatsignificanceforimprovingair
+qualityandachievingurbansustainabledevelopmentgoals. Atpresent,therearemainly
+sweepersandhigh-pressurecleaningvehiclesforroaddustreductionoperations,butthis
+requiresalotofmanpower,material,andfinancialresources. Nowaketal.[7]foundthat
+thetotalamountofairpollutantsinurbantreesintheUnitedStateswas711,000metrictons,
+worthUSD3.8billion,whichshowstheeconomicvalueofplantdustretention. Therefore,
+roadgreenspacesarereceivingwideattentionasanessentialmeanstomitigateatmospheric
+particulatematterpollution[8]. Thedensecanopyofgardenplantscaneffectivelyreduce
+windspeed,causingsomeparticulatematterintheatmospheretosettle,andtheparticles
+are fixed and intercepted by leaf surface characteristics such as leaf texture, trichomes,
+oils, and moisture [9,10]. Rainwater, strong winds, and leaf fall help plants renew the
+retainedatmosphericparticulatematter. Differentplants’surfacestructure,texture,leaf
+area, and morphological features, such as plant height, crown size, and branch angles,
+affecttheirabilitytoretainandpurifyparticulatematter[11–14]. Chenetal.[15]believe
+thatconifershaveathickerwaxylayerontheirleavesandacompactcrownstructure,so
+theyhaveastrongerdustretentioneffectthanbroad-leavedtrees. StudiesbyWeerakkody
+etal.[16]haveshownthatleavesofsmallersizehaveamorevitalabilitytoretaindustdue
+totheirmoresignificantedgeeffect. Sabin[17]foundthatleaveswithtrichomes,grooves,
+protrusions, or shorter petioles can adsorb more PM , and rougher leaves can adsorb
+2.5
+moreparticles. Dzierzanowskietal.[18]foundthatthewaxlayeronplantleafsurfaces
+can adsorb particles and improve dust retention capacity. Sæbø [19] also believes that
+theleafsurfacehairsofplantscanimprovetheirabilitytoretaindust. Perini’sfindings,
+however,weretheopposite,suggestingthatleaveswithmorefluffhadalowerabilityto
+retaindust[20]. WangLeietal.[21]foundthattheabilityofparticlestoadheretotheleaf
+surfaceisintheorderofprotrusions<crypts<veins+crypts<grooves,withthelower
+leafsurfacehavinglessdustretentioncapacitythantheuppersurface. Paletal.[22]found
+thatleaffolds,grooves,andotherfeaturescanaffectthedustretentionabilityofplants.
+Xie Binze et al. [23] suggested that the width of grooves on the leaf surface is the main
+factoraffectingthedifferencesinparticleadsorptionamongdifferentplants,andthedust
+retentioncapacityofleavesisalsorelatedtothenumberofstomata,withadecreasein
+stomatacorrespondingtoadecreaseinthedustretentioncapacityofplants.Ming-YengLin
+etal.[24]conductedstudiesonremovingultrafineparticlesbyplantsusingwindtunnel
+experiments,indicatingastrongcorrelationbetweencaptureefficiencyandparticlesize,
+withhighercaptureratesforsmallerparticlesizes,whichdecreasewithincreasingwind
+speedanddecreasingleafareadensity.
+Furthermore,externalenvironmentalfactorshighlyinfluencethecoefficientofvari-
+ation of dust retention per unit leaf area on plant leaves. Studies have shown that the
+dustretentionofthesameplantspeciesislowerinopenenvironmentscomparedtoen-
+closedenvironments,andthedustretentionvariesamongdifferentheightsofthesame
+plant—secondary dust results in lower dust retention on higher leaves than on lower
+leaves[25]. Thedustretentionrateofplantscanvarywithchangesintheenvironment.
+Theamountofdusttrappedbyplantsisalsorelatedtotheamountofparticulatematterin
+===== PAGE 3 =====
+Sustainability2024,16,917 3of14
+theenvironment,whichvariesfromenvironmenttoenvironment. QinFan[26]studied
+thePM concentrationinJiaozuoCityandfoundthattheconcentrationsinresidential,
+2.5
+educational,andcommercialareasexceededthenationalstandardlimitsby2.22,1.02,and
+1.66times,respectively. Sternberg[27]foundthattheamountofdusttrappedinplants
+increasedwiththeincreaseinparticulatematterintheenvironment. However,Nanos[28]
+andRaietal.[29]believedthatwiththeincreaseinparticulatemattercontent,thephoto-
+syntheticrate,numberofstomata,andstomatalconductanceofleaveswouldbeaffectedto
+acertainextent,therebyreducingtheamountofdustretentioninplantstoacertainextent.
+Meteorologicalfactorsthataffectparticulatematterconcentrationsalsoincludehumidity,
+temperature,andwindspeed[30]. Withinaday,thedustretentionofthesameplantcan
+changeovertime. Inaddition,thedustretentionofplantsalsovariesthroughouttheyear.
+Forexample,GaoJinhui[31]foundthatplantshavethehighestdustretentioncapacity
+duringthepeakseasonofvigorousgrowthinsummerandautumn,whileZhuLiqiong
+etal.[32]foundthatsomeplantshavehigherdustretentioninwinterthaninsummer,
+whichmayberelatedtohigherwindspeedsinsummerthaninwinter[33]. Therefore,it
+isevidentthatvariousinternalandexternalfactorsinfluencethedustretentioncapacity
+ofplants.
+NanjingCityhasabundantplantresources. XuanwuAvenueisanimportantthor-
+oughfareinthemainurbanareaofNanjing,anditstrafficexhaustemissionsrankamong
+thehighestinthecity. Roadgreenspacescanincreasetheareaperunitandreducedust
+contentintheair,enhancingthedustretentionbenefitsofgreenspaces. Duetodifferences
+incanopystructureandleafsurfacecharacteristics,differenttypesofornamentalplants
+havevaryingabilitiestoretaindust. Bymeasuringthedustretentioncapacityofvarious
+plants,economicallypracticalspeciescanbeselected,thusimprovingthequalityofroad
+greenbeltsinlimitedspacesandlandandutilizingthedustretentioneffectofgreenbelts
+toreducedustandpurifycityroads. Inthisstudy,takingXuanwuAvenueinNanjingas
+anexample,wemeasuredthedustretentioncapacityoftheleavesinthreedimensions,
+namelyunitleafarea,singleleaf,andsingleplant;usedascanningelectronmicroscopeto
+observethemicrostructureandstomataoftheleaves;andexploredthedustblockingeffect
+oftrafficgreenspace,soastoscreenouttheplantswiththestrongestdustretentionability,
+aimingtoprovideascientificbasisforselectingurbanlandscapingplants. Theguidanceof
+therationalallocationofgardenplantswillgivefullplaytotheirecologicalbenefitsand
+achievethegoalofecologicalenvironmentalprotectionandsustainabledevelopment.
+2. MaterialsandMethods
+2.1. StudyAreaOverview
+NanjingCityislocatedinthesouthwesternpartofJiangsuProvince,China,inthe
+middleofthefertileregiondownstreamoftheYangtzeRiver. Itsgeographicalcoordinates
+range from 31◦14′′ to 32◦37′′ north latitude and 118◦22′′ to 119◦14′′ east longitude [34].
+NanjingCityhasdistinctseasonsandabundantrainfallintheNorthSubtropicalHumid
+ClimateZone. TheperiodfromlateJunetoearlyJulyistherainyseasoninNanjingCity.
+TheannualaveragetemperatureinNanjingCityis15.4◦C,withthehighestextremevalue
+of 39.7 ◦C and the lowest extreme value of −13.1 ◦C. For this study, Xuanwu Avenue,
+oneofthekeyconstructionprojectsinNanjingCity,wasselectedastheresearchobject
+(Figure 1). Xuanwu Avenue is a typical urban traffic artery with an asphalt roadway,
+locatedinthemainurbanareaofNanjing,withalargeflowofpeopleandvehicles,and
+oncerankedsecondinNanjingwithanaveragedailytrafficvolumeof131,000vehicles.
+ItisaroadwithseriousautomobileexhaustpollutioninNanjing,andatthesametime,
+thesurroundingareasaremostlycommercialareas,residentialareas,andschools,which
+reducesthediffusionofatmosphericparticulatemattertoacertainextent.
+Furthermore,XuanwuAvenuehasminimaldifferencesinclimateandenvironmental
+factors,suchastrafficconditions. Itsgreenbeltconstructionisrelativelymature,withvari-
+ousvegetationspeciesandgoodgrowthconditions,facilitatingcentralizeddatacollection.
+===== PAGE 4 =====
+Sustainability 2024, 16, x FOR PEER REVIEW 4 of 15
+Sustainability2024,16,917 surrounding areas are mostly commercial areas, residential areas, and schools, which 4 re o - f14
+duces the diffusion of atmospheric particulate matter to a certain extent.
+Figure1.GeographicallocationofXuanwuAvenue.
+Figure 1. Geographical location of Xuanwu Avenue.
+2.2. ExperimentalMaterials
+Furthermore, Xuanwu Avenue has minimal differences in climate and environmen-
+TheexperimentsurveyedtheexistingtreespeciesinthetrafficgreenspacesofXuanwu
+tal factors, such as traffic conditions. Its green belt construction is relatively mature, with
+Avenue,Nanjing. Followingtheprincipleoftypicaladaptability,13speciesofplantswith
+various vegetation species and good growth conditions, facilitating centralized data col-
+high frequency and wide application range in Nanjing were selected, including three
+lection.
+deciduoustrees,PA,PSL,andGB,alongwithtwoevergreentrees,CCandLL.Additionally,
+sixevergreenshrubswerechosen: OF,EJ,LC,PF,PT,andVO.Twotypesofherbaceous
+2.2. Experimental Materials
+plants,OJandLS,werealsoselected. Theexperimentequipmentmainlyconsistedofa
+The experiment surveyed the existing tree species in the traffic green spaces of
+3-mtelescopicbranchcutter,aregularbranchcutter,disposablerubbergloves,sealedbags,
+Xuanwu Avenue, Nanjing. Following the principle of typical adaptability, 13 species of
+atapemeasure,aleafareameter,anoven,anelectronicbalance,aspectrophotometer,a
+plants with high frequency and wide application range in Nanjing were selected, includ-
+flamephotometer,volumetricflasks,andbeakers.
+ing three deciduous trees, PA, PSL, and GB, along with two evergreen trees, CC and LL.
+Additionally, six evergreen shrubs were chosen: OF, EJ, LC, PF, PT, and VO. Two types
+2.3. ResearchMethods
+of herbaceous plants, OJ and LS, were also selected. The experiment equipment mainly
+2.3.1. SampleCollection
+consisted of a 3-m telescopic branch cutter, a regular branch cutter, disposable rubber
+Wechosetoconductoursamplingduringlatespringwhenplantsarethriving. Specif-
+gloves, sealed bags, a tape measure, a leaf area meter, an oven, an electronic balance, a
+ically,leafsampleswerecollectedon12April2023. Thesamplingprocesswascarriedout
+spectrophotometer, a flame photometer, volumetric flasks, and beakers.
+withinasingleday,duringwhichtheweatherwassunnyeveryday,withoutexceptional
+conditions such as heavy winds or rainfall. Three replicate samples were selected for
+2.3. Research Methods
+eachplantspeciesunderexamination,ensuringthatthesampledplantswereconsistent
+2.3.1. Sample Collection
+regardingtrunkdiameter,treeheight,treeage,crownwidth,andoverallgrowthstatus.
+PlanWthee cihghost,ec troo wconndhueicgt hotu,ra nsadmcproliwngn dwuirdinthg wlaetere smpreinagsu wrehdenu spilnagntas mareea tshurriivnigngta. Sppeea-nd
+caifimcaelalys,u lreianfg saromdp,lwesh wileerlee acfollelencgtethd aonnd 12le Aafpwrili d2t0h23o.f Tthhee scaomllepcltiendg pplraonctesssp wecaims ceanrsriwede re
+oruetc owrditehdinu as isnigngalele dafayar, edaumrientge rw. Shaicmhp tlhees wweeraethceorl lwecates dsuunnnifyo remvelyryf rdoamy,t wheitpheoruipt heexrcaelp,-up-
+tpioenr,aml ciodnddleit,iaonnds slouwche rasp ahretasvoyf wthientdess toerd rpalinanfatlsl,. wThitrhee1 5retopl3ic0aptela snatmlepalvese swbeerien gsecloecllteecdt ed
+foatr meauclhti pplleanpto isnptesctioese nusnudreer seuxfafimciiennattiroenp,r eesnesnutraitniogn thoaftd tuhset dsaempopslietdio np.lants were con-
+sistent regarding trunk diameter, tree height, tree age, crown width, and overall growth
+s2ta.3tu.2s.. CPalalcnut lhateiiognhto, fcProlawnnt DhueisgthRt,e taenndt icornowCanp waciidtyth were measured using a measuring
+tape aTnhdr eae mtoeafisvuerinegv ernoldy, swizheidle lleeaavf elsenwgtehre asnedl elcetaefd wfiodrthe aocfh thtees cteodllepcltaendt pslpaencti esps.ecLi-eaf
+mareenas wwaesrem reeacsourdreedd, uansidngth ae lleeaafv aersewa emreetderri.e Sdamanpdlews ewigehree dcotolledcetetedr muninifeorthmeliyr dfrroymw tehieg ht.
+pSepriepchifiecralle, aufpwpeeirg, hmtiwddalse,c aalncdu llaotwedera pcacortrsd oinf gthlye. tTeshteedle palvaenstsw, weriethth 1e5n tow 3a0s hpeladnat nledavdersie d,
+baenindge caoclhlepctleadn tast pmeuciletisp’lteo ptaolinletas ftoa reenasu(Sre) swufafsicmieneat srueprereds,einntcaltuiodnin ogf bdoutsht dtreepeoasnitdiosnh. rub
+1
+leaves.Thedustretentioncapacityoftheplantswasassessedusingthedifferenceinweight
+method. Dry filter paper (W ) was used to filter the suspension fluid, and the filtered
+1
+paper was then placed in sealed disposable Petri dishes. After being baked in a 60 ◦C
+ovenfor24h,thefilterpaperwasweighedusingaprecisionbalance(W ),andthedata
+2
+===== PAGE 5 =====
+Sustainability2024,16,917 5of14
+were recorded. The total dust retention of the leaves was obtained by subtracting the
+weightmeasurementsbeforeandafterfiltration,resultinginthetotaldustretention(C).
+Tentotwentymatureandintactleaveswereselectedforeachplantspeciesunderstudyto
+determinetheaverageleafarea(s). Thespecificformulaisasfollows:
+S=exp(0.631+0.2375H1+0.6906D−0.0123S2)+0.1824 (1)
+S =πD(H+D)/2 (2)
+2
+C =C/S (3)
+1 1
+C =C/S ×s (4)
+2 1
+C =C ×S (5)
+3 1
+Intheseequations,Srepresentsthetotalleafarea,Hcorrespondstotheheightofthe
+crown,Ddenotesthecrownwidth,C representstheamountofdustretainedperunitleaf
+1
+area,C representsthedustretainedpersingleleaf,andC representsthedustretainedper
+2 3
+plant. Itshouldbenotedthat“exp”referstotheexponentialfunction,while“π”represents
+themathematicalconstantpi. Duringtheexperiment,10to20matureandintactleaves
+wereselectedfromeachplantspeciestodeterminetheaverageleafarea(s).
+2.3.3. DeterminationofNitrogen,Phosphorus,andPotassiumElementContentin
+PlantLeaves
+TheKjeldahlmethodwasusedtodetermineplantleaves’nitrogen,phosphorus,and
+potassiumcontent. Theplantsamplesweredigestedwithconcentratedsulfuricacidin
+thepresenceofcoppersulfateandpotassiumsulfate. Afterthedigestatewasobtained,
+thenitrogenandphosphoruscontentoftheleaveswasmeasuredusingtheindophenol
+bluecolorimetricmethodonaspectrophotometer. Thepotassiumcontentoftheleaveswas
+determinedusingflamephotometrywithaflamephotometer.
+Thefollowingequationwasusedtocalculatethenitrogen,phosphorus,orpotassium
+content(W):
+W=c×V×t ×1000/m×105 (6)
+s
+Wrepresentsthetotalnitrogencontent(W ),totalphosphoruscontent(W ),ortotal
+N P
+potassiumcontent(W ). crepresentstheconcentrationofthecoloredsolutionofnitrogen
+K
+orphosphorusobtainedfromtheworkingcurveortheconcentrationofthecoloredsolution
+ofpotassiummeasuredfromtheflamephotometer. Vrepresentsthevolumeofthecolored
+solution. t representstheextractionfactor. mrepresentsthedriedsamplemass.
+s
+2.3.4. ObservationoftheMicroscopicStructureontheSurfaceoftheLeaves
+A piece of each plant leaf was randomly selected, and a sample of 5 mm × 5 mm
+wascutattheleafnearthemainveinoftheleaftipandquicklyplacedinaglutaralde-
+hyde solution with a volume fraction of 2.5% for fixation. It was dehydrated using an
+ethanolsolution[35]. Afterthesamplewasplated,itwasfixedonthesamplestageusing
+double-sidedcarbonglue. Anenvironmentalscanningelectronmicroscope(Quanta200,
+FEI, Eindhoven, the Netherlands) was used to observe sample characteristics and take
+photosofmicro-morphologicalfeaturessuchasleafsurface,stomata,andcross-sectionsto
+obtainimages.
+2.4. DataProcessing
+MicrosoftExcel2007forwasuseddatastatisticsandorganization. IMBSPSSStatistics
+26wasutilizedforone-wayANOVAofthedifferencesindustretentionbetweendifferent
+plants. The K-means clustering method was applied for systematic clustering analysis
+ofthedustretentioncapabilityofthetestedplants. Correlationanalysiswasconducted
+betweenplantgrowthindicators,leafnitrogen–phosphorus–potassiumcontent,anddust
+retentioncapability. Origin2021softwarewasusedforcharting.
+===== PAGE 6 =====
+Sustainability 2024, 16, x FOR PEER REVIEW 6 of 15
+sided carbon glue. An environmental scanning electron microscope (Quanta 200, FEI,
+Eindhoven, the Netherlands) was used to observe sample characteristics and take photos
+of micro-morphological features such as leaf surface, stomata, and cross-sections to obtain
+images.
+2.4. Data Processing
+Microsoft Excel 2007 for was used data statistics and organization. IMB SPSS Statis-
+tics 26 was utilized for one-way ANOVA of the differences in dust retention between dif-
+ferent plants. The K-means clustering method was applied for systematic clustering anal-
+ysis of the dust retention capability of the tested plants. Correlation analysis was con-
+ducted between plant growth indicators, leaf nitrogen–phosphorus–potassium content,
+Sustainability2024,16,917 and dust retention capability. Origin 2021 software was used for charting. 6of14
+3. Results
+3. Results
+3.1. Analysis of Plant Dust Retention Capability
+3.1. AnalysisofPlantDustRetentionCapability
+3.1.1. The Results of Dust Retention Capacity of Different Garden Plants’ Leaves
+3.1.1. TheResultsofDustRetentionCapacityofDifferentGardenPlants’Leaves
+In this experiment, the dust capture capacity of leaves from 13 species of urban plants
+Inthisexperiment,thedustcapturecapacityofleavesfrom13speciesofurbanplants
+along Xuanwu Avenue was measured in three aspects: dust retention per unit leaf area,
+alongXuanwuAvenuewasmeasuredinthreeaspects: dustretentionperunitleafarea,
+dust retention per single leaf, and dust retention per single plant (dust retention per single
+dustretentionpersingleleaf,anddustretentionpersingleplant(dustretentionpersingle
+plant was measured for 11 species of urban plants). As shown in Figure 2, GB’s dust re-
+plant was measured for 11 species of urban plants). As shown in Figure 2, GB’s dust
+tention was too low to be reflected in the figure.
+retentionwastoolowtobereflectedinthefigure.
+Figure 2. Dust retention per unit leaf area (A), per single leaf (B), and single plant of different plants
+Figure 2. Dust retention per unit leaf area (A), per single leaf (B), and single plant of different
+(C). Different lowercase letters indicate significant differences in dust retention per unit leaf area
+plants(C).Differentlowercaselettersindicatesignificantdifferencesindustretentionperunitleaf
+(A), per single leaf (B), and single plant of different plants (C) among various species at the 0.05
+area(A),persingleleaf(B),andsingleplantofdifferentplants(C)amongvariousspeciesatthe
+level. PA (P. acerifolia); PSL (P. serrulata var. Lannesiana); GB (G. biloba); CC (C. camphora); LL (L.
+0.05level. PA(P.acerifolia);PSL(P.serrulatavar. Lannesiana);GB(G.biloba);CC(C.camphora);LL
+lucidum); OF (O. fragrans); EJ (E. japonicus var. albo-marginatus); LCt (L. chinense var. rubrum); PF (P.
+(frLa.sleurci)id; uPmT:) ;POittFo(sOpo.rfruamgr atonbs)ir;aE;J V(EO. (jVap. oondiocruastivssairm.ualmbo);- mOaJ r(gOin. ajatpuosn);icLuCs)t; (LLS. c(hLi.n sepnicsaetva)a (rs.armuber ubmel)o;wP)F.
+(P.fraseri);PT:Pittosporumtobira;VO(V.odoratissimum);OJ(O.japonicus);LS(L.spicata)(samebelow).
+The order of dust retention per unit leaf area (Figure 2A) of the 13 species of urban
+Theorderofdustretentionperunitleafarea(Figure2A)ofthe13speciesofurbanplants
+plants along Xuanwu Avenue from highest to lowest is as follows: LS > OJ > VO > EJ > PT
+alongXuanwuAvenuefromhighesttolowestisasfollows:LS>OJ>VO>EJ>PT>PF>
+> PF > PSL > OF > LL > LC > CC > PA > GB. Among them, LS has the highest dust retention
+PSL>OF>LL>LC>CC>PA>GB.Amongthem,LShasthehighestdustretentionper
+per unit leaf area, which is 69.039 g·m2, while GB and PA have the lowest, with only 0.15
+unitleafarea,whichis69.039g·m2,whileGBandPAhavethelowest,withonly0.15g·m2
+g·m2 and 0.951 g·m2, respectively. There are significant differences in dust retention per
+and0.951g·m2,respectively. Therearesignificantdifferencesindustretentionperunitleaf
+unit leaf area among different plants, with LS having nearly 40 times the dust retention
+areaamongdifferentplants,withLShavingnearly40timesthedustretentionperunitleaf
+per unit leaf area of GB.
+areaofGB.
+The order of dust retention per single leaf (Figure 2B) from highest to lowest is as
+The order of dust retention per single leaf (Figure 2B) from highest to lowest is as
+follows: VO > PSL > LS > OF > OJ > PF > LL > PA > PT > CC > EJ > LC > GB. Among them,
+follows: VO>PSL>LS>OF>OJ>PF>LL>PA>PT>CC>EJ>LC>GB.Amongthem,
+VO has the highest dust retention per single leaf, which is 2.836 g·m2, while EJ, LC, and
+VOhasthehighestdustretentionpersingleleaf,whichis2.836g·m2,whileEJ,LC,andGB
+GB have a dust retention per single leaf ranging from 0.004 g·m2 to 0.172 g·m2, indicating
+haveadustretentionpersingleleafrangingfrom0.004g·m2to0.172g·m2,indicatingthe
+the weakest dust retention per single leaf. There are significant differences in dust reten-
+weakestdustretentionpersingleleaf. Therearesignificantdifferencesindustretention
+tion per single leaf among different plants, with VO having nearly 30 times the dust re-
+persingleleafamongdifferentplants,withVOhavingnearly30timesthedustretention
+tention per single leaf of LC.
+persingleleafofLC.
+Based on the dust retention per unit leaf area and the leaf area per plant, the dust
+retentionpersingleplant(Figure2C)forthe11speciesoftreesandshrubsalongXuanwu
+Avenue can be calculated. The order of dust retention per single plant from highest to
+lowestisasfollows: PA>VO>CC>PSL>EJ>OF>PT>LL>PF>LC>GB.Among
+them,PAhasthehighestdustretentionpersingleplant,337.141g·m2,whileLCandGB
+haveadustretentionpersingleplantof8.62g·m2and0.45g·m2,respectively,indicatingthe
+weakestdustretentionpersingleplant. Therearesignificantdifferencesindustretention
+persingleplantamongdifferentplants,withPAhavingnearly40timesthedustretention
+persingleplantofLC.
+Theanalysisofthedustretentiondataobtainedinthisexperimentledtothefollowing
+results (Table 1): Among the three categories (per unit leaf area, per single leaf, and
+individualplant),herbaceousplantsdemonstratedsignificantlyhigherdustretentionthan
+shrubs,whileshrubsshowedbetterdustretentionthantrees. Regardingdustretentionper
+===== PAGE 7 =====
+Sustainability 2024, 16, x FOR PEER REVIEW 7 of 15
+Based on the dust retention per unit leaf area and the leaf area per plant, the dust
+retention per single plant (Figure 2C) for the 11 species of trees and shrubs along Xuanwu
+Avenue can be calculated. The order of dust retention per single plant from highest to
+lowest is as follows: PA > VO > CC > PSL > EJ > OF > PT > LL > PF > LC > GB. Among
+them, PA has the highest dust retention per single plant, 337.141 g·m2, while LC and GB
+have a dust retention per single plant of 8.62 g·m2 and 0.45 g·m2, respectively, indicating
+the weakest dust retention per single plant. There are significant differences in dust reten-
+tion per single plant among different plants, with PA having nearly 40 times the dust re-
+tention per single plant of LC.
+The analysis of the dust retention data obtained in this experiment led to the follow-
+ing results (Table 1): Among the three categories (per unit leaf area, per single leaf, and
+Sustainability2024,16,917 individual plant), herbaceous plants demonstrated significantly higher dust retention7 of14
+than shrubs, while shrubs showed better dust retention than trees. Regarding dust reten-
+tion per single leaf, herbaceous plants performed the best, followed by shrubs, and trees
+shiandg ltehele laofw,hesetr breatceenotiuosnp claapnatcsitpye. rTforerems esdhotwheedb ethste, fhoigllhoewste deffbeycts ohnr udbuss,ta rnedtentrteioens hpaerd the
+lionwdievsidtrueatle nptlaionnt, cwaphailcei tsyh.rTurbese sesxhhoibwiteedd tshigenhiifgichaensttlye fbfeecttteor nddusuts trerteetnetniotino nthpaenr hinedrbivai-dual
+pcelaonuts, pwlahniltes. shrubsexhibitedsignificantlybetterdustretentionthanherbaceousplants.
+TTaabbllee 11.. SSttaattiissttiiccss ooff dduusst taaddhhereerded tot odidffieffreernetn ptlpanlatns tpsepr einrdinivdiidvuidalu pallapnlta. nt.
+Dust Trapping Single Plant Dust
+TheSpeciesof DThuest STpraepcipeisn ogfA mDouunstt pTerrappinDgu AstmTroaupnpti npgerA mountper SinglePlantDustRetention
+Plants UnitLeafArea(g·m2) SingleLeaf(g A·m m2o ) unt per Sin- Q R u e a te n n ti t t i y on (g Q·m u2a ) n-
+Plants Unit Leaf Area (g·m2)
+gle Leaf (g·m2) tity (g·m2)
+Deciduoustree 2.072 0.5274 92.959
+Deciduous tree 2.072 0.5274 92.959
+Shrub 7.432 0.8153 53.194
+Herb Shrub5 2.327 7.432 0.874 0.8153 53/.194
+Herb 52.327 0.874 /
+3.1.2. ClusterAnalysisofPlantDustRetentionCapacity
+3.1.2. Cluster Analysis of Plant Dust Retention Capacity
+Afterconductingclusteranalysisonthedustretentioncapacitiesofdifferenttreeand
+After conducting cluster analysis on the dust retention capacities of different tree and
+shrubunits,wereferredtoAliyaBaidourela’smethod[36]andrefinedtheclassificationon
+shrub units, we referred to Aliya Baidourela’s method [36] and refined the classification
+itsbasis. Includingunitleafareadustretentioncapacity,singleleafdustretentioncapacity,
+on its basis. Including unit leaf area dust retention capacity, single leaf dust retention ca-
+andsingleplantdustretentioncapacity,thetestedplantscanbedividedintofivecategories
+pacity, and single plant dust retention capacity, the tested plants can be divided into five
+basedontheircomprehensivedustretentioncapacities(Figure3). Category1includesVO,
+categories based on their comprehensive dust retention capacities (Figure 3). Category 1
+PA,andPSLwithstrongcomprehensivedustretentioncapacity. Category2consistsof
+includes VO, PA, and PSL with strong comprehensive dust retention capacity. Category
+LL,OF,andCCwithrelativelystrongcomprehensivedustretentioncapacity. Category3
+2 consists of LL, OF, and CC with relatively strong comprehensive dust retention capacity.
+comprisesEJwithmoderatecomprehensivedustretentioncapacity. Category4includes
+Category 3 comprises EJ with moderate comprehensive dust retention capacity. Category
+LC,PT,andPFwithrelativelyweakcomprehensivedustretentioncapacity. Category5
+4 includes LC, PT, and PF with relatively weak comprehensive dust retention capacity.
+consistsofGBwithweakcomprehensivedustretentioncapacity.
+Category 5 consists of GB with weak comprehensive dust retention capacity.
+Figure3. Clusteranalysisofdustretentionquantityperunitleafarea,perleaf,andperplantin
+woodyandshrubbyplants.
+3.2. MeasurementResultsofNitrogen,Phosphorus,andPotassiumElementsinPlantLeaves
+Accordingtothevaluesobtainedfromspectrophotometermeasurementsoftheni-
+trogenandphosphorusstandardsolution,anitrogenandphosphoruscalibrationcurve
+(Figure4A)wasplotted. Theconcentrationsofnitrogenandphosphorusinthecolorimetric
+solutionweredeterminedfromthecalibrationcurve. Usingaflamephotometertomeasure
+thepotassiumcontentandapplyingtheformulasfortotalnitrogen,totalphosphorus,and
+totalpotassiumcontent,thenitrogen,phosphorus,andpotassiumelementsinthetestedplant
+leavescanbecalculated.FromFigure4B,itcanbeseenthatthenitrogencontentintheplant
+leaves,fromhighesttolowest,isPA>PSL>PF>LL>EJ>GB>OJ>CC>LS>PT>VO>
+OF>LC.FromFigure4C,itcanbeseenthatthephosphoruscontentintheplantleaves,from
+highesttolowest,isPA>GB>OF>LS>LL>OJ>PSL>CC>PF>PT>VO>LC>EJ.
+FromFigure4D,itcanbeseenthatthepotassiumcontentintheplantleaves,fromhighest
+tolowest,isPA>PT>LC>GB>EJ>LL>PF>OJ>PSL>CC>VO>OF>LS.
+===== PAGE 8 =====
+Sustainability 2024, 16, x FOR PEER REVIEW 8 of 15
+Figure 3. Cluster analysis of dust retention quantity per unit leaf area, per leaf, and per plant in
+woody and shrubby plants.
+3.2. Measurement Results of Nitrogen, Phosphorus, and Potassium Elements in Plant Leaves
+According to the values obtained from spectrophotometer measurements of the ni-
+trogen and phosphorus standard solution, a nitrogen and phosphorus calibration curve
+(Figure 4A) was plotted. The concentrations of nitrogen and phosphorus in the colorimet-
+ric solution were determined from the calibration curve. Using a flame photometer to
+measure the potassium content and applying the formulas for total nitrogen, total phos-
+phorus, and total potassium content, the nitrogen, phosphorus, and potassium elements
+in the tested plant leaves can be calculated. From Figure 4B, it can be seen that the nitrogen
+content in the plant leaves, from highest to lowest, is PA > PSL > PF > LL > EJ > GB > OJ >
+CC > LS > PT > VO > OF > LC. From Figure 4C, it can be seen that the phosphorus content
+in the plant leaves, from highest to lowest, is PA > GB > OF > LS > LL > OJ > PSL > CC >
+PF > PT > VO > LC > EJ. From Figure 4D, it can be seen that the potassium content in the
+Sustainability2024,16,917 plant leaves, from highest to lowest, is PA > PT > LC > GB > EJ > LL > PF > OJ > PSL > CC8o f14
+> VO > OF > LS.
+Figure 4. The working curves for nitrogen and phosphorus standard solutions (A), as well as the
+Figure4. Theworkingcurvesfornitrogenandphosphorusstandardsolutions(A),aswellasthe
+plant nitrogen (B), phosphorus (C), and potassium (D) content. Different lowercase letters indicate
+plantnitrogen(B),phosphorus(C),andpotassium(D)content.Differentlowercaselettersindicate
+that the contents of nitrogen (B), phosphorus (C) and potassium (D) in leaves of different species
+thatwtheree csoignntiefnictasnotlfy ndiitfrfoergeennt a(Bt t)h,ep lheoveslp ohfo 0r.u05s. (C)andpotassium(D)inleavesofdifferentspecies
+weresignificantlydifferentatthelevelof0.05.
+3.3. AnalysisofLeafSurfaceMicrostructuralCharacteristics
+Scanningelectronmicroscopywasusedtoscanthecross-sectionsofleaves,stomata,
+andleafsurfacesof13plantspecies(Figure5). Theresultsshowedthattheleafsurfaceof
+PAwasroughwithstar-shapedhairs,andparticleswereobservedsurroundingit. PSL
+haddeepgroovesaroundthestomata,andtheleaveswerehairless,withsmallparticles
+observed within the grooves. GB leaves have ridges with a regular arrangement, with
+veryfewlargeparticlesremainingbetweentheridges;CCleavesarerelativelysmooth,
+withpronouncedveins,glandularspotsatthebase,aslightfuzzwhenyoung,andasmall
+amountofparticlesbetweenthedefensecells;LLleafsurfacesaresmoothandhairless,
+with slightly concave midveins, and some particles remaining around the stomata; OF
+leafsurfaceshaveridges,andtheveinsarenoticeablyconcave;EJhasconspicuousveins,
+smooth and hairless leaf surfaces, and a relatively large amount of particles remaining
+around the stomata; LC leaf surfaces are rough, with clear veins and star-shaped hairs
+alongtheveins;PFleafsurfaceshaveshallowprotrusions,clearprominentveins,serrated
+edges with glands, and small particles remaining on the leaf surface; PT young leaves
+havesofthairs,slightlycurlededges,andasmallamountofparticlesremainingonthe
+leafsurface;VOleavesareroughandsometimeshavestar-shapedhairs,withnoticeably
+concaveveinsandarelativelylargeamountofparticlesremainingaroundthestomataand
+ontheleafsurface;OJandLShavesunkenstomata,deepridgesontheleafsurface,anda
+largeamountofparticlesremaininginbetween.
+===== PAGE 9 =====
+SSuusstataininaabbiliiltiyty 22002244, 1,61,6 x, 9F1O7R PEER REVIEW 10 of 195o f14
+Figure5. Electronmicroscopescanningofmicrostructuresonleafsurfacesof13typesofgarden
+plants.(A)Leafcross-section;(B)leafstomata;(C)leafsurface;(D)plantmicrostructuralparameters;
+===== PAGE 10 =====
+S Suustsatianinabaibliiltiyty2 022042,41, 61,69, 1x7 FOR PEER REVIEW 1 1 1 0 o o f f 1 1 4 5
+Figure 5. Electron microscope scanning of microstructures on leaf surfaces of 13 types of garden
+plants. (A) Leaf cross-section; (B) leaf stomata; (C) leaf surface; (D) plant microstructural parame-
+UEP:upperepidermis; LEP:lowerepidermis; PT:palisadetissue; SPT:stissue; ST:stomata; VB:
+ters; UEP: upper epidermis; LEP: lower epidermis; PT: palisade tissue; SPT:s tissue; ST: stomata; VB:
+vascularbundle;TRI:trichomes.TUE:upperepidermisthickness;TLE:lowerepidermisthickness;
+vascular bundle; TRI: trichomes. TUE: upper epidermis thickness; TLE: lower epidermis thickness;
+TP:palisadetissuethickness;TS:spongytissuethickness;TVB:vascularbundlethickness;SL:stomata
+TP: palisade tissue thickness; TS: spongy tissue thickness; TVB: vascular bundle thickness; SL: sto-
+length;SW:stomatawidth;PAleafismagnified200times,whiletherestofthebladesaremagnified
+mata length; SW: stomata width; PA leaf is magnified 200 times, while the rest of the blades are
+5m00agtinmifeiesd. 5T0h0e ticmroesss. -Tsehcet icornosos-fsethcteioVnO ofl tehaev eVsOi slemavaegsn iisfi medag4n0i0fietidm 4e0s0, taimndest,h aendo tthheer oltehaevre lseaavrees
+maareg nmifiagedni2fi0e0dt 2im00e sti.mTehse. sTthome sattoamaaretam aareg nmifiaegdni5fi0e0dt i5m00e st.imes.
+3.4. Results of Correlation Analysis between Plant Growth Indices, Elemental Content, and Dust
+3.4. ResultsofCorrelationAnalysisbetweenPlantGrowthIndices,ElementalContent,and
+DRuesttenRteiotenn tion
+BByya annaalylyzziningg tthheec coorrrreelalattiioonn bbeettwweeeenn tthhee dduusstt ttrraappppiinngg ccaappaacciittyy ppeerr uunniitt lleeaaff aarreeaa,,
+ppeerrl eleaaf,f,a annddp peerrp plalannttw witihthv vaariroiouussg grorowwththi ninddiciceesso offp plalanntsts;;n nitirtoroggeenn,,p phhoosspphhoorruuss,,a anndd
+ppootatassssiuiummc coonntetenntt;;a anndds stotommaatatallc chhaarraaccteterrisistticicss,,w weec caannd deerirviveet htheef ofolllolowwininggg grarapphh..A Ass
+sshhoowwnn ininF Figiguurree6 6,,t htheet etessteteddp plalanntsts’’d duussttt rtraappppiningg ccaappaaccitityy ppeerr uunnitit leleaaff aarreeaas shhoowwssa a
+ssigignnifiifcicaanntt ppoossititivivee ccoorrrreelalattioionn wwitithhs stotommaattaalll elennggtthh (p(p= = 00.0.03366)) aanndda ah higighhlylys sigignnifiifcicaanntt
+nneeggaatitviveec coorrrerelalatitoionnw witihthl eleaaffl elennggthth( p(p= =0 0.0.00066))..T Thheec coorrrreelalattioionnb beettwweeeennt thheep peerr-l-eleaaffd duusstt
+trtraappppiningg ccaappaacciittyy aanndd tthhee vvaarriioouuss iinnddiicceess isis ininsisgignnifiificacannt.t T. hTeh peepr-epr-lapnlat ndtudsut tsrtatprpapinpgi ncga-
+cpapacaictiyty shshoowws sssigignnifiificcaanntt ppoossiittiivvee ccoorrrreellaattiioonnss wwiitthh ppllaanntt hheeiigghhtt ((pp == 00..001133)),, ccaannooppyyh heeigighhtt
+(p(p= =0 0.0.02222)),,a annddl leeaaffw wiiddtthh( (pp= = 00..001111));; aa hhiigghhllyy ssiiggnniifificcaanntt ppoossiittiivvee ccoorrrreellaattiioonnw wiitthhc caannooppyy
+wwididthth( (pp == 00..000022));; aanndd aa hhiigghhllyy ssiiggnniiffiiccaanntt nneeggaatitvivee ccoorrrerelalatitoionn wwitihth ppotoatsassisuimum cocnotnetnetn (tp
+(p< <0.001.0)1. )(.T(hTeh heihgihgehre trhteh ceocrorerrlaeltaiotino,n t,hteh semsmalalellre trhteh pe-pv-avlauleu.)e .)
+FFigiguurere6 6..C Coorrrreelalatitoionnb beetwtweeeennd duussttr eretetenntitoionno offp plalanntstsa annddv vaariroiouussi ninddiciacatotorsr.s.C C11::d duussttr reetetenntitoionnp peerr
+uunnititl eleaaffa arereaa;;C C22::d duussttr reetetenntitoionnp peerrl eleaaf;f;C C33::d duussttr reetteennttioionnp peerri ninddivivididuuaall ppllaanntt;; HH::p plalanntth heeiigghhtt;;
+H1: crown height; D: crown width; L1: leaf length; L2: leaf width; L1/L2: leaf length–width ratio;
+H1:crownheight;D:crownwidth;L1:leaflength;L2:leafwidth;L1/L2:leaflength–widthratio;
+SLW: specific leaf weight; WN: nitrogen content; WP: phosphorus content; WK: potassium content;
+SLW:specificleafweight;WN:nitrogencontent;WP:phosphoruscontent;WK:potassiumcontent;
+SL: stomatal length; SW: stomatal width; SA: stomatal area; N: number of stomata within the field
+SL:stomatallength;SW:stomatalwidth;SA:stomatalarea;N:numberofstomatawithinthefieldof
+of view; SD: stomatal density.
+view;SD:stomataldensity.
+4. Discussion
+4.1. The Influence of Plant Types on Dust Retention Capacity and Its Application in Improving
+Urban Ecological Environment
+===== PAGE 11 =====
+Sustainability2024,16,917 11of14
+4. Discussion
+4.1. TheInfluenceofPlantTypesonDustRetentionCapacityandItsApplicationinImproving
+UrbanEcologicalEnvironment
+The dust retention of different plants varies due to factors such as plant species,
+level of leaf density, leaf surface microstructure, and leaf texture [33,37,38]. The results
+of this experiment show that among the tested plants, herbaceous plants have the best
+dustretentioneffectintermsofdustretentionperunitleafareaanddustretentionper
+singleleaf. Thisisbecausethesurfacegroovesandstomataldepressionsontheleavesof
+plantslikeLSandOJcanbetterblockdustparticles. Additionally,dustparticlescanbe
+re-suspendedbypassingvehicles,butduetogravity,theytendtosettleatlowerheights.
+Conversely,treesaremoresusceptibletowindinfluenceduetotheirtallercanopy,leading
+todustparticlesontheirleavesbeingblowndowntoshrubandherblayers[39]. Therefore,
+herbaceousandshrubbyplantshavemorevitaldustretentionabilitiesregardingunitleaf
+areaandpersingleleafthantrees. Intermsofindividualplants’dustretentioncapacity,
+treeshaveahighercapacitycomparedtoshrubsduetotheirlargerfoliage,asinthecase
+ofPA,aplanttestedinthisstudywithalargeleafareaandcrownwidth. Itisspeculated
+thatthelargerthecanopywidth,themorecomplexthestructureofbranchesandleaves
+insidethecanopy,andsomeoftheparticulatematterretainedbytheleavesisblownoff
+bythewind,andtheotherpartisinterceptedbytherestofthebranchesandleavesinthe
+canopy,resultinginamorerobustindividualplantdustretentioncapacityandoveralldust
+retentionability. Atree–shrub–grassplantstructuremodelcanbeusedwhenselecting
+plantsforroadsidegreenspacesandgardens. Thismodelhasthehighestfoliageareaper
+unit and can retain relatively more dust particles. It also maximizes the dust retention
+characteristicsofdifferenttypesofplantsandretainsdustparticlesatdifferentheights,
+thusimprovingtheurbanecologicalenvironment.
+4.2. InfluenceofLeafSurfaceStructureandMorphologyonaPlant’sDustRetentionCapacity
+Themorphologyofplantleafsurfacestructurescanaffecttheplant’sdusttrapping
+ability. Dust particles mainly accumulate around trichomes or embed in the grooves
+between the leaf surface ridges and stomata. Dust also accumulates in the transitional
+zoneswithdifferentstructures[40,41]. Forexample,inthisstudy,OJ,LS,andVOleaves
+wereroughonthesurfacewithdeepgrooves, enablingthemtotrapalargeamountof
+particles effectively—their dust trapping capacity per unit leaf area ranked the highest
+among the tested plants. The leaves of CC are relatively smooth and lack prominent
+grooves,makingitdifficultforthemtotrapparticles. Therefore,thedusttrappingability
+perunitleafareaofCCispoor. Despitehavingdeepgroovesontheleafsurface,GBhas
+thelowestdusttrappingcapacityperunitleafarea,possiblyduetoitshydrophobicsurface
+thatisnotconducivetotrappingparticles,assuggestedbyNeinhuisetal.[42].
+Ontheotherhand,Zhouetal.[43]proposedthatthedepthandwidthofthegrooves
+ontheleavesofGBaffectitsdusttrappingeffect. PAhasaroughleafsurfacewithstar-
+shapedhairs,butitsdusttrappingcapacityperunitleafareaispoor,possiblybecausePA
+plantsarerelativelytallandNanjingCityreceivesamplerainfall,causingparticlesonthe
+leafsurfacetobeblownoffbywindorwashedawaybyrainwater. PThasyoungleaves
+withsofthairsandslightlycurledleafblades,demonstratingamoderatedusttrapping
+ability per leaf. EJ has smooth leaves but a good dust trapping capacity per unit leaf
+area. LChasroughleaveswithstar-shapedhairs,butitsdusttrappingcapacityperunit
+leafareaispoor,possiblyduetoitsgrowthconditions. Therefore,plantswithroughleaf
+surfacesandtrichomescanbechosenwhenselectingplantsforroadsidegreenspaceswhile
+ensuringpropermaintenanceandmanagementtoachievethedesiredecologicalbenefits.
+4.3. TheImpactofStomataonDustRetentioninPlants
+Thisstudyfoundasignificantpositivecorrelationbetweenunitleafareadustretention
+andstomatallengthbutnotwithotherindicatorssuchasstomatalarea. Thisisdifferent
+fromthefindingsofSimon[44]. ZhongLinlinetal. believethatthelargerthestomata,
+===== PAGE 12 =====
+Sustainability2024,16,917 12of14
+thestrongerthetranspirationofplantleaves,whichincreasesthehumidityoftheairnear
+the leaves and contributes to the retention of particles on the leaf surfaces [45]. On the
+otherhand,LiuLubelievesthatwhenthestomataareopen,particlesadhereinsidethe
+stomataandarelesslikelytobeblownoffbywindorwashedawaybyrainwater[13]. The
+opennessofplantstomataiseasilyinfluencedbyenvironmentalfactors,whichmayaffect
+thedustretentioncapacityofplants. Insummary,plantheight,crownwidth,leafsurface
+microstructure,andweathercanallimpactaplant’sdustretentioncapacitytosomeextent.
+Therefore,thestrengthofaplant’sdustretentioncapacityresultsfromthecombinedeffects
+ofmultiplefactors.
+Thisstudyfocusedonthedustretentioncapacityofdifferentplantsduringthepeak
+growthseason(latespringandearlysummer)ofXuanwuAvenueinNanjing,andother
+treespecieswithdustretentionabilitycouldbefurtherincludedintheresearchscopein
+thefuture,whilethephenologicalfactorsofthesameplantsalsoneedtobefurtherstudied.
+5. Conclusions
+ThisstudyusedXuanwuAvenueinNanjingasacasestudytoinvestigatethedust
+retention abilities of different plants by quantitatively measuring dust retention. The
+studyexaminedplantgrowthindicators,nitrogen–phosphorus–potassiumcontent,andthe
+correlationbetweenleafsurfacemicrostructureanddustretentionabilities. Thefollowing
+conclusions were drawn, which can provide a reference for rational planning of urban
+greenspace,reducingthecostofairpollutioncontrol,improvingthequalityofhumanlife,
+maintainingthestabilityoftheecosystem,andpromotingthesustainabledevelopmentof
+thecityinmanyaspects:
+(1) Regardingdustretentionperunitleafarea,herbaceousplants>shrubs>trees,with
+LSandOJshowingthebestdustretentioneffects. Regardingdustretentionpersingle
+leaf,herbaceousplants>shrubs>trees,withVO,PSL,andLSshowingthebestdust
+retentioneffects. Regardingdustretentionperindividualplant,trees>shrubs,with
+PAshowingthebestdustretentioneffect. Amongthetestedtreesandshrubs,VO,PA,
+andPSLhavethebestoveralldustretentionabilityandshouldbeconsideredpriority
+treespeciesforurbangreening.
+(2) The potassium element content in the tested plants shows a significant negative
+correlation with dust retention per individual plant. Therefore, selecting garden
+plantswithlowerpotassiumcontent,suchasPA,isadvisabletoensureaverageplant
+growthanddevelopment.
+(3) Plantgrowthindicatorsplayasignificantroleindustretention. Plantheight,crown
+width,andcrownheightaresignificantlypositivelycorrelatedwithdustretentionper
+singleplant. Therefore,acombinationoftrees,shrubs,andherbaceousplants,suchas
+PA-VO-LS,canbeusedinurbanroadsidegreenspacestomaximizetheecological
+valueofplants. Leafstomatallengthpositivelycorrelateswithdustretentionperunit
+leafarea,whileleafsurfaceroughness,grooves,andtrichomesalsoaffectaplant’s
+dustretentionability.
+AuthorContributions:Conceptualization,Q.S.;Methodology,Q.S.;Software,R.Y.;Validation,W.L.;
+Formalanalysis,X.Z.(XiruZhang);Investigation,C.M.;Datacuration,X.Z.(XiangyiZhang)andX.Z.
+(XiruZhang);Writing–originaldraft,X.Z.(XiangyiZhang);Writing–review&editing,X.Z.(Xiangyi
+Zhang);Visualization,X.Z.(XiangyiZhang);Supervision,Q.S.;Projectadministration,Z.Z.;Funding
+acquisition,Z.Z.Allauthorshavereadandagreedtothepublishedversionofthemanuscript.
+Funding:ThisresearchwasfundedbytheMinistryofEducationHumanitiesandSocialSciences
+Research“StudyonthenewmechanismofurbangreenspaceecologicalbenefitMeasurementand
+high-qualitycollaborativedevelopment:AcasestudyofNanjingMetropolitanArea”:grantnumber
+21YJCZH131;YoungelitescientistsponsorshipprogrambycastinChinaAssociationforScienceand
+Technology: grantnumberYESS20220054;SocialScienceFoundationProjectofJiangsuProvince:
+grantnumber21GLC002;NationalNaturalScienceFoundationofChina:grantnumber32101582;
+NaturalScienceFoundationofJiangsuProvinceofChina:grantnumberBK20210613;TheNatural
+===== PAGE 13 =====
+Sustainability2024,16,917 13of14
+ScienceFoundationoftheJiangsuHigherEducationInstitutionsofChina:grantnumber21KJB220008;
+TheNationalNaturalScienceFoundationofChina:grantnumber32071832.“QingLanProject”in
+JiangsuProvinceofChina:None.AndtheAPCwasfundedbyQianqianSheng.
+InstitutionalReviewBoardStatement:Notapplicable.
+InformedConsentStatement:Notapplicable.
+DataAvailabilityStatement:Therawdatasupportingtheconclusionsofthisarticlewillbemade
+availablebytheauthorsonrequest.
+ConflictsofInterest:AuthorRuizhenYangwasemployedbythecompanyNanjingSkyHuntData
+TechnologyCo.,Ltd.Theremainingauthorsdeclarethattheresearchwasconductedintheabsence
+ofanycommercialorfinancialrelationshipsthatcouldbeconstruedasapotentialconflictofinterest.
+References
+1. Bao, H.G.; Wang, C.; Du, W.G.Researchprogressondustdetentioneffectofurbantrees. J.Ecol. Rural. Environ. 2021, 37,
+1514–1523.
+2. Dong,Y.W.InfluenceofTotalSuspendedParticulateMatterinAmbientAironHumanHealth.Environ.Sci.Manag.2022,47,
+93–97.
+3. Zhao,H.;Che,H.;Zhang,X.;Ma,Y.;Wang,Y.;Wang,H.;Wang,Y.Characteristicsofvisibilityandparticulatematter(PM)inan
+urbanareaofNortheastChina.Atmos.Pollut.Res.2013,4,427–434.[CrossRef]
+4. Ma,C.AnalysisoftheHealthImpactofAirSuspendedParticulatePollutionConcentrationonOutdoorFitnessPopulation.
+Environ.Sci.Manag.2019,44,88–91.
+5. Du,P.R.;Du,R.;Ren,W.S.Researchprogressontoxicologicalcharacteristicsandmechanismsofurbanatmosphericparticulate
+matters.ChinaEnviron.Sci.2016,36,2815–2827.
+6. Singh,M.;Jaques,P.A.;Sioutas,C.Sizedistributionanddiurnalcharacteristicsofparticle-boundmetalsinsourceandreceptor
+sitesoftheLosAngelesBasin.Atmos.Environ.2002,36,1675–1689.[CrossRef]
+7. Nowak,D.J.;Crane,D.E.;Stevens,J.C.AirpollutionremovalbyurbantreesandshrubsintheUnitedStates.UrbanFor.Urban
+Green.2006,4,115–123.[CrossRef]
+8. Wang,Z.Y.;Chen,X.;Hu,X.S.;He,H.D.;Cai,M.;Peng,Z.R.Mechanismandresearchmethodsofroadsidegreenbarriersaffecting
+thedistributionofatmosphericparticulatematter:Areview.Ecol.Environ.Sci.2022,31,1047–1058.
+9. Zheng,G.;Li,P.Resuspensionofsettledatmosphericparticulatematteronplantleavesdeterminedbywindandleafsurface
+characteristics.Environ.Sci.Pollut.Res.2019,26,19606–19614.[CrossRef]
+10. Zhou,J.;Wu,Y.;Zhang,L.J.;Pang,M.;Huang,D.Z.;Niu,X.Y.Thestudyofdust-retentionabilityofsomecommonshurbin
+Baoding.For.Ecol.Sci.2019,34,114–120.
+11. Beckett,K.P.;Freer-Smith,P.H.;Taylor,G.Thecaptureofparticulatepollutionbytreesatfivecontrastingurbansites.Arboric.J.
+2000,24,209–230.[CrossRef]
+12. Li,H.M.;Dang,N.;Yu,L.Q.;Zhang,H.D.;Chen,G.C.Relationshipbetweendustretentioncapacityandleafsurfacemorphology
+andparticulatemattersizeoffivegardentreespecies.For.Res.2021,34,84–94.
+13. Liu, L.; Guan, D.S.; Chen, Y.Q. Morphological structure of leaves and dust-retaining capability of common street trees in
+GuangzhouMunicipality.ActaEcol.Sin.2013,33,2604–2614.[CrossRef]
+14. Zhang,C.;Song,Y.;Wu,H.;Wu,J.Q.;Jiang,T.T.;Shao,Z.;Li,Y.Y.ResearchOverviewonDust-retentionAbilityofBorderTrees.
+Mod.Agric.Sci.Technol.2018,8,144–146.
+15. Chen,L.;Liu,C.;Zhang,L.;Zou,R.;Zhang,Z.VariationinTreeSpeciesAbilitytoCaptureandRetainAirborneFineParticulate
+Matter(PM(2.5)).Sci.Rep.2017,7,3206.[CrossRef]
+16. Weerakkody,U.;Dover,J.W.;Mitchell,P.;Reiling,K.Evaluatingtheimpactofindividualleaftraitsonatmosphericparticulate
+matteraccumulationusingnaturalandsyntheticleaves.UrbanFor.UrbanGreen.2018,30,98–107.[CrossRef]
+17. Sabin,L.D.;HeeLim,J.;TeresaVenezia,M.;Winer,A.M.;Schiff,K.C.;Stolzenbach,K.D.Drydepositionandresuspensionof
+particle-associatedmetalsnearafreewayinLosAngeles.Atmos.Environ.2006,40,7528–7538.[CrossRef]
+18. Dzierzanowski,K.;Popek,R.;Gawron´ska,H.;Saebø,A.;Gawron´ski,S.W.Depositionofparticulatematterofdifferentsize
+fractionsonleafsurfacesandinwaxesofurbanforestspecies.Int.J.Phytoremediation2011,13,1037–1046.[CrossRef]
+19. Sæbø,A.;Popek,R.;Nawrot,B.;Hanslin,H.M.;Gawronska,H.;Gawronski,S.W.Plantspeciesdifferencesinparticulatematter
+accumulationonleafsurfaces.Sci.TotalEnviron.2012,427–428,347–354.[CrossRef]
+20. Perini,K.;Ottelé,M.;Giulini,S.;Magliocco,A.;Roccotiello,E.Quantificationoffinedustdepositionondifferentplantspeciesin
+averticalgreeningsystem.Ecol.Eng.2017,100,268–276.[CrossRef]
+21. Wang,L.;Gao,S.Y.;Liu,L.Y.;Ha,S.Atmosphericparticle-retainingcapabilityofelevengardenplantspeciesinBeijing.Chin.J.
+Appl.Ecol.2006,17,4597–4601.
+22. Pal,A.;Kulshreshtha,K.; Ahmad,K.J.;Behl,H.M.Doleafsurfacecharactersplayaroleinplantresistancetoauto-exhaust
+pollution?Flora—Morphol.Distrib.Funct.Ecol.Plants2002,197,47–55.[CrossRef]
+===== PAGE 14 =====
+Sustainability2024,16,917 14of14
+23. Xie,B.Z.TheRetentionCapabilityofPM2.5andItsExplanationbyLeafSurfaceMicro-StructureandConfigurationofUrban
+GreenPlant.Master’sThesis,Xi’anUniversityofArchitectureandTechnology,Xi’an,China,2016.
+24. Lin,M.-Y.;Khlystov,A.InvestigationofUltrafineParticleDepositiontoVegetationBranchesinaWindTunnel.AerosolSci.Technol.
+2012,46,465–472.[CrossRef]
+25. Du,W.G.ResearchofChangeCharacteristicsCarriedbyParticulateMatterinUrbanGreenLandsUnderDifferentLandsScales
+andInfluencingFactorsinBeijing.Ph.D.Thesis,ChineseAcademyofForestry,Beijing,China,2017.
+26. Qin,F.AnalysisofParticulateAirPollutionandPreliminaryStudyonthePollutionSourceinDifferentFunctionAreaofJiaozuo
+City.Master’sThesis,HenanPolytechnicUniversity,Jiaozuo,China,2014.
+27. Sternberg,T.;Viles,H.;Cathersides,A.;Edwards,M.Dustparticulateabsorptionbyivy(HederahelixL)onhistoricwallsinurban
+environments.Sci.TotalEnviron.2010,409,162–168.[CrossRef]
+28. Nanos,G.D.;Ilias,I.F.Effectsofinertdustonolive(OleaeuropaeaL.)leafphysiologicalpara.Environ.Sci.Pollut.Res.Int.2007,14,
+212–214.[CrossRef][PubMed]
+29. Rai,A.;Kulshreshtha,K.;Srivastava,P.;Mohanty,C.S.J.T.E.Leafsurfacestructurealterationsduetoparticulatepollutioninsome
+commonplants.Environmentalist2010,30,18–23.[CrossRef]
+30. Patel, K.; Bhandari, S.; Gani, S.; Kumar, P.; Baig, N.; Habib, G.; Apte, J.; HildebrandtRuiz, L.Factorsinfluencingambient
+particulatematterinDelhi,India:Insightsfrommachinelearning.AerosolSci.Technol.2023,57,546–561.[CrossRef]
+31. Gao,J.H.InfluenceMechanismandEffectivenessofthePlantsonDetainingDustinBeijing.Master’sThesis,BeijingForestry
+University,Beijing,China,2007.
+32. Zhu,L.Q.;Long,M.Y.;Yang,F.L.;Lv,J.J.;Zhao,L.J.Relationshipbetweenleafphenotype,epidermalultrastructureanddust
+retainingcapabilityofsevengreeningshrubs.Chin.J.Trop.Crops2023,44,1297–1305.
+33. Prajapati,S.K.;Tripathi,B.D.SeasonalVariationofLeafDustAccumulationandPigmentContentinPlantSpeciesExposedto
+UrbanParticulatesPollution.J.Environ.Qual.2008,37,865–870.[CrossRef]
+34. Wang,X.;Yang,J.Y.;Yu,Y.C.;Hou,W.J.;Hou,Y.;Yu,J.;Wang,R.H.Concentrationandsourcesofblackcarboninurbanforest
+soilsindifferentfunctionalareasofNanjing,China.ActaEcol.Sin.2016,36,837–843.
+35. Niu,X.;Wang,B.;Wei,W.Responseoftheparticulatemattercaptureabilitytoleafageandpollutionintensity.Environ.Sci.Pollut.
+Res.2020,27,34258–34269.[CrossRef]
+36. Baidourela,A.DustRetentionCapacityofCommonTreeSpeciesforUrbanGreeninginAksuCity,NorthwestChina. Ph.D.
+Thesis,XinjiangUniversity,Ürümqi,China,2015.
+37. Chai,Y.X.;Zhu,N.;Han,H.J.DustremovaleffectofurbantreespeciesinHarbin.Chin.J.Appl.Ecol.2002,13,1121–1126.
+38. Chen,F.;Zhou,Z.X.;Wang,P.C.;Li,H.F.;Zhong,Y.F.GreenspacevegetationquantityinworkshopareaofWuhanIronandSteel
+Company.Chin.J.Appl.Ecol.2006,17,4592–4596.
+39. Wang,S.H.;Zhu,X.Y.;Tian,R.N.;Wen,S.S.Comprehensiveanalysisofdustretentionefficiencyofsixcommongardenplantsin
+Nanjing.Chin.Landsc.Archit.2021,37,111–116.
+40. Li, H.J.; Xu, A.L.; Qiao, F.L.; Jiang, M.; Song, Q. Micro-morphological characteristics of particles on Holly and Ligustrum
+leafSurfacesandseasonalchangesinbacterialcommunities.Environ.Sci.2021,42,3063–3073.
+41. Speak,A.F.;Rothwell,J.J.;Lindley,S.J.;Smith,C.L.Urbanparticulatepollutionreductionbyfourspeciesofgreenroofvegetation
+inaUKcity.Atmos.Environ.2012,61,283–293.[CrossRef]
+42. Neinhuis,C.;Barthlott,W.Seasonalchangesofleafsurfacecontaminationinbeech,oak,andginkgoinrelationtoleafmicromor-
+phologyandwettability.NewPhytol.1998,138,91–98.[CrossRef]
+43. Zhou,Y.W.;Tian,Z.P.;Su,X.Relationshipsbetweenleafepidermalmorphologyanddustcapacityofcommonstreettreesin
+HarbinMunicipality.J.NorthwestFor.Univ.2017,32,287–292.
+44. Simon,E.;Baranyai,E.;Braun,M.;Cserháti,C.;Fábián,I.;Tóthmérész,B.Elementalconcentrationsindepositeddustonleaves
+alonganurbanizationgradient.Sci.TotalEnviron.2014,490,514–520.[CrossRef]
+45. Zhong,L.L.;Zheng,L.;Qu,Y.D.Thedust-retentioncapabilityofstreettreesanditsMechanisminZhanjiang,atropicalcity.Ecol.
+Sci.2019,38,86–93.
+Disclaimer/Publisher’sNote: Thestatements, opinionsanddatacontainedinallpublicationsaresolelythoseoftheindividual
+author(s)andcontributor(s)andnotofMDPIand/ortheeditor(s).MDPIand/ortheeditor(s)disclaimresponsibilityforanyinjuryto
+peopleorpropertyresultingfromanyideas,methods,instructionsorproductsreferredtointhecontent.

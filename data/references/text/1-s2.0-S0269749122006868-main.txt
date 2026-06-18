@@ -1,0 +1,654 @@
+TOTAL PAGES: 10
+
+===== PAGE 1 =====
+EnvironmentalPollution306(2022)119472
+Contents lists available at ScienceDirect
+Environmental Pollution
+journal homepage: www.elsevier.com/locate/envpol
+Foliar dust particle retention and metal accumulation of five garden tree
+☆
+species in Hangzhou: Seasonal changes
+Ning Danga,b,1, Handan Zhanga,1, Mir Md Abdus Salamc,d, Haimei Lib, Guangcai Chena,*
+aResearch Institute of Subtropical Forestry, Chinese Academy of Forestry, Hangzhou, 311400, China
+bCollege of Landscape Architecture and Forestry, Qingdao Agricultural University, Qingdao, 266109, China
+cSchool of Forest Sciences, University of Eastern Finland, Yliopistokatu 7, P.O. Box 111, 80100, Joensuu, Finland
+dNatural Resources Institute Finland (LUKE), Yliopistokatu 6B, 80100, Joensuu, Finland
+A R T I C L E I N F O A B S T R A C T
+Keywords: As particulate matter and heavy metals in the atmosphere affect the atmospheric quality, they pose a threat to
+Particulate matter human health through the respiratory system. Vegetation can remove airborne particles and purify the atmo-
+Heavy metals sphere. Plant leaves are capable of effectively absorbing heavy metals contained by particulates. To evaluate the
+Season
+effects of different garden plants on the particulate matter retention and heavy metal accumulation, the seasonal
+Pollution degree
+changes of dust retention of five typical garden plants were compared in the industrial and non-industrial zones
+in Hangzhou. Results revealed that these species differed in dust retention with the descending order of Lor-
+opetalum chinense >Osmanthus fragrans >Pittosporum tobira >Photinia ×fraseri >Cinnamomum camphora, which
+were related to the microstructure feature of the leaf. These species also showed seasonal variation in dust
+retention, with the highest in summer, followed by winter, autumn, and spring, respectively. The total suspended
+particle per unit leaf area was higher in the industrial site (80.54 g m
+(cid:0)2)
+than in the non-industrial site (19.77 g
+m (cid:0)2). Leaf particles in different size fractions differed among species, while coarse particles (d >ten μm) pre-
+dominated in most cases. The L. chinense and C. camphora plants accumulated the greatest Pb and Ni compared to
+other plants. Overall, L. chinense was the best suitable plant species to improve the air quality.
+Author statement 337 ones exceeded the air quality standard and reached pollution levels.
+Atmospheric particulate matter (PM10 and PM2.5) has become the pri-
+Ning Dang: Methodology, Formal analysis, Data curation, Investi- mary pollutant of air pollution, seriously harmful to human health. The
+gation, Visualization, Writing- Original draft preparation. Handan PM10 can enter the respiratory tract in the chest cavity. The PM2.5 can
+Zhang: Methodology, Formal analysis, Visualization, Writing- Original also penetrate the alveoli and terminal bronchioles (Kelly and Fussell,
+draft preparation, Funding acquisition. Guangcai Chen: Conceptualiza- 2012). Previous studies showed that PM2.5 was associated with cere-
+tion, Methodology, Funding acquisition, Writing - Reviewing and Edit- brovascular and respiratory disease (Zhang et al., 2018; Hopke et al.,
+ing, Supervision. Mir Md Abdus Salam: Writing- Reviewing and Editing. 2019). Furthermore, atmospheric particulate matter can carry toxic
+Haimei Li: Methodology, Resources. substances, such as heavy metals and polycyclic aromatic hydrocarbons
+(Song et al., 2019; Sharma et al., 2020). The heavy metals integrated
+1. Introduction with particulate matter could enter the atmosphere with emission and
+resuspension, eventually entering the human body through the skin or
+Rapid urbanization and industrialization have contributed to air respiratory tract (Soltani et al., 2015; Hopke et al., 2019; Harrison et al.,
+pollution, especially in developing countries (Kumar, 2013; Miri et al., 2021). Therefore, controlling the atmospheric particulate matter
+2016; Roy et al., 2020). According to the “2019 China Ecological pollution in urban areas is still a critical issue of environmental pro-
+Environmental Status”, the air quality indices of 53.4% of cities among tection nowadays.
+☆ This paper has been recommended for acceptance by SU SHIUNG LAM.
+* Corresponding author.
+E-mail address: guangcaichen@sohu.com (G. Chen).
+1 Ning Dang and Handan Zhang contributed equally.
+https://doi.org/10.1016/j.envpol.2022.119472
+Received 10 February 2022; Received in revised form 27 April 2022; Accepted 11 May 2022
+Availableonline14May2022
+0269-7491/©2022ElsevierLtd.Allrightsreserved.
+===== PAGE 2 =====
+N. Dang et al. E n v i r o n m e n t a l P o l l u t i o n 306(2022)119472
+It has been documented that vegetation especially plant leaves, can subtropical zone due to the excellent greening in cities, even though that
+effectively retain particulate matter and improve air quality (Łukowski role may be poor, as Yang et al. (2005) observed in the north of China. In
+et al., 2020). The lush leaves of plant species effectively reduce the wind the current study, five typical greening trees in this area were selected to
+speed, help to block, and absorb the particles, thus purifying the air (Jin investigate their performance on particle matter retention and heavy
+et al., 2014). For example, Yang et al. (2005) reported that trees in metal accumulation in different sites in various seasons. Therefore, the
+Beijing urban area could retain 772 tons of PM10 annually. Trees can aims of this study are to (1) assess the foliar dust retention ability and
+hold up to 64.5 t of atmospheric particulate matter per year in American heavy metal accumulation capacity among different species; (2) analyze
+cities and bring nearly 60.1 billion U.S. dollars in economic benefits the seasonal variations of particulate retention and heavy metals accu-
+(Nowak et al., 2013). In addition, plant leaves can absorb heavy metals mulation by plants; (3) reveal the relationships between foliar retention
+through leaf tissues such as stomata, epidermal cracks, lenticels, etc. capacity on particulate matter and heavy metals. The result will help to
+Thus effectively reducing the content of harmful heavy metals in par- understand the dust retention ability as affected by particle size and
+ticulate matter (Edelstein and Ben-Hur, 2018). Jia et al. (2021) observed season variation in local greening species, thus guiding greening plants
+a significant positive correlation between the leaf metals content and selection in similar regions for air purification.
+foliar dust retention amounts, especially fine particles, indicating foliar
+uptake of toxic metals after deposition of dust particles on the leaf sur- 2. Materials and methods
+face. Liang et al. (2017) found that Nerium indicum accumulated sub-
+stantial amounts of Cd, Pb, and Zn, mostly absorbed from the 2.1. Study areas
+atmosphere.
+The capability of plant leaves to retain particulate matter and heavy Fig. 1 shows the study sites located southwest of Hangzhou (119◦
+metals are determined by plant species and affected by surrounding 25′-120◦ 19.5′ E, 29◦ 44′-30◦12′ N). The area belongs to the mid-
+environmental factors. Sun et al. (2018) reported that plant leaves with subtropical evergreen broad-leaved forest belt, and the common gar-
+rough surfaces, high stomata density, dense fluff, and other micro- den plants are mostly evergreen broad-leaved plants. It has a subtropical
+structures can retain much more particulate matter. The leaf surface monsoon climate, with hot summers and cold winters. Annual precipi-
+structure varies significantly among different tree species, affecting the tation ranged from 1100 to 1600 mm, of which approximately 70%
+dust retention ability of plants. The temperature, humidity, wind speed, occurred in the rainy season from April to October. The average annual
+and wind direction can also influence the retention benefits of particu- temperature is 16 ◦C (Li et al., 2021).
+late matter (Litschke and Kuttler, 2008; Jin et al., 2014; Xie et al., 2018).
+To date, the seasonal variations, the size effect of particles on dust
+2.2. Plant species
+retention, and heavy metals accumulation by plant leaves, and the
+possible underlying mechanism are still unclear.
+According to the primary investigation of greening trees in the study
+Hangzhou locates in the Yangtze River Delta region, China, the most
+area, five typical plants were selected: Cinnamomum camphora, Lor-
+rapidly developing zone worldwide, with advanced enterprises and so- opetalum chinense, Osmanthus fragrans, Photinia × fraseri Dress, and
+phisticated talents. It is also famous for its urban landscape. However,
+Pittosporum tobira. The details of the tested plants are shown in Table S1.
+the increased discharge of particulate matter came from the rapid
+development of industry and urbanization, causing the gap between
+improving air quality and people’s needs. To clear this gap, the most 2.3. Sample collection and analysis
+critical actions are still reducing anthropogenic emissions. Along with
+2.3.1. Plant materials and sampling
+the reduction actions and other advanced technological means, the role
+The industrial and non-industrial zones were selected according to
+of greening plants in air quality purification cannot be neglected in the
+the land-use type and vegetation distribution. The industrial zone is
+Fig. 1. The study area and sampling sites.
+2
+===== PAGE 3 =====
+N. Dang et al. E n v i r o n m e n t a l P o l l u t i o n 306(2022)119472
+mainly located in Huanshan Industrial Zone (119◦55′E, 29◦56′N), with Instrument, Beijing, China) and kept the mixture in a slightly boiling
+many recycled copper smelting enterprises, low-density residents, and state for 2 h. Then the content of Cu, Cd, Pb, and Ni in the digestion
+relatively small traffic volume. In contrast, the non-industrial zone is solution was determined by the Inductively coupled plasma mass spec-
+located in the Research Institute of Subtropical Forestry, Chinese trometry (ICP-MS, Agilent 7700, USA).
+Academy of Forestry (119◦57′E, 30◦3′N). There are lush woods, less
+traffic and people, and better environmental quality visible in the non- 2.3.5. Comprehensive evaluation
+industrial zone. The Geo-accumulation index (Igeo) was used to analyze the pollution
+According to Xu et al. (2017), with rainfall above 12.55 mm, the level of heavy metals in leaf dust.
+precipitation can wash away the dust retained on the leaves and then
+re-trap the dust. Around the 7th day after the rain, the particulate matter I geo =log 2 [​C n /(1.5× ​B n )] (2)
+contained in the plant leaves reached saturation. Based on the rainfall
+where Cn and Bn represent the concentrations of a specific metal in the
+characteristics in the study area, leaf samples were collected in August
+dust sample and soil background, respectively. We used the background
+and October in 2020, January and May in 2021, representing summer,
+values of soil elements in Zhejiang Province for calculation in Eq. (2).
+autumn, winter, and spring, respectively. The meteorological parame-
+The soil background values of Cd, Ni, Pb, and Cu were 0.17, 23.93,
+ters during the sampling period are shown in Table S2. Samples were 35.70, and 22.63 mg kg (cid:0) 1, respectively (Fan and Wang, 2009). Ac-
+taken from plants of similar height, age, and crown width, with three
+cording to Muller (1979), the metal contamination categories are listed
+replications per group. The selected leaves were about 1.5 m away above
+in Table S3.
+the ground. All collected leaves were kept intact to ensure an accurate
+The membership function in fuzzy mathematics was applied to
+analysis. Use tweezers or branch shears to gently cut the leaves into a
+comprehensively evaluate the dust-retaining ability of plants and the
+ziplock bag (the number of leaves was about 30 for each sample) for
+capacity of heavy metals accumulation (Cao et al., 2018):
+storage before taking them back to the lab for further analysis. In total,
+3 fo 0 r s e a a m ch p l p e l s a ( n 1 t 0 s p s e a c m ie p s l e a s t × ea t c h h r e s e it e r . e p In li c e a a t c e h s) s w am er p e l e s , a fi m f p te le e d n e le a a c v h e s m w on e t r h e X μ = X X max (cid:0) (cid:0) X X mi m n in (3)
+used to determine dust retention and heavy metal content, and five were
+used to observe leaf surface microstructure.
+where Xμ represents the measured value of a particular index, Xmax
+represents the maximum value of the measured value of the index, Xmin
+represents the minimum value of the measured value of the index.
+2.3.2. Dust retention
+The weight difference method was used to measure the dust reten-
+2.3.6. Statistic analysis
+tion of leaves. Twenty whole leaves were picked and soaked in distilled
+One-way ANOVA using Duncan’s test was performed on dust
+water for 2 h for each species. Then, brush the leaves with a clean brush
+retention and heavy metal accumulation to compare the differences
+to remove all visible PM from the leaf surface. After that, leaves were
+among tree species and different seasons. A student t-test was used to
+carefully taken out from beakers using tweezers and dried naturally.
+determine significant differences between sampling sites. The correla-
+Finally, the dried leaves were scanned with a scanner (Epson Perfection
+tion between the content of heavy metals in leaf dust and those in leaves
+V700 Photo) to obtain the leaf projection. The leaf projected area was
+was analyzed through the Pearson correlation coefficient. All statistical
+calculated using the root analysis system (WinRHIZO Pro 2005b Regent
+analyses were conducted using the SPSS 17.0 software (SPSS Inc., Chi-
+Instruments). The dust-retaining liquid was filtered sequentially with a
+hydrophilic filter membrane with a pore size of 10 μm, 2.5 μm, and 0.2 cago, IL, USA), for which the significance level was set at 0.05.
+μm, which had been weighed beforehand. By doing this, the particles Figures and Tables were performed using Microsoft Excel 2020
+were divided into different sizes that is larger than 10 μm (PM >10), less (Microsoft Corporation, USA) and Origin 2020 software (Origin Lab
+than 10 μm and greater than 2.5 μm (PM10), and less than 2.5 μm Corp., USA).
+(PM2.5), respectively. After the filtration, the filters were placed in a
+3. Results
+Petri dish and dried to constant weight using an oven (Li et al., 2021).
+Notably, our results were only the amount of physical, insoluble PM
+3.1. Foliage dust retention capacity
+deposited on the leaf surface.
+Dust retention per unit leaf area was calculated as equation (1):
+The dust retention capacity differed among plant species. In indus-
+Q=(W 2 (cid:0) W 1 )/S (1) trial and non-industrial zones, L. chinense showed higher dust retention
+capacity than other species (p <0.05). The order of TSP retention per
+where Q is the retention of particles per unit leaf area in different par- unit leaf area of the five shrubs was: L. chinense (1.28–7.36 g m (cid:0) 2) >
+ticle size ranges (g⋅m (cid:0) 2). S represents the leaf area (m2). W1 is the weight O. fragrans (0.87–6.53 g m (cid:0) 2) >P. tobira (0.67–6.44 g m (cid:0) 2) >Photinia ×
+of the blank filter membrane dried to constant weight. W2 is the weight fraseri (0.60–4.28 g m (cid:0) 2) > C. camphora (0.55–4.05 g m (cid:0) 2). The
+of the filter membrane dried to constant weight after filtration.
+L. chinense plants also showed a significant advantage in the adsorption
+of particles, including PM10 (0.48–2.98 g m (cid:0) 2) and PM2.5 (0.06–1.68 g
+2.3.3. Microstructure feature of plant leaves m (cid:0) 2), especially compared with Photinia × fraseri (0.15–0.72 g m (cid:0) 2,
+The cleaned leaves were dried in an oven at 60 ◦C for 48 h. Then 2 0.03–0.55 g m (cid:0) 2) and C. camphora (0.15–0.82 g m (cid:0) 2, 0.03–0.54 g m (cid:0) 2)
+square leaves of 5 mm ×5 mm on both sides of the veins were selected,
+plants (Fig. 2).
+one was used to observe the upper surface, and the other was used to
+Plants in the industrial area captured much more dust than that in
+observe the lower surface of the leaf. The processed sample was
+the non-industrial area (Fig. 2). The plants in the industrial area can hold
+observed the surface microstructure by scanning electron microscopy up to 2.12–7.36 g m (cid:0) 2 in terms of TSP retention, while that in the non-
+(Feina/PHENOM Pro). industrial area hold up TSP from 0.55 to 2.14 g m (cid:0) 2. The corresponding
+values of PM10 and PM2.5 captured by plants in the industrial area
+2.3.4. Heavy metal accumulation ranged from 0.30 to 2.98 g m (cid:0) 2, and 0.15–1.68 g m (cid:0) 2, while that
+Heavy metals (Cu, Cd, Pb, and Ni) in dust and leaves were deter- reached 0.15–0.92 g m (cid:0) 2, and 0.03–0.34 g m (cid:0) 2, in non-industrial area,
+mined separately. Approximately 0.2 g of plant leaves or filter mem-
+respectively.
+branes were digested in a glass tube with HNO3 and HCl mixture (1:3 v/
+Furthermore, the dust retained by plants showed noticeable seasonal
+v ratio) using a graphite heater furnace (Polytech PT60, Polytech
+variations. The TSP retention was highest in industrial areas in summer,
+3
+===== PAGE 4 =====
+N. Dang et al. E n v i r o n m e n t a l P o l l u t i o n 306(2022)119472
+Fig. 2. Dust retention capacity of different plants in Industrial zone (A) and Non-industrial zone (B). Note: TSP (a), PM10 (b), PM2.5 (c), CC: C. camphora, LC: L.
+chinense, OF: O. fragrans, PF: Photinia ×fraseri and PT: P. tobir. Different lowercase letters in the graph represent significant differences in the dust
+retention ability of tree species in the same zone (p < 0.05).
+followed by winter, autumn, and spring. The total retention of TSP in higher than the epidermal cells, which assisted in capturing much more
+summer (27.19 g m (cid:0) 2) was almost twice as much as that in spring particles than other species (Fig. 4C–D). Similarly, O. fragrans and
+(14.96 g m (cid:0) 2). The adsorption of PM10 and PM2.5 by five plants was the P. tobira had prominent folds and large stomata openings on their sur-
+highest in summer and winter. A similar trend was found in the non- face, causing significant retention of particles (Fig. 4E–F). In contrast,
+industrial area, where the amount of TSP retained by plants in sum- the surface of Photinia × fraseri was much smoother, and stomata
+mer was higher than in other seasons. openings were undersized, leading to relatively low dust retention.
+A step-by-step filtration method was used to analyze the size distri- Especially, P. tobira had a waxy layer on the upper surface, with prom-
+bution of the particles captured by the plants, which the particles were inent folds, more gullies, and large pore openings on the lower surface,
+subsequently divided into three classes, that is PM >10, PM10, and PM2.5, causing relatively higher retention of particles.
+indicating that the particle size was larger than 10 μm, between 2.5 μm
+and 10 μm, and less than 2.5 μm, respectively. The particles captured by
+plant leaves were mainly coarse particles (PM >10), with an order of PM 3.3. Heavy metal in leaf and dust
+>10 >PM10 >PM2.5 that can be observed in Fig. 3. The corresponding
+proportion of PM >10, PM10, and PM2.5 to total particles varied from 3.3.1. Metal accumulation in leaf
+50.70% to 90.00%, 4.11%–40.44%, and 3.65%–22.38%, respectively. The heavy metals accumulated by plant leaves were determined and
+Specifically, the proportion of PM >10 retained by plants in the indus- depicted in Fig. 5 &S1. The tested plants varied largely in absorbing
+trial area was higher than that in the non-industrial area, while the different heavy metals. Overall, the greatest foliar Cd uptake by P. tobir
+z
+p
+o
+ro
+n
+p
+e
+o
+s.
+r tion of PM10 and PM2.5 was lower than that in the non-industrial (
+a
+0
+n
+.
+d
+0 4
+C
+–
+.
+2 1
+c
+.
+a
+6
+m
+2
+p
+m
+ho
+g
+r a
+k g
+(
+(cid:0)
+1
+1
+.5
+),
+4
+N
+–1
+i
+5
+u
+.
+p
+8
+t
+5
+a k
+m
+e
+g
+b y
+k g
+L
+(cid:0)
+.
+1
+c
+)
+h
+,
+i n
+a
+e
+n
+n
+d
+se
+P
+(
+b
+1 .8
+a
+6
+n
+–
+d
+1 3
+C
+.
+u
+2 8
+u
+m
+pt
+g
+a k
+k
+e
+g (cid:0)
+b
+1
+y
+)
+C. camphora (0.37–10.30 mg kg (cid:0) 1, 6.49–160.88 mg kg (cid:0) 1) were evident
+(Fig. 5 &S1). The levels of Cu in leaves of five plants in industrial and
+3.2. The leaf morphological characteristics non-industrial zones were higher than those of other metals, while the
+level of Cd was lowest.
+The foliage morphology differed significantly among five plant spe- Meanwhile, the heavy metals accumulation of plant species in in-
+cies (Fig. 4). The leaf surface of C. camphora was relatively smooth, dustrial zones was significantly higher than that in non-industrial zones
+without apparent wrinkles, and the stomata were small (Fig. 4A–B). In (p <0.05). Industrial sites accumulated Cd 25.35 to 41.06 times and Cu
+L. chinense, the upper surface had pronounced wrinkles, and the large 479 to 17.60 times more than non-industrial sites. There were also
+villi can be seen on the lower surface. Meanwhile, its stomata were much seasonal differences in heavy metals levels in the plant leaves. In
+4
+===== PAGE 5 =====
+N. Dang et al. E n v i r o n m e n t a l P o l l u t i o n 306(2022)119472
+Fig. 3. Size distribution of dust deposition on the leaves of five plants in industrial and non-industrial zones. Note: spring (A), summer (B), autumn (D), winter
+(D) in industrial zones; spring (E), summer (F), autumn (G), winter (H) in non-industrial zones; CC: C. camphora, LC: L. chinense, OF: O. fragrans, PF:
+Photinia ×fraseri and PT: P. tobir.
+industrial zones, the overall absorption of heavy metals in leaves was metals in leaves was highest in summer and lowest in spring (Fig. S1).
+higher in spring and winter and lower in summer and autumn, with We conducted a comprehensive evaluation of dust retention and
+subtle differences among tree species (Fig. 5). For example, the Cd levels metal absorption by the plant using the fuzzy mathematical membership
+in the leaves of L. chinense and C. camphora were greatest in autumn and function method (Table 1). The average value of the membership degree
+lowest in spring. The Ni uptake by O. fragrans and P. tobir mainly of each index was used as the comprehensive identification standard for
+occurred in spring, and the Pb uptake by L. chinense occurred primarily comparison. The fuzzy mathematics membership function method
+in autumn. In the non-industrial zones, the overall absorption of heavy showed that the dust retention capacity of L. chinense in industrial and
+5
+===== PAGE 6 =====
+N. Dang et al. E n v i r o n m e n t a l P o l l u t i o n 306(2022)119472
+Fig. 4. Leaf surface scanning images of different tree species. Note: upper (A) and lower (B) leaf surface of C. camphora; upper (C) and lower (D) leaf of
+L. chinense; upper (E) and lower (F) leaf of O. fragrans; upper (G) and lower (H) leaf of Photinia ×fraseri; upper (I) and lower (J) leaf surface of P.tobira.
+non-industrial zones ranked first. The accumulation of heavy metals in pollution in the industrial area was much more severe than in the non-
+C. camphora in the industrial zone ranked first, while in the non- industrial area (Table S4). Among four elements, Cu and Cd were the
+industrial zone, L. chinense ranked first. Overall, L. chinense had the premier pollutants, followed by Pb and Ni.
+most vital comprehensive ability.
+3.3.3. Relations between leaf metals and dust metals
+3.3.2. Heavy metal in foliar dust The correlation of heavy metals in dust and leaf was estimated and
+As shown in Table 2, the metal content in the dust in industrial areas shown in Table 3, effectively explaining the source and migration path.
+was much higher than that in non-industrial areas. The highest Cu Correlation analysis suggested that almost all the heavy metals in the
+content in leaf dust observed in the industrial zones was 66,258 ±724 leaves were significantly positively correlated with the dust (p <0.05).
+mg kg (cid:0) 1, while that in the non-industrial zones was 1299 ± 130 mg The correlation coefficient for Pb in summer was the highest, reaching a
+kg (cid:0) 1. Among all tested metals in foliar dust, the Cu content (15,216 ± highly significant correlation level. In addition, the correlation of Cu in
+18,476 mg kg (cid:0) 1) was much higher than others in both industrial and dust and leaf reached a highly significant level of α =0.01 in all seasons.
+non-industrial areas, while the lowest Cd content (30.99 ± 31.38 mg
+kg (cid:0) 1) appeared. 4. Discussion
+The heavy metals in foliar dust differed among five plant species in
+both study areas. Among all the species, C. camphora showed the highest 4.1. The variation of dust retention and metals accumulation among
+heavy metal content in the leaf dust, while L. chinense showed the lowest species
+heavy metal content. The significant difference was mainly observed in
+Cu, of which C. camphora absorbed almost 5.16 times higher than that of Plant leaves absorb particulate matter mainly through retention and
+L. chinense. No significant difference was observed in the heavy metal adhesion. Plants can reduce wind speed and block airflow. When the
+contents in the leaves dust of the other three tree species (p >0.05). airflow passes through the canopy, some particles are forced to stay due
+Meanwhile, the heavy metals in leaf dust showed a particular sea- to the obstruction of the leaves, causing the particles to stay on the
+sonal variation (Table 2). The total Pb and Cu contents were the highest surface of the plant (Sehmel, 1980). In addition, the particular micro-
+in winter and the lowest in summer and spring. The Ni and Cd contents structure and secretions of plants can also absorb airborne particles
+were the most elevated in autumn and winter and the most deficient in (Kon´czak et al., 2020; Li et al., 2021). Prajapati and Tripathi (2008)
+spring. Overall, the heavy metals contents were higher in autumn and reported that the dust capture capacity of plants was related to leaf
+winter and lowered in spring and summer. wettability, leaf area, and leaf surface characteristics. The grooves, villi,
+The Geo-accumulation index indicated that the heavy metal and stomata of leaves can increase the roughness of the leaf surface, thus
+6
+===== PAGE 7 =====
+N. Dang et al. E n v i r o n m e n t a l P o l l u t i o n 306(2022)119472
+Fig. 5. Heavy metal content in leaves of different plants in the industrial zone. Note: A-spring, B-summer, C- autumn, D-winter; CC: C. camphora, LC: L.
+chinense, OF: O. fragrans, PF: Photinia £fraseri and PT: P. tobir. Different lowercase letters indicate the significant accumulation of heavy metals in
+different plants in the same season (p < 0.05).
+Table 1
+A comprehensive evaluation of the ability of plant leaves to retain particulate matter and accumulate heavy metals.
+zone Tree species Membership function value Comprehensive evaluation
+TSP PM10 PM2.5 Cd Ni Pb Cu Particulate matter Heavy metal Comprehensive Rank
+Industrial CC 0.00 0.06 0.07 0.31 1.00 1.00 1.00 0.04 0.83 0.49 2
+LC 1.00 1.00 1.00 0.00 0.63 0.28 0.65 1.00 0.39 0.65 1
+OF 0.55 0.19 0.16 0.15 0.00 0.04 0.14 0.30 0.08 0.18 4
+PF 0.20 0.00 0.00 0.12 0.03 0.00 0.00 0.07 0.04 0.05 5
+PT 0.50 0.35 0.29 1.00 0.42 0.22 0.13 0.38 0.44 0.42 3
+Non-industrial CC 0.00 0.00 0.05 0.18 0.43 1.00 0.58 0.02 0.55 0.32 3
+LC 1.00 1.00 1.00 0.00 1.00 0.51 0.71 1.00 0.56 0.75 1
+OF 0.36 0.11 0.27 1.00 0.00 0.06 1.00 0.25 0.51 0.40 2
+PF 0.09 0.09 0.08 0.45 0.02 0.14 0.00 0.08 0.15 0.12 5
+PT 0.18 0.22 0.00 0.40 0.13 0.00 0.45 0.14 0.25 0.20 4
+CC: C. camphora, LC: L. chinense, OF: O. fragrans, PF: Photinia ×fraseri, PT: P. tobira.
+retaining more particles (Liu et al., 2012; Zheng and Li, 2019; Li et al., dust retention capacity. Sun et al. (2019) found that the leaf surface
+2021). In addition, the waxy layer of plant leaves and the secreted oil roughness of L. chinense was higher, and the surface of C. camphora was
+and mucus can adhere to more particles (Sabin et al., 2006; Niu et al., smoother, which was consistent with our observations. In addition, the
+2020). The rougher leaf surface means that more particles can contact waxy layer of plant leaves and the secreted oil and mucus can adhere
+leaf surfaces, which leads to a more substantial physical effect that more particles (Sabin et al., 2006). In this study, the leaf surface of
+prevents dust from falling from leaves, producing a more robust reten- P. tobir had a thicker waxy layer, which facilitated the adsorption ca-
+tion capacity. In this study, L. chinense leaf surfaces exhibited more pacity of particles. Therefore, the plant with a waxy coating on the leaf
+obvious folded surfaces than others. The abundance of villi on the leaf surface has a more vital dust-retaining ability, which was consistent with
+surface of L. chinense aided capture more dust (Fig. 4). Adversely, the research findings of Mo et al. (2015).
+C. camphora and Photinia ×fraseri had relatively smooth surfaces, with The heavy metals carried by dust are the primary pollutants plants
+fewer gullies and fewer stomata openings; thus, they displayed lower can absorb through the stomata. The heavy metals accumulation in plant
+7
+===== PAGE 8 =====
+N. Dang et al. E n v i r o n m e n t a l P o l l u t i o n 306(2022)119472
+Table 2
+Heavy metal content of leaf dust in the industrial zone and non-industrial zone.
+Tree Season Heavy metal content in leaf dust (mg⋅kg(cid:0)1)
+species
+Industrial zone Non-industrial zone
+Cd Ni Pb Cu Cd Ni Pb Cu
+CC Spring 56.63 ±3.81c 1746.05 ± 1869.96 ± 44965.94 ± 3.97 ± 68.71 ± 429.55 ± 150.55 ±
+71.46b 208.34c 1543.53c 0.94c 10.00b 53.59a 25.13d
+Summer 112.54 ± 3095.64 ± 2392.88 ± 49264.44 ± 5.54 ±1.00 69.71 ±2.04b 137.94 ± 394.10 ±
+17.58a 83.11a 123.35b 411.61b ab 7.81d 52.92c
+Autumn 66.63 ±6.61c 2978.75 ± 1786.86 ± 50626.84 ± 6.14 ± 90.57 ±8.6a 281.59 ± 1018.62 ±
+17.20a 100.61c 1322.37b 0.07a 1.73c 139.87a
+Winter 86.62 ±1.24b 2939.44 ± 4486.35 ± 66258.58 ± 4.79 ±0.74 95.55 ±7.72a 337.17 ± 834.44 ±
+171.99a 85.76a 724.47a ab 25.28b 112.99b
+LC Spring 16.48 ±7.33c 389.64 ± 450.31 ± 6156.47 ± 2.92 ± 40.18 ±0.82c 208.74 ± 156.85 ±
+198.30b 202.89b 475.79c 0.55b 7.09b 15.03c
+Summer 22.47 ±1.92b 440.79 ± 480.70 ± 5906.08 ±10.61c 2.28 ± 34.65 ±4.22d 47.62 ±9.53c 370.76 ±
+31.12b 13.46b 0.26b 30.83b
+Autumn 32.08 ±4.88b 527.58 ± 533.25 ± 7887.89 ± 3.93 ± 80.00 ±2.81a 347.8 ± 646.87 ±
+50.23b 18.37b 1054.15b 0.50a 78.85a 101.26a
+Winter 61.78 ±7.54a 1026.08 ± 1572.32 ± 20985.67 ± 3.66 ± 58.33 ±0.54b 321.28 ± 638.65 ±
+46.84a 63.47a 936.61a 0.10a 8.85a 100.76a
+OF Spring 45.63 ±2.27b 1366.61 ± 1628.18 ± 36788.79 ± 4.66 ± 53.71 ±6.19c 240.38 ± 409.74 ±3.23b
+20.76b 429.45b 683.98a 0.29c 21.67c
+Summer 67.00 ±0.67a 1216.48 ± 1030.23 ± 20946.18 ± 6.71 ± 66.63 ±1.77b 116.2 ±2.20d 345.2 ±91.53b
+35.69c 35.34c 308.06d 0.06a
+Autumn 45.51 ±4.45b 1427.36 ± 1550.73 ± 25060.98 ± 4.95 ± 86.96 ±5.07a 279.77 ± 598.74 ±
+87.33b 130.04b 1451.48c 0.18c 37.45a 66.26a
+Winter 49.75 ±2.81b 1675.47 ± 2365.61 ± 29437.12 ± 5.63 ± 83.32 ±1.09a 252.79 ±3.77 530.87 ±
+71.97a 108.22a 1422.75b 0.29b ab 30.99a
+PF Spring 36.31 ±7.79d 1088.32 ± 1019.73 ± 23718.96 ± 3.78 ± 54.15 ±4.62c 276.01 ± 506.1 ±52.03c
+119.52c 99.78c 2891.50b 0.77b 1.07c
+Summer 59.49 ±6.55c 1155.31 ± 1125.19 ± 17521.80 ± 2.59 ± 56.54 ±2.44c 87.26 ± 410.85 ±
+42.54bc 16.44bc 245.71c 0.23c 13.02d 20.30d
+Autumn 75.05 ±5.38b 1271.65 ± 1248.35 ± 19578.14 ± 4.80 ± 116.15 ± 380.17 ± 815.02 ±
+70.28b 6.24b 534.80c 0.64a 10.36a 15.36a 86.54a
+Winter 89.37 ±4.93a 1957.13 ± 3174.06 ± 41009.69 ± 4.29 ±0.28 85.58 ±1.58b 357.30 ± 599.59 ±8.12b
+71.00a 101.42a 410.63a ab 0.32b
+PT Spring 49.80 ±8.41b 1449.96 ± 1441.56 ± 37868.50 ± 3.01 ± 51.79 ±6.62c 283.49 ± 257.95 ±
+138.66c 215.20b 3643.67b 0.48b 4.72b 25.12c
+Summer 46.96 ±7.76b 1210.75 ± 1011.59 ± 19358.46 ± 3.39 ± 53.54 ±0.43c 65.29 ± 364.97 ±
+79.59d 39.50c 1227.45d 0.17b 11.36d 20.10c
+Autumn 45.14 ±2.89b 1779.54 ± 1620.06 ± 28711.39 ± 5.27 ± 77.59 ±6.15b 244.74 ± 676.30 ±
+160.37b 95.86b 211.39c 0.42a 15.05c 68.66b
+Winter 87.49 ±3.53a 2040.93 ± 3188.41 ± 45581.60 ± 4.52 ± 120.00 ± 441.09 ± 1299.49 ±
+31.32a 91.35a 459.37a 0.59a 0.65a 19.29a 130.26a
+Note: Different letters indicate the seasonal differences of a particular heavy metal element in the dust for each species (p <0.05).
+also found that Safflower Loropetalum showed strong abilities in metals
+Table 3
+accumulation and higher dust retention. Even so, the surface of
+Correlation coefficients of leaf dust and heavy metal content in leaves of
+C. camphora leaves was smoother, contributing to higher levels of Cu and
+different plants.
+Pb accumulation, which may be related to the characteristics of bio-
+Season Coefficient of association accumulating Cu and Pb, despite the low level of dust retention. The
+Cd Ni Pb Cu unevenness of the epidermal cell wall, the diameter of the stomata, and
+its tolerance to heavy metals facilitated the accumulation of heavy
+Spring 0.325 0.470* 0.481* 0.535**
+Summer 0.484* 0.700** 0.849** 0.841** metals by C. camphora (Zheng et al., 2020).
+Autumn 0.384* 0.580** 0.643** 0.783**
+Winter 0.409* 0.721** 0.836** 0.711**
+*Significant at the p <0.05 level (according to 2-tailed tests). 4.2. Dust retention and metals accumulation affected by environmental
+**Significant at the p <0.01 level (according to 2-tailed tests). factors
+The local environment is an essential factor affecting particulate
+leaves is associated with plant species, leaf structural characteristics,
+matter and heavy metals absorbed by plants. Firstly, the external envi-
+and the concentration of heavy metals in the dust (Dahmani-Muller
+ronment can alter the leaf surface structure of plants. Firstly, Niu et al.
+et al., 2000; Popek et al., 2017; Jia et al., 2021). Five plant species tested
+(2020) and Nowak et al. (2013) pointed out that the leaf fluff becomes
+in the same environment had different levels of heavy metal accumu-
+longer and stiffer in a polluted environment, the stomatal index de-
+lation because of the differences in their ability to accumulate heavy
+creases, and the surface structure and cell boundaries become more
+metals (Roy et al., 2020). Jia et al. (2021) found that the concentration
+irregular. The leaf surface becomes rougher, making the leaf more
+of toxic metals in leaves was significantly positively correlated with dust
+conducive to the adhesion and fixation of particulate matter from the
+retention. Heavy metals tended to accumulate in leaves at higher con-
+atmosphere. Secondly, the surrounding environment determines the
+centrations when dust retention was higher. The surface of L. chinense
+amount of dust that plant leaves can contact. Roy et al. (2020) suggested
+leaves was relatively rough and could absorb more particles, which led
+that regional differences in dust retention by plants might be ascribed to
+to a somewhat higher accumulation of heavy metals. Cao et al. (2016)
+dust loads variations between the studied sites. Liu et al. (2013) found
+8
+===== PAGE 9 =====
+N. Dang et al. E n v i r o n m e n t a l P o l l u t i o n 306(2022)119472
+that the amount of dust retention by leaves in industrial zones was spring, respectively. The total suspended particle (TSP) per unit leaf area
+higher than that in clean zones. The retention of particulate matter by was more elevated in the industrial zone (80.54 g m (cid:0) 2) than that in the
+plants was positively correlated with air quality. Similarly, the amount non-industrial zone (19.77 g m (cid:0) 2). Leaf particles in different size frac-
+of TSP, PM10, and PM2.5 retained by plants in the industrial area was tions differed among species, while coarse particles (d > 10 μm) pre-
+greater than that in the non-industrial area in the current study. dominated in most cases. The L. chinense and O. fragrans plants showed
+Plant leaves can absorb heavy metals carried by particulate matter better dust retention abilities than others. Specifically, L. chinense and
+through stomata, epidermal cracks, lenticels, and other leaf tissues C. camphora plants showed an obvious advantage of foliar Ni and Pb
+(Edelstein and Ben-Hur, 2018). When the particles cover the stomata uptake, while P. tobir tended to absorb Cd. Results suggest that
+openings, some of the fine particles carrying heavy metals can penetrate L. chinense is a highly recommended plant species for greening in
+the stomata and enter the leaf tissue (Gajbhiye et al., 2016). The heavy polluted areas to improve air quality.
+metals in leaves were significantly positively correlated with heavy
+metals in the dust (Table 3). This result indicated the leaf directly
+Declaration of competing interest
+absorbed the heavy metal from the dust after the deposition of partic-
+ulate matter on the leaf surface. Heavy metals in atmospheric particles
+The authors declare that they have no known competing financial
+can further affect the heavy metals accumulation in leaves (Martín et al.,
+interests or personal relationships that could have appeared to influence
+2018). It was observed that the metal content in the dust in industrial
+the work reported in this paper.
+zones was much higher than that in non-industrial zones (Table 2), and
+the plants accumulated more heavy metals in industrial zones than that
+Acknowledgments
+in non-industrial zones. This result is in line with Liang et al. (2017) and
+Niu et al. (2020), who reported that heavy metal accumulation in plant
+This research was supported by the Special Fund for Cooperation of
+leaves was higher in industrial zones than in background sites.
+Zhejiang Province and the Chinese Academy of Forestry (2021SY12) and
+The impact of season change cannot be ignored (Mondol et al.,
+the National Natural Science Foundation of China (41807151 and
+2011). In our study, the amount of dust retention of plants varied among
+seasons in descending order of summer >winter >autumn >spring, 31971718).
+which was different from the results of Meravi et al. (2021). The high
+Appendix A. Supplementary data
+amount of plant dust in summer may be related to the local typhoon
+season in Hangzhou. As the typhoon approaches the mainland, the
+Supplementary data to this article can be found online at https://doi.
+sinking air on its periphery will cause many aerosol ions to accumulate
+org/10.1016/j.envpol.2022.119472.
+at low altitudes, causing air pollution such as smog (Xia et al., 2013).
+Feng et al. (2007) found that the sinking air around the tropical cyclone
+had led to a stable atmospheric stratification in the Pearl River Delta, References
+leading to an increase in the local PM10 concentration. It was observed
+Cao, Y.N., Wu, H., Shen, L.M., Chen, G.C., Zhang, J.F., 2016. Analysis on the dust
+that the dust retention of plants was higher in winter than in spring in
+retention and heavy metal absorption ability of leaves: a case study in Yuyao,
+the current study. The air quality affects the amount of dust retention by Zhejiang Province. For. Res. 29 (5), 662–669.
+plants (Lu et al., 2019). It was recorded that the content of particulate Cao, Y.N., Zhang, Y., Ma, C.X., Li, H.M., Zhang, J.F., Chen, G.C., 2018. Growth,
+physiological responses, and copper accumulation in seven willow species exposed
+matter in the air was higher in winter than that in spring (Table S2), and
+to cu- a hydroponic experiment. Environ. Sci. Pollut. Res. 25 (20), 19875–19886.
+the results were also consistent with the observations (Fig. 2). In addi- Dahmani-Muller, H., Oort, F.V., G´elie, B., Balabane, M., 2000. Strategies of heavy metal
+tion, precipitation can effectively reduce the concentration of atmo- uptake by three plant species growing near a metal smelter. Environ. Pollut. 109 (2),
+spheric particulate matter (Przybysz et al., 2014; Dawson et al., 2007).
+231–238.
+Dawson, J.P., Adams, P.J., Pandis, S.N., 2007. Sensitivity of PM2.5 to climate in the
+The average precipitation in winter was the lowest. In contrast, the Eastern U.S.: a modeling case study. Atmos. Chem. Phys. 7 (16), 4295–4309.
+precipitation in spring was higher according to the “Zhejiang Water Edelstein, M., Ben-Hur, M., 2018. Heavy metals and metalloids: sources, risks and
+Resources Bulletin,” which can explain the higher dust retention by strategies to reduce their accumulation in horticultural crops. Sci. Hortic-
+Amsterdam. 234, 431–444.
+plants in winter and lower in spring. Wang et al. (2013) also found that Fan, Y.H., Wang, Y.Q., 2009. Background characteristics of soil elements in four plains of
+the retention of PM by plants was higher in winter and reduced in spring. Zhejiang Province. Geophys. Geochem. Explor. 33 (2), 132–134.
+The seasonal changes in plant accumulation of heavy metals were Feng, Y.R., Wang, A.Y., Wu, D., Xu, X.D., 2007. The influence of tropical cyclone melor
+on PM10 concentrations during an aerosol episode over the pearl river delta region
+related to local air pollution conditions, plant physiological biochem-
+of China: numerical modeling versus observational analysis. Atmos. Environ. 41
+ical, and climate. It was found that the overall accumulation of heavy (21), 4349–4365.
+metals by leaf in the industrial zone was higher in spring and winter and Gajbhiye, T., Pandey, S.K., Kim, K.H., Szulejko, J.E., Prasad, S., 2016. Airborne foliar
+transfer of pm bound heavy metals in cassia siamea : a less common route of heavy
+lowered in summer and autumn. Liu et al. (2017) had found that the metal accumulation. Sci. Total Environ. 573, 123–130.
+seasonal variation of heavy metal accumulation in leaves first decreased Harrison, R.M., Allan, J., Carruthers, D., Heal, M.R., Lewis, A.C., Marner, B., Murrells, T.,
+and then increased (from spring to winter), which was in line with our Williams, A., 2021. Non-exhaust vehicle emissions of particulate matter and voc
+from road traffic: a review. Atmos. Environ. 262, 118592.
+observation. The seasonal changes in the heavy metal accumulation was
+Hopke, P.K., Croft, D., Zhang, W., Shao, L., Masiol, M., Squizzato, S., Thurston, S.W.,
+related to the plant’s physiological activities and the pollution degree of Wijngaarden, E., Utell, M.J., Rich, D.Q., 2019. Changes in the acute response of
+the atmosphere. The plant had vigorous physiological activities and respiratory disease to PM2.5 in New York state from 2005 to 2016. Sci. Total
+large stomata openings in the growing season, which facilitated the Environ. 677, 328–339.
+Jia, M.Y., Zhou, D.Q., Lu, S.P., Yu, J.P., 2021. Assessment of foliar dust particle retention
+absorption of heavy metals by the leaf (Li et al., 2014; Lu et al., 2018). and toxic metal accumulation ability of fifteen roadside tree species: relationship and
+Winter is a slow-growing season, and plants should accumulate heavy mechanism. Atmos. Pollut. Res. 12, 36–45.
+metals to a lesser extent. Because of the severe air pollution in winter Jin, S., Guo, J., Wheeler, S., Kan, L., Che, S., 2014. Evaluation of impacts of trees on
+PM2.5 dispersion in urban streets. Atmos. Environ. 99, 277–287.
+(Table S2), the particulate matter contained a high concentration of
+Kelly, F.J., Fussell, J.C., 2012. Size, source and chemical composition as determinants of
+heavy metals (Table 2); thus, plant leaves accumulated heavy metals to a toxicity attributable to ambient particulate matter. Atmos. Environ. 60, 504–526.
+greater extent. Kon´czak, B., Cempa, M., Pierzchała, Ł., Deska, M., 2020. Assessment of the ability of
+roadside vegetation to remove particulate matter from the urban air. Environ. Pollut.
+268, 115465.
+5. Conclusion Kumar, S., 2013. Appraisal of heavy metal concentration in selected vegetables exposed
+to different degrees of pollution in Agra, India. Environ. Monit. Assess. 185,
+2683–2690.
+The tested five plant species showed seasonal variation in dust
+Li, S.N., Kong, L.W., Lu, S.W., Chen, B., Gao, C., Shi, Y., 2014. Beijing common green tree
+retention, with the highest in summer, followed by winter, autumn, and leaves’ accumulation capacity for heavy metals. Environ. Sci. 35 (5), 1891–1900.
+9
+===== PAGE 10 =====
+N. Dang et al. E n v i r o n m e n t a l P o l l u t i o n 306(2022)119472
+Li, X., Zhang, T., Sun, F., Song, X., Zhang, Y., Huang, F., Yuan, C., Yu, H., Zhang, G., Przybysz, A., Sæbø, A., Hanslin, Gawron´ski, S.W., 2014. Accumulation of particulate
+Qi, F., Shao, F., 2021. The relationship between particulate matter retention capacity matter and trace elements on vegetation as affected by pollution level, rainfall and
+and leaf surface micromorphology of ten tree species in Hangzhou, China. Sci. Total the passage of time. Sci. Total Environ. 481, 360–369.
+Environ. 771, 144812. Roy, A., Bhattacharya, T., Kumari, M., 2020. Air pollution tolerance, metal accumulation
+Liang, J., Fang, H.L., Zhang, T.L., Wang, X.X., Liu, Y.D., 2017. Heavy metal in leaves of and dust capturing capacity of common tropical trees in commercial and industrial
+twelve plant species from seven different areas in Shanghai, China. Urban for. Urban sites. Sci. Total Environ. 722, 137622.
+Gree 27, 390–398. Sabin, L.D., Lim, J.H., Venezia, M.T., Winer, A.M., Schiff, K.C., Stolzenbach, K.D., 2006.
+Litschke, T., Kuttler, W., 2008. On the reduction of urban particle concentration by Dry deposition and resuspension of particle-associated metals near a freeway in Los
+vegetation – a review. Meteorol. Z. 17 (3), 229–240. Angeles. Atmos. Environ. Times 40 (39), 7528–7538.
+Liu, L., Guan, D.S., Peart, M.R., 2012. The morphological structure of leaves and the dust- Sehmel, G.A., 1980. Particle and gas dry deposition:A review. Atmos. Environ. 14,
+retaining capability of afforested plants in urban Guangzhou, South China. Environ. 983–1011.
+Sci. Pollut. Res. 19 (8), 3440–3449. Sharma, P., Yadav, P., Ghosh, C., Singh, B., 2020. Heavy metal capture from the
+Liu, L., Guan, D., Peart, M.R., Wang, G., Zhang, H., Li, Z., 2013. The dust retention suspended particulate matter by morus alba and evidence of foliar uptake and
+capacities of urban vegetation—a case study of Guangzhou, south China. Environ. translocation of pm associated zinc using radiotracer (65zn). Chemosphere 254,
+Sci. Pollut. Res. 20, 6601–6610. 126863.
+Liu, P.Q., Chen, Q.B., Deng, Z.H., Yang, H.Z., 2017. Enrichment of atmospheric heavy Soltani, N., Keshavarzi, B., Moore, F., Tavakol, T., Lahijanzadeh, A.R., Jaafarzadeh, N.,
+metals by urban forest. Environ. Chem. 36 (2), 265–273. Jaafarzadeh, N., Kermani, M., 2015. Ecological and human health hazards of heavy
+Lu, S., Yang, X., Li, S., Chen, B., Jiang, Y., Wang, D., Xue, L., 2018. Effects of plant leaf metals and polycyclic aromatic hydrocarbons (PAHs) in road dust of isfahan
+surface and different pollution levels on PM2.5 adsorption capacity. Urban For. metropolis, Iran. Sci. Total Environ. 505 (6), 712–723.
+Urban Gree. 34, 64–70. Song, H., Zhang, Y., Luo, M., Gu, J., Wu, M., Xu, D., Xu, G., Ma, L., 2019. Seasonal
+Lu, T., Lin, X., Chen, J., Huang, D., Li, M., 2019. Atmospheric particle retention capacity variation, sources and health risk assessment of polycyclic aromatic hydrocarbons in
+and photosynthetic responses of three common greening plant species under different particle fractions of PM2.5 in Beijing, China - sciencedirect. Atmos. Pollut.
+different pollution levels in Hangzhou. Glob. Ecol. Conserv. 20, e00783. Res. 10 (1), 105–114.
+Łukowski, A., Popek, R., Karolewski, P., 2020. Particulate matter on foliage of betula Sun, X.D., Li, H.M., Guo, X., Sun, Y.K., Li, S.M., 2018. Capacity of six shrub species to
+pendula, quercus robur, and tilia cordata: deposition and ecophysiology. Environ. retain atmospheric particulates with different diameters. Environ. Sci. Pollut. Res.
+Sci. Pollut. Res. 27 (3), 10296–10307. 25, 2643–2650.
+Martín, A., Caldelas, C., Weiss, D., Aranjuelo, I., Navarro, E., 2018. Assessment of metal Sun, Y.D., Chen, Q.B., Li, Y.M., Yang, S.Y., 2019. Relationship between leaf structure and
+immission in urban environments using elemental concentrations and zinc isotope dust retention capacity of 6 greening tree species in Kunming. J. SW. For. Univ. (Nat.
+signatures in leaves of Nerium oleander. Environ. Sci. Technol. 52 (4), 2071–2080. Sci.) 39 (3), 78–85.
+Meravi, N., Singh, P.K., Prajapati, S.K., 2021. Seasonal variation of dust deposition on Wang, H.X., Shi, H., Li, Y.Y., Yu, Y., Zhang, J., 2013. Seasonal variations in leaf capturing
+plant leaves and its impact on various photochemical yields of plants. Environ. Chall. of particulate matter, surface wettability and micromorphology in urban tree
+4, 100166. species. Front. Environ. Sci. Eng. 7 (4), 579–588.
+Miri, M., Rostami Aghdam Shendi, M., Ghaffari, H.R., Ebrahimi Aval, H., Ahmadi, E., Xia, D., Wu, Z.Q., Mo, W.Q., Tan, H.B., 2013. Analysis of haze process caused by
+Taban, E., Gholizadeh, A., Yazdani Aval, M., Mohammadi, A., Azari, A., 2016. peripheral subsidence of tropical cyclones over the pearl river delta region.
+Investigation of outdoor BTEX: concentration, variations, sources, spatial Meteorol. Mon. 6, 759–767.
+distribution, and risk assessment. Chemosphere 163, 601–609. Xie, C.K., Kan, L.Y., Guo, J.K., Jin, S.J., Li, Z.G., Chen, D., Li, X., Che, S.Q., 2018.
+Mo, L., Ma, Z.Y., Xu, Y.S., Sun, F.B., Lun, X.X., Liu, X.H., Chen, J.G., Yu, X.X., 2015. A dynamic processes study of PM retention by trees under different wind conditions.
+Assessing the capacity of plant species to accumulate particulate matter in Beijing, Environ. Pollut. 233, 315–322.
+China. PLoS One 10 (10), e0140664. Xu, X., Zhang, Z., Bao, L., Mo, L., Yu, X., Fan, D., Lun, X., 2017. Influence of rainfall
+Mondol, M.N., Chamon, A.S., Faiz, B., Elahi, S.F., 2011. Seasonal variation of heavy duration and intensity on particulate matter removal from plant leaves. Sci. Total
+metal concentrations in water and plant samples around Tejgaon industrial area of Environ. 609, 11–16.
+Bangladesh. J. Bangladesh Acad. Sci. 35 (1), 780–781. Yang, J., McBride, J., Zhou, J., Sun, Z., 2005. The urban forest in Beijing and its role in
+Muller, G., 1979. Schwermetalle in den sediments des Rheins-Veran-derungen seitt 1971. air pollution reduction. Urban For. Urban Gree 3 (2), 65–68.
+Umschan 79, 778–783. Zhang, W., Lin, S., Hopke, P.K., Thurston, S.W., van Wijngaarden, E., Croft, D.P.,
+Niu, X., Wang, B., Wei, W.j., 2020. Response of the particulate matter capture ability to Squizzato, S., Masiol, M., Rich, D.Q., 2018. Triggering of cardiovascular hospital
+leaf age and pollution intensity. Environ. Sci. Pollut. Res. 27, 34258–34269. admissions by fine particle concentrations in New York State: before, during, and
+Nowak, D.J., Hirabayashi, S., Bodine, A., Hoehn, R., 2013. Modeled PM2.5 removal by after implementation of multiple environmental policies and a recession. Environ.
+trees in ten U.S. cities and associated health effects. Environ. Pollut. 178, 395–402. Pollut. 242, 1404–1416.
+Popek, R., Łukowski, A., Bates, C., Oleksyn, J., 2017. Particulate matter, heavy metals Zheng, G.L., Li, P., 2019. Resuspension of settled atmospheric particulate matter on plant
+and polycyclic aromatic hydrocarbons accumulation on the leaves of Tilia cordata leaves determined by wind and leaf surface characteristics. Environ. Sci. Pollut. Res.
+Mill. in five Polish cities with different level of air pollution. Int. J. Phytoremediation 26 (3), 19606–19614.
+19 (12), 1134–1141. Zheng, Y.Y., Li, X.Y., Long, C.L., 2020. Comparison of dust and heavy metal absorption
+Prajapati, S.K., Tripathi, B.D., 2008. Seasonal variation of leaf dust accumulation and abilities of four common tree species from different regions. Earth Environ. 48 (2),
+pigment content in plant species exposed to urban particulates pollution. J. Environ. 268–278.
+Qual. 37 (3), 865–870.
+10

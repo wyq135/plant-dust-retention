@@ -1,0 +1,552 @@
+TOTAL PAGES: 10
+
+===== PAGE 1 =====
+www.nature.com/scientificreports
+OPEN Foliar particulate matter
+retention and toxic trace element
+accumulation of six roadside plant
+species in a subtropical city
+Yazhen Chen 1,2, Yichen Xu 1,2, Xiaocui Liang 1,2,3,4,5*, Wende Yan 1,2,3,4,5*, Rui Zhang 1,
+Ying Yan 1 & Shixin Qin 1
+As a major source of air pollution, particulate matter (PM) and associated toxic trace elements pose
+potentially serious threats to human health and environmental safety. As is known that plants can
+reduce air PM pollution. However, the relationship between PM of different sizes and toxic trace
+elements in foliar PM is still unclear. This study was performed to explore the association between
+PM of different sizes (PM , PM , PM ) and toxic trace elements (As, Al, Cu, Zn, Cd, Fe, Pb) as
+2.5 10 >10
+well as the correlation among toxic trace elements of six roadside plant species (Cinnamomum
+camphora, Osmanthus fragrans, Magnolia grandiflora, Podocarpus macrophyllus, Loropetalum
+chinense var. rubrum and Pittosporum tobira) in Changsha, Hunan Province, China. Results showed
+that P. macrophyllus had the highest ability to retain PM, and C. camphora excelled in retaining PM .
+2.5
+The combination of P. macrophyllus and C. camphora was highly recommended to be planted in the
+subtropical city to effectively reduce PM. The toxic trace elements accumulated in foliar PM varied
+with plant species and PM size. Two-way ANOVA showed that most of the toxic trace elements were
+significantly influenced by plant species, PM size, and their interactions (P < 0.05). Additionally, linear
+regression and correlation analyses further demonstrated the homology of most toxic trace elements
+in foliar PM, i.e., confirming plants as predictors of PM sources as well as environmental monitoring.
+These findings contribute to urban air pollution control and landscape configuration optimization.
+Particulate matter (PM) pollution in the atmosphere is becoming increasingly severe as urbanization and indus-
+trialization intensify, which has serious threats to human health and environmental safety, so it has attracted
+much a ttention1–5. PM is respirable air-suspended particulate matter, which can be classified as PM (less than
+2.5
+or equal to 2.5 μm), PM (greater than 2.5 μm and less than 10 μm), and PM (greater than or equal to 10 μm)
+10 >10
+based on particle size6–8.
+Roadside plants have the potential to retain atmospheric particulate matter and improve air quality9–12. In
+recent years, researchers focused on the mechanisms of PM retention in plants and the factors affecting PM
+retention. For the plant itself, the leaf surface micromorphology influenced PM retention c apacity13,14. The latest
+research found that the microclimate change caused by evapotranspiration on the surface of plant leaves had a
+significant effect on the retention of P M 15. The ability of plants to retain PM can be affected by planting patterns
+2.5
+and three-dimensional configuration structures16. Equally important were the effects of meteorological factors
+on plant PM retention, for instance, rainfall and wind17.
+Except for its ability to retain PM, the role of plants in environmental monitoring cannot be ignored18,19. Large
+amounts of toxic trace elements are present in atmospheric P M20,21, and PM containing toxic trace elements can
+float to other ecosystems22, and then be enriched in organisms, thereby jeopardizing their health20. Hence, the
+investigation of toxic trace elements in PM has significant implications for risk assessment and environmental
+monitoring. A recent study showed that plant leaf PM can substantially reflect the composition of toxic trace
+1Faculty of Life Science and Technology, Central South University of Forestry and Technology, Changsha,
+Hunan, China. 2National Engineering Laboratory for Applied Technology of Forestry and Ecology in South
+China, Changsha, Hunan, China. 3Key Laboratory of Urban Forest Ecology of Hunan Province, Changsha,
+Hunan, China. 4Lutou National Station for Scientific Observation and Research of Forest Ecosystem in Hunan
+Province, Yueyang, China. 5Key Laboratory of Subtropical Forest Ecology of Hunan Province, Changsha, Hunan,
+China. *email: t20081388@csuft.edu.cn; t20001421@csuft.edu.cn
+Scientific Reports | (2023) 13:12831 | https://doi.org/10.1038/s41598-023-39975-w 1
+Vol.:(0123456789)
+===== PAGE 2 =====
+www.nature.com/scientificreports/
+elements in the environment23. Nonetheless, there is still a lot of confusion about foliar PM and associated toxic
+trace elements. What is the composition of toxic trace elements in PM of different sizes retained by plants? Is it
+possible that plant species affect PM of different sizes to retain toxic trace elements? Who determines the con-
+centration of toxic trace elements in foliar PM?
+In this study, six roadside plants were investigated in Changsha, Hunan Province, a typical subtropical city
+in China. We measured the content of PM in different size fractions on their leaves and associated toxic trace
+elements. We also analyzed the association between PM of different sizes and toxic trace elements as well as the
+correlation among toxic trace elements, which is rarely seen in previous studies. The objectives of this study were
+to (1) evaluate the ability of different plants to retain particulate matter of different size fractions as well as toxic
+trace elements, (2) analyze driving factors of toxic trace element content in particulate matter, and (3) reveal
+potential associations between toxic trace elements from particulate matter. Our results can contribute to the
+knowledge of the ability of common roadside plants to retain particulate matter, toxic trace elements, and their
+potential associations in the subtropical area. Simultaneously, our study can provide a theoretical basis for the
+plant configuration in urban green belts and the application of plants in environmental monitoring. In addition,
+our work can provide innovative perspectives for the study of foliar PM.
+Results
+Foliar PM retention. Figure 1 shows the differences among plant species in the retention of PM in different
+size fractions. The total PM retention capacity of P. macrophyllus was the highest (3.8464 g/m2), which was sig-
+nificantly higher than that of the other five plants (P < 0.05). Podocarpus macrophyllus also had the greatest reten-
+tion of PM (0.1426 g/m2) and PM (3.5865 g/m2). PM accumulated on the leaf surface of C. camphora was
+10 >10 2.5
+the highest (0.4907 g/m2), which accounted for 91.85% of the total PM retention of C. camphora, while C. cam-
+phora had the lowest PM retention (0.0160 g/m2), and it indicated that C. camphora was much more effective
+>10
+in accumulating fine particulate matter. Although O. fragrans had the lowest retention of total PM (0.3958 g/m2),
+PM retention of O. fragrans (0.2986 g/m2) was only lower than that of C. camphora, and significantly higher
+2.5
+than that of P. macrophyllus (0.1174 g/m2), L. chinense var. rubrum (0.0254 g/m2), M. grandiflora (0.0101 g/m2)
+and P. tobira (0.0004 g/m2). PM , PM and P M on the leaf surface accounted for 75.43%, 17.60%, and 6.97%
+2.5 10, >10
+of the total PM retention of O. fragrans, which indicated that O. fragrans also was more effective in accumulating
+fine particulate matter.
+Toxic trace elements in foliar PM. Figure 2 shows the toxic trace element concentrations in foliar par-
+ticulate matter of different plants. The distribution of toxic trace elements in PM of the same particle size was
+different among the six roadside plants. Cinnamomum camphora carried the most amount of Al, Cu, Zn, Fe, and
+Pb in foliar P M among the six roadside plants, and there were significant differences in the Al, Cu, Zn, Fe, and
+>10
+Pb concentrations in foliar PM between C. camphora and the other five plant species (P < 0.05). The highest Al,
+>10
+Zn, Cd, Fe, and As concentrations were found in foliar P M of P. tobira, which was significantly higher than the
+10
+other five plant species (P < 0.05). For Al, Zn, Cd, and As, P. tobira had the highest concentration in foliar PM
+2.5
+among the six roadside plants. The highest Fe concentration in foliar P M was observed in P. macrophyllus,
+2.5
+which was significantly higher than C. camphora (P < 0.05).
+The distribution of the same element varied with plant species and particle size. For Al, C. camphora [ PM
+>10
+(537,825 mg/kg) > PM (69,319 mg/kg) > PM (3506 mg/kg)] and O. fragrans [ PM (309,648 mg/kg) > PM
+10 2.5 >10 10
+(91,191 mg/kg) > PM (7293 mg/kg)] had the highest content of Al in PM ; P. tobira [ PM (324,958 mg/
+2.5 >10 10
+kg) > P M (81,472 mg/kg) > P M (25,202 mg/kg)] had the highest content of Al in PM ; M. grandiflora [PM
+2.5 >10 10 2.5
+(64,998 mg/kg) > P M (25,893 mg/kg) > P M (15,055 mg/kg)] and P. macrophyllus [PM (46,844 mg/kg) > P M
+10 >10 2.5 10
+(28,992 mg/kg) > PM (20,169 mg/kg)] had the highest content of Al in PM ; and there were significant dif-
+>10 2.5
+ferences among the three particle sizes in the same plant species (P < 0.05), while the Al content of L. chinense
+var. rubrum had no significant difference among the three particle sizes (P > 0.05). The distribution of Cd and
+As in the particulate matter of different plant leaves showed almost complete consistency, as evidenced by the
+highest levels of PM in C. camphora foliage, PM in M. grandiflora foliage, PM in P. tobira and L. chinense
+>10 2.5 10
+var. rubrum foliage, and the Cd and As concentrations of O. fragrans and P. macrophyllus showed no significant
+difference among the three particle sizes (P > 0.05) (Table S1).
+The results of two-way ANOVA (Table 1) showed that most of the toxic trace elements were significantly
+influenced by plant species, PM size, and their interactions. Al (F = 36.19, P < 0.001), Cd (F = 6.64, P < 0.001), and
+As (F = 7.63, P < 0.001) were more driven by the interaction of plant species and PM size, while some elements
+were also significantly influenced by these factors but were dominated by PM size, such as Cu (F = 8.70, P < 0.001),
+Pb (F = 11.63, P < 0.001), and Fe (F = 6.53, P < 0.01). More interestingly, there was no significant effect of PM size
+on Zn (P > 0.05). There was a highly significant effect of plant species on Zn in the particulate matter (P < 0.01).
+Correlation analysis of toxic trace elements. Linear regression analysis of toxic trace element con-
+centrations in foliar PM and the ability of foliar PM retention showed that there was a significant correlation
+between Al, As, Cd, and Zn in PM and foliar P M retention (P < 0.05). However, there was no significant cor-
+2.5 2.5
+relation between the seven elements and foliar PM , PM retention (Fig. 3).
+10 >10
+Most of the toxic trace elements in the particulate matter showed a highly significant correlation (P < 0.05),
+except Pb and Cd (R = 0.259, P > 0.05). However, the correlation between toxic trace elements was affected by
+particle size. Al and Cu were significantly correlated only at PM (R = 0.780, P < 0.001), similarly for Al and Pb
+>10
+(R = 0.765, P < 0.001), Pb and Zn (R = 0.963, P < 0.001), Pb and Cd (R = 0.567, P < 0.05), and Pb and As (R = 0.629,
+P < 0.01). Fe and Al were not significantly correlated only at foliar PM (R = 0.308, P > 0.05), analogously for
+2.5
+Scientific Reports | (2023) 13:12831 | https://doi.org/10.1038/s41598-023-39975-w 2
+Vol:.(1234567890)
+===== PAGE 3 =====
+www.nature.com/scientificreports/
+Figure 1. Particulate matter (PM) retention capacity of different plants. (a) Total PM; (b) PM ; (c) PM ; (d)
+2.5 10
+PM . Different lowercase letters in the graph represent significant differences in the PM retention ability of tree
+>10
+species (P < 0.05).
+Cd and Cu (R = 0.073, P > 0.05), As and Cu (R = 0.119, P > 0.05), Fe and Cd (R = 0.260, P > 0.05), and Fe and As
+(R = 0.286, P > 0.05) (Fig. 4).
+Discussion
+Particulate matter retention among plant species. Urbanization has accelerated and increased
+the pressure on transportation, which has also led to a rapid escalation of particulate matter from roads24–26.
+Numerous studies have demonstrated that the roadside plant species can effectively adsorb and remove particu-
+late matter of different sizes, which to a certain extent alleviates the environmental pollution caused by urban
+transportation27–29. In our study, P. macrophyllus had the highest retention of total PM, especially much more
+effective in accumulating large PM particles, which was consistent with previous research30–32. It has been proved
+that coniferous species can retain particulate matter more effectively than broadleaf species due to their unique
+leaf structure and microscopic characteristics. The microstructure of coniferous species is neat "ridged" stripes
+and well-arranged stomatal strips, with a large number of wrinkles and fluffy structures in the stomatal area, and
+the size of the fluff is nanoscale, which increases the surface area and surface roughness and is more conducive to
+the deposition of intercepted particles30. Narrow needles may be more easily hit by particles in the air than large
+Scientific Reports | (2023) 13:12831 | https://doi.org/10.1038/s41598-023-39975-w 3
+Vol.:(0123456789)
+===== PAGE 4 =====
+www.nature.com/scientificreports/
+Figure 2. Toxic trace element concentration in foliar particulate matter of different plants. Different colors
+represent different plants and different shapes represent particulate matter of different sizes.
+Factor Al Cu Zn Cd Pb Fe As
+FP 25.67*** 5.97*** 4.32** 4.59** 5.14** 4.62** 5.24**
+FS 30.60*** 8.70*** 1.57 3.29* 11.63*** 6.53** 3.77*
+FP × FS 36.19*** 7.06*** 6.73*** 6.64*** 5.42*** 5.89*** 7.63***
+Table 1. Two-way ANOVA of toxic trace elements influenced by plant species, PM size, and their interactions.
+P values *< 0.05, **< 0.01, ***< 0.001, F: plant species, F: PM size, F × F: the interaction of plant species and
+p s P S
+PM size.
+Figure 3. Regression analysis of toxic trace element concentrations with foliar PM retention. Different colors
+are used in the figure to distinguish the different toxic trace elements. Significance levels are indicated by
+P < 0.05, P < 0.01, and P < 0.001.
+Scientific Reports | (2023) 13:12831 | https://doi.org/10.1038/s41598-023-39975-w 4
+Vol:.(1234567890)
+===== PAGE 5 =====
+www.nature.com/scientificreports/
+Figure 4. Correlation analysis between toxic trace elements. Different colors represent different sizes of
+particulate matter. Significance levels are indicated by *P < 0.05, **P < 0.01 and ***P < 0.001.
+flat leaves, compared to flattened leaves, narrow conifer needles have a much larger Stokes number and therefore
+have higher capture e fficiency31. Podocarpus macrophyllus was not considered outstanding in its ability to retain
+PM as there were physiological differences between different conifer s pecies32, and an appropriate selection
+2.5
+of conifer species can lead to better air quality improvement12. Besides, we found C. camphora was preferable
+to P. macrophyllus and other plants in terms of their ability to retain PM . Current studies on foliar PM cap-
+2.5 2.5
+ture capacity for evergreen broad-leaved trees (C. camphora) are inconclusive. Some researchers found that C.
+camphora did not effectively capture small-size particulate matter33,34. But others proved that evergreen broad-
+leaved trees had greater adsorption capacity of PM than coniferous trees31, and this is consistent with our
+2.5
+results. The reason was that the leaf stomata can adsorb P M 31, and the broad-leaved trees (C. camphora) have
+2.5
+more stomatal density than coniferous trees (P. macrophyllus)35–37, so C. camphora showed very high adsorption
+capacity of P M . In addition, the subtle changes in ambient water vapor brought by the evapotranspiration of
+2.5
+plant leaves would also be effective in retaining PM 15. In our study, P. macrophyllus had the highest ability to
+2.5
+retain PM, and C. camphora excelled in retaining P M . Therefore, our results suggest that the combination of
+2.5
+P. macrophyllus and C. camphora was highly recommended to be planted in the subtropical city to effectively
+reduce PM from the air.
+Toxic trace elements in foliar particulate matter. Previous studies mainly focused on the adsorption
+of particulate matter by plants and the factors influencing the reduction of P M31, but the relationship between
+PM of different sizes and toxic trace elements in foliar PM remains unclear. Our results demonstrated that there
+was a "particle size effect" for most toxic trace elements in foliar PM. All of the trace element was influenced by
+particle size except Zn. However, the mechanism of the effects of particle size on trace elements is still unclear,
+which can be a direction of future research. Additionally, the different content of the same elements in particu-
+late matter of the same particle size indicates that the particulate matter may be from different sources, such as
+Scientific Reports | (2023) 13:12831 | https://doi.org/10.1038/s41598-023-39975-w 5
+Vol.:(0123456789)
+===== PAGE 6 =====
+www.nature.com/scientificreports/
+the elemental composition of particulate matter originating from industrial areas and non-industrial areas and
+their content was completely different34. To avoid the influence of environmental factors, all the trees studied
+were in the same road adjacent area. Therefore, the most likely reason is that different plant leaves absorb toxic
+trace elements from the same source of particulate matter, leading to variations in their concentrations. There
+was further evidence from the two-way ANOVA results that plant species and the interaction of plant species
+and particle size had a highly significant effect on the seven toxic trace elements, which has rarely been proved by
+such methods in previous studies38,39. Different plants generally have different foliar microstructures, i.e., some
+plants are more likely to absorb trace elements from large particulate matter on the leaf surface40,41, while others
+are more inclined to fine particulate matter, such as PM 42. All toxic trace elements in PM on C. camphora
+2.5 >10
+foliage in our study were higher than those in other particle-size particulate matter. Some plants are selective in
+the adsorption of particulate matter due to their leaf physicochemical factors, thus explaining why C. camphora
+has the worst PM adsorption capacity but its ability to retain toxic trace elements is b etter43.
+>10
+Association between toxic trace elements and their association with foliar retention capacity
+of particulate matter. In theory, the more particulate matter retained on the leaf surface, the more toxic
+trace elements should be accumulated accordingly39,44. However, the linear regression results showed that some
+toxic trace elements showed a significant negative correlation with the particulate matter content when the par-
+ticle size was less than 2.5 µm. This result indicated the toxic trace element may be absorbed by plant leaves. Fur-
+thermore, it has been proved that plant species can affect the content of toxic trace elements in foliar particulate
+matter through their microstructures as well as particulate matter selection33. There is a finding that plant health
+also affects their ability to retain particulate matter. At the same time, particles can also affect plant growth, pho-
+tosynthesis, respiration, and transpiration when the particles on the leaf surface reach a certain amount45. There-
+fore, the differences in foliar PM retention capacity and toxic trace element accumulation in PM can also be
+attributed to uncertainties associated physical and chemical processes involved in plant–particles interactions.
+In our study, the phenomenon of a closely association between toxic trace elements in leaf PM was comparable
+to the results of most studies46–49. Even though the plant leaf samples were collected in the same time–space,
+there were some discrepancies in the sources of PM even in the same area, for instance, roadside PM may origi-
+nate from car exhaust emissions or road PM36. There are records suggesting that Cd, Cu, Pb, and Zn generally
+originate from road PM50,51, while vehicle exhaust emissions bring As, Cd, and Pb52,53. The highly significant
+correlation between As and Cd in all particle sizes in this study further confirms the above statement and also
+illustrates that PM retention on plant foliage can reflect fairly well the sources as well as the distribution of toxic
+trace elements in the environment of roadsides54,55.
+Conclusions
+In this study, P. macrophyllus had the strongest ability to retain PM, and C. camphora excelled in retaining PM .
+2.5
+The combination of P. macrophyllus and C. camphora is highly recommended to be planted in subtropical cities
+to effectively reduce PM. PM size and plant species and their interactions played an important role in the toxic
+trace element concentration of foliar particulate matter. Additionally, the toxic trace element concentration of
+foliar particulate matter is co-dependent on the physiological characteristics of the plant itself as well as envi-
+ronmental sources. The plants can predict the source of PM by toxic trace elements. This study provides a new
+reference for city greening and air pollution control.
+Materials and methods
+Study area. Changsha is located in the eastern part of Hunan Province (111° 53′–114° 15′ E, 27° 51′–28°
+40′ N), which is in the low latitude zone with a subtropical monsoon climate. The annual average temperature is
+17.2 °C, and the annual precipitation is 1361.6 mm in the city. The annual average PM concentration in 2017
+2.5
+was higher than the limit value of the Chinese Secondary Standard of Environmental Air Quality Standards (GB
+3095-2012) (35 μg/m3), and the annual average P M concentration is equal to the limit value of the Chinese
+10
+Secondary Standard of Environmental Air Quality Standards (GB 3095-2012) (70 μg/m3).
+Sample collection. By surveying greening tree species in Changsha, we selected six typical evergreen
+broad-leaved and coniferous greening tree species in Changsha to monitor and analyze their PM retention
+capacity, including four arbor species: Cinnamomum camphora, Osmanthus fragrans, Magnolia grandiflora and
+Podocarpus macrophyllus, and two shrub species: Loropetalum chinense var. rubrum and Pittosporum tobira
+(Table 2). The plants we selected were not listed as national and provincial key protected wild plants in China
+nor threatened species on the IUCN Red List. Therefore, no specific permissions or licenses were needed for the
+sampling of plants for research purposes according to the regulations of the People’s Republic of China on the
+protection of wild plants. During the sampling process, we followed the local sampling guideline to ensure no
+substantial harm to the collecting individual. The plant leaf samples were collected on both sides of the main
+roads (Shaoshan Road and Furong Road) in Changsha City (Fig. 5) on December 25, 2017, when there was no
+previous rainfall for more than 7 days. The width of the green belt was about 3 m, and the plants in the green belt
+included arbors, shrubs, and herbs with consistent habitat conditions. To avoid the impacts caused by the differ-
+ences in location and distance, the samples were selected within 3 m from the road and all samples were collected
+within 1 day. The height of sampling was 2–6 m for arbors and 0.5–3 m for shrubs. For each species, ten trees
+were selected as samples, and the leaves were collected randomly in four different directions (east, west, south,
+and north) at the upper, middle, and lower positions of the tree canopy. The leaves collected are required to be
+healthy and free of pests and diseases. After sample collection, the samples were carefully stored in sealed plastic
+bags and immediately transferred to a refrigerator at 4 °C for subsequent experiments and analysis. Meanwhile,
+Scientific Reports | (2023) 13:12831 | https://doi.org/10.1038/s41598-023-39975-w 6
+Vol:.(1234567890)
+===== PAGE 7 =====
+www.nature.com/scientificreports/
+DBH (BD) /
+Items No Species Family cm Crown diameter/m Height/m Leaf surface features
+Glabrous on both surfaces or
+1 Cinnamomum camphora Lauraceae 27.65 ± 10.84 7.51 ± 2.02 7.85 ± 2.37 slightly microvillus below when
+young
+Lower surface densely covered
+Evergreen broad-leaved trees 2 Magnolia grandiflora Magnoliaceae 12.80 ± 2.17 4.66 ± 0.65 5.87 ± 0.98
+with brown or gray-brown villus
+Glabrous on both sides, concave
+3 Osmanthus fragrans Oleaceae 21.33 ± 2.00 5.51 ± 0.68 5.70 ± 0.81 above midrib, and convex below
+midrib
+Evergreen coniferous trees 4 Podocarpus macrophyllus Podocarpaceae 8.07 ± 2.37 2.05 ± 0.56 3.23 ± 0.25 Midrib raised
+Loropetalum chinense var.
+5 Hamamelidaceae 10.80 ± 1.98 3.46 ± 0.43 0.90 ± 0.24 Stellate hairs on both sides
+rubrum
+Evergreen broad-leaved shrubs
+Villus on both sides of the tender
+6 Pittosporum tobira Pittosporaceae – – 1.60 ± 0.18
+leaf, and then it becomes bald
+Table 2. Basic information of the investigated tree species. † Data are means ± standard deviation (SD).
+Figure 5. Location of the research areas. †Software&Version：QGIS 3.32.0. URL:https://server.arcgisonline.
+com/arcgis/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}.
+the diameter at breast height (DBH) and basal diameter (BD) of plants were measured with a diameter at breast
+height ruler, the height of each tree was measured with a height measuring device, and the width of the crowns
+was measured with a ruler in two directions: north–south and east–west.
+Extraction and processing of foliar particulate matter. The retention of particulate matter on the
+surface of plant leaves was determined by using the microporous membrane weighing m ethod53. The number
+of test leaves was determined according to leaf size and type to ensure that the experimental leaf samples were
+adequate and randomized, and three replicates of each plant were required. In general, the larger leaves in broad-
+leaf needed 30–50 pieces, and the smaller leaves needed 150–300 pieces. Put the selected plant leaf samples into
+a beaker with deionized water for half an hour, and then carefully clean all the PM on the leaves with a small
+brush. Next, pinch out the leaves with pointed tweezers (be careful not to damage the leaves) and rinse them
+three times with an appropriate amount of deionized water, then put them on newspaper to dry. Finally, the
+dried leaves were scanned with a scanner (Epson scanner 11000G) to obtain the leaf projection, and export all
+the leaf scanned images, then opened Image J software, the edges of the leaves were circled and the leaf area was
+calculated by the software. To reduce the error, the area of each leaf needed to be calculated three times and get
+the average value.
+The solution was filtered through the dried and weighed microporous membrane of 10 μm pore size, and
+then the filtrate was filtered through the dried and weighed microporous membrane of 2.5 μm and 0.1 μm pore
+size to obtain three different particle size levels of PM , P M and PM using the same procedure as above.
+>10 10 2.5
+Scientific Reports | (2023) 13:12831 | https://doi.org/10.1038/s41598-023-39975-w 7
+Vol.:(0123456789)
+===== PAGE 8 =====
+www.nature.com/scientificreports/
+Before and after each filtration, the microporous filter membrane was put in an oven at 60 °C31 and dried to a
+constant mass (two measurements ≤ 0.0002 g), and weighed on a balance with an accuracy of one ten-thousandth.
+The plant leaf PM retention was determined by the mass difference method. The calculation method was as
+follows:
+PM retention per unit leaf area (g/m2):
+M=(M
+2
+−M 1)/S
+(1)
+In the formula, M is the retention of particulate matter per unit leaf area (g/m2); M is the dried mass of filter
+1
+membrane before filtration (g); M is the dried mass of filter membrane and particulate matter after filtration
+2
+(g); S is the total area of test leaf samples (m2).
+Toxic trace element accumulation of foliar particulate matter. The content of toxic trace elements
+in PM of plant leaf surface was determined by aqueous solubilization digestion. Approximately 0.2 g of filter
+membranes were digested in a glass tube with H NO and HCl mixture (1:3 v/v ratio) using a graphite heater
+3
+furnace (Polytech PT60, Polytech 3 Instrument, Beijing, China) and kept the mixture in a slightly boiling state
+for 2 h. Then the content of toxic trace elements in the digestion solution was determined by the Inductively
+coupled plasma optical emission spectrometer (ICP-OES, Optima 8300, USA), and the detection limit of this
+instrument is 0.001–0.1 mg/L. The national standard GSS-5 (Hunan soil) was selected for quality control and
+the measured standard recoveries ranged from 85.1 to 114%. In this experiment, As, Al, Cu, Zn, Cd, Fe, and
+Pb, which are common toxic trace elements in PM, were measured. The standard solutions were selected from
+the national standard samples of single-element standard solutions: As (GSB 04-1714-2004), Al (GSB 04-1713-
+2004), Cu (GSB 04-1725-2004), Zn (GSB 04-1761-2004), Cd (GSB 04-1721-2004), Fe (GSB 04-1726-2004) and
+Pb (GSB 04-1742-2004), with the concentration of 1000 μg/ml.
+Statistical analysis. One-way ANOVA was used to compare the differences in the PM retention capacity
+of different plants. Two-way ANOVA was used to reveal the underlying drivers of toxic trace element concen-
+trations in particulate matter. Linear regression was used to explore the relationship between toxic trace ele-
+ment concentrations of particulate matter and the ability of the foliage to retain particulate matter. Correlation
+analysis based on Pearson’s method was used to examine the association among different toxic trace elements.
+GraphPad Prism 8 as well as the R-based packages "ggplot2" and "GGally" were used for data visualization. All
+statistical analyses in our work were done in R 4.1.1 (R-Core-Team, 2013).
+Ethical approval. All procedures were followed in compliance with institutional, national, and interna-
+tional rules and legislation. The plants we selected were not listed as national and provincial key protected wild
+plants in China nor threatened species on the IUCN Red List. Therefore, no specific permissions or licenses were
+needed for the sampling of plants for research purposes according to the regulations of the People’s Republic of
+China on the protection of wild plants.
+Data availability
+The datasets generated and/or analyzed during the current study are not publicly available due [The data may be
+used in our next analysis] but are available from the corresponding author on reasonable request.
+Received: 13 March 2023; Accepted: 2 August 2023
+References
+1. Du, T. et al. Characteristics and formation mechanisms of winter particulate pollution in Lanzhou, Northwest China. J. Geophys.
+Res. Atmos. 125(18), 4 (2020).
+2. Li, R., Wang, J., Xue, K. X. & Fang, C. S. Spatial and temporal distribution characteristics and influencing factors analysis of par-
+ticulate matter pollution in Jinan City. Air Qual. Atmos. Health 14(8), 1267–1278 (2021).
+3. Li, J. D. et al. Winter particulate pollution severity in North China driven by atmospheric teleconnections. Nat. Geosci. 15(5),
+349–355 (2022).
+4. Brunekreef, B. & Forsberg, B. Epidemiological evidence of effects of coarse airborne particles on health. Eur. Respir. J. 26(2),
+309–318 (2005).
+5. Sicard, P., Khaniabadi, Y. O., Perez, S., Gualtieri, M. & De Marco, A. Effect of O, PM and P M on cardiovascular and respiratory
+3 10 2.5
+diseases in cities of France, Iran and Italy. Environ. Sci. Pollut. Res. 26(31), 32645–32665 (2019).
+6. Carrion-Matta, A. et al. Classroom indoor PM sources and exposures in inner-city schools. Environ. Int. 131, 104968 (2019).
+2.5
+7. Ma, Y. F., Zhao, H. J. & Liu, Q. Y. Characteristics of PM and PM pollution in the urban agglomeration of Central Liaoning.
+2.5 10
+Urban Clim. 43, 101170 (2022).
+8. Priyan, R. S. et al. Vertical distribution of PM and PM emission sources and chemical composition during winter period in
+10 2.5
+Delhi city. Air Qual. Atmos. Health 15(2), 255–271 (2022).
+9. Baumgardner, D., Varela, S., Escobedo, F. J., Chacalo, A. & Ochoa, C. The role of a peri-urban forest on air quality improvement
+in the Mexico City megalopolis. Environ. Pollut. 163, 174–183 (2012).
+10. Saebo, A. et al. Plant species differences in particulate matter accumulation on leaf surfaces. Sci. Total Environ. 427, 347–354 (2012).
+11. Popek, R., Gawronska, H., Wrochna, M., Gawronski, S. W. & Saebo, A. Particulate matter on foliage of 13 woody species: Deposi-
+tion on surfaces and phytostabilisation in waxes–a 3-year study. Int. J. Phytorem. 15(3), 245–256 (2013).
+12. Yang, J., Chang, Y. M. & Yan, P. B. Ranking the suitability of common urban tree species for controlling PM pollution. Atmos.
+2.5
+Pollut. Res. 6(2), 267–277 (2015).
+13. Sgrigna, G., Saebo, A., Gawronski, S., Popek, R. & Calfapietra, C. Particulate matter deposition on Quercus ilex leaves in an indus-
+trial city of central Italy. Environ. Pollut. 197, 187–194 (2015).
+Scientific Reports | (2023) 13:12831 | https://doi.org/10.1038/s41598-023-39975-w 8
+Vol:.(1234567890)
+===== PAGE 9 =====
+www.nature.com/scientificreports/
+14. Wang, H. X. & Shi, H. Particle retention capacity, efficiency, and mechanism of selected plant species: Implications for urban
+planting for improving urban air quality. Plants 10(10), 2109 (2021).
+15. Ryu, J., Kim, J. J., Byeon, H., Go, T. & Lee, S. J. Removal of fine particulate matter (PM ) via atmospheric humidity caused by
+2.5
+evapotranspiration. Environ. Pollut. 245, 253–259 (2019).
+16. Kim, S., Lee, S., Hwang, K. & An, K. Exploring sustainable street tree planting patterns to be resistant against fine particles (PM ).
+2.5
+Sustainability 9(10), 1709 (2017).
+17. Popek, R., Haynes, A., Przybysz, A. & Robinson, S. A. How much does weather matter? Effects of rain and wind on PM accumula-
+tion by four species of Australian native trees. Atmosphere 10(10), 633 (2019).
+18. Tan, J. H. et al. Chemical characteristics and source apportionment of PM in Lanzhou, China. Sci. Total Environ. 601, 1743–1752
+2.5
+(2017).
+19. Feder, W. A. Plants as bioassay systems for monitoring atmospheric pollutants. Environ. Health Perspect. 27, 139–147 (1978).
+20. Xie, J. W. et al. Health risk-oriented source apportionment of PM -associated trace metals. Environ. Pollut. 262, 25 (2020).
+2.5
+21. Zhao, Z. et al. In vitro assessments of bioaccessibility and bioavailability of PM trace metals in respiratory and digestive systems
+2.5
+and their oxidative potential. J. Hazard. Mater. 409, 124638 (2021).
+22. Chen, B. et al. Modeling and evaluation of urban pollution events of atmospheric heavy metals from a large Cu-smelter. Sci. Total
+Environ. 539, 17–25 (2016).
+23. Li, C. C. et al. Foliar dust as a reliable environmental monitor of heavy metal pollution in comparison to plant leaves and soil in
+urban areas. Chemosphere 287, 132341 (2022).
+24. Suleiman, A., Tight, M. R. & Quinn, A. D. Assessment and prediction of the impact of road transport on ambient concentrations
+of particulate matter PM . Transport. Res. D-Tr. E. 49, 301–312 (2016).
+10
+25. Jandacka, D., Durcanska, D. & Bujdos, M. The contribution of road traffic to particulate matter and metals in air pollution in the
+vicinity of an urban road. Transport. Res. D-Tr. E. 50, 397–408 (2017).
+26. Giunta, M. Assessment of the environmental impact of road construction: Modelling and prediction of fine particulate matter
+emissions. Build. Environ. 176, 106865 (2020).
+27. Maher, B. A., Ahmed, I. A. M., Davison, B., Karloukovski, V. & Clarke, R. Impact of roadside tree lines on indoor concentrations
+of traffic-derived particulate matter. Environ. Sci. Technol. 47(23), 13737–13744 (2013).
+28. Ozdemir, H. Mitigation impact of roadside trees on fine particle pollution. Sci. Total Environ. 659, 1176–1185 (2019).
+29. Wu, J., Luo, K., Wang, Y. & Wang, Z. Urban Road greenbelt configuration: The perspective of PM removal and air quality regula-
+2.5
+tion. Environ. Int. 157, 106786 (2021).
+30. Guo, L. et al. Evaluation of conifer and broad-leaved barriers in intercepting particulate matters in a wind tunnel. J. Air Waste
+Manage. Assoc. 70(12), 1314–1323 (2020).
+31. Jin, E. J. et al. Particulate matter removal ability of ten evergreen trees planted in Korea urban greening. Forests 12(4), 438 (2021).
+32. Chen, L., Liu, C., Zhang, L., Zou, R. & Zhang, Z. Variation in Tree species ability to capture and retain airborne fine particulate
+matter ( PM ). Sci. Rep. 7(1), 1–11 (2017).
+2.5
+33. Jia, M., Zhou, D., Lu, S. & Yu, J. Assessment of foliar dust particle retention and toxic metal accumulation ability of fifteen roadside
+tree species: Relationship and mechanism. Atmos. Pollut. Res. 12(2), 36–45 (2021).
+34. Dang, N., Zhang, H., Abdus Salam, M. M., Li, H. & Chen, G. Foliar dust particle retention and metal accumulation of five garden
+tree species in Hangzhou: Seasonal changes. Environ. Pollut. (Barking, Essex: 1987) 306, 119472–119472 (2022).
+35. Jiang, X. X., Zou, A. L., Wang, Y. Y., Zhou, X. L. & Ji, C. J. Leaf stomatal traits of woody plants and their response to nitrogen addi-
+tion in typical forests in Eastern China. Acta Sci. Nat. Univ. Pekinensis 54(4), 839–847 (2018).
+36. Wang, N., Yuan, M. L. & Su, J. L. Relationship between leaf structure and cold resistance of Seveal camphor tree species. J. Northwest
+Forest. Univ. 28(4), 43–49+102 (2013).
+37. Yang, F. L., Deng, D. L., Zhao, L. J. & Zhu, L. Q. Comparative study on leaf morphological and structural characteristics of male
+and female Podocarpus macrophyllus. Acta Bot. Boreali Occidentalia Sin. 33(11), 42–47 (2021).
+38. Hrotko, K. et al. Foliar dust and heavy metal deposit on leaves of urban trees in Budapest (Hungary). Environ. Geochem. Health
+43(5), 1927–1940 (2021).
+39. Konczak, B., Cempa, M., Pierzchala, L. & Deska, M. Assessment of the ability of roadside vegetation to remove particulate matter
+from the urban air. Environ. Pollut. 268, 115465 (2021).
+40. Rodriguez, J. H., Pignata, M. L., Fangmeier, A. & Klumpp, A. Accumulation of polycyclic aromatic hydrocarbons and trace ele-
+ments in the bioindicator plants Tillandsia capillaris and Lolium multiflorum exposed at PM monitoring stations in Stuttgart
+10
+(Germany). Chemosphere 80(3), 208–215 (2010).
+41. Fujiwara, F. G., Gomez, D. R., Dawidowski, L., Perelman, P. & Faggi, A. Metals associated with airborne particulate matter in road
+dust and tree bark collected in a megacity (Buenos Aires, Argentina). Ecol. Indic. 11(2), 240–247 (2011).
+42. Wang, H., Maher, B. A., Ahmed, I. A. M. & Davison, B. Efficient removal of ultrafine particles from diesel exhaust by selected tree
+species: Implications for roadside planting for improving the quality of urban air. Environ. Sci. Technol. 53(12), 6906–6916 (2019).
+43. Cao, J. et al. Ultrastructural studies on the natural leaf senescence of Cinnamomum camphora. Scanning 35(5), 336–343 (2013).
+44. Hatami-Manesh, M., Mortazavi, S., Solgi, E. & Mohtadi, A. Assessing the uptake and accumulation of heavy metals and particulate
+matter from ambient air by some tree species in Isfahan metropolis. Iran. Environ. Sci. Pollut. Res. 28, 41451–41463 (2021).
+45. Zhang, W. K., Wang, B. & Niu, X. Relationship between leaf surface characteristics and particle capturing capacities of different
+tree species in Beijing. Forests 8(3), 92 (2017).
+46. Liu, G., Li, J., Wu, D. & Xu, H. Chemical composition and source apportionment of the ambient PM in Hangzhou, China. Par-
+2.5
+ticuology 18, 135–143 (2015).
+47. Liu, S. et al. Chemical composition characteristics and source apportionment of PM during winter in Taiyuan. Environ. Sci.
+2.5
+40(4), 1537–1544 (2019).
+48. Taira, M., Sakakibara, K., Saeki, K., Ohira, S.-I. & Toda, K. Determination of oxoanions and water-soluble species of arsenic,
+selenium, antimony, vanadium, and chromium eluted in water from airborne fine particles (PM ): Effect of acid and transition
+2.5
+metal content of particles on heavy metal elution. Environ. Sci. Proc. Imp. 22(7), 1514–1524 (2020).
+49. Zhang, J. F. et al. Seasonal chemical composition characteristics and source apportionment of PM in Zhengzhou. Environ. Sci.
+2.5
+41(11), 4813–4824 (2020).
+50. Srivastava, A. & Jain, V. K. Size distribution and source identification of total suspended particulate matter and associated heavy
+metals in the urban atmosphere of Delhi. Chemosphere 68(3), 579–589 (2007).
+51. Elhadi, R. E. et al. Source identification of heavy metals in particulate matter (PM ) in a Malaysian traffic area using multivariate
+10
+techniques. Pol. J. Environ. Stud. 26(6), 2523–2532 (2017).
+52. Johansson, C., Norman, M. & Burman, L. Road traffic emission factors for heavy metals. Atmos. Environ. 43(31), 4681–4688 (2009).
+53. Kummer, U., Pacyna, I., Pacyna, E. & Friedrich, R. Assessment of heavy metal releases from the use phase of road transport in
+Europe. Atmos. Environ. 43(3), 640–647 (2009).
+54. Dang, N., Zhang, H., Li, H., Salam, M. M. A. & Chen, G. Comprehensive evaluation of dust retention and metal accumulation by
+the leaves of roadside plants in Hangzhou among seasons. Forests 13(8), 1290 (2022).
+55. Weerakkody, U., Dover, J. W., Mitchell, P. & Reiling, K. Quantification of the traffic-generated particulate matter capture by plant
+species in a living wall and evaluation of the important leaf characteristics. Sci. Total Environ. 635, 1012–1024 (2018).
+Scientific Reports | (2023) 13:12831 | https://doi.org/10.1038/s41598-023-39975-w 9
+Vol.:(0123456789)
+===== PAGE 10 =====
+www.nature.com/scientificreports/
+56. Dzierzanowski, K., Popek, R., Gawronska, H., Saebo, A. & Gawronski, S. W. Deposition of particulate matter of different size
+fractions on leaf surfaces and in waxes of urban forest species. Int. J. Phytorem. 13(10), 1037–1046 (2011).
+Acknowledgements
+The authors thank all the participants involved in this study, and for taking the time to participate in the article
+creation.
+Author contributions
+All authors contributed to the study’s conception and design. X.C.L. and W.D.Y. are the advisors of the paper
+of Y.Z.C., respectively, and actively contributed to the design of this study. R.Z., Y.Y., and S.X.Q. contributed to
+the field investigation and sampling. Y.Z.C. and Y.C.X. contributed to the determination of the experiment. The
+manuscript was written by Y.Z.C., X.C.L. All authors read and approved the final manuscript.
+Funding
+This research was funded by “The National Key R & D Program of China, Grant number 2020YFA0608100”, “the
+Joint Funds of the National Natural Science Foundation of China, Grant number U21A20187”, “key research
+and development program of Hunan province, Grant number 2020NK2022”, “Special funding for innovative
+construction in Hunan province, Grant number 2021ZK4226”, “the Scientific Research Foundation of Hunan Pro-
+vincial Education Department, Grant number 18B171”, “Hunan Forestry Science and Technology Plan Project,
+Grant number XLK201642”, and program of National Key(cultivating) Disciplines in Central South University
+of Forestry and Technology.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Supplementary Information The online version contains supplementary material available at https:// doi. org/
+10. 1038/ s41598- 023- 39975-w.
+Correspondence and requests for materials should be addressed to X.L. or W.Y.
+Reprints and permissions information is available at www.nature.com/reprints.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International
+License, which permits use, sharing, adaptation, distribution and reproduction in any medium or
+format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the
+Creative Commons licence, and indicate if changes were made. The images or other third party material in this
+article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the
+material. If material is not included in the article’s Creative Commons licence and your intended use is not
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from
+the copyright holder. To view a copy of this licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/.
+© The Author(s) 2023
+Scientific Reports | (2023) 13:12831 | https://doi.org/10.1038/s41598-023-39975-w 10
+Vol:.(1234567890)

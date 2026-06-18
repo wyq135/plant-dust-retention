@@ -1,0 +1,782 @@
+TOTAL PAGES: 10
+
+===== PAGE 1 =====
+Journal of Hazardous Materials 478 (2024) 135428
+ContentslistsavailableatScienceDirect
+Journal of Hazardous Materials
+journalhomepage:www.elsevier.com/locate/jhazmat
+Selective capture of PM by urban trees: The role of leaf wax composition
+2.5
+and physiological traits in air quality enhancement
+Dele Chena,b,f, Jingli Yana,b,d, Ningxiao Suna,b,d, Wen Sunc,d, Weikang Zhange,
+Yuchong Longa,b,f, Shan Yina,b,d,e,*
+aSchoolofAgricultureandBiology,ShanghaiJiaoTongUniversity,800DongchuanRd.,Shanghai200240,China
+bShanghaiYangtzeRiverDeltaEco-EnvironmentalChangeandManagementObservationandResearchStation,MinistryofScienceandTechnology,Ministryof
+Education,800DongchuanRd.,Shanghai200240,China
+cShanghaiForestryStation,1053HutaiRd.,Shanghai200072,China
+dShanghaiUrbanForestEcosystemResearchStation,NationalForestryandGrasslandAdministration,800DongchuanRd.,Shanghai200240,China
+eDepartmentofLandscapeArchitecture,LandscapePlanningLaboratory,ShenyangAgriculturalUniversity,Shenyang110866,China
+fKeyLaboratoryforUrbanAgriculture,MinistryofAgricultureandRuralAffairs,800DongchuanRd.,Shanghai200240,China
+H I G H L I G H T S G R A P H I C A L A B S T R A C T
+•Leaf physiology and wax composition
+arekeytoparticulate-capturingprofiles.
+•Leafphysiologicaltraitsmediatethesize
+ofcapturedparticles.
+•Fatty acids in wax impact organic car-
+bonadsorption.
+•Alkanes in wax influence heavy metal
+particleadsorption.
+•Selectingtreespeciesbyleafwaxprofile
+aidsPM2.5control.
+A R T I C L E I N F O A B S T R A C T
+Keywords: Humanhealthrisksfromparticleswithadiameteroflessthan2.5µm(PM2.5)highlighttheroleofurbantreesas
+Particulatematter bio-filtersinairpollutioncontrol.However,whetherthesizeandcompositionofparticlescapturedbyvarious
+Urbanforest treespeciesdifferornotremainunclear.ThisstudyinvestigateshowleafattributesaffectthecaptureofPM2.5,
+Adsorption
+whichcanpenetratedeepintothelungsandposesignificanthealthrisks.Usingaself-developedparticulate
+Leaffunctionaltraits
+matter(PM)resuspensionchamberandsingle-particleaerosolmassspectrometer,wemeasuredthesizedistri-
+Epicuticularwax
+butionandmassspectraofparticlescapturedbytentreespecies.Notably,Cinnamomumcamphora(L.)J.Presland
+Selectioneffect
+Airpollutioncontrol
+OsmanthusfragransLour.aremoreeffectiveatcapturingparticlesunder1µm,whicharemostharmfulbecause
+theycanreachthealveoli,whereasGinkgobilobaL.andPlatanus×acerifolia(Aiton)Willd.tendtocapturelarger
+particles,upto1.6µm,whicharepronetobeingtrappedintheupperrespiratorytract.Leafphysiologicaltraits
+such as stomatal conductance and water potential significantly enhance the capture of larger particles. The
+* Correspondingauthorat:SchoolofAgricultureandBiology,ShanghaiJiaoTongUniversity,800DongchuanRd.,Shanghai200240,China.
+E-mailaddress:yinshan@sjtu.edu.cn(S.Yin).
+https://doi.org/10.1016/j.jhazmat.2024.135428
+Received21May2024;Receivedinrevisedform2August2024;Accepted2August2024
+Available online 4 August 2024
+0304-3894/© 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+===== PAGE 2 =====
+D.Chenetal. Journal of Hazardous Materials 478 (2024) 135428
+AdaptiveResonanceTheoryneuralnetwork(ART-2a)algorithmclassifiedalargenumberofsingleparticlesto
+determinetheircomposition.Resultsindicatedistinctinter-speciesvariationsinchemicalcompositionofpar-
+ticlescapturedbyleaves.Moreover,weidentifiedhowspecificleafwaxcompositions—beyondtheknownsticky
+natureofhydrophobicwaxes—contributetoparticleadhesion,particularlyhighlightingtherolesoffattyacids
+andalkanesinadheringparticlesrichinorganiccarbonandheavymetals,respectively.Thisresearchadvances
+our understanding by linking leaf physiological and wax characteristics to the selective capture of PM2.5,
+providing actionable insights for urban forestry management. The detailed exploration of particle size and
+composition,tiedtospecifictreespecies,enrichesthecurrentliteraturebyquantifyinghowandwhydifferent
+speciescontributevariablytoairqualityimprovement.Thisaddsacruciallayerofspecificitytothegeneral
+knowledge that trees serve as bio-filters, offering a refined strategy for planting urban trees based on their
+particulatecaptureprofiles.
+1. Introduction intermsofparticlesizeandcomposition,remainslargelyelusive[32].
+Thepresentstudyaimstoanswerthefollowingscientificquestion:
+Atmosphericparticulatematter(hereafterPM)comprisesacomplex How do leaf attributes mediate the size and composition of particles
+mixture of pollutants that are suspended in the air, including heavy captured by different tree species? To answer this question, we
+metals,elementalcarbon,andorganiccompounds[1,2].Inparticular, employedasingle-particleaerosolmassspectrometer(SPAMS)coupled
+particles with a diameter of less than 2.5 µm (hereafter PM2.5) pose withacustom-builtPMresuspensionchamber(PMRC)tocharacterize
+considerablehealthrisksbecausetheyaresmallenoughtobypassthe theparticlescapturedbytheleavesoftentypicalurbantreespeciesinan
+upperrespiratorytract’snaturaldefensesandpenetratedeepintothe arboretum. Numerous ionized particles were obtained, and a neural
+alveoli[3].Ultrafineparticles,asubsetofPM2.5thataresmallerthan networkalgorithmwasusedtoperformclusteranalysisontheseparti-
+100nm,caneventraversethealveolar-capillarybarrierandenterthe cles.Individualparticlesweregroupedonthebasisoftheintensityand
+bloodstream [4,5]. Once in the bloodstream, these particles can be similarity of ion peaks in their mass spectra [33]. The compositional
+transported throughout the body, potentially interacting with various traits of particles captured on leaves from various tree species were
+organsandtissues[6].Theirsmallsizeallowsthemtopassthrougheven quantified. Four categories of leaf functional traits—morphological,
+thesmallestbloodvessels,whichcanleadtosystemicinflammationand physical, chemical, and physiological traits—were thoroughly investi-
+other adverse health effects, including respiratory and cardiovascular gated,andtheeffectsofleafcharacteristicsontheaveragesizeofthe
+diseases,exacerbatedasthma,andprematuredeath[7]. particleswereanalyzed.Finally,epicuticularwaxwasextracted,andits
+UrbanPM2.5typicallycomprisesamixoforganiccompounds,black componentsweredeterminedthroughGC-MStoevaluatetheeffectsof
+carbon, and secondary inorganic aerosols like sulfates and nitrates, leafwaxcomponentsontheadsorptionofPMcomponents.
+whichprimarilyoriginatefromvehicleemissions,industrialactivities,
+andothercombustionprocesses[8].Thesizevariabilityofthesecom- 2. Materialsandmethods
+ponentsinfluencestheirdepositionintherespiratorytractandpotential
+entry into the bloodstream [9,10]. Rural or forested areas generally 2.1. Samplecollection
+exhibitlowerconcentrationsofPM2.5comparedwithurbancenters[11,
+12].Thisdistinctionhighlightsthesignificantpublichealthconcernsin This studyinvolved the samplingof trees ina 5.5-ha (55000-m2)
+urban environments, where the finer size and complex chemical arboretumlocatedattheMinhangCampusofShanghaiJiaoTongUni-
+composition of particulates—often containing harmful metals and versity in Shanghai, China (Fig. 1). The arboretum houses diverse
+organic compounds—pose heightened risks to respiratory and cardio- evergreenbroad-leavedandconiferousspeciesandislocatednearthe
+vascularhealth[13,14]. Shanghai–JinshanExpresswayandWujingPowerPlant[34].Thepower
+Urban trees serve as natural filters that play a crucial role in
+capturing PM2.5 by retaining particles on their leaf surfaces [15-17].
+Coniferous trees have been found to accumulate PM more effectively
+than broad-leaved species in several studies [18-20]. However, Hong
+et al. [21] challenged this notion by comparing the PM2.5 reduction
+capabilityofPinusdensifloraSiebold&Zucc(aconiferouspinespecies)
+and Quercus acutissima Carruth. (a broad-leaved oak species). Their
+study,whichwasconductedusingacontrolledchambersystem,found
+that the PM2.5 reduction per unit leaf area was greater in the
+broad-leavedspecies[21].Previousresearchhasprimarilyfocusedon
+theinfluenceofplantcharacteristicsontheamountsofdustretainedor
+dry deposition velocities [22-24]. However, investigations into how
+thesecharacteristicsaffectthesizeandcompositionofPMretainedon
+leavesremainrelativelylimited.
+The quantity and composition of the PM deposited on leaves are
+influencedbyregionalandlocalsources[25-27].WhetherPMparticles
+fromthesamesourcehaveconsistentcompositionswhendepositedon
+leaves of different species remains unclear. Some researchers suggest
+that surfaces passively retain PM particles from all sources [22,28],
+whereas others propose that surfaces actively capture particles from
+specificsourcesandofspecifictypesduringatmosphericPMdeposition
+[18,29].Thisdiscrepancymightberelatedtovariousfactors,including
+thetypeofsource[30],propertiesoftheparticles[24],orstandchar- Fig.1. Overviewofthestudyarea.Thismappresentsthearboretum’sprox-
+acteristics[31].Yet,themostimportantissueisthemediatingmecha- imitytoanexpressway,situatedjust400maway,andapowerplantlocated
+nismofparticlescapturedbyleavesofdifferenttreespecies,especially approximately4kilometersfromthearboretum.
+2
+===== PAGE 3 =====
+D.Chenetal. Journal of Hazardous Materials 478 (2024) 135428
+plantisacoal-firedthermalfacilitythatemployspulverizedcoalcom- values were recorded. Physical characteristics, including surface
+bustion technology to generate electricity. Continuous monitoring of roughness[adaxialroughness(SRad)andabaxialroughness(SRab)]were
+meteorological parameters and airpollutantswas conductedusing an scannedlayerbylayerwithaconfocallasermicroscope(LSM900,Zeiss,
+automaticweatherstationinthearboretum.AimedtoassessdryPM2.5 Oberkochen,Germany).Forbroad-leavedspecies,theleaveswerecut
+depositionaccurately,thisstudywasconductedduringadryperiodin intosmallsquares(1cm×1cm);theneedlesofconiferousspecieswere
+August,2021.Consideringthatnoteachplotcontainedalltheexperi- cuttoalengthof1cm.Toquantifysurfaceroughness,thearithmetic
+mentalspecies,wesetupfiveexperimentalplots(eachmeasuring20m mean height was calculated using image processing software (ZEN
+by20m)randomlyinthearboretumtoensureaminimumofthreein- Connect, Zeiss, Oberkochen, Germany). For all species except for
+dividualsperspecieswereavailablewithintheplots.Tentreespecies TaxodiumascendensBrongn.(hereafterT.ascendens)andSabinachinensis
+thatarecommonlyusedinurbanlandscapinginsubtropicalcitiessuch var.kaizucaW.C.Cheng&W.T.Wang(hereafterS.chinensis),thetensile
+asShanghaiwerestudied(Table1;SupplementaryFig.S1). strength (TS) of leaves was measured using a universal mechanical
+Standard procedures were followed. For each species, 200 mature testingmachine(Z020,Zwick/Roell,Ulm,Germany).ForT.ascendens
+leavesfrombroad-leavedtreesand600matureleavesfromconiferous andS.chinensis,theTSofthetwigswasmeasuredinsteadbecauseof
+treeswererandomlyselectedfromfourcardinaldirections(East,West, difficultiesmeasuringtheTSofscaleleaves.Windresistance(WR)was
+North,andSouth)ataheightof3mofthreehealthytrees.Thisdiffer- determined as the ratio of the difference between the standard wind
+enceinthenumberofcollectedsamples—200forbroad-leavedand600 speed(v1,withoutleaves)andthemeasuredwindspeed(v2,withleaves)
+forconiferousspecies—compensatesforthesmallerindividualleafarea tothestandardwindspeed;thatis,WR=(v1 (cid:0) v2)/v1.
+of coniferous trees. For certifying mature leaves, we consistently Chemical characteristics were assessed by measuring surface free
+sampledthethirdfullyexpandedleaffromtheapicalbudtoensurethat energy(SFE),oneofthebasicthermodynamicpropertiesofsolidsur-
+the leaves analyzed were of a similar developmental stage and thus faces,byusingacontactanglemeasuringinstrument(OCA15EC,Data
+comparableintheirfunctionaltraits. Physics, Filderstadt, Germany). The contact angles of water and diio-
+Thesesampleswerefirstwashedthreetimeswithdeionizedwateron domethane droplets were measured, and the polarity and dispersion
+sitetoremovepreexistingPMwithoutalteringtheleafsurfacecharac- components were calculated using the Drop Shape Analysis program
+teristics.Twohourspost-washing,threeleavesfrombroad-leavedtrees (KRUSSGmbH,Hamburg,Germany).TheSFEwasthencalculatedasthe
+andnineleavesfromconiferoustreeswererandomlyselectedforin-situ sum of the polarity and dispersion components. Physiological charac-
+physiological measurements such as transpiration rate. Additionally, teristicswereevaluatedbymeasuringtheWPofgrowingleavesofeach
+20–60washedleavesperspecieswerecollectedandpooledforoff-site speciesbyusingadew-pointWPmeter(Psypro,Wescor,Logan,USA).
+analysis to determine their morphological and physicochemical char- Transpirationrate(TR)andstomatalconductance(SC)weredetermined
+acteristics. Then the leaves that grow on trees underwent a 7-day using a portable photosynthetic instrument (LI-6400XT, LI-COR,
+ambientexposuretoPM.Duringtheexposureperiod,dataofmeteoro- Lincoln, USA) between 9:00 and 10:30. The classification of the
+logical conditions and concentrations of air pollutants were recorded morphological,physical,chemical,andphysiologicalindicatorsofthe
+andpresentedinSupplementaryFig.S2. examinedleavesandthebiologicalsignificanceoftheseindicatorsare
+Thecollectionphasewasconductedat9a.m.onasunnyandcalm presentedinSupplementaryTableS1.
+morningtominimizeenvironmentalinfluence.Allleavesthathadbeen
+washedandexposedwereharvestedusingstainlesssteelscissors.Leaves 2.3. Extractionofepicuticularwaxanddeterminationofwaxcomponents
+fromthreeindividualtreesofeachspecieswerecombinedintoacom-
+posite sample in sealed plastic bags, ensuring that the samples are A chloroform extraction method was employed to extract leaf
+representative of the corresponding species under study. These com- epicuticularwax[36].Thisprocessinvolvedmeasuringtheweightof
+positesampleswerethenstoredinacoolboxwithice,transportedtothe theepicuticularwaxpresentperunitareaofeachleafsample.Priorto
+laboratory,andsubjectedtoparticleresuspensiontestingandanalysis extraction, the leaves were scanned to determine their leaf area S by
+withtheSPAMS. usingWinFOLIA.Forbroad-leavedspecies,theleaveswerethencutinto
+1cm×1cm squares, whereas the needles of coniferous species were
+2.2. Determinationofleaffunctionaltraits trimmed to a length of 1cm. These prepared leaf segments were
+weighed(m1),immersedin30mLofCHCl3,andsubjectedtoevapora-
+Leaf functional traits in four categories—morphological, physical, tionat37◦Conarotaryevaporator.Followingevaporation,theleaves
+chemical, and physiological—were examined [35]. The examined werereweighedtoobtainthepost-extractionweightm2.Theepicutic-
+morphological characteristics were single-leaf area (SLA) and ularwaxcontent(EWC;mgcm (cid:0) 2)wassubsequentlycalculatedas(m2 (cid:0)
+width-to-length ratio (W/L), which were determined using WinFOLIA m1)/S. Three replicates were performed per species, and 5–15 leaves
+Pro2016(RegentInstruments,QuebecCity,Canada).Fiveleaveswere wereusedforeachreplicate.
+randomlyselectedandscannedforeachspecies,andtheirSLAandW/L FortheGC-MSanalysisoftheextractedwax,astandardizedprotocol
+Table1
+Examinedtreespeciesandtheirdescriptions.
+Treespecies Family Phenology Shape Margin Texture Visualaspect
+Cinnamomumcamphora(L.)J.Presl Lauraceae Evergreen Broadlyovate Entire Leathery Glossygreen
+GinkgobilobaL. Ginkgoaceae Deciduous Fan-shaped Entire Leathery Brightgreen
+MagnoliagrandifloraL. Magnoliaceae Evergreen Broadlyovate Entire Stiff Darkgreen
+OsmanthusfragransLour. Oleaceae Evergreen Lanceolate Entire Leathery Darkgreen
+Platanus×acerifolia(Aiton)Willd. Platanaceae Deciduous Palmate,lobed Entire Rough Large,deepgreen
+SalixbabylonicaL. Salicaceae Deciduous Narrow,lanceolate Entire Rough Narrow,lightgreen
+Cedrusdeodara(Roxb.exD.Don)G.Don Pinaceae Evergreen Needle-like,clustered Entire Soft,slender Bluish-green
+MetasequoiaglyptostroboidesHu&W.C.Cheng Taxodiaceae Deciduous Needle-like,arrangedinopposite Entire Soft,feathery Softgreen
+pairs
+Sabinachinensisvar.kaizucaW.C.Cheng&W.T. Cupressaceae Evergreen Oblong-lanceolate Finely Slightly Densegreen,scale-
+Wang toothed leathery like
+TaxodiumascendensBrongn. Taxodiaceae Deciduous Needle-like,arrangedinspirals Entire Soft Lightgreen,scale-
+like
+3
+===== PAGE 4 =====
+D.Chenetal. Journal of Hazardous Materials 478 (2024) 135428
+withsomemodificationswasfollowed[37].Initially,theextractswere (N2, 99.9%). In addition, it had a specialized stainless-steel port for
+treatedwith10mgoftetracosaneasaninternalstandardbeforebeing SPAMSsamplingandwaspressurizedwithhigh-pressurenitrogenfrom
+transferred into reactive vials. The samples were then dried using ni- an attached container. To ensure uniform aerosol flow over the leaf
+trogengasandsubsequentlyderivatizedbyadding20μLofN,N-bis-- samples,aninternalfanwasemployed.
+trimethylsilyltrifluoroacetamide (Macherey-Nagel) and 20μL of The resuspension process within the PMRC followed a systematic
+pyridine.Followinga40-minincubationperiodat70◦C,thederivatized five-step protocol. Initially, the chamber was cleaned with deionized
+samples were analyzed using a gas chromatography flame ionization waterandpurgedwithcarriergas(N2,99.9%)tominimizebackground
+detector(AgilentTechnologies)andthroughGC-MS(Agilentgaschro- PM2.5levels.AfterconfirmingthatthePM2.5concentrationwasbelow
+matograph coupled to an Agilent 5973N quadrupole mass selective 5μgm (cid:0) 3byusingaGRIMM11-Rparticlesizespectrometer,theinterior
+detector). Compound identification was performed by comparing the ofthechamberwascleanedwithdust-freepaper.Subsequently,leaves
+obtained mass spectra with published data and authentic standards. containingPM2.5wereplacedinthechamber.Theparticlesadheredto
+Moreover,thequantificationofthewaxcomponentswasbasedonthe theleafsurfaceweregentlybrushedoff,andthePMRC’sinternalfans
+peakareaoftheinternalstandardandispresentedasmicrogramsper wereactivatedforparticledispersion.Theresuspendedparticleswere
+unitleafarea. thendirectedintotheSPAMSthroughavacuum-pumpedstainless-steel
+tube.Finally,thechamberwaspurgedwithN2inpreparationforthe
+subsequentsample.Theoperationalparameterswereoptimizedbefore
+2.4. PMRCwithasingle-particleaerosolmassspectrometer experimentation,andtheoptimizedparameterswereasfollows:anN2
+flowrateof5Lmin (cid:0) 1,afanwindspeedof1ms (cid:0) 1,anda2-hsample
+Fig.2displaysthelayoutofthecustomizedPMRCcoupledwithan analysisdurationintheSPAMS.
+SPAMS. Constructed from stainless steel, the PMRC had a volume of TheSPAMSoperatesontheprincipleofaerodynamicfocusingand
+0.686m3andfeaturedinletandoutletportsforcarriergascirculation
+Fig.2. Workflowandexperimentalsetupofthisstudy.Thediagramoutlinesthesequentialstepsintheexperimentaldesign,includingthepretreatmentofleaves,
+determinationofleafattributes,exposureoftreestoambientPMover7days,andcollectionofsamples.Theparticlescapturedbytheleaveswereanalyzedusinga
+PMRCequippedwithanSPAMS.Theexperimentalsetupwasdesignedtoinvestigatehowleaffunctionaltraitsinfluencethesizeandcompositionofparticles
+capturedbyleavesofdifferenttreespecies.
+4
+===== PAGE 5 =====
+D.Chenetal. Journal of Hazardous Materials 478 (2024) 135428
+theaccelerationofparticlesthroughanaerodynamiclens,asdepictedin S1andS2,respectively.
+Supplementary Fig. S3. The sizes of individual particles were deter-
+minedusingadual-lasersystem(Nd:YAG,532nm),andionizationwas 2.6.2. Statisticalanalysis
+achievedwitha266-nmNd:YAGlaser.Ionizationresultedinthegen- The particle counts for different sizes were used to depict the dis-
+erationofbothpositiveandnegativeionfragments.Bipolarmassspectra tribution of particle quantities and particle diameters. The average
+were captured using a dual-polarity time-of-flight mass spectrometer. particlesize(Dc)wasobtainedbyintegratingthefittingcurveforeach
+Theenergyandpowerdensityoftheionizationlaserweresetas0.6mJ particlediameterbyusingEq.(1).
+and1.06×108Wcm (cid:0) 2,respectively. ∫
+2.5. Qualityassuranceandqualitycontrol Dc= ∫0 2 . 0 . 1 2 5 . . 1 5 x L ⋅L N N x x d d x x (1)
+Toensuresampleintegrity,steriletinfoilbagswereusedduringleaf where x is the particle size and LNx represents the corresponding PM
+sample collection, and all glassware, scissors, and tweezers were quantity.
+meticulouslycleanedwithultrapurewater.Thevalidityoftheidentifi- Spearman’s rank correlation analysis was used to analyze the re-
+cationofaldehydesintheleaveswasensuredthroughsilicagelchro- lationships among leaf functional traits and particle attributes. Least
+matography;compoundswithdifferentpolaritieswereseparatedbefore absolute shrinkage and selection operator (LASSO) regression was
+derivatization.Waxextractsweresubjectedtoelutionwithhexaneto further applied to measure the variations in the size of the captured
+remove hydrocarbons, with dichloromethane to remove alcohols and particleswithleaffunctionaltraits[43].Toassesshowleafchemicaland
+aldehydes, and with methanol/dichloromethane to eliminate polar physiological traits affected the chemical components of particles
+lipids. Hydroxyl and carboxylic acid groups were derivatized to their captured by the leaves, canonical correspondence analysis (CCA) was
+corresponding trimethylsilyl ethers and esters, thus enabling GC-MS performedusingtheveganpackage(Rversion4.3.1).
+analysis[38].
+ThroughoutthePMRCexperiment,gloveswereconsistentlywornto 3. Results
+minimizecontaminationrisks.Aftereachsampletest,carriergas(N2,
+99.9%)wasventilatedintothechamberforapproximately10minto 3.1. Interspeciesvariationsinthesizedistributionofparticlescapturedby
+prevent potential contamination from previous samples during the theleaves
+sweeping–resuspension process. The chamber was subjected to thor-
+ough cleaning three times with ultrapure water and was wiped with Inthisstudy,wedetectedover80,000individualparticlescaptured
+dust-freepapertoeliminatebackgroundinterference. by different leaves by using the diameter measurement system of the
+Forparticlesizedetectioncalibration,standardizedpolystyrenelatex PMRC-SPAMS;approximately90%oftheseparticleshadadiameterof
+spheresofvarioussizeswereused[39].Inaddition,driftcalibrationwas lessthan2.5µm.Thus,wedirectedoursubsequentsizedistributionand
+performed before the mass spectrometry measurements by using pri- compositional analyses toward scrutinizing these specific particles to
+mary substance fragments, including Na + , K + , Pb + , NO2 (cid:0) , NO3 (cid:0) , and ensureconsistencyinparticlecharacteristicsacrossdifferenttreespe-
+HSO4 (cid:0) ,toensureaccuracy.Calibrationsolutionswerepreparedbydis- cies,thusminimizingvariability.
+solvingeachsetofthelatexsuspensionsortheionsolutioninultrapure Particles captured by species such as Ginkgo biloba L. (hereafter
+water.Thesesolutionswerethenatomizedusinganaerosolgenerator
+G.biloba),Platanus×acerifolia(Aiton)Willd.(hereafterP.×acerifolia),
+(Model9032,TSI,USA),passedthroughasilicageldiffusiondryer,and MagnoliagrandifloraL.(hereafterM.grandiflora)andSalixbabylonicaL.
+introducedintotheSPAMSatacontrolledflowrate. (hereafter S. babylonica) revealed largely different size distribution
+patterns compared to other species studied (Fig. 3). Specifically, the
+2.6. Dataanalysis particlesizedistributionpeaksforthesefourspecieswereremarkably
+skewed towards larger diameters, a pattern that was distinctly right-
+2.6.1. SPAMSdataprocessing shifted relative to the predominantly left-shifted peaks observed in
+TheSPAMScanefficientlysizeandchemicallyanalyzethousandsof species such as Cinnamomum camphora (hereafter C. camphora) and
+particles;itsmaximumexternaltriggerpulsefrequencyof20Hzenables Osmanthus fragrans Lour. (hereafter O. fragrans). This divergence in
+the ionization ofup to20 particles persecond. Todistinguish signals particle size distribution suggests that certain tree species are more
+from background noise, we applied spectral peak thresholds, filtering effectiveatcapturinglargerparticles,asevidencedbytheaveragesize
+outpeaksbelow10unitsinheightand20unitsinarea[40].Thefiltered
+(Dc)of1.5–1.7µm.
+peakdatawereprocessedusingtheSPAMSDataAnalysistoolkitV2.2-p Insummary,theanalysisrevealedinterspeciesvariationsinthesize
+(GuangzhouHexinInstrument,Guangzhou,China). distributionsofparticlescapturedbyleaves,implyingasize-basedse-
+Weemployedthecharacteristicionmethodandalgorithmclustering lection effect for the atmospheric particles captured by leaves of
+fordataanalysis[41,42].Thismethodinvolvesextractingspecificpar- differenttreespecies.
+ticletypesonthebasisoftheircharacteristiccomponentionfragments.
+Moreover, we used a neural network algorithm, namely ART-2a, for 3.2. Interspeciesvariationsinthechemicalcompositionofparticles
+clusteranalysis;similarparticletypeswerecategorizedonthebasisof capturedbyleaves
+their ion peak intensity and the similarity of their mass spectra. The
+vigilance factor was set as 0.75 to adjust the clustering granularity, In our SPAMS-based mass spectrometry study, we narrowed our
+therebybalancingcategorydistinctionsandcomputationalefficiency.A focus to an analysis of particles that yielded both valid positive- and
+learningrateof0.05ensuredgraduallearningandpreventedoverfitting, negative-ion mass spectra and specifically targeted particles with a
+andthemaximumnumberofiterationswaslimitedto20tostabilizethe diametersmallerthan2.5µm.Theanalysisofthecompositionofpar-
+algorithmandlimitthecomputationaldemand. ticlesdepositedontheleavesofdifferenttreespeciesindicateddistinct
+TheareamatrixgeneratedbytheART-2aalgorithmforeachparticle interspeciesvariations(Fig.4).Aftermergingsimilarclustersidentified
+cluster depicts the average peak intensity at specific mass-to-charge byART-2a(SupplementaryTextS3),theseclusterswerestratifiedinto
+ratios (m/z), effectively illustrating the characteristic mass spectrum. thefollowingparticlecategories:elementalcarbon(EC),organiccarbon
+Our experiments produced numerous clusters that comprehensively (OC),acompositeofECandOC(ECOC),sodium-rich(Na-rich)particles,
+representedthedataset.FurtherdetailsontheSPAMSdataprocessing potassium-rich (K-rich) particles, heavy metals (HMs), levoglucosan
+andART-2a-basedclassificationcanbefoundintheSupplementaryText (LEV), crustal species (Crust), and secondary reaction products (Sec);
+5
+===== PAGE 6 =====
+D.Chenetal. Journal of Hazardous Materials 478 (2024) 135428
+Fig.3. Sizedistributionsofparticlescapturedbyleavesofdifferenttreespecies.Thediagramsillustratetherelationshipbetweenparticlesize(Da,μm)andthe
+correspondingfrequency(%)obtainedusingageneralizedadditivemodel.Thesolidlinerepresentstheestimatedsmoothcurve;blueandorangelinesindicate
+broad-leaved and coniferous species,respectively. The shaded areas around each curve denote the 95% confidence intervals, which reflect the variability and
+reliabilityoftheestimatedtrendsforeachtreespecies.ThetermDcindicatestheaverageparticlediameterobtainedusingEq.(1).(Forinterpretationoftheref-
+erencestocolorinthisfigurelegend,thereaderisreferredtothewebversionofthisarticle.).
+3.3. Effectsofleaffunctionaltraitsontheaveragesizeofparticles
+capturedbytheleaves
+Leaffunctionaltraitsacrossdifferenttreespecieswereanalyzedto
+determinetheirrelationshipswiththephysicochemicalpropertiesofthe
+captured particles. Remarkable variability was observed among the
+testedspecies(SupplementaryFig.S14).
+Spearman’s rank correlations were used to characterize the re-
+lationshipsofthetestedleaffunctionaltraitswiththeDcvalueofthe
+particlescapturedbytheleaves.TherosediagraminFig.5aindicates
+the strength and significance of the relationships between Dc and
+variousleaftraits.Leafphysiologicaltraits(i.e.,SC,TR,andWP)were
+positively and significantly correlated with Dc; that is, as SC and WP
+Fig.4. Compositionalprofilesofparticlescapturedbyleavesofdifferenttree increased, the average size of the captured particles also increased.
+species. Cinnamomum camphora (L.) J.Presl, C. ca.; Ginkgo biloba L., G. bi.; Othermorphologicaltraits(such asW/Land SLA)andphysicaltraits
+M
+×
+a
+a
+g
+c
+n
+e
+o
+ri
+l
+f
+ia
+olia
+gr
+(
+a
+A
+n
+i
+d
+t
+i
+o
+fl
+n
+o
+)
+ra
+W
+L
+il
+.
+l
+,
+d.
+M
+,P
+.
+.
+g
+×
+r.;
+ac
+O
+.;
+s
+S
+m
+a
+a
+li
+n
+x
+th
+b
+u
+a
+s
+by
+f
+l
+r
+o
+a
+n
+g
+i
+r
+c
+a
+a
+ns
+L.,
+L
+S
+o
+.
+ur
+b
+.
+a
+,
+.;
+O
+C
+.
+ed
+fr
+r
+.
+u
+;
+s
+P
+d
+l
+e
+a
+o
+ta
+d
+n
+a
+u
+ra
+s (suchasTSandSRad)werealsopositivelycorrelatedwithDc;however,
+(Roxb.exD.Don)G.Don,C.de.;MetasequoiaglyptostroboidesHu&W.C.Cheng,
+M.gl.;Sabinachinensisvar.kaizucaW.C.Cheng&W.T.Wang,S.ch.;Taxodium
+ascendensBrongn.,T.as.Elementalcarbon,EC;Organiccarbon,OC;Acom-
+binationofECandOC,ECOC;Richinsodium,Na-rich;Richinpotassium,K-
+rich;Heavymetal,HM;Levoglucosan,LEV;Crustalspecies,Crust;Secondary
+reactionproducts,Sec.
+Crustwasthemostabundantcategoryacrossalltreespecies,comprising
+nearlyhalfthecompositionalprofile.Theaveragemassspectraofpar-
+ticles sampled from each tree species are shown in Supplementary
+Fig.S4–S13.
+The proportions of Na-rich, K-rich, HM, and Sec particles were
+smallerthanthatofCrustparticles,andvariabilityamongspecieswas
+observed.Notably,LEVlevelsexhibitedpronounceddifferencesamong
+tree species, with O. fragrans and S. babylonica displaying the highest
+abundance.Similarly,OCproportionsalsodifferedamongspecies.OC
+was more pronounced in coniferous species such as Metasequoia glyp- Fig.5. Variationsintheaveragesizeofthecapturedparticleswithleaffunc-
+tionaltraits.Therosediagramdepictstherelationshipsoftheaveragesize(Dc)
+tostroboides,S.chinensis,andT.ascendens.ECandECOCconstitutedthe
+ofthecapturedparticleswiththeleafmorphological,physical,chemical,and
+smallestfractionsoftheparticulatecompositionacrossthetestedspe-
+physiological traits in terms of Spearman’s rank correlations (n=10) (a).
+cies.Overall,theresultssuggestthatinterspeciesvariationsexistedin
+RegressionmodelobtainedfromLASSOwithDcastheresponsevariableand
+thechemicalcompositionsofparticlescapturedbyleaves,indicatinga leafattributesastheexplanativevariables(b).**P<0.01,*P<0.05.Single-
+component-based selection effect by leaves of different tree species leafarea,SLA;Width-to-lengthratio,W/L;Surfacefreeenergy,SFE;Adaxial
+whencapturingatmosphericparticles. roughness,SRad;Abaxialroughness,SRab;Tensilestrength,TS;Windresistance,
+WR;Waterpotential,WP;Transpirationrate,TR;Stomatalconductance,SC.
+6
+===== PAGE 7 =====
+D.Chenetal. Journal of Hazardous Materials 478 (2024) 135428
+thesecorrelationswerenotstatisticallysignificant.Conversely,surface CCApresentaclearassociationbetweenspecificleafwaxcomponents
+traits,includingSRabandSFE,hadnonsignificantnegativecorrelations andthechemicalcompositionoftheparticlescapturedbyleaves.
+withDc.
+Tofurtherquantitativelydescribehowspecificleaffunctionaltraits 4. Discussion
+influencedtheaveragesizeofparticlescapturedbytheleavesfromthe
+surrounding environment, the LASSO regression model was applied 4.1. Leafphysiologicalactivityrelatedtowaterexchangemediatesthe
+with Dc as the response variable and leaf attributes as explanatory sizeoftheparticlescapturedbyleaves
+variables(SupplementaryFig.S15).ThismodelindicatedthatSChada
+prominent positive effect on Dc, with the regression coefficient being The significant positive correlations of leaf physiological traits,
+0.51;WPhadasmallerpositiveeffect,withthecoefficientbeing0.06. particularly SC and WP, with the Dc value of the captured particles
+The model explained 62% of the variance with a regularization highlights the pivotal role of water-related physiological activity in
+parameter (λ) of 0.26 (Fig. 5b). The outcomes of regression analysis PM2.5 deposition on leaf surfaces. Higher SC and WP facilitate the
+basedontheLASSOresultsindicatedasignificantlypositivecorrelation coagulation of particles, which suggests that leaves with more active
+betweenobservedandpredictedvaluesofDc(SupplementaryFig.S16), transpirationprocessescancapturelargerparticles[44].Theseresults
+withR2being0.70andPbeing<0.01,indicatingasignificantmodelfit. areconsistentwiththoseofpriorstudiesthathaveshownthatstomata,
+which are the gatekeepers of transpiration, also act as conduits for
+3.4. Effectsofleafepicuticularwaxandphysiologicaltraitsonthe particleentryintotheleafinterior[45-47].
+chemicalcompositionofthecapturedparticles ThenotableeffectofSConDc,witharegressioncoefficientof0.51,is
+particularlyilluminating.Aconceptualmodelwasconstructedtodepict
+To further investigate the effects of components of leaf wax on howleafphysiologicalcharacteristicsaffecttheselectiveadsorptionof
+adsorbed particle components, we extracted epicuticular wax from particlesofdifferentsizesontoleafsurfaces(Fig.7).Stomatanotonly
+leavesandanalyzedthecontentsofvariouswaxcomponents,suchas controlwaterlossandCO2uptakebutalsoinfluencethehydrophobicity
+fattyacids(FAs),alcohols(OLs),alkanes(ALKs)andaldehydes(ALDs). oftheleafsurface[48],whichcanaffectparticleadhesionthroughthe
+Resultsrevealedpronounceddistinctionsinthewaxcompositionsacross formation of a liquid bridge that promotes coagulation [49,50].
+differenttreespecies(SupplementaryFig.S17). Increased SC often promotes transpiration, thereby creating a moist
+Spearman’s rank correlation analysis was used to investigate the
+relationships of the abundances of particle components with the con-
+tentsofwaxcomponentsandphysiologicalactivities.TheOCcontentin
+capturedparticleswasstronglyandpositivelycorrelatedwiththeFAs
+content in leaf epicuticular wax at P<0.01 (Fig. 6a). Particle HM
+contentwaspositivelycorrelatedwiththeALKscontentofleafwaxat
+P<0.05.Inaddition,Seccontentinparticleswaspositivelycorrelated
+withTRatP<0.05.
+Tofurtherexplorethemechanism throughwhichleafepicuticular
+waxandphysiologicaltraitsmediatedthecaptureofparticles,weper-
+formedCCA(Fig.6b).PriortoCCA,TR,WP,andSFEwereexcludedto
+avoidcollinearityamongvariables.TheCCAindicatedthatcertainleaf
+traits,suchasSC,werestronglyassociatedwithhighK-richandNa-rich
+Fig.7. Conceptualmodelrepresentinghowleafphysiologicalcharacteristics
+fractionsincapturedparticlesonleafsurfaces.FAcontentwasclosely
+affectthesizeofparticlesadheredontoleafsurfaces.Schematicrepresentations
+linked to OC abundance, thus confirming the correlation results. ALK
+werecreatedwiththeassistanceofBioRender(www.biorender.com).
+contentwasalsolinkedtotheabundanceofHM.Overall,theresultsof
+Fig.6. Relationshipofthechemicalcompositionofparticlescapturedbyleaveswithleafepicuticularwaxtraitsandphysiologicaltraits.Heatmapdepictingthe
+correlationsbetweentheabundancesofthechemicalcomponentsofcapturedparticlesandunderlyingleafattributesbasedonSpearman’smethod(n=10)(a).CCA
+characterizationofthecontributionsofeachleafattributetovariationsofthechemicalcomponentsofcapturedparticles(b).Epicuticularwaxcontent,EWC;Fatty
+acid,FA;Alcohol,OL;Alkane,ALK;Aldehyde,ALD;Waterpotential,WP;Transpirationrate,TR;Stomatalconductance,SC.**P<0.01,*P<0.05.SeeFig.4fora
+detaileddescriptionoftheabbreviationsfortreespecies.
+7
+===== PAGE 8 =====
+D.Chenetal. Journal of Hazardous Materials 478 (2024) 135428
+microenvironmentaroundthestomata[51].Thismoisturearoundthe variedfieldobservations,andthedifferenttreespeciesemployed.For
+stomatacanactasastickysubstratethatenhancestheadhesionoflarge example,studiesmayvaryinhowtheymeasuredeposition—whetherby
+particlesthroughsurfacetension[52,53]. mass, particle count, or dry deposition velocity—which can lead to
+conflictingresults.Thesefactorschallengetheformulationofaunified
+4.2. Leafwaxypropertiesplayacrucialroleinthecomponentsof lawgoverningPM2.5captureacrossalltreespecies.
+particlescapturedbyleaves Ourfieldexperiment,designedtominimizeexternalenvironmental
+variation,highlightstheinfluenceofintrinsicplanttraits,suchaswater
+Ourstudyprovidescompellingevidenceoftheroleofleafepicutic- exchange processes and cuticular wax composition, on the size and
+ular wax in the selective adsorption of atmospheric particles, which compositionofcapturedPM2.5,respectively.Thesefindingssuggestthat
+variesinabundanceofcomponentsamongtreespecies.Specifically,our while species-level patterns can be observed, the specific interactions
+analysisshowsthatFAandALKinleafwaxesarepronetoselectively betweenPM2.5particlesandtreeleavesarehighlydependentonunique
+bindOC-richparticlesandHM-richparticles,respectively.Thesefind- species characteristics behind them. To advance toward a unified un-
+ingsextendthefoundationalworkbyPrigionieroetal.[54],whodis- derstanding, our study suggests a multidimensional approach that in-
+cussed the general influence of leaf chemical traits on retention of tegratesboththephysicalandchemicalpropertiesofparticleswiththe
+polycyclicaromatichydrocarbon.Unlikethisearlierstudy,ourresearch dynamicbiologicaltraitsoftrees[24,31].Thisholisticperspectivecould
+identifies specific wax components—FA and ALK—that link to the betterclarifythemechanismsofPM2.5captureandfostermoreconsis-
+retentionofdistincttypesofatmosphericparticles. tent outcomes across studies. Continued research focusing on the
+Theobservedstrongpositivecorrelationbetweentheabundanceof interplay of environmental conditions, particle characteristics, and
+OC-richparticlesandFAcontentinleafwaxcouldbeexplainedbythe species-specifictraitsisessentialtoresolvethesecontroversiesandto
+hydrophobicpropertiesofthesewaxycomponents,whichenhancethe refineurbangreenerystrategiesforsustainableairqualitymanagement
+adhesion of similarly hydrophobic organic particles. This suggests a [61].
+mechanismwherebythehydrophobicsurfacesofleavespreferentially
+attractandretaincomponentsthatarelesswater-soluble,e.g.,OC,thus 4.5. Limitationsofthestudy
+influencingtheparticlecompositionthataccumulatesondifferentspe-
+cies[55].Likewise,thepositivecorrelationbetweentheabundanceof Anareaforfurtherimprovementinthecurrentstudyrelatestothe
+HM-richparticlesandALKcontentcouldbeattributedtotheabilityof samplesizeusedforassessingthedepositionofPMonleafsurfaces.Our
+nonpolarhydrocarbonstobindwithmetallicparticlesthroughnonpolar study utilized three individual plants per species to collect captured
+interactions[56,57].Thisstudy,toourknowledge,isthefirsttodateto particlesonleavesforfurtheranalysis.Whilethisapproachalignswith
+specificallyrevealwhichwaxcomponentsdrivetheselectiveadsorption methods used in similar studies within this field, it raises concerns
+ofatmosphericparticles. regardingthegeneralizabilityofourfindingsacrossbroaderecological
+scales.Eachindividualplantcanexhibituniquephysiologicalresponses
+4.3. Practicalapplicationsandfutureprospectsofparticlecomponent to environmental conditions, which might not be fully represented in
+capturebyleaves limitedsamples.Despitethis,weensuredthattheselectedhealthyin-
+dividuals were representative of their species. To address these con-
+Theinsightsgainedfromunderstandingthecharacteristicsofparti- straintsandenhancetherobustnessoffuturefindings,werecommend
+cle capture by leaves not only enrich our knowledge of plant-PM in- increasing the number of individuals per species in future studies.
+teractions but also have significant implications for urban air quality Additionally,incorporatinggeneticdiversityassessmentscouldfurther
+management[58].Theabilityofdifferentspeciestoselectivelyadsorb shedlightonhowintraspecificvariationsinfluencePMadsorptiononto
+variousatmosphericparticles,suggeststhatstrategicplantingofspecific leaves.
+tree species could be employed as a cost-effective and sustainable
+method to mitigate prevalent forms of pollution in a particular area 5. Conclusion
+[59]. For example, in areas where heavily polluted with organic par-
+ticulates was a major concern, species with high FA content in their Thisstudyadvancesourunderstandingofhowspecificleafproper-
+epicuticular wax could be prioritized. Conversely, in areas prone to ties facilitate the selective capture of atmospheric particles. By high-
+heavy metal pollution, species with high ALK content may be more lighting the integral roles of leaf epicuticular wax and physiological
+beneficial. traits,ourresearchshedslightonnovelaspectsofairqualityenhance-
+Future research should focus on quantifying how these wax com- mentthroughappropriateurbanvegetation[62].WefoundthattheSC
+ponentsvaryamongspeciesindifferentenvironmentalconditionsand andWParecrucialforenhancingthecaptureofrelativelylargeparti-
+how these variations affect their capture efficiency. Experimental cles. Our analysis also reveals that FAs and ALKs in leaf wax play a
+studiesthatmanipulatewaxcompositioncouldprovidedirectevidence significant role in the selective adsorption of organic compounds and
+ofthecausalrelationshipsbetweenwaxtraitsandparticlecaptureef- heavymetals,respectively.Theseinteractionsareprimarilygovernedby
+ficiency.Additionally,anotherpromisingdirectionisthedevelopment thephysicochemicalpropertiesoftheleafsurfaces,whichattractand
+ofsyntheticmaterialsinspiredbyleafsurfaceproperties[17].Materials retainspecificparticletypes.
+engineeredtomimictheparticulate-capturingcapabilitiesofleafwaxes Unlikepriorstudiesthatpredominantlyaddressedspecies-leveldif-
+andwatervaporexchangethroughstomatacouldbeusedinairfiltra- ferences in retention quantityof PM2.5 or linked leaf functional traits
+tion systems or incorporated into the design of urban structures to with the amount of PM2.5 retained by leaves, our study extends the
+reduceparticulateloadsintheair[60]. existing body of knowledge by focusing not only on the component
+preference of PM2.5 capture by different tree species but also on the
+4.4. ReconcilingvariabilityinPM2.5captureefficiencyamongtree underlying mechanisms through which specific plant characteristics
+species:towardsaunifiedframework interact with these varying particle types via combining developed
+PMRCandSPAMS.Practically,byselectingtreespecieswithspecificleaf
+While the efficiency of PM2.5 capture by different tree species has waxcharacteristicsforurbangreeninginitiatives,itmightbepossibleto
+beenextensivelyexplored,discrepanciesoftenarisefromtheinherent target the removal of particular air pollutants, thereby enhancing air
+biologicaldiversityamongspeciesandthevariabilityinexperimental qualityandpublichealthinurbanenvironments.
+setups. The controversies in existing literature largely stem from the
+diverse methodologies used, ranging from laboratory simulations to
+8
+===== PAGE 9 =====
+D.Chenetal. Journal of Hazardous Materials 478 (2024) 135428
+Environmentalimplications [6] Zhang,Y.,Yin,Z.,Zhou,P.,Zhang,L.,Zhao,Z.,Norba¨ck,D.,etal.,2022.Early-life
+exposuretoPM2.5constituentsandchildhoodasthmaandwheezing:findingsfrom
+China,children,homes,healthstudy.EnvironInt165,107297.
+PM2.5,knownforitsadverseeffectsincludingsevererespiratoryand [7] Zhang,Y.,Pei,Y.,Sun,Y.,Yang,X.,Liang,J.,Yin,Z.,etal.,2024.AhRagonistic
+cardiovasculardiseasesinhumans,anditshazardstodegradeecosystem componentsinurbanparticulatematterregulateastrocyticactivationandfunction.
+health,posessignificantenvironmentalthreats.Thisstudyrevealshow
+EnvironSciTechnol58,4571–4580.
+[8] Wu,J.,Kong,S.,Zeng,X.,Cheng,Y.,Yan,Q.,Zheng,H.,etal.,2021.Firsthigh-
+treeleavesinteractwiththesefineparticulates,focusingonthedistinct
+resolutionemissioninventoryoflevoglucosanforbiomassburningandnon-
+capabilitiesofvarioustreespeciesbasedontheirleafcharacteristics.By biomassburningsourcesinChina.EnvironSciTechnol55,1497–1507.
+demonstrating that specific leaf waxy and physiological attributes [9] Chen,R.,Hu,B.,Liu,Y.,Xu,J.,Yang,G.,Xu,D.,etal.,2016.BeyondPM2.5:the
+roleofultrafineparticlesonadversehealtheffectsofairpollution.Biochim
+enhance PM2.5constituentcapture,theresearch supportsbio-inspired BiophysActaGenSubj1860,2844–2855.
+approachestoairqualitymanagement.Strategictreeplantingandpo- [10] Nho,R.,2020.Pathologicaleffectsofnano-sizedparticlesontherespiratory
+tential genetic modifications of trees emerge as viable strategies for system.NanomedNanotechnolBiolMed29,102242.
+[11] Xu,L.,Batterman,S.,Chen,F.,Li,J.,Zhong,X.,Feng,Y.,etal.,2017.
+reducingatmosphericPM2.5,offeringsustainablesolutionstomitigate
+SpatiotemporalcharacteristicsofPM2.5andPM10aturbanandcorresponding
+particulatepollution. backgroundsitesin23citiesinChina.SciTotalEnviron599-600,2074–2084.
+[12] Yus-Diez,J.,Via,M.,Alastuey,A.,Karanasiou,A.,Minguillon,Cruz,Perez,M.,
+etal.,2022.AbsorptionenhancementofblackcarbonparticlesinaMediterranean
+CRediTauthorshipcontributionstatement
+cityandcountryside:effectofparticulatematterchemistry,ageingandtrend
+analysis.AtmosChemPhys22,8439–8456.
+Yuchong Long: Visualization, Formal analysis. Weikang Zhang: [13] Ahmad,S.,Zeb,B.,Ditta,A.,Alam,K.,Shahid,U.,Shah,A.U.,etal.,2023.
+Writing–review&editing,Validation.ShanYin:Writing–review& Morphological,mineralogical,andbiochemicalcharacteristicsofparticulate
+matterinthreesizefractions(PM10,PM2.5,andPM1)intheurbanenvironment.
+editing, Supervision, Project administration, Methodology, Funding ACSOmega8,31661–31674.
+acquisition,Conceptualization.JingliYan:Writing–review&editing, [14] Li,Z.,Liu,J.,Zhai,Z.,Liu,C.,Ren,Z.,Yue,Z.,etal.,2023.Heterogeneouschanges
+Validation.DeleChen:Writing–review&editing,Writing–original ofchemicalcompositions,sourcesandhealthrisksofPM2.5withthe“Clean
+Heating”policyaturban/suburban/industrialsites.SciTotalEnviron854,158871.
+draft,Visualization,Validation,Methodology,Investigation,Conceptu- [15] Bui,H.-T.,Park,J.,Lee,E.,Jeong,M.,Park,B.-J.,2023.Particulatematter
+alization.WenSun:Writing–review&editing,Investigation.Ningxiao accumulationandelementalcompositionofeightroadsideplantspecies.UrbanSci
+Sun:Validation,Investigation. 7,51.
+[16] Kumar,S.,Prasad,S.,Yadav,K.K.,2019.Utilizationofairpollutantsbyplants:
+needforpresentandfuturescrutiny.JAgricFoodChem67,2741–2742.
+[17] Zhang,W.,Wang,B.,Niu,X.,2017.Relationshipbetweenleafsurface
+DeclarationofCompetingInterest
+characteristicsandparticlecapturingcapacitiesofdifferenttreespeciesinBeijing.
+Forests8,92.
+The authors declare that they have no known competing financial [18] Chen,L.,Liu,C.,Zhang,L.,Zou,R.,Zhang,Z.,2017.Variationintreespecies
+interestsorpersonalrelationshipsthatcouldhaveappearedtoinfluence
+a
+1
+b
+–1
+il
+1
+it
+.
+ytocaptureandretainairbornefineparticulatematter(PM2.5).SciRep7,
+theworkreportedinthispaper. [19] Kwak,M.J.,Lee,J.,Kim,H.,Park,S.,Lim,Y.,Kim,J.E.,etal.,2019.TheRemoval
+EfficienciesofSeveralTemperateTreeSpeciesatAdsorbingAirborneParticulate
+MatterinUrbanForestsandRoadsides.Forests10,960.
+Dataavailability
+[20] Zhang,X.,Lyu,J.,Han,Y.,Sun,N.,Sun,W.,Li,J.,etal.,2020.Effectsoftheleaf
+functionaltraitsofconiferousandbroadleavedtreesinsubtropicalmonsoon
+Datawillbemadeavailableonrequest. regionsonPM2.5drydepositionvelocities.EnvironPollut265,114845.
+[21] Hong,J.,Park,C.,Kim,K.,Jeon,J.,Son,J.,Chang,H.,etal.,2024.Experimental
+analysisofPM2.5reductioncharacteristicsbetweenKoreanredpine(Pinus
+Acknowledgements densiflora)andsawtoothoak(Quercusacutissima)saplingsunderdifferentdensities
+andarrangementstructures.EnvironPollut347,123699.
+[22] Liu,J.,Cao,Z.,Zou,S.,Liu,H.,Hai,X.,Wang,S.,etal.,2018.Aninvestigationof
+ThisworkwasfinanciallysupportedbytheNationalNaturalScience
+theleafretentioncapacity,efficiencyandmechanismforatmosphericparticulate
+FoundationofChina(32171865;42271096),ShanghaiLandscapingand matteroffivegreeningtreespeciesinBeijing,China.SciTotalEnviron616
+City Appearance Administrative Bureau (G231208). The conceptual 417–426.
+[23] Pace,R.,Guidolotti,G.,Baldacchini,C.,Pallozzi,E.,Grote,R.,Nowak,D.J.,etal.,
+diagrams were created using BioRender.com. We are grateful to Mr.
+2021.Comparingi-Treeecoestimatesofparticulatematterdepositionwithleaf
+YaochenTangofYKPaoSchoolforhisassistanceinthecollectionand andcanopymeasurementsinanurbanmediterraneanHolmOakForest.Environ
+testingofthesamplesandtoMs.QianLuoofShanghaiJiaoTongUni- SciTechnol55,6613–6622.
+versityforherassistanceintheGC-MSdatacollectionandassociated [24] Sgrigna,G.,Baldacchini,C.,Dreveck,S.,Cheng,Z.,Calfapietra,C.,2020.
+Relationshipsbetweenairparticulatemattercaptureefficiencyandleaftraitsin
+dataanalyses. twelvetreespeciesfromanItalianurban-industrialenvironment.SciTotalEnviron
+718,137310.
+[25] Giorio,C.,Tapparo,A.,Dall’Osto,M.,Beddows,D.C.,Esser-Gietl,J.K.,Healy,R.M.,
+AppendixA. Supportinginformation
+etal.,2015.Localandregionalcomponentsofaerosolinaheavilytraffickedstreet
+canyonincentralLondonderivedfromPMFandclusteranalysisofsingle-particle
+Supplementarydataassociatedwiththisarticlecanbefoundinthe ATOFMSspectra.EnvironSciTechnol49,3330–3340.
+onlineversionatdoi:10.1016/j.jhazmat.2024.135428. [26] Kalaiarasan,G.,Kumar,P.,Tomson,M.,Zavala-Reyes,J.C.,Porter,A.E.,Young,G.,
+etal.,2024.Particlenumbersizedistributioninthreedifferentmicroenvironments
+ofLondon.Atmosphere15,45.
+References [27] Yin,S.,Chen,D.,Zhang,X.,Yan,J.,2022.Reviewonthemulti-scaleinteractionsof
+urbanforestsandatmosphericparticles:affectingfactorsarescale-dependent
+[1] Cappelletti,D.,Eˇzerinskis,Z ˇ .,S ˇ apolaite˙,J.,Buˇcinskas,L.,Luks,B.,Nawrot,A., amongtree,standandregion.UrbanUrbanGreen78,127789.
+[28] Budaniya,M.,Rai,A.C.,2022.Effectivenessofplantsforpassiveremovalof
+etal.,2023.Long-rangetransportanddepositionontheArcticsnowpackofnuclear
+particulatematterislowintheindoorenvironment.BuildEnviron222,109384.
+contaminatedparticulatematter.JHazardMater452,131317.
+[29] Kim,J.J.,Park,J.,Jung,S.Y.,Lee,S.J.,2020.Effectoftrichomestructureof
+[2] He,Y.,Jiang,Y.,Yang,Y.,Xu,J.,Zhang,Y.,Wang,Q.,etal.,2022.Compositionof
+Tillandsiausneoidesondepositionofparticulatematterunderflowconditions.
+fineparticulatematterandriskofpretermbirth:anationwidebirthcohortstudyin
+JHazardMater393,122401.
+336Chinesecities.JHazardMater425,127645.
+[30] Daellenbach,K.R.,Uzu,G.,Jiang,J.,Cassagnes,L.-E.,Leni,Z.,Vlachou,A.,etal.,
+[3] Southerland,V.A.,Brauer,M.,Mohegh,A.,Hammer,M.S.,VanDonkelaar,A.,
+2020.Sourcesofparticulate-matterairpollutionanditsoxidativepotentialin
+Martin,R.V.,etal.,2022.Globalurbantemporaltrendsinfineparticulatematter Europe.Nature587,414–419.
+( P P la M n 2 e . t 5) H a e n a d lth at 6 tr , ib e u 1 t 3 a 9 b – l e e 1 h 4 e 6 a . lthburdens:estimatesfromglobaldatasets.Lancet [31] Hong,J.,Lee,M.,Huh,W.,Kim,T.K.,Jeon,J.,Lee,H.,etal.,2023.Comparisonsof
+[4] Al-Rekabi,Z.,Dondi,C.,Faruqui,N.,Siddiqui,N.S.,Elowsson,L.,Rissler,J.,etal.,
+PM2.5mitigationwithstandcharacteristicsbetweenevergreenKoreanpine
+plantationsanddeciduousbroad-leavedforestsintheRepublicofKorea.Environ
+2023.Uncoveringthecytotoxiceffectsofairpollutionwithmulti-modalimagingof
+Pollut334,122240.
+invitrorespiratorymodels.RSocOpenSci10,221426.
+[32] Zhou,S.,Zhang,Z.,Hipsey,M.R.,Liu,J.,Zhang,M.,2023.Differencesinmass
+[5] Fiordelisi,A.,Piscitelli,P.,Trimarco,B.,Coscioni,E.,Iaccarino,G.,Sorriento,D.,
+concentrationandelementalcompositionofleafsurfaceparticulatematter:plant
+2
+d
+0
+is
+1
+e
+7
+a
+.
+se
+T
+s
+h
+.
+e
+H
+m
+ea
+e
+r
+c
+t
+h
+F
+a
+a
+n
+i
+i
+l
+s
+R
+m
+e
+s
+v
+o
+2
+f
+2
+a
+,
+ir
+33
+p
+7
+o
+–
+ll
+3
+u
+4
+ti
+7
+o
+.
+nandparticulatematterincardiovascular speciesandparticlesizeranges.ProcessSafEnvironProt175,599–610.
+9
+===== PAGE 10 =====
+D.Chenetal. Journal of Hazardous Materials 478 (2024) 135428
+[33] Wang,G.,Ruser,H.,Schade,J.,Passig,J.,Adam,T.,Dollinger,G.,etal.,2024. [47] Eichert,T.,Goldbach,H.E.,2008.Equivalentporeradiiofhydrophilicfoliar
+Machinelearningapproachesforautomaticclassificationofsingle-particlemass uptakeroutesinstomatousandastomatousleafsurfaces–furtherevidencefora
+spectrometrydata.AtmosMeasTech17,299–313. stomatalpathway.PhysiolPlant132,491–502.
+[34] Chen,D.,Xiao,H.-Y.,Sun,N.,Yan,J.,Yin,S.,2024.Characterizingleaf-deposited [48] Burkhardt,J.,Hunsche,M.,2013.Breathfigures”onleafsurfaces—formationand
+particles:single-particlemassspectralanalysisandcomparisonwithnaturally effectsofmicroscopicleafwetness.FrontPlantSci4,422.
+fallenparticles.EnvironSciEcotechnol21,100432. [49] Andrade,G.C.,Santana,B.V.N.,Rinaldi,M.C.S.,Ferreira,S.O.,daSilva,R.C.,da
+[35] Lyu,J.,Chen,D.,Zhang,X.,Yan,J.,Shen,G.,Yin,S.,2023.Coagulationeffectof Silva,L.C.,2022.Leafsurfacetraitsrelatedtodifferentialparticleadsorption–a
+atmosphericsubmicronparticlesonplantleaves:keyfunctionalcharacteristicsand casestudyoftwotropicallegumes.SciTotalEnviron823,153681.
+acomparisonwithdrydeposition.SciTotalEnviron868,161582. [50] Yin,S.,Lyu,J.,Zhang,X.,Han,Y.,Zhu,Y.,Sun,N.,etal.,2020.Coagulationeffect
+[36] Zeisler-Diehl,V.,Müller,Y.,Schreiber,L.,2018.Epicuticularwaxonleafcuticles ofaerosubmicronparticlesonplantleaves:measuringmethodsandpotential
+doesnotestablishthetranspirationbarrier,whichisessentiallyformedby mechanisms.EnvironPollut257,113611.
+intracuticularwax.JPlantPhysiol227,66–74. [51] S ˇ antrůˇcek,J.,2022.Thewhyandhowofsunkenstomata:doesthebehaviourof
+[37] Chen,W.,Yu,X.-H.,Zhang,K.,Shi,J.,DeOliveira,S.,Schreiber,L.,etal.,2011. encryptedstomataandtheleafcuticlematter?AnnBot130,285–300.
+MaleSterile2encodesaplastid-localizedfattyacylcarrierproteinreductase [52] Scho¨nherr,J.,2006.Characterizationofaqueousporesinplantcuticlesand
+requiredforpollenexinedevelopmentinArabidopsis.PlantPhysiol157,842–853. permeationofionicsolutes.JExpBot57,2471–2491.
+[38] Xiao,Y.,Li,X.,Yao,L.,Xu,D.,Li,Y.,Zhang,X.,etal.,2020.Chemicalprofilesof [53] Yang,F.,Jia,X.,Hua,C.,Zhou,F.,Hua,J.,Ji,Y.,etal.,2024.Highlyefficient
+cuticularwaxesonvariousorgansofSorghumbicolorandtheirantifungal semiconductormodulesmakingcontrollableparallelmicrochannelsfornon-
+activities.PlantPhysiolBiochem155,596–604. compressiblehemorrhages.BioactMater36,30–47.
+[39] Gong,X.,Zhang,C.,Chen,H.,Nizkorodov,S.A.,Chen,J.,Yang,X.,2016.Size [54] Prigioniero,A.,Zuzolo,D.,Niinemets,Ü.,Postiglione,A.,Mercurio,M.,Izzo,F.,
+distributionandmixingstateofblackcarbonparticlesduringaheavyairpollution etal.,2022.Particulatematterandpolycyclicaromatichydrocarbonuptakein
+episodeinShanghai.AtmosChemPhys16,5399–5411. relationtoleafsurfacefunctionaltraitsinMediterraneanevergreens:potentialsfor
+[40] Xu,J.,Li,M.,Shi,G.,Wang,H.,Ma,X.,Wu,J.,etal.,2017.Massspectrafeaturesof airphytoremediation.JHazardMater435,129029.
+biomassburningboilerandcoalburningboileremittedparticlesbysingleparticle [55] Ossola,R.,Farmer,D.,2024.Thechemicallandscapeofleafsurfacesandits
+aerosolmassspectrometer.SciTotalEnviron598,341–352. interactionwiththeatmosphere.ChemRev124,5764–5794.
+[41] Hu,J.,Xie,C.,Xu,L.,Qi,X.,Zhu,S.,Zhu,H.,etal.,2021.Directanalysisofsoil [56] Hamieh,T.,Jrad,A.,Roques-Carmes,T.,Hmadeh,M.,Toufaily,J.,2022.Surface
+compositionforsourceapportionmentbylaserablationsingle-particleaerosol thermodynamicsandLewisacid-basepropertiesofmetal-organicframework
+massspectrometry.EnvironSciTechnol55,9721–9729. CrystalsbyInversegaschromatographyatinfinitedilution.JChromatogrA1666,
+[42] Shen,L.,Hao,F.,Gao,M.,Wang,H.,Zhu,B.,Gao,J.,etal.,2020.Real-time 462849.
+geochemistryofurbanaerosolduringaheavydustepisodebysingle-particle [57] Li,Y.,Xia,W.,Peng,Y.,Xie,G.,2020.Anovelcoaltar-basedcollectorforeffective
+aerosolmassspectrometer:Spatio-temporalvariability,mixingstateandspectral flotationcleaningoflowrankcoal.JCleanProd273,123172.
+distribution.Particuology53,197–207. [58] Chen,H.-S.,Lin,Y.-C.,Chiueh,P.-T.,2023.Nexusofecosystemservice-human
+[43] Zhu,Z.,Surujon,D.,Ortiz-Marquez,J.C.,Huo,W.,Isberg,R.R.,Bento,J.,etal., health-naturalresources:thenature-basedsolutionsforurbanPM2.5pollution.
+2020.Entropyofabacterialstressresponseisageneralizablepredictorforfitness SustainCitiesSoc91,104441.
+andantibioticsensitivity.NatCommun11,4365. [59] Prigioniero,A.,Zuzolo,D.,Niinemets,Ü.,Guarino,C.,2021.Nature-based
+[44] Lee,J.K.,Kim,D.Y.,Park,S.H.,Woo,S.Y.,Nie,H.,Kim,S.H.,2022.Particulate solutionsastoolsforairphytoremediation:areviewofthecurrentknowledgeand
+Matter(PM)AdsorptionandLeafCharacteristicsofOrnamentalSweetPotato gaps.EnvironPollut277,116817.
+(IpomoeabatatasL.)CultivarsandTwoCommonIndoorPlants(HederahelixL.and [60] Thomsit-Ireland,F.,Essah,E.A.,Hadley,P.,Blanuˇsa,T.,2020.Theimpactofgreen
+EpipremnumaureumLindl.&Andre).Horticulturae8,26. facadesandvegetativecoveronthetemperatureandrelativehumiditywithin
+[45] Burkhardt,J.,Basi,S.,Pariyar,S.,Hunsche,M.,2012.Stomatalpenetrationby modelbuildings.BuildEnviron181,107009.
+aqueoussolutions–anupdateinvolvingleafsurfaceparticles.NPhytol196(3), [61] Park,S.,Lee,J.K.,Kwak,M.J.,Lim,Y.J.,Kim,H.,Jeong,S.G.,etal.,2022.
+774–787. RelationshipbetweenleaftraitsandPM-capturingcapacityofmajorurban-
+[46] Chen,D.,Yin,S.,Zhang,X.,Lyu,J.,Zhang,Y.,Zhu,Y.,etal.,2022.Ahigh- greeningspecies.Horticulturae8,1046.
+resolutionstudyofPM2.5accumulationinsideleavesinleafstomatacompared [62] Barwise,Y.,Kumar,P.,2020.Designingvegetationbarriersforurbanairpollution
+withnon-stomatalareasusingthree-dimensionalX-raymicroscopy.SciTotal abatement:apracticalreviewforappropriateplantspeciesselection.npjClim
+Environ852,158543. AtmosSci3,12.
+10

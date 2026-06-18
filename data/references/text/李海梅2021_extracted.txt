@@ -1,0 +1,822 @@
+
+===== PAGE 1 =====
+2021，34（4）：84-94 林 业 科 学 研 究
+http://www.lykxyj.com Forest Research
+DOI:10.13275/j.cnki.lykxyj.2021.04.010
+5个园林树种滞尘能力与叶表形态及颗
+粒物粒径的关系
+李海梅1，党 宁1,2，禹靓倩2，张涵丹2，陈光才2*
+(1. 青岛农业大学林学与园林学院，山东 青岛 266109；2. 中国林业科学研究院亚热带林业研究所，浙江 杭州 311400)
+摘要：[目的]研究园林树种叶片滞尘能力与叶表结构及颗粒物特征的关系，为筛选优良园林绿化树种、提高植
+被的滞尘效应提供科学依据。[方法]以杭州市富阳区5个常见园林绿化树种（红花檵木、海桐、红叶石楠、
+桂花和香樟）为研究对象，分别在工业区、交通区和清洁区进行采样，采用质量差值法测定植物对不同粒径颗
+粒物的滞留能力，利用扫描电镜及能谱仪观测植物叶表面结构、颗粒物形貌特征及所含元素，分析叶片表面结
+构、颗粒物形态、粒径大小与植株滞尘能力的相互关系。[结果]在工业区中绿化树种对总颗粒物的滞留量大
+小为：红花檵木（7.36 g·m−2） > 桂花（6.53 g·m−2） > 海桐（6.44 g·m−2） > 红叶石楠（4.28 g·m−2） > 香樟
+（2.59 g·m−2），交通区和清洁区也呈现同样的规律。不同功能区绿化树种对PM 的总滞留量达11.34 g·m−2，
+10
+不同树种的滞留能力依次为红花檵木、海桐、红叶石楠、桂花和香樟。不同功能区内绿化树种对颗粒物的滞留
+量呈现工业区 > 交通区 > 清洁区的趋势；植物叶片滞留的颗粒物形态可分为规则和不规则两类，常见球形、椭
+圆形、蓬松状聚合体、链状聚合体、不规则块状、不规则片状等。[结论]各功能区内，均以红花檵木的滞尘
+量最大，香樟的滞尘量最小；叶片滞留颗粒物中粗颗粒物占比大于细颗粒物；叶片滞留的颗粒物多为烟尘集合
+体和矿物颗粒。
+关键词：粒径；颗粒物；叶表面；形貌特征
+中图分类号：S731 文献标志码：A 文章编号：1001-1498(2021)04-0084-11
+随着城市化和工业化进程的不断加快，大气污 绿色植物成为缓解空气污染，改善生态环境的首选
+染问题日益严重。据《2019年中国生态环境状况 方案。其茂密的枝冠，能有效降低风速，使得大气
+公报》显示，全国337个城市中，有53.4%的城市 中部分颗粒物沉降下来，并通过叶片固定和截留[3, 6]，
+空气质量超标，累计发生严重污染452天次，重度 减少颗粒物的移动和扩散，提升空气质量，此外还
+污染1666天次，且超过78.8%的天数以PM 为 能发挥遮阴、泌氧、降噪等功能[7]；其叶片及花、果
+2.5
+主要污染物，19.8%以上天数以PM 为主要污染 能绿化美化市容环境，发挥较大的生态服务能力。
+10
+物，大气颗粒物已成为空气污染的首要污染物[1-2]。 研究表明，植物叶片的滞尘能力与植物叶表面
+空气中悬浮颗粒物聚集大量酸性氧化物、挥发性有 特征、植物本身的结构以及所处的空间密切相关[8]。
+机化合物、有毒重金属等，会降低空气能见度和空 如Sabin等发现具有绒毛、沟状凸起、粘液油脂或
+气质量，在沉降后也会对土壤、植物、水体等造成 较短叶柄的叶片能吸附更多的PM ，叶片越粗糙
+2.5
+二次污染；此外，粒径较小的颗粒物还能通过皮肤 吸附的颗粒物越多[9]；Zhang等发现相较于阔叶树
+暴露、呼吸道途径等，进一步危害人体健康[3-5]。 种，针叶树的叶表面更粗糙、气孔排列密度更高，
+收稿日期：2021-03-01 修回日期：2021-04-30
+基金项目：中央级公益性科研院所基金重点项目（CAFYBB2019SZ001）；国家自然科学基金项目（31971718）
+* 通讯作者: 陈光才. E-mail：guangcaichen@sohu.com
+
+===== PAGE 2 =====
+第 4 期 李海梅，等： 5个园林树种滞尘能力与叶表形态及颗粒物粒径的关系 85
+滞留颗粒物的能力也更强[10]。唐明发现不同生活
+N
+W E
+型的植物滞尘能力由高到低依次为绿篱、落叶阔叶
+树、灌木、草本植物、落叶阔叶大乔木、落叶阔叶
+S
+工业区 Industrial zone 恩 波
+大
+道
+p o r
+oa
+d D aqi 大
+ao
+桥
+ro
+路
+ad
+小乔木[11]；植物叶片滞留颗粒物的能力还与所处 E n
+交通区 Traffic zone
+的地理环境及气候条件密切相关。如小琴丝竹 清洁区 Clean zone
+naiJ
+g
+（Bambusa multiplex cv. Alphonse-Karr）在城市公 w ni b 滨 江
+园绿地的滞尘量高于城市广场绿地、城郊林区与城
+eu ne
+va
+tae
+道
+大
+西
+郊绿地，且冬季滞尘量最高，夏季或春季最低[12]。 道 n ev e u
+植
+T E 60 o D % m
+物
+A 均 a X
+叶
+se ） 属 v
+片
+i 分 于 c等
+滞
+析 细 通
+留
+发 颗 过
+的
+现 粒 表 物 ，
+颗
+面 ， 位
+粒
+扫 这 于
+物
+描 些 叶
+呈
+电 颗 片
+现
+镜 粒 两
+不
+物 - 侧 能
+同
+单 的 谱 个
+的
+颗 联 或 粒
+形
+用 聚 物
+貌
+（ 集 5
+特
+S 0 成 % E
+征
+M 各 ～ -
+，
+Hangzhou 杭 r 州 ing 绕 w 城 es 西 t
+大
+c
+埠
+复 o 中
+a
+m
+u
+线
+b g
+p n o l h e Z x line
+T an
+g ch en g
+长
+lin 汤 e 程 线
+深高速
+种团状，呈现球状、片状、不规则状[13]；苏维在研 Changshen freeway
+究中发现，林木叶片滞留的大气颗粒物多为不规则 图 1 研究区域及采样地点
+形，有的颗粒物有较明显的棱角，也有的呈现云片 Fig. 1 The study area and sampling sites
+状、长条状、絮状物等；少数颗粒物呈现规则的形
+商铺和居民区，车流人流较大；清洁区位于中国林
+状，如椭圆状和球状[14]。
+科院亚热带林业研究所院内，此地树木繁茂，车流
+对于植物滞尘的研究，目前多集中于总颗粒物
+人流较少，环境质量较好。
+的滞留量，而对不同粒径颗粒物的定量分析较为缺
+1.1.2 试验树种 在对研究区域植物种类开展调
+乏，对植物滞留的颗粒物微观形貌特征及所含元素
+查的基础上，选择3个功能区共有的、生长状况
+及来源的分析更不多见。从地域而言，我国对于植
+良好的香樟（Cinnamomum camphora (Linn.) Presl）、
+物滞留颗粒物的研究多集中于北京、青岛、天津、
+桂花（Osmanthus fragrans (Thunb.) Lour）、红花
+郑州等北方城市，针对长江三角洲城市群的重要城
+檵木（Loropetalum chinense (R. Br.) Oliver var.
+市如杭州市园林植物滞留能力的研究相对较少。本
+rubrum Yieh）、红叶石楠（Photinia × fraseri Dress）
+研究通过对浙江省杭州市富阳区不同功能区5个常
+和海桐（Pittosporum tobira (Thunb.) Ait）5种典型
+见园林植物叶片及叶表面颗粒物进行研究，比较园
+常绿园林植物作为供试树种（表1）。
+林植物对不同粒径颗粒物滞留量的差异，分析颗粒
+1.1.3 采样方法 根据赵勇等研究结果，降雨量
+物的形貌特征及污染物特征，探讨叶片滞尘能力与
+叶表结构及颗粒物特征的关系，以期为通过合理配
+在15 mm以上、降雨强度达到10 mm·h−1的降水，
+置园林绿化植物来降低颗粒物污染、净化城市空气 可冲刷掉叶片上的粉尘，然后重新滞尘，雨后第
+提供科学依据。
+7天左右，植物叶片累积的颗粒物达到饱和状态[15]。
+根据研究区的降雨特点，于2020年8月14日雨
+1 材料与方法
+后7 d进行采样，天气良好，无风。选择生长良
+1.1 样品采集
+好，树高和冠幅近似的3株植株分别进行取样（植
+1.1.1 研究区域及采样地点 根据浙江省杭州市富
+株高度约为2 ~ 2.5 m，植株间距约为3 ~ 5 m）。
+采取植株靠近道路侧，离地面1.5 m左右、无病害
+阳区用地类型及植被分布情况，选择工业区
+（119°55′46.455″ E，29°56′29.058″ N）、交通区 长势良好的叶片，用镊子或枝剪轻轻将叶片剪落至
+（119°57′56.264″ E，30°3′39.347″ N）、清洁区 自封袋带回，放入实验室冰箱保存待测。
+（119°57′48.826″ E，30°3′52.596″ N）3个功能区 1.2 测定方法
+（图1）展开研究。工业区位于富阳区中西线附近 1.2.1 滞尘量测定 采用质量差值法对叶片滞尘量
+的环山工业区，此地集中多家再生铜冶炼企业，是 进行测定[16]。选取15片叶片放入烧杯中浸泡2 h，
+富阳区主要工业产业之一，周围人流稀少，车流量 利用毛刷将叶表面的颗粒物洗刷到蒸馏水中，用镊
+相对较少；交通区位于大桥路附近，分布有学校、 子取出叶片自然晾干。将滞尘待测液依次用事先称
+
+===== PAGE 3 =====
+86 林 业 科 学 研 究 第 34 卷
+表 1 供试树种的生物学特性
+Table 1 Biological characteristics of tree species used in the experiment
+树种 科 生活型 叶片特征
+Tree species Family Life form Leaf blade features
+叶互生，卵状椭圆形；革质
+香樟 C. camphora 樟科 Lauraceae 乔木 Arbor
+Leaves alternate, ovoid ellipse; leathery
+红花檵木 L. chinense var. rubrum 金缕梅科 Hamamelidaceae 灌木 Shrub 卵形；革质 Ovate; leathery
+叶椭圆形、长圆形或椭圆状披针形；革质
+桂花 O. fragrans 木犀科 Oleaceae 乔木 Arbor
+Elliptic, oblong or elliptically lanceolate; leathery
+长椭圆形或倒卵状椭圆形；革质
+红叶石楠 Photinia × fraseri 蔷薇科 Rosaceae 灌木 Shrub
+Long elliptic or obovate-elliptic; leathery
+海桐 P. tobira 海桐科 Pittosporaceae 灌木 Shrub 倒卵形；革质 Obovate; leathery
+质量的孔径为10.0、2.5、0.2 μm的亲水性滤膜进 2 结果与分析
+行抽滤，可依次得到粒径大于10 μm、粒径大于
+2.1 不同绿化树种叶片滞留颗粒物的能力差异
+2.5 μm小于10 μm、粒径小于2.5 μm的颗粒物，
+由图2A可知，工业区不同树种对于总颗粒物
+抽滤后滤膜放入培养皿，再在烘箱中60℃烘干至
+（TSP）的滞留量差异显著，滞留量从大到小依次
+恒质量，并称质量[17]。两次滤膜质量之差为△m，
+为：红花檵木（7.36 g·m−2）、桂花（6.53 g·m−2）、
+其为不同粒径范围颗粒物的质量，PM 的质量为
+10 海桐（6.44 g·m−2）、红叶石楠（4.28 g·m−2）和香
+孔径2.5 μm和0.2 μm的滤膜质量差值之和，PM
+2.5 樟（2.59 g·m−2），红花檵木的滞尘量约为香樟的
+为滤膜0.2 μm的滤膜质量差值，TSP则为3个滤
+2.8倍，且具有显著性差异（P < 0.05）。各树种对
+膜质量之差的总和。叶片晾干后，用Epson Perfection
+于PM 的滞留量大小依次为：红花檵木（2.98
+10
+V700 Photo扫描仪扫描叶片，再用WinRHIZO
+g·m−2） > 海桐（0.96 g·m−2） > 红叶石楠（0.72
+Pro2005b（加拿大Regent Instruments公司）根系
+g·m−2） > 桂花（0.67 g·m−2） > 香樟（0.30 g·m−2），
+分析系统测量叶面积S，则△m/S为不同粒径范围
+其中红花檵木的滞尘量近乎为香樟的10倍。各树
+颗粒物的单位叶面积滞留量。
+种对于PM
+2.5
+的滞留量大小依次为：红花檵木
+1.2.2 叶片表面结构测定 将清洗后的叶片放入烘 （1.68 g·m−2）、红叶石楠（0.55 g·m−2）、海桐
+箱中，60℃烘干至恒质量，随机选择叶片，并选 （0.46 g·m−2）、桂花（0.36 g·m−2）和香樟（0.16
+取靠近叶脉两侧约5 mm × 5 mm的2个正方形叶 g·m−2）。
+片，选取一片观察叶片上表面，另一片观察叶片下 图2B为交通区，不同树种对于不同粒径颗粒
+表面。将裁剪好的叶片用导电胶粘在样品台上，进
+物的滞留量与工业区相似：对总颗粒物滞留量、
+行喷金处理。处理好的样品放入扫描电镜（飞纳/ PM 的滞留量以及PM 的滞留量均以红花檵
+10 2.5
+Phenom Pro）中观察。 木最高，香樟最低，其含量分别为2.83 g·m−2、
+1.2.3 颗粒物特征及元素分析 用导电胶沾取烘干 1.28 g·m−2；1.39 g·m−2和0.30 g·m−2；0.59 g·m−2、
+后滤膜上不同粒径的颗粒物，放入样品台进行喷 0.12 g·m−2。在清洁区中（图2C），各树种对于总
+金处理。将处理好的样品放入扫描电镜（飞纳/ 颗粒物、PM 的滞留量顺序与工业区和交通区相
+10
+Phenom Pro）中观察，调整电镜观测的倍数、亮 同，而对于PM 的滞留量大小顺序略有差异。清
+2.5
+度、对比度、焦距，直至图片清晰并保存。在扫描 洁区不同树种对于PM 的滞留量大小顺序为：红
+2.5
+电镜观测颗粒物的基础上利用能谱仪（飞纳/ 花檵木（0.25 g·m−2）、红叶石楠（0.14 g·m−2）、
+Phenom Pro）同时进行颗粒物元素分析。 桂花（0.114 g·m−2）、香樟（0.113 g·m−2）、海桐
+1.3 数据处理 （0.06 g·m−2），其中红花檵木滞留量最大，海桐
+应用DPS7.05统计软件对植物叶片滞尘量进行 最少，具有显著性差异（P < 0.05）。
+单因素方差分析，采用LSD进行多重比较，分析 由图3可知，同一树种在不同污染条件下，对
+不同处理之间的差异，显著性差异水平为α = 于不同粒径的滞留量具有显著差异（P < 0.05），
+0.05。图表用Excel 2020绘制。 不论是总颗粒物还是PM 、PM ，均呈现为工业
+10 2.5
+
+===== PAGE 4 =====
+9 在工业区的滞留量是清洁区的近6.63倍。红花檵
+8 木对于PM 的滞留量在不同功能区差异最大，在
+7 10
+6 不同功能区的滞留量分别为2.98、1.39、0.92 g·m−2。
+5
+在不同功能区不同树种对于PM 的总滞留量分别
+2.5
+4
+3
+为3.21、1.50、0.77 g·m−2，海桐的差异最大，工业
+2 区的滞留量是清洁区的7.49倍。
+1 2.2 不同绿化树种叶片滞留颗粒物的粒径差异
+0
+不同功能区中同一树种滞留的同一粒径颗
+粒物所占总颗粒物的比值存在较大差异（表2）。
+不同树种对于不同粒径颗粒物的滞留比值均大致
+4
+呈现同样的规律，从大到小依次为：粒径 、 d >10 μm
+3 粒径 2.5 μm < d ≤ 10 μm 、 粒径 d ≤ 2.5 μm 。各树种滞留
+粒径 颗粒物的比值在不同污染条件下均大
+d > 10 μm
+2
+于50.00%，其中桂花叶片滞留粒径 的颗粒 d > 10 μm
+物占比最高，为90.00%，红花檵木叶片滞留的
+1 该类颗粒物占比最小，为59.67%。不同树种对于
+0 粒径 2.5 μm < d ≤ 10 μm 颗粒物滞留量占比约为10.00%～
+47.98%。不同树种滞留粒径 颗粒物的比值
+d ≤ 2.5 μm
+均小于30.00%，其中最小的为桂花叶片滞留的此
+类颗粒物，为5.18%。不同功能区的粒径
+d > 10 μm
+颗粒物总量占比依次为85.22%、69.21%、60.32%，
+呈现为工业区 > 交通区 > 清洁区；粒径
+2.5 μm < d ≤ 10 μm
+颗粒物总量占比与粒径 颗粒物总量占比相
+d > 10 μm
+反，依次为14.85%、69.21%、60.32%。由此可知，
+香樟、红花檵木、桂花、红叶石楠和海桐滞留粗颗
+粒物的比值较大，滞留细颗粒物的比值较小。
+2.3 不同绿化树种叶表面结构特征
+不同植物的叶表形貌在气孔大小、叶面绒毛、
+叶面分泌物等存在差异，这些差异对于植物的滞
+尘能力有一定的影响[11, 18]。通过电镜扫描可见，香
+樟叶片表面较为光滑，上表面和下表面细胞结构较
+为明显，无明显褶皱，且气孔密度较小，气孔开口
+较小，其对于不同粒径颗粒物的滞留量均较小
+（图4A、B）；红花檵木上表面褶皱明显，能明
+显观测到滞留的颗粒物，下表面能明显观测到大绒
+毛，且气孔密度大，其对于不同粒径的颗粒物滞留
+量均最大（图4C、D）；桂花上表面褶皱明显，
+下表面能观测到沟状组织，气孔密度大，对于颗粒
+区 > 交通区 > 清洁区。工业区树种对于TSP的总
+物的滞留量较大（图4E、F）；红叶石楠上表面有
+滞留量达27.19 g·m−2，交通区和清洁区分别为
+浅线状凸起，下表面气孔密度较大，开口较小，对
+10.42、5.48 g·m−2，工业区树种的总滞尘量是清洁
+于不同粒径颗粒物的滞留量均较大（图4G、H）；
+区的近4.96倍，具有显著性差异（P < 0.05）。海 海桐上表面具有蜡质层，褶皱明显，沟壑较多，下
+桐对于TSP的滞留量在不同功能区的差异最大， 表面气孔密度大，对于不同粒径颗粒物的滞留量也
+量尘滞片叶
+量尘滞片叶
+)2−m·g(/fael
+fo
+yticapac
+noitneteR
+)2−m·g(/fael
+fo
+yticapac
+noitneteR
+3
+2
+1
+0
+量尘滞片叶
+)2−m·g(/fael
+fo
+yticapac
+noitneteR
+第 4 期 李海梅，等： 5个园林树种滞尘能力与叶表形态及颗粒物粒径的关系 87
+A. a TSP PM PM 10 2.5 ab ab
+bc
+c a
+a
+b
+b b
+b b b b b
+香樟 红花檵木 桂花 红叶石楠 海桐
+C. camphoraL. chinenseO. fragransPhotinia×fraseriP. tobira
+var. rubrum
+树种 Tree species
+B.
+TSP PM PM 10 2.5
+a
+a
+b b
+b a
+b b b a b b
+b a b
+香樟 红花檵木 桂花 红叶石楠 海桐
+C. camphoraL. chinenseO. fragransPhotinia×fraseriP. tobira
+var. rubrum
+树种 Tree species
+C. TSP PM PM 10 2.5
+a
+b
+b
+a b
+b
+b a b b ab
+b b ab b
+香樟 红花檵木 桂花 红叶石楠 海桐
+C. camphoraL. chinenseO. fragransPhotinia×fraseriP. tobira
+var. rubrum
+树种 Tree species
+A：工业区；B：交通区；C：清洁区 注：不同小写字母表示同一指标
+下（TSP、PM 10、PM 2.5）不同植物滞尘量之间存在显著差异（P <
+0.05）。
+A: Industrial zone; B: Transport zone; C: Clean zone Note: Different
+lowercase letters indicate that there are significant differences in the amount
+of dust retention of different plants under the same index (TSP, PM , PM )
+10 2.5
+(P < 0.05).
+图 2 同一功能区5种园林植物叶片滞留颗粒物的能力差异
+Fig. 2 The retention capacity of different species to
+particle in same region
+
+===== PAGE 5 =====
+4
+a
+3
+2 b
+b
+1 a a a a a a
+0
+表 2 叶片滞留颗粒物粒径分布比例
+Table 2 The ratios of particles differed in size to total particulate matter attached to the leaves
+工业区 Industrial zone 交通区 Transport zone 清洁区 Clean zone
+树种
+Tree species d > 2.5 μm < d ≤ d ≤ d > 2.5 μm < d ≤ d ≤ d > 2.5 μm < d ≤ d ≤
+10 μm/% 10 μm/% 2.5 μm/% 10 μm/% 10 μm/% 2.5 μm/% 10 μm/% 10 μm/% 2.5 μm/%
+香樟
+88.33 11.67 6.41 76.60 23.40 9.10 58.44 41.56 18.04
+C. camphora
+红花檵木
+59.67 40.33 22.38 52.02 47.98 21.60 55.49 44.51 15.73
+L. chinense var. rubrum
+桂花
+90.00 10.00 5.18 82.99 17.01 5.00 69.95 30.05 10.00
+O. fragrans
+红叶石楠
+82.90 17.10 12.99 62.25 37.75 28.97 52.19 47.81 18.10
+Photinia × fraseri
+海桐
+85.05 14.95 7.30 63.81 36.19 7.86 55.99 44.01 6.68
+P. tobira
+相对较大（图4I、J）。5个园林树种的叶片表面 物，粒径较小，不易观测到具体的形貌特征，但大
+结构特征列于表3。 多为不规则的块状细颗粒。
+2.4 叶片滞留颗粒物的微观形貌特征 在扫描电镜下，叶片滞留颗粒物主要分为规则
+由图5可见，绿化树种叶片表面滞留的不同粒 状和不规则状（图6）。不规则状的颗粒物大多与
+径颗粒物总形貌特征有很大差异，粒径 的 自然界的岩石、砂砾等有相似的形状，棱角分明，
+d > 10 μm
+颗粒物多为不规则块状颗粒物，粒径较大，能清楚 其中不规则的颗粒物多为蓬松状聚合体、链状聚合
+地观测到每个颗粒物的形貌特征；粒径 体，不规则块状、不规则片状。规则的颗粒物多为
+2.5 μm < d ≤ 10 μm
+的颗粒物常见规则和不规则的块状颗粒，在扫描电 球状、椭圆状、柱状。图6A为不规则的块状，棱
+镜下能清楚地观测到其棱角。粒径 的颗粒 角分明，表面光滑，能谱图显示主要成分为C、
+d ≤ 2.5 μm
+量尘滞片叶
+)2−m·g(/fael
+fo
+yticapac
+noitneteR
+香樟 C. camphora
+TPS PM PM a 10 2.5
+b
+a b
+a b b b b
+工业区 交通区 清洁区
+Industrial zoneTraffic zone Clean zone
+功能区 Functional areas
+量尘滞片叶
+)2−m·g(/fael
+fo
+yticapac
+noitneteR
+红花檵木 L. chinense var. rubrum
+10 TPS PM PM 9 10 2.5
+8
+7
+6
+5
+4
+3 2 1
+0
+工业区 交通区 清洁区
+Industrial zoneTraffic zone Clean zone
+功能区 Functional areas
+红叶石楠 Photinia×fraseri
+a TPS PM PM 10 2.5
+b
+c
+a a a a a b
+工业区 交通区 清洁区
+Industrial zoneTraffic zone Clean zone
+量尘滞片叶
+)2−m·g(/fael
+fo
+yticapac
+noitneteR
+桂花 O. fragrans
+a TPS PM PM 6 10 2.5
+5
+4
+b 3
+b 2
+a a a a a a 1
+0
+工业区 交通区 清洁区
+Industrial zoneTraffic zone Clean zone
+功能区 Functional areas
+量尘滞片叶
+)2−m·g(/fael
+fo
+yticapac
+noitneteR
+海桐 P. tobira
+9 a TPS PM PM 8 10 2.5
+7
+6
+5
+4 b
+3 b
+2 1 a a a b a b
+0
+工业区 交通区 清洁区
+Industrial zoneTraffic zone Clean zone
+功能区 Functional areas
+量尘滞片叶
+)2−m·g(/fael
+fo
+yticapac
+noitneteR
+88 林 业 科 学 研 究 第 34 卷
+9 8
+7
+6
+5
+4
+3
+2 1
+0
+功能区 Functional areas
+注：不同小写字母表示同一指标下（TSP、PM 10、PM 2.5）不同植物滞尘量之间存在显著差异（P < 0.05）。
+Note: Different lowercase letters indicate that there are significant differences in the amount of dust retention of different plants under the same index (TSP,
+PM , PM ) (P < 0.05).
+10 2.5
+图 3 不同功能区同一树种对颗粒物的滞留能力差异
+Fig. 3 The retention capacity of greening species to particle in different polluted environment
+
+===== PAGE 6 =====
+第 4 期 李海梅，等： 5个园林树种滞尘能力与叶表形态及颗粒物粒径的关系 89
+A. B. C. D.
+E. F. G. H.
+I. J.
+A、B：香樟叶上、下表面；C、D：红花檵木叶上、下表面；E、F：桂花叶上、下表面；G、H：.红叶石楠叶上、下表面；I、J：海桐叶上、下表面
+A, B: Upper and lower leaf surface of C. camphora; C, D: Upper and lower leaf of L. chinense var. rubrum; E, F: Upper and lower leaf of O. fragrans; G, H:
+Upper and lower leaf of Photinia × fraseri; I, J: Upper and lower leaf surface of P. tobira
+图 4 叶表面扫描图像
+Fig. 4 Leaf surface scanning images of different tree species
+表 3 5个园林树种的叶表面特征
+Table 3 Leaf surface characteristics of 5 tree species
+叶表面结构特征 Leaf surface characteristics
+树种 滞尘量
+Tree species 叶表皮上表面 叶表皮下表面 Amount of dust
+Upper blade surface Lower blade surface
+香樟 无明显褶皱，较平滑 气孔密度较小，有浅沟槽
+较小 Smaller
+C. camphora No obvious fold, relatively smooth Small stomatal density, shallow groove
+红花檵木 高低起伏明显，有明显褶皱，吸附有大量颗粒物 有大绒毛，气孔密度大，气孔开口较大
+最大 Maximum
+L. chinense var. rubrum Obvious ups and downs, obvious fold, mass particulate matter Big nap, stomatal density, large pore opening
+桂花 褶皱明显，吸附大量颗粒物 沟状组织，气孔密度大，气孔开口较小
+较大 Larger
+O. fragrans Fold obvious, mass particulate matter Grooved tissue, stomatal density, small pore opening
+红叶石楠 有浅线状凸起，无明显褶皱 气孔密度较大，气孔开口较小
+较大 Larger
+Photinia × fraseri Shallow linear bulge, no obvious fold Stomatal density, small pore opening
+海桐 有蜡质层，有明显的褶皱，沟壑密集 气孔密度大，气孔开口较小
+较大 Larger
+P. tobira Waxy layer, obvious fold, dense gullies Stomatal density, small pore opening
+O、Si元素，属于矿物颗粒，极有可能为石英颗 集合体最常见的两种形态，其主要含有O、C、
+粒。图6B为不规则的片状，成层，表面光滑，主 Si、Ca等元素。图6E为柱状矿物颗粒物，表面光
+要含有C、O、Si、Al等元素，少量含有Fe、Mg 滑，附有微小颗粒，主要有O、C、Si等元素，属
+等元素，属于矿物颗粒，可能为硅酸盐颗粒。 于石英颗粒物。图6F为球形颗粒，属于高温燃烧
+图6C、D为蓬松状聚合体和链状聚合体，是烟尘 后的飞灰颗粒，表面光滑，主要含有C、O、Si、
+
+===== PAGE 7 =====
+90 林 业 科 学 研 究 第 34 卷
+A. B. C.
+A：粒径d > 10 μm；B：粒径2.5 μm < d ≤ 10 μm；C：粒径d ≤ 2.5 μm
+A: Particle size d > 10 μm; B: Particle size 2.5 μm < d ≤ 10 μm ; C: Particle size d ≤ 2.5 μm
+图 5 不同粒径颗粒物的总体形貌
+Fig. 5 General morphologies of particles with different particle sizes
+A. B. C.
+0 1 2 3 4 5 6 7 8 9 10 0 1 2 3 4 5 6 7 8 9 10 0 1 2 3 4 5 6 7 8 9 10
+78 481 counts in 30 seconds 122 630 counts in 30 seconds 73 049 counts in 30 seconds
+D. E. F.
+0 1 2 3 4 5 6 7 8 9 10 0 1 2 3 4 5 6 7 8 9 10 0 1 2 3 4 5 6 7 8 9 10
+44 630 counts in 30 seconds 241 223 counts in 30 seconds 237 938 counts in 30 seconds
+G. H.
+0 1 2 3 4 5 6 7 8 9 10 0 1 2 3 4 5 6 7 8 9 10
+128 675 counts in 30 seconds 86 154 counts in 30 seconds
+A：不规则块状；B：不规则片状；C：蓬松状聚合体；D：链状聚合体；E：柱状；F：球形；G：椭圆形；H：蜂窝状
+A: Irregular block; B: Irregular sheet; C: Fluffy polymer; D: Chain polymerization; E: Columnar; F: Spherical; G: Oval; H: Honeycomb
+图 6 单个颗粒物的微观形貌及能谱图
+Fig. 6 The microscopic morphology and energy spectrum of single particulate matter
+Al等元素。图6G为椭圆形颗粒物，主要含有C、 少量Ca、Si元素，属于生物颗粒。由此可知，绿
+O元素，可能属于生物颗粒。图6H呈现蜂窝状， 化树种滞留的颗粒物主要为生物颗粒、矿物颗粒、
+与自然界中花粉颗粒极为相似，其中含有C、O及 飞灰颗粒、烟尘集合体4种（表4）。
+
+===== PAGE 8 =====
+第 4 期 李海梅，等： 5个园林树种滞尘能力与叶表形态及颗粒物粒径的关系 91
+表 4 叶片滞留的单个颗粒物形貌及组分特征
+Table 4 Morphological characteristics and chemical composition of residual single particles in blades
+图6图片编号 颗粒类型 物理特征 相对组成
+Number Particle classification Physical characteristics Elementary composition
+A 矿物颗粒 不规则的块状，棱角分明，表面光滑 主要含有C、O、Si元素
+Minerals particles Irregular blocky, angular, smooth surface Mainly contains C, O and Si elements
+B 矿物颗粒 不规则的片状，成层，表面光滑 主要含有C、O、Si、Al等元素，少量含有Fe、Mg等元素
+Minerals particles Irregular sheet, layered, smooth surface Mainly contains C, O, Si, Al, and small amount of Fe, Mg and
+other elements
+C 烟尘集合体 蓬松状聚合体 主要含有O、C、Si、Ca等元素
+Soot aggregates Fluffy polymer Mainly contains O, C, Si, Ca and other elements
+D 烟尘集合体 链状聚合体 主要含有O、C、Si、Ca等元素
+Soot aggregates Chain polymerization Mainly contains O, C, Si, Ca and other elements
+E 矿物颗粒 柱状，表面光滑，表面附有微小颗粒 主要含有O、C、Si等元素
+Minerals particles Column, smooth surface, surface with tiny particles Mainly has O, C, Si and other elements
+F 飞灰颗粒 球型，表面光滑 主要含有C、O、Si、Al等元素
+Fly ash particles Spherical shape, smooth surface Mainly has C, O, Si, Al and other elements
+G 生物颗粒 蜂窝状 Honeycomb 主要含有C、O Mainly has C, O
+Biological particles
+H 生物颗粒 椭圆形，表面附有微小颗粒 含有C、O及少量Ca、Si元素
+Biological particles Oval,surface with tiny particles Mainly contains C, O and other elements, and small amount of
+Ca, Si and other elements
+3 讨论 为：红花檵木 > 麦冬（Ophiopogon japonicus (L. f.)
+Ker-Gawl.） > 小叶榕（Ficus concinna Miq.） > 红
+3.1 植物叶片表面特征与滞尘量的关系
+叶石楠 > 桂花 > 山茶（Camellia japonica L.） > 女
+本研究中发现，研究区不同功能区植物的滞尘
+贞（Ligustrum lucidum Ait.） > 八角金盘（Fatsia
+能力大小顺序为：红花檵木、桂花、海桐、红叶石
+japonica (Thunb.) Decne. et Planch.） > 广玉兰
+楠和香樟。不同植物叶片滞留大气颗粒物的能力有
+（Magnolia grandiflora L.） > 海桐 > 黄角兰
+差异，其中最重要的影响因素就是植物叶表面结
+（Michelia alba DC. Syst.） > 冬青（Ilex chinensis
+构。植物叶表面凸起的凹槽、气孔、沟槽和绒毛等
+Sims） > 银 杏 （ Ginkgo biloba L.） > 迎 春
+增大了叶表面的粗糙程度，使其能够附着更多大气
+（Jasminum nudiflorum Lindl.），其中最高为红花
+颗粒物，相反植物叶片表面较为光滑，不能够牢固
+檵木12.36 g·m−2，最低为迎春2.09 g·m−2[21]，与本
+黏附颗粒物，滞留的颗粒物相对较少[19]。本研究中
+文研究结果基本一致。
+红花檵木叶表面具有大绒毛，上表面有明显褶皱，
+本研究中同一树种叶片滞留的颗粒物总量呈现
+这些叶表面结构增加了叶表面的粗糙度，使红花檵
+工业区 > 交通区 > 清洁区的趋势。这说明空气质
+木对于颗粒物的滞留能力增强，在不同功能区红花
+量越差，空气中悬浮的颗粒物就越多，植物对颗粒
+檵木滞尘能力均为第一；相反地，香樟叶片表面较
+物的滞留量就越大，工业区多为炼铜等重工业，污
+平滑，无明显褶皱，不易黏附固定颗粒物，因而香
+染气体排放等使该地区空气质量较差，而清洁区植
+樟在不同功能区滞尘能力均最弱；红叶石楠叶表面
+物数量多，且远离污染区，空气质量较高，因此工
+有浅线状的凸起和褶皱，桂花有沟状组织，这些微 业区的植物对颗粒物的滞留量大于清洁区。外界环
+结构增加了叶表面的粗糙度，因此红叶石楠和桂花 境能影响植物的叶表面结构，空气污染较大的环境
+的滞尘能力也相对较大。气孔密度及开口程度也是 下，植物的绒毛会变长，叶片的纹理变得粗糙，植
+决定植物滞留颗粒物能力的一个重要因素，扫描电 物叶表面粗糙度变大，更利于植物黏附固定大气中
+镜观察下，气孔及周围黏附了大量颗粒物，气孔具 的颗粒物，因此处于空气质量较差条件下的植物滞
+有保卫细胞、副卫细胞等结构，这些细胞间的构造 留颗粒物的能力更强[22-23]，这也与本研究中工业区
+为颗粒物的嵌入提供了条件，气孔密度越大，开口 植物的滞尘能力大于清洁区结论相一致。刘威等对
+越大，对颗粒物的阻滞作用越明显[20]。王建辉等在 浙江台州植物滞尘能力的研究表明，不同功能区同
+研究中发现，不同植物滞留总颗粒物的大小顺序 一植物单位叶面积滞尘量工业区最多，城市道路次
+
+===== PAGE 9 =====
+92 林 业 科 学 研 究 第 34 卷
+之，文教区最少[24]；罗佳等在研究中发现植物对 小、绒毛密度、分布特征以及植物所处的环境、大
+PM 的滞留量与空气质量呈正相关，全年PM 气颗粒物的污染程度有一定的关系。王琴等研究表
+2.5 2.5
+滞留量工业区 > 文教区 > 清洁区[23]，与本研究结 明，PM 10 滞留能力最强的是二球悬铃木（Platanus
+果一致。 acerifolia (Aiton) Willdenow），最弱的是栾树
+3.2 颗粒物粒径与叶片滞尘能力的关系及颗粒物 （ Koelreuteria paniculata Laxm.） 、 构 树
+的形貌特征 （ Broussonetia papyrifera (Linnaeus) L'Heritier ex
+植物叶片滞留颗粒物的粒径分布是衡量植物空
+Ventenat）和广玉兰（Magnolia grandiflora L.）；
+气净化能力的重要指标[25]。研究表明，颗粒物形 滞留PM 2.5 能力最强的是石楠、桂花、二球悬铃木
+和广玉兰，最弱的是玉兰（Magnolia denudata
+态、沉降特性、化学特性等与粒径密切相关，因
+Desr.），植物总颗粒物的滞留能力与各粒径的滞
+此，精准获取植株叶片对某一粒径颗粒物的滞留信
+留能力有所不同[29]，也与本研究研究结果一致。
+息，可为大气污染治理、植株筛选等提供有力支
+撑[26]。本研究采用质量差值法发现各植株叶片滞留 此外，大气颗粒物的形貌特征能够为确定颗粒
+物的来源提供一定帮助[30]。本研究发现植物滞留的
+的颗粒物均以粗颗粒物（d > 10 μm）为主，其次
+颗粒物形貌特征主要分为规则和不规则两类，不规
+为粒径 的颗粒物，粒径 的颗
+2.5 μm < d ≤ 10 μm d ≤ 2.5 μm
+则的块状、片状在每个功能区都大量存在，而不规
+粒物（PM ）占比最少。初步推测可能与采样的
+2.5
+则烟尘集合体多集中在工业区和交通区，清洁区相
+树种多为灌木，距离地面较低，与土壤扬尘有关，
+对较少，规则的球形飞灰颗粒在工业区较为常见。
+土壤扬尘多为粗颗粒物，低矮的植物更容易吸附此
+在不同粒径的观测中烟尘集合体都存在，其多为链
+类大气颗粒物。粒径越大的颗粒物越容易下沉吸附
+状聚合体和蓬松状聚合体，主要含有O、C、Si、
+在叶片表面，而粒径越小，在空气中悬浮的时间就
+Al、Ca等元素，这类颗粒物来自于机动汽车尾气
+越久，也更容易受风力的影响[27]，因此植物滞留的
+的排放和石化燃料燃烧，在交通区该类颗粒物较为
+粗颗粒物总量大于细颗粒物的总量。郑铭浩发现各
+常见。飞灰颗粒在不同的粒径观测中较常发现，飞
+类型绿地环境下树种对粒径大于10 μm的颗粒物的
+灰颗粒的粒径范围很广，从几纳米到几百纳米都可
+滞留量均高于粒径小于10 μm的颗粒物，且植物叶
+存在[31]，飞灰颗粒是高温燃烧后产生的颗粒物，主
+片吸附的空气颗粒物中粒径 的颗粒物占比
+d ≤ 10 μm
+要是来自于工业排放，这也与在工业区的颗粒物观
+不到50%，粒径 的颗粒物占比不足20%[28]，
+d ≤ 2. 5 μm
+测中发现较多的飞灰颗粒相吻合。不规则的块状、
+与本研究结论相似。
+层状等矿物颗粒粒径都较大，主要含有Si、Al等
+另外，本研究发现植物滞留总颗粒物的能力与
+典型地壳元素，所以此类颗粒物多来自于土壤扬
+滞留不同粒径颗粒物的能力并不一致，在不同功能
+尘，在不同的功能区较为常见。由此推测不同功能
+区中植物滞留总颗粒物的能力为红花檵木 > 桂花 >
+区颗粒物的来源有所不同，并与该区域的环境特征
+海桐 > 红叶石楠 > 香樟；对于PM 滞留量呈现为
+10
+红花檵木 > 海桐 > 红叶石楠 > 桂花 > 香樟；对于 相吻合。工业区化石燃料的燃烧、工业排放、重型
+PM 的滞留量大致呈现为红花檵木 > 红叶石楠 > 汽车的运输及裸露的植被导致该区域的大气颗粒物
+2.5
+海桐 > 桂花 > 香樟。红花檵木对于不同粒径颗粒 主要来自于道路扬尘、汽车尾气、工业排放；交通
+区车流量大，汽车尾气的排放导致大气颗粒物的来
+物的吸附能力均最强，香樟对于不同粒径颗粒物的
+吸附能力均最弱。桂花的总滞留量在本研究中排第 源多为道路扬尘、汽车尾气；清洁区由于车流人流
+二，但对于PM 的滞留量却为第四，而红叶石楠 较少，植被丰富，大气中的颗粒物多为道路扬尘。
+2.5
+的总滞留量在本研究中排第四，但对于PM 的滞 徐宗泽等在研究中发现工业区的颗粒物多为烟尘集
+2.5
+留量却排第二。桂花对于粒径较大的颗粒物吸附能 合体、飞灰颗粒和矿物颗粒，而商业区和科技生活
+力较强，对于粒径较小的颗粒物吸附能力较差；红
+区多为烟尘集合体，少见矿物颗粒[32]，与本研究结
+叶石楠对于粒径较小的颗粒物吸附能力较强，对于 论相似。
+粒径较大的颗粒物吸附能力较差，这表明植物对总
+4 结论
+颗粒的滞留能力不能代表对于各粒径的滞留能力。
+这可能与植物叶表面的粗糙度、气孔密度和开口大 （1）研究区5个常见园林绿化树种中，红
+
+===== PAGE 10 =====
+第 4 期 李海梅，等： 5个园林树种滞尘能力与叶表形态及颗粒物粒径的关系 93
+花檵木滞留颗粒物的能力最强，其次为桂花、红 al particles deposited on some deciduous tree leaves in an urban
+area[J]. Chemosphere, 2005, 61（6）: 753-760.
+叶石楠、海桐，最差的为香樟。植物对不同粒径
+[14] 苏 维. 南昌市PM_(2.5)和PM_(10)的时空分布特征与城市森林阻
+的滞留能力呈现粒径 > 粒径 >
+d > 10 μm 2.5 μm < d ≤ 10 μm 控机制[D]. 南昌: 江西农业大学, 2017.
+粒径 d ≤ 2.5 μm 的规律。 [15] 赵 勇, 李树人, 阎志平. 城市绿地的滞尘效应及评价方法[J]. 华
+（2）叶表面形态对于植物滞留颗粒物的能力 中农业大学学报, 2002, 21（6）：582-586.
+[16] 曹旖旎, 吴 灏, 沈立铭, 等. 城镇绿化树种叶片滞尘与重金属吸收
+有重要影响，叶表面具有绒毛、沟槽、凸起、蜡质
+能力——以浙江省余姚市泗门镇为例[J]. 林业科学研究, 2016,
+层及气孔密度大等结构特征的植物，其叶表面粗糙
+29（5）：662-669.
+度较大，对颗粒物的滞留能力也较强。 [17] 王黎华. 杭州市八种园林植物滞留大气颗粒物能力差异研究[D].
+（3）叶片滞留的颗粒物多为烟尘集合体和矿 杭州: 浙江农林大学, 2019.
+物颗粒，其来源多为工业排放、汽车尾气、土壤扬 [18] 李艳梅, 陈奇伯, 王邵军, 等. 昆明市主要绿化树种叶片滞尘能力的
+叶表微形态学解释[J]. 林业科学, 2018, 54（5）：18-29.
+尘。不同功能区植物对颗粒物的滞留量呈现工业
+[19] 屈新运, 张天翼, 高天娥, 等. 10种常绿植物滞留大气颗粒物能力与
+区 > 交通区 > 清洁区的趋势。 叶表面微结构的关系[J]. 陕西师范大学学报: 自然科学版, 2019,
+47（03）：84-90.
+参考文献： [20] 张鹏骞, 朱明淏, 刘艳菊, 等. 北京路边9种植物叶片表面微结构及
+其滞尘潜力研究[J]. 生态环境学报, 2017, 26（12）：2126-2133.
+[ 1 ] 代嘉慧, 孙 方, 徐 慧, 等. 杭州市常见绿化乔木滞尘能力分析
+[21] 王建辉, 刘奕清, 邹 敏. 永川城区主要绿化植物的滞尘效应[J].
+[J]. 南方农业, 2018, 12（12）：164-166.
+环境工程学报, 2013, 7（3）：1079-1084.
+[ 2 ] 齐莉娜. 雨水花园——雨水利用的生态性策略[J]. 城市地理,
+[22] Pal A, Kulshreshtha K, Ahmad K J, et al. Do leaf surface characters
+2015，（22）：210.
+play a role in plant resistance to auto-exhaust pollution?[J]. Flora-
+[ 3 ] 周 健, 吴 宇, 张林菁, 等. 保定市区常见灌木滞尘能力研究[J].
+Morphology, Distribution, Functional Ecology of Plants, 2002,
+林业与生态科学, 2019, 34（1）：114-120.
+197（1）: 47-55.
+[ 4 ] 陈锦旋. 厦门市常见绿化常绿阔叶树种的滞尘能力[J]. 福建林业
+[23] 罗 佳, 周小玲, 田育新, 等. 长沙市不同污染程度区域桂花和香樟
+科技, 2014, 41（2）：57-60.
+叶表面PM_(2.5)吸附量及其影响因素[J]. 应用生态学报, 2019,
+[ 5 ] 赵 娜, 李玉洁, 曹月娥, 等. 干旱区露天煤矿粉尘污染对白榆和梭
+30（2）：503-510.
+梭叶绿素荧光参数的影响[J]. 西南农业学报, 2019, 32（5）：
+[24] 刘 威, 陈 珍, 李孝乾, 等. 台州椒江不同植物滞尘能力分析[J].
+1016-1022.
+台州学院学报, 2018, 40（6）：30-37, 49.
+[ 6 ] Zheng G, Li P. Resuspension of settled atmospheric particulate mat-
+[25] Przybyz A, Sæbø A, Hanslin H, et al. Accumulation of particulate
+ter on plant leaves determined by wind and leaf surface characterist-
+matter and trace elements on vegetation as affected by pollution level,
+ics[J]. Environmental Science and Pollution Research, 2019, 26（19）:
+rainfall and the passage of time[J]. Science of The Total Environ-
+19606-19614.
+ment, 2014, 481: 360-369.
+[ 7 ] 林星宇, 李海梅, 李彦华, 等. 园林植物滞尘效益研究进展[J]. 江西 [26] Song Y S, Maher B A, Li F, et al. Particulate matter deposited on leaf
+农业学报, 2018, 30（10）：28-31.
+of five evergreen species in Beijing, China: Source identification and
+[ 8 ] 张 诚, 宋 雨, 吴 慧, 等. 行道树滞尘能力研究综述[J]. 现代农 size distribution[J]. Atmospheric Environment, 2015, 105: 53-60.
+业科技, 2018,（8）：144-146. [27] 张维康, 王 兵, 牛 香. 北京不同污染地区园林植物对空气颗粒
+[ 9 ] Sabin L D, Lim J H, Venezia M T, et al. Dry deposition and resuspen- 物的滞纳能力[J]. 环境科学, 2015, 36（7）：2381-2388.
+sion of particle-associated metals near a freeway in Los Angeles[J]. [28] 郑铭浩, 方 文, 马立辉, 等. 重庆市主城区常见乔木树种叶片滞纳
+Atmospheric Environment, 2006, 40（39）: 7528-7538. 空气颗粒物功能研究[J]. 林业调查规划, 2017, 42（1）：25-31.
+[10] Zang W K, Wang B, Niu X. Study on the adsorption capacities for [29] 王 琴, 冯晶红, 黄 奕, 等. 武汉市15种阔叶乔木滞尘能力与叶表
+airborne particulates of landscape plants in different polluted regions 微形态特征[J]. 生态学报, 2020, 40（1）：213-222.
+in Beijing (China)[J]. International Journal of Environmental Re- [30] 鲁斯唯, 林 婷, 李森琳, 等. 厦门城区秋季不同粒径大气颗粒物的
+search and Public Health, 2015, 12（8）: 9623-9638. 微观形貌分析[J]. 厦门大学学报: 自然科学版, 2015, 54（2）：
+[11] 唐 明. 工矿区主要园林植物滞尘效应研究——以唐钢文化广场 216-223.
+绿地为例[J]. 安徽农业科学, 2018, 46（10）：78-81. [31] 邵龙义, 杨书申, 时宗波, 等. 城市大气可吸入颗粒物物理化学特性
+[12] 侯贻菊, 丁访军, 刘延惠, 等. 贵阳市常见园林绿化植物琴丝竹滞尘 及生物活性研究[M]. 北京: 气象出版社, 2006.
+能力研究[J]. 贵州林业科技, 2018, 46（1）：14-18. [32] 徐宗泽, 代群威, 王 岩, 等. 大气颗粒物中颗粒微观形貌特征及其
+[13] Tomaevi M, Vukmirovi Z, Raji S, et al. Characterization of trace met- 矿物组成分析[J]. 化工矿物与加工, 2019, 48（9）：55-58.
+
+===== PAGE 11 =====
+94 林 业 科 学 研 究 第 34 卷
+The Relationships between the Dust-holding Capacity and the Leaf
+Surface Structure & Particle Size in Five Evergreen
+Tree Species Locates in Hangzhou
+LI Hai-mei1, DANG Ning1,2, YU Liang-qian2, ZHANG Han-dan2, CHEN Guang-cai2
+(1. College of Landscape Architecture and Forestry, Qingdao Agricultural University, Qingdao 266109, Shandong, China;
+2. Research Institute of Subtropical Forestry, Chinese Academy of Forestry, Hangzhou 311400, Zhejiang, China)
+Abstract: [Objective] To study the relationship between leaf dust retention capacity and leaf surface structure and
+particle characteristics of landscaping tree species so as provide data for screening excellent landscaping tree species
+and improving the dust retention effect of vegetation. [Method] Five common evergreen tree species (Loropetalum
+chinense var. rubrum, Osmanthus fragrans, Pittosporum tobira, Photinia × fraseri and Cinnamomum camphora) in
+Fuyang District of Hangzhou were studied. The samples were collected from industrial zone, traffic zone and clean
+zone. The dust-holding capacity of these plants was recorded by weight difference method, the leaf surface structure,
+particle morphological structure and elemental composition of dust were observed by SEM-EDS. The relationship
+between leaf surface structure, particle morphology, particle size and dust holding capacity was analyzed.
+[Result] The results showed that the leaf dust retention capacity of the five tree species in the industrial area fol-
+lowed the order of L. chinense var. rubrum (7.36 g·m−2) > O. fragrans (6.53 g·m−2) > Pittosporum tobira (6.44 g·m−2) >
+Photinia × fraseri (4.28 g·m−2) > C. camphora (2.59 g·m−2), and the same pattern was observed in traffic zone and
+clean zone. The total PM retention amount of these tree species reached to 11.34 g·m−2, the order of retention capa-
+10
+city of these tree species was L. chinense var. rubrum, Pittosporum tobira, Photinia × fraseri, O. fragrans and C.
+camphora. The air quality in these zones showed obvious effect on the leaf retention capacity, followed the order of
+industrial zone > traffic zone > clean zone. The particles trapped in plant leaves consisted of regular particles and ir-
+regular mineral particles, which mainly included spherical, oval, fluffy polymer, chain polymer, irregular block and
+irregular sheet. [Conclusion] L. chinense var. rubrum shows the strongest dust-retention ability, while C. camphora
+shows the weakest retention of particulate matter. The percentage of coarse particles trapped in the leaves are higher
+than that of the fine particles. The particles trapped in leaves are mostly soot aggregates and minerals particles
+Keywords: particle size; particulate matter; leaf surface; appearance characteristics
+（责任编辑：金立新）

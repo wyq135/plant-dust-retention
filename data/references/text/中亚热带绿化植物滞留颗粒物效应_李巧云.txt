@@ -1,0 +1,665 @@
+西北林学院学报
+2021 ,36(6): 79-84
+JournalofNorthwestForestryUniversity
+doi:10.3969/j.issn.1001-7461.2021.06.11
+中亚热带绿化植物滞留颗粒物效应
+李巧云 ,,黄雅奇 ,,刘 艳 ,,王 玲 ,,张 娟 ,,宋 胤 ,,
+12 12 12 12 12 12
+吴林世 ,,李建挥 ,廖菊阳 ,
+12 1 12*
+湖南省森林植物园 湖南 长沙 湖南长株潭城市群森林生态系统定位观测研究站 湖南 长沙
+(1. , 410116;2. , 410116)
+摘 要:为了探究中亚热带地区绿化植物滞留空气颗粒物的能力,选取 种绿化树种,利用空气气
+8
+溶胶再发生器( )和便携式叶面积仪( )测定不同树种单位叶面积对空气总悬
+QRJZFSQ-Ⅱ LI-3000C
+浮颗粒物( )、 、 、 的滞留量。结果表明:) 种绿化植物单位叶面积对不同粒径
+TSP PM10 PM2.5 PM1 18
+颗粒物的滞纳量存在较大差异,南天竺、观音草和麦冬单位叶面积颗粒物滞留量较大,桂花、香樟、
+红花檵木和小叶女贞滞留量中等,广玉兰滞留量较小。 )供试植物叶片滞留的颗粒物以 为
+2 PM10
+主,占 组分的 ; 次之,占 组分的 ; 最小,占
+TSP 34.27%~78.58% PM2.5 TSP 9.8%~35.78% PM1
+组分的 。 )不同生活型的植物单位面积滞留 、 、 量存在显著
+TSP 0.88%~13.63% 3 TSPPM10 PM2.5
+差异,灌木与草本植物单位叶面积 、 滞留量平均值均大于乔木,其中草本 滞留量的
+TSPPM10 TSP
+平均值比乔木高出 , 滞留量的平均值比乔木高出 。 )广玉兰叶片的蜡质结构不利
+65% PM10 73% 4
+于大粒径颗粒物的滞留。植物叶表面的瘤状或条状突起形成的沟槽沟壑的粗糙表面有利于颗粒物
+滞留,如麦冬对 、 滞留量最大,分别为 · 和 · 。
+-2 -2
+TSPPM10 9.62g m 7.47g m
+关键词:植物叶片;粒径;颗粒物;滞留;叶面微结构
+中图分类号: 文献标志码: 文章编号:
+S718.5 A 1001-7461(2021)06-0079-06
+EffectsofParticulateMatterRetentionbyCommonGreenPlantsinCentralTropicalAsia
+LI Qiao-yun1,2 HUANG Ya-qi1,2 LIU Yan1,2 WANG Ling1,2 ZHANG Juan1,2 SONG Yin1,2
+, , , , , ,
+WU Lin-shi1,2 LI Jian-hui1 LIAO Ju-yang1,2*
+, ,
+.Hunan Forest Botanical GardenChangsha HunanChina
+(1 , 410116, , ;
+.Hunan Changsha-Zhuzhou-Xiangtan Metropolitan National ReasearchS tationo f Forest EcosystemChangsha HunanChina
+2 , 410116, , )
+Abstract
+:Plantscanblockatmosphericparticlesandimproveenvironmentalpollution.Inordertostudythe
+capacitiesofcatchingairborneparticles,eightcommonlyoccurringplantspecieswerechosen.Airaerosol
+generator(QRJZFSQ-Ⅱ)andportableleafareameter(LI-3000C)wereusedtosystematicallyanalyzethe
+retentionoftotalsuspendedparticulatematter(TSP),PM10,PM2.5 andPM1 inunitleafareaofdifferent
+species.Theresultsshowedthat1)thereweresignificantdifferencesinretentionamountperunitleafarea
+ofparticulateswithdifferentdiametersamong8speciestested.Plantspecieswithhighretentionamount
+Nandinad omesticaPeristropheb aphica Ophiopogonj aponicus
+were , and ,thosewithmoderateretention
+Osmanthusf ragransCinnamomumc amphoraLoropetalumc hinense rubrum Ligus-
+amountwere , , var. and
+trumq uihoui
+,and that with low amount was
+Magnoliag randiflora
+.2) PM10 was the main particle in the
+leavesoftestedplants,accountingfor34.27%-78.58%ofTSP,PM2.5 wasthesecond,accountingfor
+9.8%-35.78%ofTSP,PM1wasthesmallest,accountingfor0.88%-13.63%ofTSP.3)Thereweresig-
+nificantdifferencesintheretentionamountsperunitleafareaofTSP,PM10 andPM2.5 amongthosewith
+收稿日期: 修回日期:
+2020-11-13 2020-12-03
+基金项目:中央财政林业科技推广示范资金 号 湖南省林业科技创新专项
+(【2020】XT05 ); (XLK201942)。
+作者简介:李巧云 研究方向 环境生态
+。 : 。E-mail:383351072@qq.com
+通信作者:廖菊阳 硕士 研究员级高工 研究方向 森林生态景观环境
+* , , 。 : 。E-mail:liaojuyang@qq.com
+西北林学院学报 卷
+80 36
+different life forms (
+P
+<0.05).The average values of the retention amounts of TSP and PM10 of shrubs
+andherbswerehigherthanthoseoftrees.TheaveragevaluesofTSPofherbswere65%higherthanthose
+oftrees,andtheaveragevaluesofPM10 ofherbswere73%higherthanthoseoftrees.4)Thewaxstruc-
+Magnolia grandiflora
+tureof leaveswasnotconducivetotheretentionofparticles,whichresultedthe
+worstretentioneffectoflargediameterparticlesinthetestedplants.Theroughsurfaceofgroovesformed
+Ophiopogonj a-
+byknottedorstripprotrusionsofplantleaveswasconducivetotheretentionofparticles.
+ponicusin
+presented the maximum retention amounts of TSP (9.62 g·m
+-2
+) and PM10 (7.47 g·m
+-2
+).
+Key words
+:plantleaf;particlesize;particulatematter;retention;leafsurfacemicro-structure
+大气颗粒物 污染物因 道附近 湖南省森林植
+(particulatematter,PM) (113°01'30″E,28°06'40″N),
+其明确的致癌性已经成为许多国家和地区的重要环 物园总面积 2 森林覆盖率达 以上 湖
+120hm , 90% 。
+境问题之一[1] 空气中过量的总悬浮物 南省森林植物园地处典型的亚热带向北亚热带过度
+, (totalsus-
+会降低空气的能见度 导致灰 的大陆性季风湿润气候区 气候温和 降水较多 四
+pendedparticle,TSP) , , , ,
+霾
+的
+及
+颗
+光
+粒
+化
+物
+学烟雾现
+为
+象
+大气
+的
+化
+发
+学
+生
+反
+[2]
+应
+,
+其
+提
+中
+供
+直
+反
+径
+应
+≤
+床
+10
+直
+μ
+径
+m
+季
+月
+分
+年
+明
+平
+。
+均
+年
+降
+均
+水
+温
+为
+16 .9℃,7
+月为最
+年
+热
+均
+月
+相
+,
+对
+1
+湿
+月
+度
+为
+超
+最冷
+过
+(P
+的
+M
+颗
+10
+粒
+)
+物 因其粒径小 重量
+;
+轻 不
+,
+[16] 全园最高
+1
+海
+40
+拔
+0.6m m,
+最低海拔 为
+≤2.5μm (PM2.5) 、 、 8
+低
+0%
+丘岗地
+。
+貌 土壤为酸性
+1
+红
+06
+壤
+m,
+值
+50m,
+本
+易沉降等特点
+,
+会在大气中长时间滞留[3]
+。
+现已证
+, ,pH 4.0~5.5。
+次采样点的植物样地内有多种乔木 灌木及草本植
+实 可直接呼吸进入肺泡导致肺部疾病的发 、
+PM2.5 物 其生境基本一致
+生[3] 我国约 的死亡是由空气污染导致[4-5] , 。
+, 32% 。 1.2 样品采集
+此外还有证据表明 大气污染与全球变暖之间存在
+, 研究选取桂花 Osmanthusf ragrans 广玉兰
+一定的联系 因此 改善大气污染对人类生活健康 ( )、
+。 , Magnolia grandiflora 香 樟 Cinnamomum
+具有重大意义[6] ( )、 (
+。 camphora 红花檵木 Loropetalumc hinense
+植物可以通过树叶阻挡和吸附大量颗粒物 从 )、 ( var.
+, rubrum 南天竹 Nandina domestica 小叶女贞
+而减少空气中悬浮颗粒物的含量[7-8] 例如植物叶表 )、 ( )、
+, Ligustrumq uihoui 观音草 Peristropheb aphi-
+面粗糙性可增加对 的吸附能力[3] 城市树木 ( )、 (
+PM2.5 。 ca 和麦冬 Ophiopogonj aponicus 种典型中亚
+在净化大气污染物中发挥重要的作用[9] 城市中植 ) ( )8
+, 热带地区常见绿化树种 各植物物种名称和生长特
+被覆盖度的增加会显著降低空气中颗粒物含量[10] ,
+, 征见表
+同时植物群落结构的复杂性可形成良好的气象条 1。
+研究认为 当降水量 可冲掉植物叶片
+件 也能在一定程度上起到净化大气污染物的作 , >15mm
+, 的降尘[14] 为减少采样期间不同对叶面滞留颗粒物
+用[11]
+。
+因此
+,
+在控制减少污染源排放的同时
+,
+研究
+量产生的影
+,
+响 选取的采样日期要求在前 周无降
+森林植被对颗粒物的吸阻滞机制 选择和优化城市 , 1
+, 水 确保叶面都滞留了一定量的颗粒物 本试验采
+, 。
+绿化植物类型 是缓解城市大气污染压力 改善空气
+, , 样日期为 年 月 日 所有样品均于当天完成
+质量的有效途径[12-13]
+。 采样 考
+2
+虑
+01
+到
+9
+采样
+4
+高度
+9
+对叶
+,
+片滞留颗粒物的影响
+。 ,
+我国关于植被阻滞颗粒物的研究多集中在北京
+相同生活型的采样高度尽可能接近 结合采样点各
+。
+等空气污染比较严重的城市[14-15] 但对于中亚热带地
+树种的实际情况 确定乔木的采样高度为
+,
+, 3~4m,
+区城市树木对于颗粒物吸附以及净化空气能力的研
+灌木为 草本为 以下[17] 乔木每
+1~1.5m, 0.5m 。
+究较少 本研究在中亚热带地区典型城市公园湖南 个树种至少选择 株样树 在树冠东南西北 个方
+。 5 , 4
+省森林植物园选择 种绿化植物为研究对象 测定其 位分别采集生长良好的叶片 根据各种植物单叶面
+8 , ,
+叶片滞留 与 的能力 并通过 积大小 采集足量叶片 经采集的叶片合并 得到混
+TSP、PM10、PM2.5 PM1 , , , ,
+体式显微镜观察植物叶片的上下表面 探讨植物滞留 合样品 灌木草本选择基本无乔木遮挡的样树 并分
+, ; ,
+颗粒物机制 为给中亚热带地区绿化 植树造林中植 别选择 个面积大致相同的范围进行叶片采集
+, 、 3~4 ,
+物种的科学选择与植物群落科学配置提供依据 收集所有树叶并混合 采得的所有样品立即将其编
+。 。
+号装入密封袋中 带回实验室后尽快放入 冰箱
+材料与方法 , 4℃
+1 冷藏保存
+。
+1.1 研究区概况 1.3 研究方法
+采样地点分布于湖南省森林植物园主要交通要 叶片滞尘能力测定 植物叶面积采用便携
+1.3.1
+第 期 李巧云 等 中亚热带绿化植物滞留颗粒物效应
+6 : 81
+式叶面积仪 进行测定 不同植物叶片滞 取适量新鲜成熟叶片 立即封存于自封袋内 带回实
+(LI-3000C) , , ,
+纳颗粒物量 采用气溶胶 验室后 将叶片随机裁剪成 的长方形
+(TSP、PM10、PM2.5、PM1) , 5cm×2cm
+发生器 进行测定 单位叶面积滞留的 叶片 使用体式显微镜 奥林巴斯 以 倍比
+(QRJZFSQ-II) , , ( SZX16) 50
+颗粒物量计算如下 例对其上下表面的显微结构进行观察 并选取合适
+: ,
+m 的视野进行抓拍 存储格式为
+M , TIF。
+=S (1) 数据处理 采用 软件和
+1.3.3 Excel2003 R(3.5.3)
+式中 M 为单位面积颗粒物滞纳量 -2 m为 软件进行数据整理和分析绘图 数据均以 平均值
+, (g·m ), , “ ±
+气溶胶再发生器中叶片颗粒物滞纳量 S为放入 标准差 的形式表示 以不同粒径颗粒物作为因子 分
+(g), ” ; ,
+气溶胶再发生器料盒中所有叶片的叶面积 2 别对 种供试植物进行单因素方差分析
+(m )。 8 (ANOVA),
+叶表微观结构观察 每种供试植物分别选 并利用 法进行多重比较P
+1.3.2 TukeyHSD ( <0.05)。
+表1 供试植物基本性状
+Table1 Thebasicstatusoftheinvestigatedplants
+序号 植物种类 科 生活型 叶习性 树高 冠幅直径
+/m /m
+桂花 木犀科 乔木 常绿
+1 4.70±0.53 3.17±0.35
+广玉兰 木兰科 乔木 常绿
+2 6.79±0.62 3.45±0.30
+香樟 樟科 乔木 常绿
+3 5.55±0.40 3.57±0.41
+红花檵木 金缕梅科 灌木 常绿
+4 0.84±0.10 0.70±0.05
+南天竹 小檗科 灌木 常绿
+5 1.73±0.80 0.92±0.10
+小叶女贞 木犀科 灌木 常绿
+6 1.14±0.12 0.75±0.09
+观音草 爵床科 草本
+7 - - -
+麦冬 百合科 草本
+8 - - -
+能力 树种单位叶面积 的滞留能力不能完全决
+结果与分析 , TSP
+2 定其对各粒径颗粒物的滞留能力[19-20] 这与叶片表
+,
+2.1 植物单位叶面积滞留TSP、PM
+10
+、PM
+2.5
+、PM
+1
+面微观结构密切相关[21]
+。
+量差异 质量 粒径分布能够反应不同树种滞留颗粒物
+-
+供试的 种绿化植物单位叶面积滞留 能力的大小 本研究中植物叶片滞留的颗粒物主要
+8 TSP、 ,
+量存在较大差异 其变化范围分 以 为主 次之 最少 图 种
+PM10、PM2.5、PM1 , PM10 ,PM2.5 ,PM1 ( 1)。8
+别为 绿化植物叶片滞留的颗粒物以 为主 占
+0.75~9.62、0.22~7.74、0.07~2.90g·m -2 PM10 , TSP
+和 表 种绿化植物按照对 组分的 除广玉兰外 其余绿化植物叶
+0.03~1.3g·m -2 ( 2)。8 34%~79%, ,
+附着量排序为麦冬 观音草 南天竹 红花 片滞留 所占 比例均超过 其中麦冬
+TSP > > > PM10 TSP 50%,
+檵木 小叶女贞 桂花 香樟 广玉兰 其中麦冬 所占比例最高 达 其次是 占
+> > > > , PM10 , 78.58%; PM2.5,
+附着 和 能力显著大于其他 种供试绿化 组分的 其中 所占比最高的
+TSP PM10 7 TSP 9%~36%, PM2.5
+植物 香樟 单位面积滞留量均位 为南天竹 广玉兰最低 仅只有
+; TSP、PM10、PM2.5 35.78%, , 9.8%。
+于第 但附着 能力在 种供试植物第 小叶 占 组分的 其中麦冬所占比
+7, PM1 8 3; PM1 TSP 0.8%~14%,
+女贞附着 位于第 附着 位于第 但附 例最低 而南天竹所占比例最高
+TSP 5, PM10 4, (0.88%) (13.63%)
+着 能力位于第 对不同粒径颗粒物附着效果 图
+PM1 2, ( 1)。
+最差的均为广玉兰 由此可见 绿化植物由于本身 有学者测定 种绿化植物单位叶面积滞尘量
+。 , 23 ,
+特性不同 对颗粒物组分的附着能力也存在差 其中 占 组分的比例变化为
+, PM2.5 TSP 4.78%~
+异[18] 单位叶面积颗粒物滞留量较大的植物为南 [22] 变化范围大于本研究结果 可能由于本
+。 36.09% , ,
+天竹 观音草和麦冬 滞留量中等的植物为桂花 香 研究中供试植物种类数较少 植物叶片滞留颗粒物
+、 , 、 。
+樟 红花檵木和小叶女贞 滞留量较小的为广玉兰 量随着颗粒物粒径的增加而增加 这与
+、 , 。 , K.Dzi-
+广玉兰滞留量相比其余 个树种较低 可能与广玉 等[23]的研究结论基本一致
+7 , erzanowski 。
+兰采样地靠近植物园苗圃空气中的颗粒物本底含量 2.2 不同生活型单位叶面积滞留 TSP、PM 、
+10
+较低有关 PM 、PM 特征
+。 2.5 1
+绿化植物附着总颗粒物的能力和对不同粒径颗 按照生活型不同将 种绿化植物划分为乔木 灌
+8 、
+粒物的滞留能力并不完全一致 表明树种单位叶面 木与草本 对不同生活型植物单位叶面积滞留不同粒
+, ,
+积 的截留能力不能决定不同粒径颗粒的截留 径颗粒物分析 结果表明 不同生活型的植物单位面
+TSP , ,
+西北林学院学报 卷
+82 36
+积滞留的 量存在显著差异 P 乔木 其中草本 滞留量的平均值比乔木高出
+TSP、PM10、PM2.5 ( < , TSP
+对 滞留量影响不显著 图 灌木与草 滞留量的平均值比乔木高出 灌木单
+0.05), PM1 ( 2)。 65%,PM10 73%;
+本植物单位叶面积 滞留量平均值均大于 位面积 滞留量大于乔木与草本
+TSP、PM10 PM2.5、PM1 。
+表2 8种绿化植物叶表面单位面积滞尘量比较
+Table2 ComparisonofPMwithdifferentsizescapturedonunitleaforstemareaon8species (g·m -2)
+植物种类
+TSP PM10 PM2.5 PM1
+桂花
+5.51±0.19c 3.4±0.56c 1.17±0.31b 0.05±0.01d
+广玉兰
+0.75±0.07e 0.22±0.02e 0.07±0.01b 0.03±0.00d
+香樟
+3.38±0.19d 2.00±0.50d 0.53±0.15b 0.33±0.01c
+红花檵木
+5.70±0.16c 3.63±0.15c 1.33±0.21b 0.17±0.06d
+南天竹
+8.42±0.15b 6.13±0.4b 2.90±0.36a 1.30±0.20a
+小叶女贞
+5.60±0.16c 3.7±0.26c 1.20±0.10b 0.56±0.20b
+观音草
+8.83±0.24b 6.14±0.03b 1.53±0.15b 0.09±0.00d
+麦冬
+9.62±0.29a 7.47±0.25a 1.20±0.10b 0.09±0.00d
+注 不同小写字母表示单位叶面积不同粒径颗粒物滞留量在P 水平上差异显著
+: <0.05 。
+随气流受到叶片阻挡而减速 并沉降到高度较低的
+,
+草本和灌木植物叶片上
+。
+2.3 植物叶表面显微结构特征
+由于绿化植物个体叶表面特征的差异 其对不
+,
+同粒径颗粒物的滞留能力也不同 叶片的显微结构
+。
+包括蜡质层厚度 气孔密度 纹沟深度以及绒毛长度
+、 、
+等 观察各供试植物代表性叶片上下表面显微结构
+。
+扫描图 发现不同植物叶表面粗糙程度不同 叶表面
+, ,
+形态差异也较大 图
+( 2)。
+叶片表面具备特殊结构 如桂花叶上下表面较
+,
+多瘤状突起 红花檵木上下表面有短绒毛 零散分布
+图1 8种绿化植物单位叶面积滞留不同粒径颗粒物 , ,
+散射状的多爪 八爪居多 须脚 小叶女贞 麦冬及观
+占总颗粒物的比例 ( ) , 、
+音草上下叶表面密布多条深浅不一的平行沟壑 沟
+,
+Fig.1 Theproportionofparticulatewithdifferentparticlesizes
+壑密度较大等 均促进叶片表面颗粒物的滞留 广
+inthetotalparticulatematter , 。
+玉兰叶片上表面有蜡质层 较光滑 下表面疏被短糙
+, ,
+毛 因此颗粒物滞留量差 但 所占 比例较
+, , PM10 TSP
+低 香樟叶表较光滑 因此 滞留量较低 但由
+。 , TSP ,
+于叶表存在密集的网状组织零散分布瘤状突起 所
+,
+以 的滞留量所占 比例较高 南天竹细胞
+PM1 TSP 。
+排列较紧密 叶片上下表面较粗糙 且气孔数量较多
+, ,
+开口度较大 图 图 因此其滞留细颗
+( 2(5a)、 2(5b)),
+粒的能力强 单位面积滞留 分别达到了
+, PM2.5、PM1
+-2
+2.90、1.30g·m 。
+图2 各生活型绿化植物单位叶面积滞留
+TSP
+、
+PM10
+、
+植物叶片表面颗粒物滞留量的不同与叶片表面
+、与 量平均值
+PM2 . 5 PM1 微观形态有关 植物对大气颗粒物的吸附主要依靠
+,
+Fig.2 AveragevaluesofperunitleafareaTSP,PM10, 植物叶片 通过对颗粒物的吸附来改善大气环境质
+PM2.5,and PM1 of living green plants
+,
+灌木和草本植物滞尘效果 优于乔木 可 量[25] 植物叶表尘 蜡质尘和表流动尘 种滞留大
+(TSP) , 。 、 3
+能由于灌木和草本其植株高度较低 由于二次扬尘 气颗粒物类型[14] 叶表尘主要通过叶面的特殊结
+, 。
+的原因
+,
+靠近地面的空气中颗粒物浓度较大[24]
+。
+其 构来保留大气颗粒物
+。
+麦冬上下叶表面密布多条深
+中一部分颗粒物会直接降落到灌木和草本植物表面 浅不一的平行沟壑 沟壑密度较观音草更大 图
+, ( 2
+上 增加其叶片颗粒物滞留量 另外 乔木的高度较 图 因此麦冬的颗粒物滞留量高于观
+, 。 , (8a)、 2(8b)),
+灌木和草本高 空气中的细颗粒物在扩散过程中会 音草 植物叶表面无论是通过细胞之间的排列形成
+, 。
+第 期 李巧云 等 中亚热带绿化植物滞留颗粒物效应
+6 : 83
+的沟壑还是通过各种瘤状 条状突起形成的沟槽沟 滞留量较高[28] 与本研究结果一致
+、 , 。
+壑 只要沟槽沟壑越密集 深浅差别越大 越有利于 季节变化对植物滞留颗粒物的能力也有较大影
+, 、 ,
+颗粒物滞留 叶表面的绒毛等结构也有利于颗粒物 响 同一地区不同季节大气颗粒物浓度有所不
+, ,
+的滞留[26] 同[29] 本研究只做了春季的相关研究 不是一个完
+。 , ,
+蜡质层是大气颗粒通过气孔的开闭进入叶片 整的四季周期 需要进一步完善 此外本研究发现
+, , 。 ,
+最终储存在叶片的蜡质层中 叶表面蜡质结构会减 沟槽沟壑越密集 深浅差别越大的草本植物滞留颗
+。 、
+小颗粒物与叶片的接触面积 蜡质结构不利于叶片 粒物的能力较强 吴艳芳等[30]研究却表明鹤望兰虽
+, ,
+对颗粒物的滞留 已被滞留的颗粒物脱落的可能性 然有平行沟壑 但因为其叶片大多垂直于地面 不利
+, , ,
+也更大 因此广玉兰叶片颗粒物滞留量较少 但由于 于颗粒物的滞留 即植物的滞尘效果与叶面倾角有
+, , 。
+其叶片背部有较多小气孔 使得广玉兰滞留 关 叶片着生角度越大越有利于颗粒物在重力作用
+, PM10 ,
+占 比例较低 更容易附着较小粒径颗粒物 有 下沉降到叶表面 植物滞留颗粒物的机制比较复
+TSP , 。 。
+研究表明大叶黄杨表面也具有较厚的蜡质层[27] 因 杂 在研究植物叶片滞留颗粒物的规律时应综合考
+, ,
+其叶片气孔较密集对于 滞留量较少但对 虑植物生境 叶表面特征和叶面倾角等因素
+TSP PM5 、 。
+注 桂花 广玉兰 香樟 红花檵木 南天竹 小叶女贞 观音草 麦冬 叶片上表面 叶片下表面
+:1. ;2. ;3. ;4. ;5. ;6. ;7. ;8. ;a. ;b. 。
+图3 8种绿化植物叶表面微结构
+Fig.3 Themicrostructuresofleafsurfaceson8species
+参考文献:
+结论
+3 [1] 乔玉霜 , 王静 , 王建英 . 城市大气可吸入颗粒物的研究进展 [J].
+研究测定了 种不同植物叶片的单位叶面积滞 中国环境监测
+,2011,27(2):22-26.
+8
+尘量 并分析了其与叶表面微结构之间的关系 供试 QIAOYS,WANGJ,WANGJY.Researchprogressofthein-
+, 。
+植物中灌木与草本植物对 滞留量 halableparticularintheurbanair[J].EnvironmentalMonito-
+TSP、PM10、PM2.5
+显著大于乔木 灌木中滞尘效果较好的南天竹 草本 ringinChina,27(2):22-26.(inChinese)
+, , 杨洪斌 邹旭东 汪宏宇 等 大气环境中 的研究进展与
+中麦冬 观音草滞尘效果均较好 乔木中滞尘效果最
+[2] , , , . PM2.5
+展望 气象与环境学报
+、 , [J]. ,2012,28(3):77-82.
+好的为桂花 在中亚热带地区实际绿化工作中 可参 eta l
+, , YANGHB,ZOUXD,WANGHY, .Studyprogresson
+考本试验单位叶面积滞尘量
+,
+进行高滞尘树种的选
+PM2.5 in atmospheric environment[J].Journal of Meteorology
+择 合理构建城市森林生态结构 从而改善空气质量 andEnvironment,2012,28(3):77-82.(inChinese)
+, , 。
+梁丹 不同城市群大气污染分布传输特征及植物阻滞吸附机理
+[3] .
+西北林学院学报 卷
+84 36
+北京 北京林业大学
+[D]. : ,2019. PM2.5 andit̓sexplanationbyleafsurfacemicro-structureof
+et al
+[4] HUJ,HUANGL,CHENM, .Prematuremortalityat- commonbroad-leavedplantspeciesinBeijing[J].ActaBotan-
+tributabletoparticulatematterinChina:sourcecontributions icaBoreali-OccidentaliaSinica,2014,34(12):2432-2438.(in
+andresponsestoreductions[J].EnvironmentalScience & Chinese)
+李春义 崔丽娟 张骁栋 等 北京 种湿地植物的颗粒物附着
+Technology,2017,51(17):9950-9959. [18] , , , . 7
+eta l 能力研究 生态环境学报
+[5] FANGD,WANGQ,LIH, .Mortalityeffectsassessment [J]. ,2016,25(12):1967-1973.
+of ambient PM2.5 pollution in the 74 leading cities of China LI C Y,CUI L J,ZHANG X D,
+eta l
+.Particulate matter ad-
+[J].ScienceoftheTotalEnvironment,2016,569:1545-1552. sorptioncapacityof7speciesofwetlandplantsinBeijing[J].
+eta l
+[6] WANGY,YINGA,HUJ, .Thecharacteristicsanddriv- EcologyandEnvironmentalSciences,2016,25(12):1967-
+ersoffineparticulatematter(PM2.5)distributioninChina 1973.(inChinese)
+杨佳 王会霞 谢滨泽 等 北京 个树种叶片滞尘量及叶面微
+[J].JournalofCleanerProduction,2017,142:1800-1809. [19] , , , . 9
+形态解释 环境科学研究
+[7] FREE-SMITHPH,EL-KHATIBAA,TAYLORG.Capture [J]. ,2015,28(3):384-392.
+王琴 冯晶红 黄奕 等 武汉市 种阔叶乔木滞尘能力与叶
+ofparticulatepollutionbytree:acomparisonofspeciestypical [20] , , , . 15
+Ficus nitida Eucalyptus globulus 表微形态特征 生态学报
+ofsemi-aridareas( and ) [J]. ,2020,40(1):213-222.
+eta l
+withEuropeanandNorthAmericanspecies[J].Water,Airand WANGQ,FENGJH,HUANGY, .Dust-retentionca-
+SoilPollution,2004,155(1-4):173-187. pabilityandleafsurfacemicromorphologyof15broad-leaved
+王秦 陈曦 何公理 等 北京市城区冬季雾霾天气 中元
+[8] , , , . PM2.5 treespeciesinWuhan[J].ActaEcologicaSinica,2020,40
+素特征研究 光谱学与光谱分析
+[J]. ,2013,33(6):1441-1445. (1):213-222.(inChinese)
+eta l 张维康 王兵 牛香 不同树种叶片微观结构对其滞纳空气颗
+WANGQ,CHENX,HEGL, .Studyoncharacteristicsof [21] , , .
+elements in PM2.5 during haze-fog weather in winter in urban
+粒物功能的影响
+[J].
+生态学杂志
+,2017,36(9):2507-2513.
+Beijing[J].Spectrosc Spect Anal.,2013,33(6):1441-1445.(in [22] SAEBØD A,POPEK R,NAWROT B, et al .Plant species
+Chinese) differencesinparticulatematteraccumulationonleafsurfaces
+eta l
+[9] NOWAKDJ,HIRABAYASHIS,BODINEA, .Modeled [J].ScienceoftheTotalEnvironment,2012,427:347-354.
+eta l
+PM2.5removalbytreesintenUScitiesandassociatedhealth [23] DZIERZANOWSKIK,POPERR,GAWRONSKAH, .Dep-
+effects[J].Science,2016,352(6288):916-918. ositionofparticulatematterofdifferentsizefractionsonleafsur-
+[10] MCDONALDAG,BEALEYWJ.Quatifyingtheeffectof facesandinwaxesofurbanforestspecies[J].InternationalJour-
+urbantreeplantingonconcentrationsanddepositionsof nalofPhytoremediation,2011,13(10):1037-1046.
+王兵 张维康 牛香 等 北京 个常绿树种颗粒物吸附能力
+PM10intwoUKconurbations[J].AtmosphericEnviron- [24] , , , . 10
+研究 环境科学
+ment,2007,41(38):8455-8467. [J]. ,2015,36(2):408-414.
+[11] 赵彦博 , 阎文志 , 闫红伟 . 辽宁滨海公路净化空气绿化植物计 [25] KULSHRESHTHA K,RAI A,MOHANTY C S, eta l .Par-
+量研究 西北林学院学报
+[J]. ,2014,29(1):197-200. ticulatepollutionmitigatingabilityofsomeplantspecies[J].
+ZHAOYB,YAN WZ,YANH W.Quantitativestudyon InternationalJournalofEnvironmentalResearch,2009,3(1):
+greeningplantsforcleaningtheairincoastalhighwayinLia- 137-142.
+赵松婷 李新宇 李延明 北京市常用园林植物滞留 能
+oning[J].Journal ofNorthwestForestryUniversity,2014,29 [26]
+力的研
+,
+究 西北
+,
+林学院学
+.
+报
+PM2.5
+(1):197-200.(inChinese) . ,2016,31(2):280-287.
+[12] ESCOBEDOFJ,NOWAKDJ.Spatialheterogeneityandair ZHAOST,LIXY,LIYM.Capabilityofcommongarden
+pollutionremovalbyanurbanforest[J].LandscapeUrban plantsinBeijingtoretainPM2.5[J].JournalofNorthwest
+Plan,2009,90:102-110. ForestryUniversity,2016,31(2):280-287.(inChinese)
+王嘉绮 王睿 王得祥 春季不同类型城市滨水绿地的微气候与 孙晓丹 李海梅 郭霄 等 种灌木树种滞留大气颗粒物的
+[13] , , . [27] , , , .10
+人体舒适度研究 西北林学院学报 能力 环境工程学报
+[J]. ,2020,35(3):231-236. [J]. ,2017,11(2):1047-1054.
+WANG J Q,WANG R,WANG D X.Effects of different ur- SUN X D,LI H M,GUO X, eta l .Atmospheric particulates-
+banwaterfrontgreenspacesonthemicroclimateandcomfort retainingcapacityoftenshrubsspecies[J].JournalofEnvi-
+degreeofhumanbeinginspring[J].JournalofNorthwest ronmentalEngineering,2017,11(2):1047-1054.(inChinese)
+程雨萌 王云琦 王玉杰 等 北京市 种典型植物滞尘特征及
+ForestryUniversity,2020,35(3):231-236.(inChinese) [28] , , , . 5
+陈玉艳 北京市典型区域主要树种调节空气质量生态功能效 影响因素 环境化学
+[14] . [J]. ,2016,35(8):1690-1697.
+应
+[D].
+北京
+:
+北京农学院
+,2019. [29] YAN S J,CAO H,CHEN Y, eta l .Spatial and temporal char-
+蔡梦凡 城市绿化植物阻滞颗粒物的淋洗输出过程研究
+[15] . [D]. acteristicsofairqualityandairpollutantsin2013inBeijing
+北京 北京林业大学
+: ,2017. [J].EnvironmentalScienceandPollutionResearch,2016,23
+李巧云 李高飞 廖菊阳 等 湖南省森林植物园空气负氧离子
+[16] , , , . (14):13996-14007.
+浓度特征及影响要素研究 [J]. 湖南林业科技 ,2019,46(1): [30] 吴艳芳 , 闫淑君 , 段嵩岚 , 等 .15 种草本植物春季滞留颗粒物
+效应研究 森林与环境学报
+18-23. [J]. ,2017,37(4):418-422.
+[17]
+谢滨泽
+,
+王会霞
+,
+杨佳
+,
+等
+.
+北京常见阔叶绿化植物滞留
+PM2.5 WU Y F,YAN S J,DUAN S L, eta l .Study on the dustfall
+能力与叶面微结构的关系 西北植物学报
+[J]. ,2014,34(12): particleeffectof15speciesofherbsinspring[J].Journalof
+2432-2438. ForestandEnvironment,2017,37(4):418-422.(inChinese)
+eta l
+XIEZB,WAWNHX,YANGJ, .Retentioncapabilityof

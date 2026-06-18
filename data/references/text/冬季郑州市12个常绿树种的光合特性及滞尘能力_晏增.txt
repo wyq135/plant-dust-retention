@@ -1,0 +1,510 @@
+TOTAL PAGES: 10
+
+===== PAGE 1 =====
+Guihaia Sept． 2021，41( 9) : 1433－1442 http: //www．guihaia－journal．com
+DOI: 10．11931/guihaia．gxzw201911004
+晏增，赵蓬晖，杨淑红，等． 冬季郑州市12个常绿树种的光合特性及滞尘能力［J］． 广西植物，2021，41(9): 1433－1442．
+YAN Z，ZHAO PH，YANG SH，etal． Photosynthetic characteristicsanddustretentioncapacitiesof12 evergreentree species
+in Zhengzhou City during winter［J］． Guihaia，2021，41(9): 1433－1442．
+冬季郑州市 12 个常绿树种的光合特性及滞尘能力
+晏 增，赵蓬晖，杨淑红*，马永涛，张江涛
+( 河南省林业科学研究院，郑州 450008 )
+摘 要: 为筛选出北方城市冬季生态效益突出的常绿树种，以缓解大气CO 和粉尘颗粒物污染，并为这些树
+2
+种的园林应用提供科学支持，该文选取郑州市园林绿化应用广泛的 12个常绿树种，利用 LI-6400便携式光
+合测定仪和洗脱－质量差值法，并对其光合特性及滞尘能力进行测定，计算出其光合参数［叶片的净光合速
+率( P ) 、蒸腾速率( T ) 、气孔导度( G ) 、胞间CO 浓度( C) ］和滞尘参数( 单位叶面积滞尘量、单叶滞尘量、
+n r s 2 i
+单位面积树冠滞尘量) ，并分别进行聚类分析。结果表明:( 1) 大叶女贞、黄杨、海桐、枇杷叶片 P 、T 、G 值
+n r s
+均极显著高于其他树种( P＜0．01) ;香樟、银木、黄杨、枇杷叶片C值极显著高于其他树种( P＜0．01) 。大叶女
+i
+贞、海桐、石楠叶肉细胞保持着较高的光合活性，而香樟、银木叶片光合活性较弱，低温抑制明显。( 2) 洗淋
+后7 d和14 d，枇杷、广玉兰、桂花各滞尘参数均极显著高于其他树种( P＜0．01) 。洗淋后14 d，枇杷、广玉
+兰、桂花单位面积树冠的滞尘量累积在6．65 g·m-2·crown-1以上，滞尘能力强;石楠、银木、大叶女贞、法国
+冬青、黄杨单位面积树冠的滞尘量在3．99 g·m-2·crown-1以上。( 3) 聚类分析结果表明，黄杨、大叶女贞和
+海桐光合特性优势明显，其次为法国冬青、广玉兰、枇杷、石楠和乐东拟单性木兰;广玉兰、桂花、枇杷滞尘能
+力最强，其次为大叶女贞、法国冬青、石楠和银木。综上所述，大叶女贞、广玉兰、枇杷、法国冬青、黄杨、石楠
+对改善北方城市冬季空气质量及滞尘均有重要贡献，生态调节能力强，可作为园林绿化优先选用树种。
+关键词: 常绿树种，冬季光合，滞尘，环境污染，生态调节，植物生态
+中图分类号: Q948 文献标识码: A 文章编号: 1000-3142( 2021) 09-1433-10
+Photosynthetic characteristics and dust retention capacities of
+12 evergreen tree species in Zhengzhou City during winter
+YAN Zeng，ZHAO Penghui，YANG Shuhong*，MA Yongtao，ZHANG Jiangtao
+( HenanAcademyofForestry，Zhengzhou450008，China)
+Abstract: In this study，12 evergreen tree species were selected in Zhengzhou City，and their photosynthetic
+characteristics and dust retention capacity in winter were determined and analyzed differentially to select the evergreen
+tree species withoutstandingecologicalbenefitsforalleviatingatmosphericCO andparticulatepollution，andtoprovide
+2
+scientific support for the application of these trees in gardens． The photosynthetic parameters including the net
+收稿日期: 2020－04－26
+基金项目: 河南省科技攻关项目(152102110118); 河南省林业科学研究院基本科研业务费项目( 2020JB02005，2018JB01006)
+［SupportedbyHenanKeyProgramofScienceandTechnology(152102110118); BasicScientificＲesearchProgramoftheHenanAcademyof
+Forestry (2020JB02005，2018JB01006)］。
+作者简介: 晏增(1973－)，硕士，工程师，主要从事园林植物研究，(E-mail)yangshh0315@163．com。
+* 通信作者: 杨淑红，高级工程师，主要从事园林植物研究，(E-mail)123397510@qq．com。
+===== PAGE 2 =====
+1434 广 西 植 物 41 卷
+photosynthetic rate (P )，transcription rate ( T )，stomatal conductance ( G )，intercellular CO concentration ( C )
+n r s 2 i
+and dust retentionparameters(dustretentionperunitleafarea，dustretentioncapacityofsingleleafanddustrentention
+incrownperunitarea) ofeachtreespeciesinJanuaryweremeasuredbyLI-6400portablephotosynthesisanalyzercould
+with the elution-mass method，and the results of each parameter were analyzed by cluster analysis． The results were as
+follows: ( 1) The P ，T and G values of leaves from Ligustrum lucidum，Buxus sinica，Pittosporum tobira and
+n r s
+Eriobotrya japonicaweresignificantlyhigherthanthoseofothereightspecies(P＜0．01)，andtheC valuesofleavesfrom
+i
+Cinnamomum camphora，C． septentrionale，Buxus sinica and Eriobotrya japonica were extremely significant ( P＜0．01)
+higher than those of other eight species． The mesophyll cells of Ligustrum lucidum，Pittosporum tobira and Photinia
+serratifolia maintained higher photosynthetic activities，but the activities of mesophyll cells of Cinnamomum camphora，
+C． septentrionale were significantly inhibited by low temperature and were weaker than those of other species． (2) 7 d
+and 14 d after washing，the dust retention parameters of Eriobotrya japonica，Magnolia grandiflora and Osmanthus
+fragrans were significantly higher than those of other species (P＜0．01) ． 14d after washing，the dust retention amount
+of Eriobotryajaponica，MagnoliagrandifloraandOsmanthusfragransaccumulatedtomorethan6．65g·m-2·crown-1，
+and showed a strong dust retention capacity． In addition，the amount of Photinia serratifolia，Cinnamomum
+septentrionale，Ligustrum lucidum，Viburnum odoratissimum and Buxus sinica accumulated to more than 3．99 g·m-2·
+crown-1．(3) TheresultofclusteranalysisindicatedthatBuxussinica，LigustrumlucidumandPittosporumtobirahadthe
+strongest leaf photosynthetic properties，followed by Viburnum odoratissimum，Magnolia grandiflora，Eriobotrya
+japonica，Photinia serratifolia and Parakmeria lotungensis; Magnolia grandiflora，Osmanthus fragrans and Eriobotrya
+japonica had strong dust retention abilities，followed by Ligustrum lucidum，Viburnum odoratissimum，Photinia
+serratifolia and Cinnamomum septentrionale． Therefore，the six evergreen tree species including Ligustrum lucidum，
+Magnolia grandiflora，Eriobotrya japonica，Viburnum odoratissimum，Buxus sinica，and Photinia serratifolia，could be
+used astheprioritytreespeciesforgreeningbecausetheyhavestrongcapacityonecologicalregulationthroughimproving
+the air quality and dust retention in northern cities in winter．
+Key words: evergreen tree species，winter photosynthesis，dust retention，environmental pollution，ecoregulation，
+plant ecology
+全球工业化和城市化的快速发展使地球生态 作用排除掉; 而小于 0．5 μm 的尘埃能到达并滞留
+环境和大气气候受到极大破坏，空气CO 和大气颗 于肺泡中达数月或数年，对人体的健康影响显著
+2
+粒物污染是城市大气环境污染的最主要问题( 黄 ( Nowak et al．，2014) 。面对城市生活环境中十分
+丽坤等，2011) 。大气颗粒物能间接影响全球气 严峻的大气污染问题，完全依赖污染源治理来解
+候，通过吸收或散射太阳辐射产生光化学烟雾，加 决并不现实，利用自然植物的清除机制已经成为
+剧局地“热岛效应”，甚至引发一些化学反应加重 缓解城市环境污染压力的有效途径( 刘学全等，
+空气污染等，引起一系列环境问题 ( Stoker ＆ 2004; 王赞红和李纪标，2006; 李海梅和刘霞，
+Seager，1972; Kalnay ＆ Cai，2003) 。大气中直径小 2008) 。有些城市绿地系统的降尘、滞尘作用也已
+于100 μm 的悬浮颗粒物能直接降低大气通风度， 成为衡量绿地生态效益的重要量化指标之一
+其成分极其复杂，可作为载体吸附空气中的重金 ( Freer-Smith et al．，1997) 。
+属、多环芳烃、细菌和病毒等多种有毒、有害物质， 绿色植物通过叶绿体同化 CO 提供 O 、能量和
+2 2
+部分颗粒物本身即为有毒物质，尤其是其重要组 有机物，因此，对缓解全球气候变暖、稳定和降低大
+成成分的可吸入细颗粒物( 直径小于 10 μm 的 气中温室气体浓度、净化空气有着重要的生态调节
+PM ) 和入肺颗粒物( 直径小于 2．5 μm 的 PM ) 功能( 于贵瑞和王秋凤，2010; 张娇等，2013; 尹婷辉
+10 2．5
+( Sehmel，1980; 于建华等，2004; 庞博等，2009; 吴 等，2019) 。植物的树冠可起到对空气污染物的直
+明宏等，2018) 。研究表明，小于5 μm 的尘埃即可 接吸纳、阻滞和改变空间空气流通、减弱噪音的过
+避开上呼吸道的保护组织进入肺中; 0．5～5 μm 的 滤作用( Beckett et al．，1998; Nowak et al．，2006;
+尘埃可以沉积在细支气管中，经数小时后由纤毛 Popek et al．，2013;赵晨曦等，2013) 。植物叶表特性
+===== PAGE 3 =====
+9 期 晏增等: 冬季郑州市12 个常绿树种的光合特性及滞尘能力 1435
+及一定的湿润度也非常适合对大气颗粒物的沉降， 捷式光合测定仪开放式气路测定叶片的光合特
+当气流经过树冠时，部分较大的颗粒粉尘会被阻挡 性。以供试植株的健康功能叶为待测叶，随机选
+直接降落，另一部分则被滞留在枝叶表面一段时间 取上、东、南、西、北5 个方向树冠外围的3～5 片叶
+后被雨水冲洗掉( Stoker ＆ Seager，1972) 。经过长期 进行测量，设置3 组重复。
+积累，植物滞尘量能够反映大气环境颗粒物的累积 1．3．2 生理指标与计算 测定叶片净光合速率
+污染情况( 庞博等，2009; 吴明宏等，2018) 。Nowak ( P ) 、蒸腾速率( T ) 、气孔导度( G ) 和胞间 CO 浓
+n r s 2
+et al．( 2013) 对美国 10 个城市的研究表明，当地的 度( C ) ，待仪器读数稳定约 3～4 s 后，连续记录 6
+i
+植物每年都将直接滞留空气中4．7～64．5 t 的 PM ， 组数据，测定结果取平均值。
+2．5
+道路旁的植被滞尘效果更加明显。植被滞尘量不 1．3．3 滞尘量测定 有研究表明，15 mm 以上的降
+仅与绿地绿量、区域条件、空间结构有关，更与树种 雨可将植物叶片上的粉尘淋洗干净，进而重新开
+的滞尘能力密切相关，树种滞尘能力差异又与自身 始粉尘积累( 张新献等，1997) 。结合郑州市区实
+生理、生长特性有着密切关系( Givoni，1991; 陈玮 时天气情况及降水特点，在2019 年1 月9 日，利用
+等，2003;李海梅和刘霞，2008; Jim ＆ Chen，2008) 。 自然降雨雪和人工自来水补充淋洗的方式冲洗各
+目前，如何综合衡量绿化树种的生态效益已成为业 树种叶片上滞尘，使树木上叶片达到初始零积尘
+界关注的热点。 量状态( 这时假定叶片上的粉尘量为零) ( 张新献
+冬季北方城市常常困顿于雾霾、沙尘暴等严 等，1997) ，分别在降水( 淋洗) 后7 d( 1 月16 日) 、
+重空气污染问题中，居民的生活和健康受到严重 14 d( 1 月23 日) 进行采样测定。
+威胁与影响，此时常绿树种发挥着重要的生态调 1．3．3．1 样品采集 在树冠外围上、东、南、西、北 5
+节作用。选取郑州市绿地中的 12 个常绿树种，测 个方向各选取枝条 2～4 枝，根据叶片大小，随机采
+定其冬季叶片光合特性和滞尘能力，并进行聚类 取枝条上、中部多点叶片 30 ～60 枚( 范舒欣等，
+分析，以期筛选出能有效改善冬季空气质量和缓 2017) ，每树种采取3 株，避免震动将叶片密封后立
+解颗粒物污染的优良树种，为进一步研究常绿树 即带回实验室( 每个密封袋提前称得质量并标记) 。
+木的生态效益提供依据，也为北方城市常绿植物 1．3．3．2 样叶处理 采取带袋称量的方式，利用 1/
+的应用提供科学支持。 10000 天平进行第一次带尘叶片称重，称得质量减
+去密封袋质量，即为叶片初始带尘的质量( W ) 。
+1
+1 研究地区与研究方法 利用蒸馏水快速冲洗 2 次，立即用湿润酒精棉球
+对叶片表面进行彻底洗脱擦拭清除叶片所滞粉
+1．1 研究区概况 尘，对叶片第二次重量，测得不含尘质量( W ) ，每
+2
+郑州市( 112°42'—114°14'E、34°16'—34°58' 树种供试样叶随机测定，测定设置 3 组重复，取 3
+N) 属温带－亚热带、湿润－半湿润季风气候，春秋 株平均值。
+较短，四季分明。冬季寒冷干燥少雨雪，春季干旱 1．3．3．3 指标测定与计算 叶面积测定: 处理后的
+多风沙，夏季炎热多雨，秋季晴朗日照长。 叶片利用手持式激光叶面积仪( CI-203，CID，
+测试及采样区域为河南省林业科学研究院封 USA) 进行叶面积测定，单叶重复测定3 次，取平均
+闭园区内，园区以东为河南移动公司，以西为郑州 值，代表单叶叶面积 S ，计算每树种供试样叶平均
+0
+市动物园，南北均为居民小区。 叶面积，取3 株的平均值为样叶平均叶面积 S。
+1．2 供试树种 单位面积树冠30 cm 厚度空间内持叶量计算:
+12 个常绿树种，每树种选取生长环境、状况基 对供试植株分别从上、东、南、西、北 5 个方向，在
+本一致，孤植，长势好，树冠匀称，种植时间 6 a 以 树冠外层划定1 m×1 m 的方形界限，向内延伸 30
+上的植株各 3 株作为固定供试植株，树木基本概 cm 的树冠厚度，利用标准枝分层法统计树冠内的
+况见表1。 叶片数量，叶片可在不同方位中重复使用。对界
+1．3 测定指标及研究方法 限空间内的树冠进行枝条等级分层，分至可以容
+1．3．1 光合特性测定 2019 年 1 月 23 日上午 易计数叶片的标准小枝为止，对各层枝条数量进
+10:00，采用美国 LI-COＲ 公司生产的 LI-6400 便 行随机抽样统计，并均匀随机选取 30 cm 长的标
+===== PAGE 4 =====
+1436 广 西 植 物 41 卷
+准枝3～5 枝，统计其叶片数量，计算树冠范围内叶 兰＞乐东拟单性木兰＞法国冬青＞桂花＞大叶冬青＞银
+片数量，取5 个方向平均值代表植株每平方米 30 木＞香樟。黄杨、大叶女贞、枇杷叶片 G 值分别为
+s
+cm 厚度树冠空间的持叶量，每树种取 3 株平均值 0．152、0．124、0．100 mmol·m-2·s-1，极显著高于其他
+( 范舒欣等，2017) 。 树种( P＜0．01) 。海桐等叶片 G 值小于 0．077
+s
+滞尘能力计算: 采用质量差值法( 范舒欣等， mmol·m-2·s-1，较黄杨下降49%以上。香樟、银木
+2017) ，利用叶片处理前后的质量差值，经过公式换 叶片G 值仅为0．004、0．013 mmol·m-2·s-1，较黄杨
+s
+算，可得到树木单位叶面积滞尘量( DPLA，g·m-2) 、 下降91%以上，两者间差异显著( P＜0．05) 。
+单叶滞尘量( DPL，g·leaf-1) 及单位面积树冠滞尘量 C 值为香樟＞银木＞黄杨＞枇杷＞大叶女贞＞乐
+i
+( DPC，g·m-2·crown-1) ，具体计算方法如下。 东拟单性木兰＞广玉兰＞桂花＞石楠＞海桐＞大叶冬
+单位叶面积滞尘量: DPLA=( W 1 －W 2 ) /N 0 S; 青＞法国冬青。香樟、银木、黄杨、枇杷叶片 C i 值分
+单叶滞尘量: DPL=( W 1 －W 2 ) S 0 /N 0 S; 别为340．86、294．43、220．94、202．98 μmol·m-2·
+单位面积树冠滞尘量: DPC= N( W 1 －W 2 ) /N 0 。 s-1，极显著高于其他树种( P＜0．01) 。大叶女贞等
+式中: W 1 为叶片擦拭前质量; W 2 为叶片擦拭后 叶片 C 值小于158．92 μmol·m-2·s-1，较香樟下降
+i
+质量; S 0 为单个样叶的平均叶面积; S 为树种供试 53%以上。法国冬青、大叶冬青 C 值仅为 54．78、
+i
+样叶的平均叶面积; N 0 为供试样叶数; N 为树种全 78．00 μmol·m-2·s-1，较香樟下降 77%以上，两者
+株单位面积树冠叶片平均数。
+间差异极显著( P＜0．01) 。
+1．4 统计分析
+2．2 滞尘能力
+数据使用Excel、SPSS 和DPS 系统软件进行处
+2．2．1 单位叶面积滞尘量 如图 2 所示，12 个常绿
+理、统计并作图，标出标准误差。
+树种单位叶面积滞尘量表现为洗淋后 7 d，桂花＞
+枇杷＞法国冬青＞广玉兰＞大叶女贞＞石楠＞黄杨＞
+2 结果与分析
+海桐＞银木＞大叶冬青＞香樟＞乐东拟单性木兰，滞
+尘量为0．94～3．14 g·m-2，平均值为 1．95 g·m-2。
+2．1 光合特性
+枇杷、法国冬青、广玉兰、大叶女贞和石楠单位叶
+如图1 所示，12 个常绿树种叶片的光合特性 面积滞尘量大于 2．00 g·m-2，黄杨等滞尘量小于
+参数值均差异明显。P
+n
+值为大叶女贞＞黄杨＞海桐＞
+1．52 g·m-2，树种间差异极显著( P＜0．01) 或显著
+枇杷＞石楠＞乐东拟单性木兰＞法国冬青＞广玉兰＞
+( P＜0．05) 。洗淋后 14 d，桂花＞枇杷＞大叶女贞＞
+桂花＞大叶冬青＞银木＞香樟。大叶女贞、黄杨、海
+法国冬青＞广玉兰＞石楠＞黄杨＞香樟＞海桐＞银木＞
+桐叶片的 P 值分别为 13．66、12．52、11．35 μmol·
+n 大叶冬青＞乐东拟单性木兰，滞尘量为 1．13～3．50
+m-2·s-1，极显著高于其他树种( P＜0．01) 。枇杷等 g·m-2，平均值为2．35 g·m-2。枇杷、大叶女贞、法
+树种叶片P n 值小于8．66 μmol·m-2·s-1，较大叶女 国冬青和广玉兰滞尘量大于 3．00 g·m-2，石楠、黄
+贞下降 37%以上。银木、香樟叶片 P n 值分别为 杨、香樟、海桐、银木滞尘量在1．68～2．56 g·m-2之
+4．52、3．01 μmol·m-2·s-1，较大叶女贞下降67%以
+间，树种间差异极显著( P＜0．01) 或显著( P＜
+上，两者间差异极显著( P＜0．01) 。 0．05) ，大叶冬青与乐东拟单性木兰滞尘量小于
+T r 值为黄杨＞大叶女贞＞枇杷＞海桐＞石楠＞乐 1．35 g·m-2，两者间差异不显著( P＞0．05) 。桂花、
+东拟单性木兰＞广玉兰＞桂花＞法国冬青＞银木＞大叶
+枇杷、大叶女贞、法国冬青、广玉兰单位叶面积滞
+冬青＞香樟。黄杨、大叶女贞、枇杷、海桐叶片 T r 值 尘量始终极显著( P＜0．01) 高于其他树种。
+分别为2．08、1．77、1．49、1．24 mmol·m-2·s-1，极显著 2．2．2 单个叶片的滞尘量 洗淋后 7 d，枇杷＞广玉
+高于其他树种( P＜0．01) 。石楠等叶片 T
+r
+值小于 兰＞法国冬青＞桂花 ＞石楠＞大叶女贞＞银木＞大叶
+0．98 mmol·m-2·s-1，较黄杨下降53%以上。香樟、 冬青＞黄杨＞乐东拟单性木兰＞香樟＞海桐，滞尘量
+银木叶片T 值仅为0．35、0．43 mmol·m-2·s-1，较黄 为0．001 5～0．028 9 g·leaf-1，平均值为 0．008 9
+r
+杨下降79%以上，两者间差异不显著( P＞0．05) 。 g·leaf-1。广玉兰单个叶片的滞尘量为 0．019 3
+G 值为黄杨＞大叶女贞＞枇杷＞海桐＞石楠＞广玉 g·leaf-1，法国冬青、桂花、石楠、大叶女贞滞尘量
+s
+===== PAGE 5 =====
+9 期 晏增等: 冬季郑州市12 个常绿树种的光合特性及滞尘能力 1437
+表 1 各常绿树种供试植株基本概况( 平均值±标准误)
+Table 1 General situation of tested evergreen plants ( x±s )
+x
+生长型 树龄 树高 冠幅 冠高 冠形
+树种 简称
+Growth Treeage Treeheight Crown Crown Crown
+Species Abbreviation
+form (a) (m) width(m) height(m) shape
+黄杨 BS 灌木 18 2．42±0．08 2．35±0．05 2．15±0．13 球形
+Buxussinica Shrub Spherical
+海桐 PT 灌木 11 1．80±0．05 2．12±0．18 1．62±0．08 球形
+Pittosporumtobira Shrub Spherical
+香樟 CC 乔木 15 8．67±0．29 5．53±0．55 6．80±0．30 阔卵形
+Cinnamomumcamphora Tree Broadlyovate
+大叶女贞 LL 乔木 20 7．30±0．53 3．83±0．29 5．67±0．21 卵形
+Ligustrumlucidum Tree Ovate
+大叶冬青 IL 乔木 11 5．13±0．51 3．80±0．26 4．27±0．25 伞球形
+Ilexlatifolia Tree Umbrellaball
+桂花 OF 灌木 15 3．77±0．15 2．43±0．08 3．10±0．36 椭圆形
+Osmanthusfragrans Shrub Ellipse
+石楠 PS 灌木 18 3．60±0．40 3．55±0．05 3．20±0．26 阔球形
+Photiniaserratifolia Shrub Broadsphere
+法国冬青 VO 灌木 15 3．80±0．20 2．10±0．38 3．07±0．40 倒卵形
+Viburnumodoratissimum Shrub Obovate
+银木 CS 乔木 15 9．01±0．74 5．77±0．25 7．20±0．26 阔卵形
+Cinnamomumseptentrionale Tree Broadovate
+枇杷 EJ 乔木 14 6．73±0．25 4．60±0．17 5．17±0．21 阔伞形
+Eriobotryajaponica Tree Broadumbrella
+广玉兰 MG 乔木 21 9．17±1．04 7．90±0．79 7．13±0．71 阔球形
+Magnoliagrandiflora Tree Broadsphere
+乐东拟单性木兰 PL 乔木 12 6．23±0．25 2．80±0．20 4．57±0．31 狭卵形
+Parakmerialotungensis Tree Narrowovate
+大于0．008 3 g·leaf-1，黄杨等树种小于 0．002 7 滞尘量大于 3．01 g·m-2·crown-1，大叶冬青和乐
+g·leaf-1。洗淋后 14 d，枇杷＞广玉兰＞法国冬青＞ 东拟单性木兰低于 1．00 g·m-2·crown-1。洗淋后
+桂花 ＞石楠＞大叶女贞＞银木＞大叶冬青＞香樟＞黄 14 d，枇杷＞广玉兰＞桂花＞石楠＞银木＞大叶女贞＞
+杨＞乐东拟单性木兰＞海桐，滞尘量为 0．001 9～ 法国冬青＞黄杨＞香樟＞海桐＞大叶冬青＞乐东拟单
+0．032 1 g·leaf-1，平均值为0．010 4 g·leaf-1。广玉 性木兰，滞尘量为 0．71～8．67 g·m-2·crown-1，平
+兰单叶滞尘量为 0．022 0 g·leaf-1，法国冬青、桂 均值为4．12 g·m-2·crown-1。枇杷滞尘量仍为最
+花、石楠、大叶女贞滞尘量大于 0．011 1 g·leaf-1， 高，广玉兰、桂花滞尘量大于 6．65 g·m-2 ·
+香樟等树种小于 0．003 4 g·leaf-1。枇杷、广玉兰 crown-1。石楠、银木、大叶女贞、法国冬青、黄杨滞
+单叶滞尘量始终极显著高于其他树种( P＜0．01) ， 尘量大于 3．99 g·m-2·crown-1，乐东拟单性木兰
+且两者间差异极显著( P＜0．01) ，法国冬青、桂花、 滞尘量仍低于 1．00 g·m-2·crown-1。枇杷、广玉
+石楠和大叶女贞单叶滞尘量也始终极显著高于银 兰、桂花单位面积树冠的滞尘量始终极显著高于
+木等树种( P＜0．01) 。 其他树种( P＜0．01) ，石楠、银木、大叶女贞、法国冬
+2．2．3 单位面积树冠的滞尘量 洗淋后 7 d，枇杷＞ 青也始终极显著高于乐东拟单性木兰和大叶冬青
+广玉兰＞桂花＞石楠＞银木＞法国冬青＞大叶女贞＞ ( P＜0．01) 。
+黄杨＞香樟＞海桐＞大叶冬青＞乐东拟单性木兰，滞 2．3 聚类分析
+尘量为0．59～8．48 g·m-2·crown-1，平均值为 3．51 如图3 所示，光合特性聚类分析结果如下: 第
+g·m-2·crown-1。广玉兰、桂花滞尘量大于 6．03 一类为黄杨、大叶女贞和海桐聚，光合特性能力
+g·m-2·crown-1，石楠、银木、法国冬青、大叶女贞 强，生态调节功能优势明显; 第二类为法国冬青、
+===== PAGE 6 =====
+1438 广 西 植 物 41 卷
+BS． 黄杨; PT． 海桐; CC． 香樟; LL．大叶女贞; IL． 大叶冬青; OF． 桂花; PS． 石楠; VO． 法国冬青; CS． 银木; EJ． 枇杷; MG．广玉
+兰; PL． 乐东拟单性木兰。不同大小写字母分别表示不同树种间极显著差异(P＜0．01)和显著差异(P＜0．05)。下同。
+BS． Buxussinica; PT． Pittosporumtobira; CC．Cinnamomumcamphora; LL．Ligustrumlucidum; IL．Ilexlatifolia; OF．Osmanthusfragrans;
+PS．Photiniaserratifolia; VO．Viburnumodoratissimum; CS．Cinnamomumseptentrionale; EJ．Eriobotryajaponica; MG．Magnoliagrandiflora;
+PL． Parakmerialotungensis． Different uppercase and lowercase letters respectively mean extremely significant differences ( P＜0．01) and
+significantdifferences(P＜0．05) amongdifferentspecies． Thesamebelow．
+图 1 各常绿树种光合特性参数
+Fig． 1 Photosynthetic characteristic parameters of different evergreen tree species
+广玉兰、枇杷、石楠和乐东拟单性木兰，光合特性 功能衰退，也是其他生态环境恶化的根源，严重影
+能力一般; 第三类为大叶冬青、桂花、银木和香樟， 响区域的生态质量和安全( Hua et al．，2000; 刘其
+光合特性能力相对较低。 霞等，2004) 。配置一定比例的常绿树种，既可体
+滞尘能力聚类分析结果如下: 第一类为广玉 现北方城市绿地景观的异质和生物多样性，又可
+兰、桂花和枇杷，滞尘能力最强; 第二类大叶女贞、 净化空气、降低污染、增加大气环境容量，发挥生
+法国冬青、石楠和银木，滞尘能力一般; 第三类为 态调节功能的目的( 苑征等，2010) 。植物光合作
+海桐、大叶冬青、黄杨、香樟和乐东拟单性木兰，滞 用是生态系统物质循环的一个重要过程，是固碳
+尘能力相对较低。 的基础，冬季常绿植物的光合特性水平不仅反映
+叶片光合能力的大小，也是物种对生境异质及环
+3 讨论与结论 境变化适应性进化的反映，并直接影响其在群落
+中的地位( Ｒeich et al．，1997; Escobedo ＆ Nowak，
+常绿阔叶树因其复杂的结构、显著的小气候 2009; 程冬梅等，2012) 。植物通过气孔调节来降
+改善能力成为衡量区域生态平衡的重要植被。区 低越冬时叶片光系统活性损伤和维持叶片绿色，
+域常绿阔叶林生态系统的退化，可表现为自身的 以提高光合水分利用率和光能利用及分配( 白坤
+===== PAGE 7 =====
+9 期 晏增等: 冬季郑州市12 个常绿树种的光合特性及滞尘能力 1439
+G 值极显著高于其他树种( P＜0．01) ，银木、香樟叶
+s
+片 P 、T 、G 值均为最低，P 值较大叶女贞下降
+n r s n
+67%以上，T 和 G 值较黄杨分别下降 79%和 91%
+r s
+以上。各树种叶片 C 值大小排序变化明显，香樟、
+i
+银木、黄杨、枇杷叶片 C 值极显著高于其他树种
+i
+( P＜0．01) ，法国冬青、大叶冬青叶片 C 值最低，较
+i
+香樟下降77%以上。原理上植物叶片净光合速率
+高，蒸腾速率强，释放出的氧气就多，吸收利用的
+CO 也多( 陈根云等，2010) 。叶片P 、T 、G 值较高
+2 n r s
+的大叶女贞、海桐、石楠 C 值处于中等水平，说明
+i
+叶肉细胞保持较高的光合活性，对CO 吸收利用较
+2
+充分; 黄杨、枇杷叶片 P 、T 、G 和 C 值均较高，考
+n r s i
+虑是气孔因素引起呼吸作用加强，使胞间积累较
+多的CO 。冬季是常绿植物最敏感的生长阶段，低
+2
+温胁迫引起的低温光抑制是影响其叶片光合活性
+的主因之一( 程冬梅等，2019) 。香樟、银木叶片
+P 、T 、G 值较低，C 较高，说明叶肉细胞的光合活
+n r s i
+性弱，低温抑制明显; 大叶冬青、法国冬青叶片 P 、
+n
+T 、G 和 C 值均较低，较低的光合速率主要归因于
+r s i
+气孔限制因素。聚类分析结果表明，黄杨、大叶女
+贞、海桐叶片光合特性能力最强，能同化更多的空
+气 CO 提供 O ，对缓解、降低冬季大气温室气体浓
+2 2
+度、净化空气和改善空气质量具有重要贡献; 其次
+为法国冬青、广玉兰、枇杷、石楠和乐东拟单性
+木兰。
+12 个常绿树种叶片和树冠的滞尘量均差异极
+显著( P＜0．01) 或显著( P＜0．05) 。洗淋后 14 d，枇
+杷、广玉兰、桂花单位面积树冠的滞尘量大于 6．65
+g·m-2·crown-1，单位叶面积、单叶和单位面积树
+冠的滞尘量均极显著高于其他树种( P＜0．01) ; 石
+图 2 各常绿树种积滞参数 楠、银木、大叶女贞、法国冬青单位面积树冠的滞
+Fig． 2 Product lag parameters of each evergreen tree species
+尘量在3．99 g·m-2·crown-1以上; 乐东拟单性木
+兰单位面积树冠的滞尘量低于 1．00 g·m-2·
+栋等，2010) ，胞间 CO 浓度变化是叶片气孔导度 crown-1，单位叶面积和单叶的滞尘量也始终较低。
+2
+和叶肉细胞光合活性的反映( 陈云根等，2010) 。 滞尘参数聚类分析结果表明，广玉兰、桂花、枇杷
+冬季大气中较高浓度的 PM 等颗粒物污染对常 的滞尘能力最强，发挥出更高的生态效益; 其次为
+2．5
+绿植物的影响，也可通过光合能力变化间接反映 大叶女贞、法国冬青、石楠和银木。本研究中，植
+出来，叶片对光能的吸收、利用受环境因子的影响 物个体叶片和单位面积树冠滞尘能力差异较大，
+也更多取决于物种本身( 杨静慧等，2017) 。比较 总体趋势基本表现为单位面积树冠的滞尘水平与
+分析常绿树种冬季光合特性及滞尘能力，有利于 树种滞尘能力成正比，这与张新献等( 1997) 研究
+选出生态调节功能较强的树种。 结果相同。植物通过停着、附着和粘附等方式滞
+本研究中，各树种叶片 P 、T 、G 值大小排序 尘，方 式 和 机 理 因 树 种 不 同 具 有 一 定 差 异
+n r s
+变化不大，大叶女贞、黄杨、海桐、枇杷叶片 P 、T 、 ( Mcpherson et al．，1998) 。停着多为对较大颗粒物
+n r
+===== PAGE 8 =====
+1440 广 西 植 物 41 卷
+图 3 聚类分析图
+Fig． 3 Cluster analysis chart
+的降尘，受环境影响较大; 附着多为植物表面具有 ( Manning，1971; 郭伟等，2010; 屈新运等，2019)
+绒毛、褶皱等特征，使大气颗粒物附着在上面，效 认为高大树木拥有更加粗糙、复杂的叶冠空间，使
+果相对稳定; 粘附多为植物分泌有粘附物质或结 其比低矮植物能更有效地捕获颗粒物。本研究
+构，滞尘效果最为稳定( 柴一新等，2011) 。可见附 中，枇杷、广玉兰的滞尘能力较强，除叶片较大外，
+着与粘附能力均与植物的生理形态有密切关系， 叶表面的粗糙结构、有褶皱或分泌物以及利于滞
+植物表面特征及微形态结构直接关系着其表面的 尘的枝叶生长角度等均是重要特征; 桂花、大叶女
+粗糙程度，是影响植物滞尘能力的重要因素 贞、法国冬青、石楠和银木叶片大小中等，但枝叶
+===== PAGE 9 =====
+9 期 晏增等: 冬季郑州市12 个常绿树种的光合特性及滞尘能力 1441
+稠密，其单位叶面积和单位面积树冠的滞尘量均 64－66．］
+CHEN W，HE XY，ZHANG Y，et al．，2003． Dust absorption
+有大幅提高; 乐东拟单性木兰、大叶冬青、香樟枝
+effect of urban conifersin Northeast China［J］． ChinJAppl
+叶稀疏或下垂及低矮的黄杨和海桐，叶表面均较
+Ecol，14(12): 2113－2116．［陈玮，何兴元，张粤，等，
+光滑，滞尘能力相对较低。 2003． 东北地区城市针叶树冬季滞尘效应研究［J］． 应用
+综上所述，园林应用中，冬季大气污染较轻的 生态学报，14(12): 2113－2116．］
+ESCOBEDO FJ，NOWAK DJ，2009． Spatial heterogeneity and
+城市可选用黄杨、大叶女贞、海桐、法国冬青、广玉
+air pollution removal by an urban forest ［J］． Landscape
+兰、枇杷、石楠、乐东拟单性木兰等光合活性高、生 Urban Plan，90(3－4): 102－110．
+态调节功能强的常绿树种。对于大多数冬季大气 FAN SX，CAIX，DONGL，2017．Dustabsorptioncapacitiesof
+eight evergreen broad-leaved plants in Beijing，China
+污染较严重的北方城市，要优先选用大叶女贞、广
+［J］． Chin JAppl Ecol，28(2): 408－404．［范舒欣，蔡妤，
+玉兰、枇杷、法国冬青、黄杨、石楠等光合活性与滞
+董丽，2017． 北京市8种常绿阔叶树种滞尘能力［J］． 应
+尘能力综合性强的常绿树种。植物的生态功能释 用生态学报，28(2): 408－404．］
+放与大气环境质量相辅相成、相互作用，其过程也 FＲEEＲ-SMITH PH， HOLLOWAY S， GOODMAN A，
+1997． The uptake of particulates by an urban woodland:
+极其复杂。有研究表明，大气中和叶表滞留的颗
+Sitedescription and particulate composition ［J］． Environ
+粒物均会对植物光合特性产生影响( Prusty，2005; Poll，95(1): 27－35．
+吴海天等，2011) 。树种滞留大气颗粒物是否存在 GIVONI B， 1991． Impact of planted areas on urban
+environmental quality: A review［J］． Atmos Environ Part B
+选择性，对污染物成分是否有吸收作用，污染物对
+－Urban Atm，25(3): 289－299．
+植物光合特性的影响与机理，以及绿地结构、叶冠
+GUO W，SHEN TYJ，ZHENG XQ，et al．，2010． Ｒesearch
+结构等对物种单株和群落总叶面积、固碳潜能、滞 advances on mechanisms and rules of dust retention of the
+尘能力的影响均需要进一步研究。 urban green areas［J］． Ecol Environ Sci，26( 6): 1465－
+1470．［郭伟，申屠雅瑾，郑述强，等，2010． 城市绿地滞
+尘作用机理和规律的研究进展［J］． 生态环境学报，
+26(6): 1465－1470．］
+参考文献: HUANG LK，WANG GZ，WANG K，et al．，2011． Pollution
+propertiesof atmospheric particles in Harbin during heating
+BAI KD，JIANG DB，CAO KF，et al．，2009． Photosynthetic and non-heating periods［J］． Chin J Environ Eng，5(1):
+response to seasonal temperature changes in evergreen and 146－150．［黄丽坤，王广智，王琨，等，2011．哈尔滨市采
+deciduous broad-leaved trees in montane forests of Ailao 暖与非采暖期大气颗粒物污染特性研究［J］． 环境工程
+MountainandMao’erMountain［J］．ActaEcolSin，30(4): 学报，5(1): 146－150．］
+905－913．［白坤栋，蒋得斌，曹坤芳，等，2009．哀牢山和 JIMCY，CHEN WY，2008． Assessing the ecosystem service of
+猫儿山中山常绿和落叶阔叶树光合特性对季节温度变化 air pollutant removal by urban trees in Guangzhou ( China)
+的响应［J］． 生态学报，30(4): 905－913．］ ［J］． JEnviron Manag，88(4): 665－676．
+BECKETT KP，FＲEEＲ-SMITHPH，TAYLOＲG，1998．Urban KALNAYE，CAIM，2003．Impactofurbanizationandland-use
+woodlands: their role in reducing the effects of particulate change on climate［J］． Nature，423(6939): 528－531．
+pollution［J］． Environ Poll，99(3): 347－360． LI HM，LIU X，2008． Ｒelationships between leaf epidermal
+CAI YX，ZHUN，HANHJ，2002．Dustremovaleffectofurban morphologyanddust-retainingcapabilityofmaingardentrees
+tree species in Harbin ［J］． Chin J Appl Ecol，13( 9): in Chengyang District of Qingdao City［J］． Chin J Ecol，27
+1121－1126．［柴一新，祝宁，韩焕金，2002． 城市绿化树 (10): 1659－1662．［李海梅，刘霞，2008． 青岛市城阳区
+种的滞尘效应—以哈尔滨市为例［J］． 应用生态学报， 主要园林树种叶片表皮形态与滞尘量的关系［J］． 生态
+13(9): 1121－1126．］ 学杂志，27(10): 1659－1662．］
+CHENG DM， ZHANG ZY， ZHOU SX， et al．，2019． LIU QX，CHANG J，JIANG B，et al．，2004． The biomass of
+PhotoinhibitionandrecoveryofphotosystemⅡofthreebroad- the evergreen broad-leaved ecological public-welfare forests
+leaved evergreens under low temperature stress ［J］． inZhejiang，East China［J］． ActaEcol Sin，25(9): 2139－
+Guihaia，39(12): 1666－1672．［程冬梅，张志勇，周赛霞， 2144．［刘其霞，常杰，江波，等，2004． 浙江省常绿阔叶
+等，2019． 三种常绿阔叶树光系统Ⅱ在低温胁迫下的光抑 生态公益林生物量［J］． 生态学报，25(9): 2139－2144．］
+制及恢复［J］． 广西植物，39(12): 1666－1672．］ LIU XQ，TANG WP，ZHOU ZX，et al．，2004． Environmental
+CHEN GY，CHEN J，XU DQ，2010． Thinking about the effectsof different greenbelt typesinYichang［J］． JNE For
+relationship between net photosynthetic rate and intercellular Univ，32(5): 53－55．［刘学全，唐万鹏，周志翔，等，
+CO 2 concentration［J］． Plant Physiol Comm，46( 1): 64－ 2004． 宜昌市城区不同绿地类型环境效应［J］． 东北林业
+66．［陈根云，陈娟，许大全，2010． 关于净光合速率和胞 大学学报，32(5): 53－55．］
+间CO 浓度关系的思考［J］． 植物生理学通讯，46(1): MANNINGWJ，1971．Effectsoflimestonedustonleafcondition
+2
+===== PAGE 10 =====
+1442 广 西 植 物 41 卷
+foliar disease incidence and microflora of native plants and their directive role in air pollution in Huainan［J］． J
+［J］． Environ Poll，2(1): 69－76． Soil Water Conser，32(1): 297－302．［吴明宏，方凤满，
+MCPHEＲSON EG， SIMPSON JＲ， SCOTT KI， 1998． 姚有如，等，2018． 淮南市石楠叶片重金属分布特征、来
+Estimating cost effectiveness of residential yard trees for 源及对大气污染的指示作用［J］．水土保持学报，32(1):
+improving air quality in Sacramento，California，using 297－302．］
+existing models［J］． AtmosEnviron，32(32): 75－84． YANG JH，PANG ZＲ，HUANG HD，et al．，2017． Adsorption
+NOWAK DJ，CＲANE DE，STEVENS JC，2006． Air pollution of different evergreen plants to PM2．5 in winter ［J］． J
+removal by urban trees and shrubs in the United States Tianjin Agric Univ，24(4): 19－22．［杨静慧，庞志蕊，黄
+［J］． Urban For Urban Green，4(3－4): 115－123． 晗达，等，2017． 冬季不同常绿植物对于大气PM2．5浓度
+NOWAK DJ， HIＲABAYASHI S， BODINE A， et al．， 影响的研究［J］． 天津农学院学报，24(4): 19－22．］
+2013． Modeled PM removal bytreesintenU． S． citiesand YIN TH，DAI YL，HE GQ，et al．，2019． Photosynthetic light
+2．5
+associated health effects［J］． Environ Poll，178: 395－402． response characteristics of sixteen ground cover plants and
+NOWAK DJ， HIＲABAYASHI S， BODINE A， et al．， their landscapeapplication［J］．JHunanAgricUniv(Nat Sci
+2014． Treeandforest effectsonair qualityandhumanhealth Ed)，45(4): 355－361．［尹婷辉，戴耀良，何国强，等，
+in the United States［J］． Environ Poll，193(4): 119－129． 2019．16种地被植物的光响应特性及园林应用［J］．湖南农
+PANG B，ZHANG YL，WANG D，et al．，2009． The 业大学学报(自然科学版)，45(4): 355－361．］
+characteristic of particulate size and heavy metal in foliar YU GＲ， WANG QF， 2010． Ecophysiology of plant
+dust and surface dust from different urban areas［J］． Ecol photosynthesis，transpiration and water use［M］． Beijing:
+Environ Sci，18(4): 1312－1317．［庞博，张银龙，王丹， SciencePress: 149．［于贵瑞，王秋凤，2010．植物光合、蒸
+等，2009．城市不同功能区内叶面尘与地表灰尘的粒径和 腾与水分利用的生理生态学［M］． 北京: 科学出版
+重金属特征［J］． 生态环境学报，18(4): 1312－1317．］ 社: 149．］
+POPEK Ｒ，GAWＲON
+＇
+SKI H，WＲOCHNA M，et al．，2013．
+YU HL，HUANG JY，2012． Ｒesearch advances in mechanism
+ParticulateMatteronFoliageof13WoodySpecies: Deposition
+and effect of dust retention of urban green areas［J］． J NW
+on surfaces and phytostabilisation in waxes-a 3-year study
+ForUniv，27(6): 238－241．［余海龙，黄菊莹，2012．城市
+［J］．Int JPhytoremediat，15(3): 245－256． 绿地滞尘机理及其效应研究进展［J］． 西北林学院学报，
+PＲUSTY BAK，MISHＲA PC，AZEEZ PA，2005． Dust
+27(6): 238－241．］
+accumulation and leaf pigment content in vegetation near the
+YU JH，YU T，WEI Q，et al．，2004． Characteristics of mass
+concentration variations of PM and PM in Beijing area
+national highway at Sambalpur，Orissa，India［J］． Ecotox 10 2．5
+Environ Safe，60(2): 228－235． ［J］． ＲesEnviron Sci，17(1): 45－47．［于建华，虞统，魏
+QU XY，ZHANG TY，GAO TE，et al．，2019． The relationship 强，等，2004． 北京地区PM 10 和PM 2．5 质量浓度的变化特
+between the atmospheric particle-retaining capabilities of 10
+征［J］． 环境科学研究，17(1): 45－47．］
+evergreen plants and their leaf surface micro-morphology
+YUANZ，LIZD，XUHS，etal．，2010．Comparativeanalysisof
+［J］． J Shaanxi Norm Univ ( Nat Sci Ed)，47( 3): 84－ the ratio of evergreen to deciduous trees in green park space
+90．［屈新运，张天翼，高天娥，等，2019． 10种常绿植物
+［J］． JBeijing For Univ，32( S1): 194－199．［苑征，李湛
+滞留大气颗粒物能力与叶表面微结构的关系［J］． 陕西 东，徐海生，等，2010． 公园绿地常绿与落叶树种比例的
+师范大学学报(自然科学版)，47(3): 84－90．］ 比较分析［J］． 北京林业大学学报，32(S1): 194－199．］
+SEHMEL GA，1980． Particle and gas dry deposition: A review
+ZHANG J，SHI YJ，ZHUYQ，et al．，2013． Thephotosynthetic
+［J］． AtmosEnviron，14(9): 983－1011． carbon fixation characteristics of common tree species in
+STOKEＲ HS，SEAGEＲ SL，1972． Environmental chemistry:
+northern Zhejiang ［J］． Acta Ecol Sin，33( 6): 1740－
+airandwaterpollution［M］．Glenview，IL: Scott，Foresman 1750．［张娇，施拥军，朱月清，等，2013． 浙北地区常见
+and Company: 186． 绿化树种光合固碳特征 ［J］． 生态学报，33( 6):
+WANG ZH，LI JB，2006． Capacity of dust uptake by leaf
+1740－1750．］
+surface of EuonymusJaponicusThunb．andthemorphologyof
+ZHANG XX，GU ＲZ，CHEN ZX，et al．，1997． Dust removal
+captured particle in air polluted city［J］． Ecol Environ，5
+by green areas in the residential quarters of Beijing［J］． J
+(2): 327－330．［王赞红，李纪标，2006． 城市街道常绿灌 BeijingFor Univ，19(4): 12－17．［张新献，古润泽，陈自
+木植物叶片滞尘能力及滞尘颗粒物形态［J］． 生态环境， 新，等，1997． 北京城市居住区绿地的滞尘效益［J］． 北
+5(2): 327－330．］ 京林业大学学报，19(4): 12－17．］
+WU HT，YANG S，CHEN J，et al．，2018． Adsorption capacity
+ZHAO CX，WANG YJ，WANG YQ，et al．，2013． Interactions
+and photosynthetic response of Photinia fraseri on different between fine particulate matter ( PM 2．5 ) and vegetation: A
+particlesizes［J］．JFujianAgricForUniv(NatSciEd)，47
+review［J］． Chin JEcol，32(8): 2203－2210．［赵晨曦，王
+(5): 90－96．［吴海天，杨山，陈健，等，2018． 红叶石楠 玉杰，王云琦，等，2013． 细颗粒物(PM 2．5 )与植被关系的
+吸附不同粒径颗粒物能力及光合响应［J］． 福建农林大
+研究综述［J］． 生态学杂志，32(8): 2203－2210．］
+学学报(自然科学版)，47(5): 90－96．］
+WU MH，FANG FM，YAO YＲ，et al．，2018． Distribution (责任编辑 李 莉)
+characteristicsandsourcesofheavymetalsinPhotinialeaves

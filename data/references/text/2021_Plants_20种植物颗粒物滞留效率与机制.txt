@@ -1,0 +1,1011 @@
+TOTAL PAGES: 18
+
+===== PAGE 1 =====
+plants
+Article
+Particle Retention Capacity, Efficiency, and Mechanism of
+Selected Plant Species: Implications for Urban Planting for
+Improving Urban Air Quality
+HuixiaWangandHuiShi*
+SchoolofEnvironmentalandMunicipalEngineering,Xi’anUniversityofArchitecture&Technology,
+Xi’an710055,China;dasenlin-80@163.com
+* Correspondence:shihui06@126.com
+Abstract:Atmosphericparticulatematter(PM)hasbeenofconcernowingtoitsnegativeeffectson
+humanhealthanditsroleinenvironmentaldegradation.Formitigationpurposes,itisimportant
+toselectthemostefficientplantspeciesinurbangreening. Here,afast,cost-savingmethodology
+wasfirstaddedtotheconventionalmethodtoinvestigatethesize-resolvedPMretentioncapacity
+andefficiencyoftwentyplantspecies. SurfacePM(SPM),whichcanberemovedbywaterand
+brushing,accountedfor44.9–66.9%oftotalPM,inwhichthewater-solublePM(DPM)accounted
+for12.9–22.1%oftotalPM.Alargemassproportionofin-waxPM(14.1–31.7%)wasalsoobserved.
+Platycladusorientalis,Eriobotryajaponica,Viburnumodoratissimum,Magnoliagrandiflorahadthehighest
+AE (retentionefficiencyonperunitleafarea)toretainSPMwithindifferentdiameterclasses(DPM,
+leaf
+PM ,PM ,PM ). AE (retentionefficiencyofindividualtree)variedgreatlyamong
+0.1–2.5 2.5–10 >10 plant
+differentplantspecies,mainlyduetothedependenceonthetotalareaofatree. AE (retention
+(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1) land
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7) efficiencyonperunitgreenarea)isasuitableindexforPMretentionabilityandefficiency.Ingeneral,
+P.orientalis,V.odoratissimum,Pittosporumtobira,Photiniaserrulate,M.grandiflora,E.japonicawerethe
+Citation: Wang,H.;Shi,H.Particle
+efficientspeciesinretainingPMatdifferentscales(i.e.,leaf,individualtree,greenarea).Thespecies
+RetentionCapacity,Efficiency,and
+like Trifolium repens, Phyllostachys viridis, were the least efficient plant species. The investigated
+MechanismofSelectedPlantSpecies:
+speciesareallevergreenspecies,whichwillremovePMthroughoutthewholeyear,eveninwinter.
+ImplicationsforUrbanPlantingfor
+ImprovingUrbanAirQuality.Plants So,werecommendedthattheplantspecieswiththehighestPMretentionefficiencycanbeusedin
+2021,10,2109. https://doi.org/ urbangreening.Meanwhile,horticulturepracticesshouldalsobeconsideredtoimprovetheleafarea
+10.3390/plants10102109 indextoimprovetheirPMretentionandairpurificationabilities.
+AcademicEditor:JoanLaur Keywords: particulate matter; retention efficiency; different scales; urban planting; air quality
+improvement
+Received:18August2021
+Accepted:28September2021
+Published:5October2021
+1. Introduction
+Publisher’sNote:MDPIstaysneutral
+Atmosphericparticulatematter(PM),definedasthesumofsolidandliquidparticles
+withregardtojurisdictionalclaimsin
+suspended in the air, is one of the fastest-growing types of environmental pollution in
+publishedmapsandinstitutionalaffil-
+the world [1,2]. High levels of PM are considered very hazardous to human health,
+iations.
+causingprematuremortality,acceleratedatherosclerosis,lungcancer,heartdisease,and
+asthma[3–5]. PMcanalsocauseotheradverseimpactssuchasvisibility,scatteringand
+absorbingsolarradiation,changecloudnucleationprocess,leadtophotochemicalsmog,
+andexacerbatethegreenhouseeffect[6]. Thus, PMpollutionisgainingwideattention
+Copyright: © 2021 by the authors.
+around the world. Studies have shown that urban vegetation (e.g., leaves, tree barks)
+Licensee MDPI, Basel, Switzerland.
+(e.g.,[7–10])canaccumulatePMfromtheairmoreeffectivelythanotherbuilding/land
+This article is an open access article
+surfacesduetotheextensiveleafarea,thecomplexmicromorphology,andthestructure
+distributed under the terms and
+ofthevegetationcrownchangestheturbulenceofairmovementaboveandwithinthe
+conditionsoftheCreativeCommons
+canopies [11]. Therefore, mitigating and controlling PM pollution using urban forests
+Attribution(CCBY)license(https://
+has attracted more and more attention in recent years [12,13]. Given limited greening
+creativecommons.org/licenses/by/
+space in metropolitan areas, the most effective plant species removing PM should be
+4.0/).
+Plants2021,10,2109.https://doi.org/10.3390/plants10102109 https://www.mdpi.com/journal/plants
+===== PAGE 2 =====
+Plants2021,10,2109 2of18
+selectedforurbangreening. Consequently,aquantitativeassessmentoftheamountofPM
+retainedbyplantleavesatdifferentlevels(e.g.,leaf,individualtree,greenarea)becomes
+animportantissue.
+At present, some studies have been carried out using a range of techniques, e.g.,
+weighingmethod[14],membranefiltermethod[15],andtheelutionweighingmethod
+coupledwithaparticlesizeanalysis[16],ormicroscopicimagescombiningobject-based
+imageanalysis[17],ImageJsoftware[18],orImagePro-Plus[19]. Amongthementioned
+methods,theweighingmethodisoftenusedtoquantitativelyestimatethePMretention
+amountonleafsurfaces. CollectingPMonleavesurfacescompletelyisaprerequisitefor
+using weighing methods. To collect PM deposited on leave surfaces, some researchers
+usedwaterwashingandthenbrushingtocleanthesampledleaves[11,14]. However,the
+resultsofsomestudies(e.g.,[20–22])demonstratedthatthesecleaningmethodscouldnot
+completelyelutethePMontheleafsurfaces. Whenanappropriateultrasonicleafcleaning
+procedurewasaddedtotheconventionalcleaningmethod,thecleanlinessofGinkgobiloba,
+Sophorajaponica,Salixbabylonica,Pinustabuliformis,andSabinachinensisleafsurfacescould
+beimprovedmarkedly[23,24].
+ThecomponentsofPMintheatmospherearecomplex,includinginsolublemineral
+dust, highly water-soluble inorganic salts, and carbonaceous material. Water-soluble
+chemicalcompositionsrepresentagreatportionoftheparticlemass,whichaccountedfor
+morethan1/3ofPM mass[25–27]. Organiccompoundsalsoconstituteamajorfraction
+2.5
+ofPMinurbanareas,oftenover30%ofPM mass[28],mostofwhichcanbedissolvedin
+2.5
+chloroform[29]. However,thecleaningmethods,asasinglewaterwashing[30],followed
+by scrubbing the leaves [14,31], can only separate and quantify the insoluble fraction
+depositedonleafsurfaces. Thesurfacesofleavesarecoveredwithacuticlethatconsistsof
+cutinandwaxes.Someparticlescanbetrappedinepidermalwax[25].So,someresearchers
+usedwaterwashing,scrubbingleaves,followedbychloroformwashing[11,15,32],and
+combiningdifferentporemembranes[15]. Thementionedmethodcanonlyseparateand
+quantify the insoluble fraction of the retained PM on leaf surfaces and trapped in wax.
+Therefore,itmayunderestimatetheamountofparticlesonleavesurfacesbecausewater-
+solubleionsandchloroformdissolvedorganiccompoundsaccountforabigproportionof
+thetotalPMmassinsomesamples[25,28]. Forthemethodofmicroscopicimagesanalysis,
+itisdifficulttocountthenumberofPMsdepositedonleaveswithcomplexmicrostructures
+oraggregatedparticles. Inaddition,thismethodistime-consumingandonlyacquiresa
+verylimitedarea,limitingtheamountofreliabledataavailableforfurtheranalysis.
+Investigating the amount of water-soluble and chloroform dissolved organic com-
+pounds of PM and the small particles that can pass through the membrane pore (e.g.,
+0.1µm,0.2µm)notonlycanhelptodeterminethepreciseamountsoftotalPMretained
+on leaf surfaces but also help to understand the ability of leaves to get rid of the toxic
+pollutantsthroughprecipitation[33,34]. Therefore,fewstudieswereundertakentodeter-
+minethewater-solubleions(Cl−,SO 2−,NO −,NH +,Ca2+,Na+,Mg2+,K+)usinganion
+4 3 4
+chromatography[32]. However,theydidnotpayattentiontotheotherwater-solubleions,
+smallparticleslessthan0.1or0.2µm,andthedissolvedorganiccompounds. Toachieve
+thetotalleafsurfacePM,Hongetal.[35]usedoven-driedwashingelutionliquids,but
+thismethodistime-consuming(maybeseveraldaystoreachconstantweight)anddidnot
+considerthePMencapsulatedinwax.
+All inorganic and organic substances contained in a liquid in molecular, ionized,
+or microgranular suspended forms are defined as total dissolved solids (TDS), which
+can survive filtration through a filter/membrane with 2 µm pores. Thus, determining
+the TDS of the filter liquors pass through a membrane with <2 µm plus the insoluble
+particlesinterceptedbymembraneswithdifferentpores(10µm,2.5µm,0.1µm)provide
+areasonablemethodtoassessthetotalPMretainedbyleaves. Inaddition,thereispoor
+comparabilityamongthedifferentresearchresultswhenusingtheretainedPMmassto
+assesstheairpurificationabilityoftheurbantrees[24]sincethedustretentiondurationsof
+theplantsusedintheresearchmightbedifferent. Thus,asanalternative,someresearchers
+===== PAGE 3 =====
+Plants2021,10,2109 3of18
+usedthePMretentionefficiency(thenumberofparticlesretainedperunitleafareaper
+unittime)toassesstheabilityoftheurbantreestoretainPM(e.g.,[24,31]).
+Inthepresentstudy,weused20plantspecies,allofwhicharewidespreadintemperate
+regions. We first washed some of the leaves in-situ using tap water and labeled them.
+Thenwecollectedthelabeledleavesafter7dofexposuretoheavyPMpollutionweather
+inwinter. WemeasuredthesurfacePM(SPM),in-waxPM(WPM)andwithindifferent
+diameterclassesusingwaterandchloroformandbrushingclean. Thewater-soluble(DPM)
+andorganic-soluble(OPM)PMwereinvestigatedusingafastandtime-savingmethod.
+Theobjectivesofthepresentstudywere: (1)tocompareandanalyzethePM(including
+solubleandinsolublefractions)withindifferentdiameterclassesretainedonleavesofthe
+investigatedplantspeciesbasedondifferentscales(i.e.,leaf,individualtree,greenarea);
+(2) to estimate the PM retention efficiency of the investigated plant species at different
+scales. Theresultsofourstudycouldbeusefulwhenselectinggreeningplantspecieswith
+highairpurificationabilities.
+2. Results
+2.1. LeafSurfaceMicromorphologyofDifferentPlantSpecies
+Figure1presentstheleafsurfacestructuralpropertiesoftheselectedplantspecies.
+TheadaxialsurfaceofBuxussinicawascoveredwithconvexcells. Plentyofparticleswere
+depositedonthesecellsorwithinthedifferent-sizedspaceamongthem(Figure1A).The
+stomata(33µm × 25µm)wasonlydistributedontheabaxialsurface,withmostsmall
+particlesdistributedaroundthestomatalapparatus(Figure1B).Thereweresomeshallow
+furrows on the adaxial surface of P. tabuliformis, and abundant particles were retained
+withinthesefurrows. Thefilamentousfungionleafsurfacesseemedtoform“bridges”
+betweenseparatedparticlesoraggregatedparticles(Figure1C,D).Theadaxialsurfacesof
+P.tobira(Figure1E),Ligustrumlucidum(Figure1K),andViburnumodoratissinum(Figure1M)
+wererelativelysmoothandflatbutretainedmanysmallparticles. However,theabaxial
+surfacesofP.tobira(Figure1F),L.lucidum(Figure1L),andV.odoratissinum(Figure1N)
+weremorecomplexesthantheadaxialsurfaces. Theplatelet-shapedwaxcrystalswere
+observedontheabaxialsurfaceofP.tobira(Figure1F).OntheabaxialsurfacesofL.lucidum
+(Figure1L)andV.odoratissinum(Figure1N),therewerewide-spreadfurrowsandridges,
+withsomeparticlesretainedontheridgesorwithinthefurrows. However,adenselayer
+of wax crystals was observed on the adaxial surface of T. repens (Figure 1G). The wax
+crystalswerealsoobservedonbothsidesofCedrusdeodara,butsomeofthemwerefused
+(Figure1I,J).
+2.2. PMElutionCharacteristicsofDifferentPlantSpecies
+Ofthe20speciesanalyzed,themassproportionsofPMwithinthedifferentdiameter
+classesdifferedsignificantlyamongdifferentspeciesanddifferentsteps(Figure2,ANOVA,
+p<0.05). Whentheleaveswerefirstcleanedwithwaterandthenbrushed,theproportion
+ofSPM,DPM,SPM ,SPM ,andSPM rangedfrom44.9%(Pinusbungeana)to
+0.1–2.5 2.5–10 >10
+66.9% (P. orientalis), 12.9% (V. odoratissimum) to 22.1% (Trachycarpus fortunei), 1.4% (Ilex
+cornuta)to3.8%(Indocalamustessellatus),3.6%(Photiniaserrulata)to9.3%(P.viridis),and
+38.9%(P.bungeana)to58.4%(E.japonica),respectively.
+===== PAGE 4 =====
+Plants2021,10,2109 4of18
+Plants 2021, 10, 2109 4 of 18
+A B
+C D
+E F
+Figure1.Cont.
+===== PAGE 5 =====
+Plants2021,10,2109 5of18
+Plants 2021, 10, 2109 5 of 18
+G H
+I J
+K L
+M N
+Figure1.FSicgaunrnei n1g. Seclaenctnroinngm elieccrotrsocnop meipcricotsucroepseo pfiBcutuxruesss oinfi cBau(xAu,sB s)i,nPicina u(Ast,aBb)u, lPifionrumsi sta(bCu,lDifo),rmPiitst o(sCp,oDru),m Ptiot-bira(E,F),
+Trifoliumrteopsepnosru(Gm, Hto)b,irCae (dEru,Fs)d, eTordiaforlaiu(Im,J )r,epLeignus s(tGru,mH)l,u Ccieddurmus( dKe,oLd)aaran d(I,VJ)ib, uLringuusmtroudmor lauticsisdiunmum (K(M,L,)N a)n.dA Vdaibxuiar-lsurface:
+(A,C,E,G,nI,uKm,M o)d;oArabtaisxsiianlusmur (faMce,N:()B. ,ADd,Fa,xHia,Jl, Ls,uNrf)a.ce: A, C, E, G, I, K, and M; Abaxial surface: B, D, F, H, J, L,
+and N.
+===== PAGE 6 =====
+Plants 2021, 10, x FOR PEER REVIEW 6 of 18
+proportion of SPM, DPM, SPM0.1-2.5, SPM2.5-10, and SPM>10 ranged from 44.9% (Pinus
+bungeana) to 66.9% (P. orientalis), 12.9% (V. odoratissimum) to 22.1% (Trachycarpus fortunei),
+1.4% (Ilex cornuta) to 3.8% (Indocalamus tessellatus), 3.6% (Photinia serrulata) to 9.3% (P. vi-
+ridis), and 38.9% (P. bungeana) to 58.4% (E. japonica), respectively.
+Subsequently, when chloroform was applied to clean the leaves then brushing, a
+large proportion of PM was eluted from the leaf surfaces (Figure 2B). For the analyzed
+species, the proportions of WPM, OPM, WPM0.1-2.5, WPM2.5-10 and WPM>10 ranged from
+Plants2021,10,2109 14.1% (P. orientalis) to 31.7% (P. bungeana), 1.2% (M. grandiflora) to 8.8% (T. repens), 0.7%6 of18
+(P. orientalis) to 3.8% (I. tessellatus), 2.1% (P. serrulata) to 7.1% (T. repens), and 9.2% (F. ja-
+ponica) to 25.9% (P. bungeana), respectively.
+70
+60
+50
+40
+30
+20
+10
+0
+LiLu CeDe PiTa PiBu ViOd PiTo BuSi PhSe InTe PhVi TrFo MaGr ErJa OsFr PlOr TrRe JaMe IlCo FaJa NaDo
+Figure 2. The mass proportions of eluted by water and brushing (SPM), chloroform and brushing (WPM) within different
+diameter classes (diameter > 10 µm, 2.5-10 µm, 0.1-2.5 µm), water-soluble (DPM), and organic-soluble (OPM) particulate
+matter retained on the investigated leaves.
+2.3. PM Retention Capacity of the Different Plant Species
+The amounts of PM within different diameter classes captured by leaves based on
+per unit leaf area, per tree, and per unit green area all showed significant differences
+among species (Figure 3, ANOVA, p < 0.05). In general, the ranking presented in terms of
+capturing PM within different diameter classes was similar (Figure 3−5). The species were
+divided into three groups (Figure 3). P. orientalis, T. fortune, M. grandiflora, E. japonica, Os-
+manthus fragrans, F. japonica, V. odoratissimum, P. tabuliformis, and L. lucidum showed the
+highest total PM retention (Figure 3). T. repens showed the lowest PM retention, while the
+remaining species showed intermediate PM retention capacity.
+)%(
+rettam
+etalucitrap
+fo
+noitroporp
+ssaM
+DPM SPM0.1-2.5 SPM2.5-10 SPM>10
+Plant species
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+LiLu CeDe PiTa PiBu ViOd PiTo BuSi PhSe InTe PhVi TrFo MaGr ErJa OsFr PlOr TrRe JaMe IlCo FaJa NaDo
+)%(
+rettam
+etalucitrap
+fo
+noitroporp
+ssaM
+OPM WPM0.1-2.5 WPM2.5-10 WPM>10
+Plant species
+Figure2.Themassproportionsofelutedbywaterandbrushing(SPM),chloroformandbrushing(WPM)withindifferent
+diameterclasses(diameter>10µm,2.5–10µm,0.1–2.5µm),water-soluble(DPM),andorganic-soluble(OPM)particulate
+matterretainedontheinvestigatedleaves.
+Subsequently, when chloroform was applied to clean the leaves then brushing, a
+largeproportionofPMwaselutedfromtheleafsurfaces(Figure2B).Fortheanalyzed
+species,theproportionsofWPM,OPM,WPM ,WPM andWPM rangedfrom
+0.1–2.5 2.5–10 >10
+14.1%(P.orientalis)to31.7%(P.bungeana), 1.2%(M.grandiflora)to8.8%(T.repens), 0.7%
+(P.orientalis)to3.8%(I.tessellatus),2.1%(P.serrulata)to7.1%(T.repens),and9.2%(F.japonica)
+to25.9%(P.bungeana),respectively.
+2.3. PMRetentionCapacityoftheDifferentPlantSpecies
+TheamountsofPMwithindifferentdiameterclassescapturedbyleavesbasedonper
+unitleafarea,pertree,andperunitgreenareaallshowedsignificantdifferencesamong
+species(Figure3,ANOVA,p<0.05).Ingeneral,therankingpresentedintermsofcapturing
+PMwithindifferentdiameterclasseswassimilar(Figures3–5). Thespeciesweredivided
+intothreegroups(Figure3). P.orientalis,T.fortune,M.grandiflora,E.japonica,Osmanthus
+fragrans,F.japonica,V.odoratissimum,P.tabuliformis,andL.lucidumshowedthehighesttotal
+PMretention(Figure3). T.repensshowedthelowestPMretention,whiletheremaining
+speciesshowedintermediatePMretentioncapacity.
+===== PAGE 7 =====
+Plants 2021, 10, x FOR PEER REVIEW 7 of 18
+For the retained PM per tree, C. deodara, P. orientalis, L. lucidum, M. grandiflora, P. tabu-
+liformis are the efficient plant species, but T. repens, P. viridis, I. tessellatus, B. sinica are the
+inefficient species due to the lower total leaf area of a tree. The remaining species showed
+intermediate PM accumulation (Figure 4).
+As for the PM retention per unit green area, V. odoratissimum, L. lucidum, M. grandi-
+Plants2021,10,2109 flora, P. tobira, C. deodara, P. serrulate, F. japonica, P. orientalis showed the highest PM accu- 7of18
+mulation (Figure 5). T. repens is considerable the least efficient species for PM accumula-
+tion. At the same time, the remaining species showed intermediate PM accumulation. For
+the PM size fractions, the plant species always showed the same order as total PM.
+7
+6
+5
+4
+3
+2
+1
+0
+LiLu CeDe PiTa PiBu ViOd PiTo BuSi PhSe InTe PhVi TrFo MaGr ErJa OsFr PlOr TrRe JaMe IlCo FaJa NaDo
+Figure 3. The mass of PM per unit leaf area eluted by water and brushing (SPM), chloroform and brushing (WPM) within
+different diameter classes (diameter > 10 µm, 2.5-10 µm, 0.1-2.5 µm), water-soluble (DPM), and organic-soluble (OPM)
+particulate matter retained on the investigated leaves.
+)2m/g(
+noitalumucca
+rettam
+etalucitraP
+DPM
+SPM0.1-2.5
+SPM2.5-10
+SPM>10
+Plant species
+2.5
+2
+1.5
+1
+0.5
+0
+LiLu CeDe PiTa PiBu ViOd PiTo BuSi PhSe InTe PhVi TrFo MaGr ErJa OsFr PlOr TrRe JaMe IlCo FaJa NaDo
+)2m/g(
+noitalumucca
+rettam
+etalucitraP
+OPM
+WPM0.1-2.5
+WPM2.5-10
+WPM>10
+Plant species
+Figure3.ThemassofPMperunitleafareaelutedbywaterandbrushing(SPM),chloroformandbrushing(WPM)within
+differenPtladntisa 2m021e, t1e0,r xc FlOaRs sPeEsER( dREiaVmIEWet er>10µm,2.5–10µm,0.1–2.5µm),water-soluble(DPM),andorganic-s8o louf b18l e(OPM)
+particulatematterretainedontheinvestigatedleaves.
+1000
+100
+10
+1
+0.1
+0.01
+0.001
+LiLu CeDe PiTa PiBu ViOd PiTo BuSi PhSe InTe PhVi TrFo MaGr ErJa OsFr PlOr TrRe JaMe IlCo FaJa NaDo
+Figure 4. The mass of PM per tree eluted by water and brushing (SPM), chloroform and brushing (WPM) within different
+diameter classes (diameter > 10 µm, 2.5-10 µm, 0.1-2.5 µm), water-soluble (DPM), and organic-soluble (OPM) particulate
+matter retained on the investigated leaves.
+2.4. The PM Retention Efficiency of the Different Tree Species
+The plant species showed significant differences in AEleaf, AEplant, and AEland in various
+diameter classes and total PM (Table 1, ANOVA, p < 0.05). AEleaf of the different species
+varied between 22.7 (T. repens) and 169.8 (P. orientalis) mg/(m2·d). For DPM, PM0.1-2.5, PM2.5-
+10, PM>10, AEleaf ranged from 5.3 (T. repens) to 36.1 (T. fortunei), 1.0 (T. repens) to 6.3 (V. odo-
+ratissimum), 2.5 (T. repens) to 12.5 (P. orientalis), and 13.9 (T. repens) to 117.1 (P. orientalis)
+mg/(m2·d), respectively.
+AEplant of SPM, DPM, PM0.1-2.5, PM2.5-10, PM>10 for different plant species varied from
+0.2 to 14449.0, 0.1 to 2953.2, 0.1 to 399.2, 0.1 to 1836.1, 0.1 to 9260.5 mg/d, respectively.
+AEland of SPM, DPM, PM0.1-2.5, PM2.5-10, PM>10 for the different plant species varied from 64.1
+to 558.6, 15.0 to 99.3, 1.9 to 26.3, 6.9 to 44.2, 39.3 to 388.8 mg/(m2·d), respectively.
+In general, P. orientalis, V. odoratissimum, P. tobira, P. serrulate, M. grandiflora, and F.
+japonica were the most efficient plant species in retaining SPM and its diameter classes,
+and the species T. repens and P. viridis were the least efficient plant species in removing
+atmospheric particles.
+)g(
+noitalumucca
+rettam
+etalucitraP
+DPM SPM0.1-2.5 SPM2.5-10 SPM>10
+Plant species
+1000
+100
+10
+1
+0.1
+0.01
+0.001
+LiLu CeDe PiTa PiBu ViOd PiTo BuSi PhSe InTe PhVi TrFo MaGr ErJa OsFr PlOr TrRe JaMe IlCo FaJa NaDo
+)g(
+noitalumucca
+rettam
+etalucitraP
+OPM WPM0.1-2.5 WPM2.5-10 WPM>10
+Plant species
+Figure4.ThemassofPMpertreeelutedbywaterandbrushing(SPM),chloroformandbrushing(WPM)withindifferent
+diameterclasses(diameter>10µm,2.5–10µm,0.1–2.5µm),water-soluble(DPM),andorganic-soluble(OPM)particulate
+matterretainedontheinvestigatedleaves.
+===== PAGE 8 =====
+Plants2021,10,2109 8of18
+Plants 2021, 10, x FOR PEER REVIEW 9 of 18
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+LiLu CeDe PiTa PiBu ViOd PiTo BuSi PhSe InTe PhVi TrFo MaGr ErJa OsFr PlOr TrRe JaMe IlCo FaJa NaDo
+Figure 5. The mass of PM per unit green area eluted by water and brushing (SPM), chloroform and brushing (WPM)
+within different diameter classes (diameter > 10 µm, 2.5-10 µm, 0.1-2.5 µm), water-soluble (DPM), and organic-soluble
+(OPM) particulate matter retained on the investigated leaves.
+Table 1. The retention efficiency (AE) of the investigated plant species in retaining surface PM (SPM) within different
+diameter classes (particle diameter > 10 µm, 2.5-10 µm, 0.1-2.5 µm) and water-soluble PM (DPM).
+AEleaf (mg/m2·d) AEplant (mg/d) AEland (mg/m2·d)
+Species Diameter class Diameter class Diameter class
+DPM PM0.1-2.5 PM2.5-10 PM>10 SPM DPM PM0.1-2.5 PM2.5-10 PM>10 SPM DPM PM0.1-2.5 PM2.5-10 PM>10 SPM
+LiLu 22.5 5.3 10.8 71.6 110.2 999.5 236.2 481.6 3189.3 4906.6 73.2 17.3 35.3 233.5 359.3
+CeDe 15.1 2.0 9.4 47.4 73.9 2953.2 399.2 1836.1 9260.5 14449.0 55.1 7.5 34.3 172.8 269.7
+PiTa 25.9 4.1 8.2 74.7 112.9 594.5 93.6 187.2 1736.6 2611.9 49.8 7.8 15.7 145.4 218.7
+PiBu 14.9 2.2 6.7 42.0 65.8 192.2 29.0 86.9 542.5 850.6 27.6 4.2 12.5 77.8 122.1
+ViOd 23.9 6.3 10.6 93.5 134.3 48.7 12.9 21.6 190.6 273.8 99.3 26.3 44.2 388.8 558.6
+PiTo 22.5 4.7 5.3 69.4 101.9 49.7 12.9 21.6 190.6 274.8 98.8 20.7 23.4 305.3 448.2
+BuSi 15.3 2.0 5.9 31.6 54.8 4.7 0.6 1.8 9.6 16.7 41.0 5.5 15.9 84.8 147.2
+PhSe 20.4 2.9 4.5 65.3 93.1 386.2 54.1 85.0 1235.9 1761.2 87.6 12.3 19.3 280.2 399.4
+InTe 12.9 2.9 5.5 36.7 58.0 3.9 0.9 1.7 11.1 17.6 32.4 7.2 13.9 92.6 146.1
+PhSu 12.9 1.4 6.5 34.5 55.3 2.2 0.2 1.1 5.9 9.4 17.4 1.9 8.8 46.6 74.7
+TrFo 36.1 3.1 8.8 74.9 122.9 246.8 20.9 60.0 511.6 839.3 75.5 6.4 18.3 156.5 256.7
+MaGr 19.8 4.7 6.7 81.4 112.6 588.7 139.6 200.3 2421.7 3350.3 77.0 18.3 26.2 316.8 438.3
+ErJa 28.2 2.7 8.8 94.1 133.8 421.2 38.7 131.3 1407.1 1998.3 64.2 6.1 20.0 214.5 304.8
+OsFr 26.1 2.7 10.8 70.8 110.4 169.7 17.2 70.3 460.0 717.2 61.1 6.2 25.3 165.7 258.3
+PlOr 35.3 4.9 12.5 117.1 169.8 1080.1 149.8 380.8 3583.7 5194.4 79.1 11.0 27.9 262.4 380.4
+TrRe 5.3 1.0 2.5 13.9 22.7 0.1 0.1 0.1 0.1 0.4 15.0 2.9 6.9 39.3 64.1
+JaMe 19.8 1.6 8.6 42.0 72.0 7.2 0.6 3.1 15.4 26.3 40.0 3.3 17.3 84.9 145.5
+)2m/g(
+noitalumucca
+rettam
+etalucitraP
+DPM
+SPM0.1-2.5
+SPM2.5-10
+SPM>10
+Plant species
+8
+7
+6
+5
+4
+3
+2
+1
+0
+LiLu CeDe PiTa PiBu ViOd PiTo BuSi PhSe InTe PhVi TrFo MaGr ErJa OsFr PlOr TrRe JaMe IlCo FaJa NaDo
+)2m/g(
+noitalumucca
+rettam
+etalucitraP
+OPM
+WPM0.1-2.5
+WPM2.5-10
+WPM>10
+Plant species
+Figure5.ThemassofPMperunitgreenareaelutedbywaterandbrushing(SPM),chloroformandbrushing(WPM)within
+differentdiameterclasses(diameter>10µm,2.5–10µm,0.1–2.5µm),water-soluble(DPM),andorganic-soluble(OPM)
+particulatematterretainedontheinvestigatedleaves.
+FortheretainedPMpertree,C.deodara,P.orientalis,L.lucidum,M.grandiflora,P.tabuli-
+formisaretheefficientplantspecies,butT.repens,P.viridis,I.tessellatus,B.sinicaarethe
+inefficientspeciesduetothelowertotalleafareaofatree. Theremainingspeciesshowed
+intermediatePMaccumulation(Figure4).
+AsforthePMretentionperunitgreenarea,V.odoratissimum,L.lucidum,M.grandiflora,
+P.tobira,C.deodara,P.serrulate,F.japonica,P.orientalisshowedthehighestPMaccumulation
+(Figure5). T.repensisconsiderabletheleastefficientspeciesforPMaccumulation. Atthe
+sametime,theremainingspeciesshowedintermediatePMaccumulation. ForthePMsize
+fractions,theplantspeciesalwaysshowedthesameorderastotalPM.
+2.4. ThePMRetentionEfficiencyoftheDifferentTreeSpecies
+TheplantspeciesshowedsignificantdifferencesinAE ,AE ,andAE invarious
+leaf plant land
+diameterclassesandtotalPM(Table1,ANOVA,p<0.05). AE ofthedifferentspecies
+leaf
+varied between 22.7 (T. repens) and 169.8 (P. orientalis) mg/(m2·d). For DPM, PM ,
+0.1–2.5
+PM ,PM ,AE rangedfrom5.3(T.repens)to36.1(T.fortunei),1.0(T.repens)to6.3
+2.5–10 >10 leaf
+(V.odoratissimum),2.5(T.repens)to12.5(P.orientalis),and13.9(T.repens)to117.1(P.orientalis)
+mg/(m2·d),respectively.
+AE of SPM, DPM, PM , PM , PM for different plant species varied
+plant 0.1–2.5 2.5–10 >10
+from0.2to14449.0,0.1to2953.2,0.1to399.2,0.1to1836.1,0.1to9260.5mg/d,respectively.
+AE ofSPM,DPM,PM ,PM ,PM forthedifferentplantspeciesvariedfrom land 0.1–2.5 2.5–10 >10
+64.1to558.6,15.0to99.3,1.9to26.3,6.9to44.2,39.3to388.8mg/(m2·d),respectively.
+===== PAGE 9 =====
+Plants2021,10,2109 9of18
+Table1. Theretentionefficiency(AE)oftheinvestigatedplantspeciesinretainingsurfacePM(SPM)withindifferent
+diameterclasses(particlediameter>10µm,2.5–10µm,0.1–2.5µm)andwater-solublePM(DPM).
+AEleaf(mg/m2·d) AEplant(mg/d) AEland(mg/m2·d)
+Species DiameterClass DiameterClass DiameterClass
+DPM PM0.1–2.5 PM2.5–10 PM>10 SPM DPM PM0.1–2.5 PM2.5–10 PM>10 SPM DPM PM0.1–2.5 PM2.5–10 PM>10 SPM
+LiLu 22.5 5.3 10.8 71.6 110.2 999.5 236.2 481.6 3189.3 4906.6 73.2 17.3 35.3 233.5 359.3
+CeDe 15.1 2.0 9.4 47.4 73.9 2953.2 399.2 1836.1 9260.5 14,449.0 55.1 7.5 34.3 172.8 269.7
+PiTa 25.9 4.1 8.2 74.7 112.9 594.5 93.6 187.2 1736.6 2611.9 49.8 7.8 15.7 145.4 218.7
+PiBu 14.9 2.2 6.7 42.0 65.8 192.2 29.0 86.9 542.5 850.6 27.6 4.2 12.5 77.8 122.1
+ViOd 23.9 6.3 10.6 93.5 134.3 48.7 12.9 21.6 190.6 273.8 99.3 26.3 44.2 388.8 558.6
+PiTo 22.5 4.7 5.3 69.4 101.9 49.7 12.9 21.6 190.6 274.8 98.8 20.7 23.4 305.3 448.2
+BuSi 15.3 2.0 5.9 31.6 54.8 4.7 0.6 1.8 9.6 16.7 41.0 5.5 15.9 84.8 147.2
+PhSe 20.4 2.9 4.5 65.3 93.1 386.2 54.1 85.0 1235.9 1761.2 87.6 12.3 19.3 280.2 399.4
+InTe 12.9 2.9 5.5 36.7 58.0 3.9 0.9 1.7 11.1 17.6 32.4 7.2 13.9 92.6 146.1
+PhSu 12.9 1.4 6.5 34.5 55.3 2.2 0.2 1.1 5.9 9.4 17.4 1.9 8.8 46.6 74.7
+TrFo 36.1 3.1 8.8 74.9 122.9 246.8 20.9 60.0 511.6 839.3 75.5 6.4 18.3 156.5 256.7
+MaGr 19.8 4.7 6.7 81.4 112.6 588.7 139.6 200.3 2421.7 3350.3 77.0 18.3 26.2 316.8 438.3
+ErJa 28.2 2.7 8.8 94.1 133.8 421.2 38.7 131.3 1407.1 1998.3 64.2 6.1 20.0 214.5 304.8
+OsFr 26.1 2.7 10.8 70.8 110.4 169.7 17.2 70.3 460.0 717.2 61.1 6.2 25.3 165.7 258.3
+PlOr 35.3 4.9 12.5 117.1 169.8 1080.1 149.8 380.8 3583.7 5194.4 79.1 11.0 27.9 262.4 380.4
+TrRe 5.3 1.0 2.5 13.9 22.7 0.1 0.1 0.1 0.1 0.4 15.0 2.9 6.9 39.3 64.1
+JaMe 19.8 1.6 8.6 42.0 72.0 7.2 0.6 3.1 15.4 26.3 40.0 3.3 17.3 84.9 145.5
+IlCo 14.7 1.4 5.3 53.9 75.3 154.1 15.0 55.7 565.2 790.0 39.8 3.9 14.4 146.0 204.1
+FaJa 26.1 3.7 8.8 77.1 115.7 161.9 22.8 54.4 478.0 717.1 88.0 12.4 29.6 260.0 390.0
+NaDo 21.2 2.7 7.3 49.0 80.2 61.1 7.6 21.2 141.0 230.9 64.3 8.0 22.3 148.4 243.0
+In general, P. orientalis, V. odoratissimum, P. tobira, P. serrulate, M. grandiflora, and
+F.japonicawerethemostefficientplantspeciesinretainingSPManditsdiameterclasses,
+andthespeciesT.repensandP.viridisweretheleastefficientplantspeciesinremoving
+atmosphericparticles.
+2.5. RelationshipsbetweenLeafPMRetentionandSurfaceWettability,SurfaceFreeEnergy
+Theplantspeciesshowedsignificantdifferencesinleafcontactangle(CA)andsurface
+freeenergy(SFE)amongtheplantspecies(Table2,ANOVA,p<0.05). Strongnegative
+correlationswereobservedbetweenCAonadaxialsurfacesandPMwithinthedifferent
+diameterclasses(p<0.05),butpositivecorrelationsbetweenSFE,polaranddispersive
+componentswithinthedifferentdiameterclasseswereobserved(p<0.05).
+Table2.Leafsurfacewettabilityandsurfacefreeenergyofplantspecies.
+ContactAngle(◦) SurfaceFreeEnergy(mJ/m2)
+Species
+Water Diiodomethane γp γd γ
+LiLu 76.3±8.8 55.9±1.7 9.1 25.4 34.5
+CeDe 68.8±9.7 58.7±6.3 15.0 22.0 37.0
+PiTa 84.3±4.6 54.9±3.9 4.6 27.8 32.4
+PiBu 73.3±8.5 62.1±7.4 12.8 20.8 33.6
+ViOd 73.5±7.3 55.2±5.6 10.7 25.2 35.9
+PiTo 80.4±4.6 62.9±3.7 8.3 21.9 30.2
+BuSi 83.4±9.4 54.9±5.8 5.0 27.6 32.6
+PhSe 63.3±8.6 49.5±8.7 16.2 26.4 42.6
+InTe 87.5±10.4 58.7±3.5 3.9 26.1 30.0
+PhSu 83.4±7.2 56.5±4.4 5.3 26.7 32.0
+TrFo 59.7±10.3 55.1±5.9 20.9 22.5 43.4
+MaGr 68.2±14.2 54.4±3.7 14.1 24.5 38.6
+ErJa 49.7±15.4 50.1±8.5 27.3 23.5 50.8
+OsFr 71.4±6.0 51.1±3.7 11.0 27.2 38.2
+PlOr 66.3±10.5 46.3±6.9 13.2 28.9 42.1
+TrRe 131.2±4.3 104.9±4.4 0.1 7.3 7.4
+JaMe 80.1±7.4 63.5±6.1 8.7 21.5 30.2
+IlCo 90.6±10.1 59.9±9.4 2.9 26.1 29.0
+FaJa 68.7±6.9 51.7±4.7 12.9 26.3 39.2
+NaDo 73.2±4.5 55.9±5.3 11.0 24.7 35.7
+===== PAGE 10 =====
+Plants2021,10,2109 10of18
+3. Discussion
+3.1. MethodsforQuantifyingPMonLeaveSurfaces
+Completely collecting the PM retained on leaf surfaces is the basis to accurately
+evaluatePMretentionability.Thepresentresultsshowedthatonly44.9%−66.9%ofthePM
+retainedonleaveswereelutedbywaterandbrushcleaned,indicatingthattheconventional
+washingmethodcannotaccuratelyassessthePMretentioncapacityofplants[8,24,25]. On
+average,aremovalrateof29–46%wasobservedbyLiuetal.[24]usingthewaterandbrush
+cleaningmethod. InastudyconductedbyWangetal.[14],itwasobservedthat31.9mm
+precipitationundernaturalconditionscouldwashoff50%and62%ofthePMonleaves
+ofL.lucidumandV.odoratissimum,respectively. However,ithadnoobviousinfluenceon
+elutingthePMonP.tabuliformisleaves. AninvestigationcarriedoutbyXuetal.[22]found
+that51–70%ofPMcouldberemovedfromtheleavesofE.japonicus,A.altissima,S.japonica,
+P.tomentosa. Simulatedrainfallof20mmcanremove30–40%ofPMfromScotspine[36].
+TheTSP,PM ,PM ,andPM removalrateof49.3–87.1%,22.8–71.5%,40.4–92.0%,
+10–100 2.5–10 2.5
+and50.7–91.3%wasfoundbyZhangetal.[21]. Asaconsequence,theeffectsofrainfall
+onremovingPMretainedbyleavesurfacesweredependentonplantspecies,leafsurface
+microstructure,thegrowthconditions,rainfallintensity,duration,andvolume[14,22]. For
+someplantspecies,therainfallundernaturalconditionshadfewereffectonremovingPM
+retainedonleavesurfaces. However,itdoesnotmeanthattheplantshavefewereffectson
+PMremovalbecausethereisprobablyadynamictrendinPMdepositiononleavesurfaces.
+Washing off PM from leaves can occur during precipitation, and then new deposition,
+meaningtheaccumulationofpollutantswillcontinuemoreorlessthroughoutthewhole
+season,whichdependsonplantspeciesandweatherconditions.
+Toovercometheshortageofwaterandbrushcleaning,someresearchersusedwater
+andchloroform(oftenusedtoextractcuticularwaxofplantleaves)washingsuccessively,
+whichwasbasedonthestructureandchemicalcompositionofleafcuticularwaxcantrap
+particles. Popeketal.[37]usedchloroformtoelutethein-waxPM.Theyfoundthatin-wax
+PMcontributedabout40%tototalPM.InastudytookinBeijing,Xuetal.[32]foundthat
+35%ofparticlesweretrappedinwax. Theparticlestrappedinwaxareimmobilizedand
+phytostabilisedinepidermalwaxandthuslowersthenegativeimpactonhumanhealth
+toagreaterdegreethantheSPM.Ontheotherhand,in-waxparticlesareverydifficultto
+removebyrainfallorwind,sotherewillbenonewdepositionwhensaturation.
+ThehighproportionofbothDPM(12.9%−22.1%)andOPM(1.2%−8.8%)indicates
+thatDPMandOPMarealsoimportantcomponentsoftotalPMdepositedonleavesurfaces.
+However,manypreviousstudiesdidnotconsiderthesolublecomponents,meaningthat
+thepreviousmethodsmightunderestimateplants’PMretentionabilitytoalargedegree,
+especiallyforthesolubleparticles. Hence, itisrecommendedthatthepropermethods
+should be used to quantify the water-soluble and chloroform-soluble particles. In the
+presentstudy,weusedtheTDStodeterminethewater-solubleparticles,whichisafast,
+easy-to-operateandcost-savingmethod.
+3.2. TheEffectsofLeafSurfaceMicrostructuresonPMRetention
+UrbanplantsaccumulatePMindifferentways,atleastpartlydependingontheleaf
+morphologicstructures(e.g.,leafwax,leafwettability,andstomataldensityandleafarea)
+(e.g.,[38,39]). Inthepresentstudy,differentplantspeciesshowedobviousdifferencesin
+leafmicrostructure,resultingingreatdifferencesinPMretentioncapacityandefficiency
+amongtheinvestigatedplantspecies. TheleavesofT.repensarecoveredwithdensewax
+crystalsbutwiththelowestcapacityandefficiencyinPMretention,indicatingthatthe
+leaveswithwaxcrystalswouldhavealowercapacityforcapturingPM.V.odoratissimum,
+aspeciesthatretainedahighlevelofparticlesandalsohadahighefficiencyinretaining
+smallparticles. Theseresultsindicatedthattheleaveswiththemicrostructureoffurrows
+andridgeswouldhaveahighcapacityforcapturingPM.FromtheSEMimages,wecan
+observethatparticles,especiallythesmalleronescoulddepositwithinthefurrows. There
+werealsofurrowsonstickyleavesofP.tabuliformis;thefungionsuchsurfacescanactas
+===== PAGE 11 =====
+Plants2021,10,2109 11of18
+bridgestocombinethesmallparticles,formingabiggerone. Consequently,P.tabuliformis
+exhibitedahigherretentionefficiencyforthebiggerdiameterclass.
+AsfortheeffectsofleafwettabilityonPMretention,negativecorrelationswerefound
+betweenleafCAonadaxialsurfacesandPMretentionamountsinthepresentstudy. The
+leavesofT.repensarehighlynon-wettable(withaCAof131.2±4.3◦)showedthelowest
+PMretentionability;aparticleonsuchsurfacesislikeafakironhisbedofnails[39]. On
+suchsurfaces,thecontactareabetweenaparticleandtheunderlyingsurfaceisreduced
+due to microroughness caused by wax crystals. Thus, the particles can be washed out
+easilyfromsuchasurfacebyrain,fog,ordew(Lotuseffect). However,forwettableleaves
+withsmallCA,thecontactareabetweenpollutants(e.g.,particles)andtheleavesurfaces
+islarge. Asaconsequence,theretainedPMdoesnoteasilyfallofftheleavesurface;the
+abilityofPMretentionwillbehigherthanthatofnon-wettableleaves.
+IntermsoftheeffectsofleafSFEonPMretention,positivecorrelationswerefound
+in the present study. SFE and its components are physico-chemical properties of all
+materials[40]. Differentplantleaveshavedifferentchemicalcompositions,affectingthe
+SFEanditscomponents. Inthepresentstudy,wefoundthatSFEismainlycontributed
+bydispersivecomponents,andwhichiscloserelatedwithleafchemicalcomposition,i.e.,
+hydroxylfattyacid,aliphaticcompounds,andnonpolarorweakpolarmaterialsuchas
+cycliccompounds. Insuchconditions,whentheambientparticlesmovedcloseenoughto
+theleafsurfaces,theparticleswereadsorbedundertheeffectofdispersiveforces. Thus,the
+greaterthedispersivecomponentoftheSFE,thestrongertheadsorptioneffectofparticles
+onleavesurfaces. Therefore,theleafPMretentionamountsanddispersivecomponents
+werepositivelycorrelated. TheconcentrationofthepolarcomponentstoSFEisrelatively
+small,whichmaybeleadtosmallereffectsonPMretention. However,PMcomposition
+isverycomplicated,theinfluenceoftheinteractionbetweenfunctionalgroupsofleave
+surfacesandPMcannotbeignored. Theseresultsimplythatthedegreetowhichamount
+ofPMretentionbyleaveswasdeterminedbytheSFEanditscomponents. Inthisregard,
+theestimationofSFEconstitutesaneasyandvaluablewaytoquantifytheamountofPM
+depositionforaparticularplantsurface.
+3.3. TheProperIndexforEvaluatingthePMAccumulationofLeaveSurfacesofPlantSpecies
+The differences in PM accumulation and its size fractions among species could be
+usedforurbangreeningplantspeciesselectionduringurbanorsuburbafforestation. The
+amountofPMretainedperunitleafareaisoftenusedtoassessthePMretentionabilitiesof
+theplantsatpresent[31,32,39]. However,thisindexhassomeshortcomingsincomparing
+theresultsofdifferentstudiesduetothepossibledifferenceindustretentionduration,
+differentseasons,differentenvironmentalconditions,anddifferentleafstages[11,14,39].
+Inaddition,alargeramountofPMonleavesdoesnotmeanthatthePMremovalefficiency
+willbehigher. Therefore,asanalternative,someresearchersusedtheretentionefficiency
+(thenumberofparticlesretainedonaunitleafareaperunittime)toassessthePMretention
+abilitiesoftheplants[31]. However,thesestudiesonlyusetheunitleafareascale.
+TheorderinleafPMretentionefficiencieswithinthedifferentdiameterclasses(i.e.,
+PM ,PM ,PM )basedonperleaf,perplant,andperunitgreenareashowed
+>10 2.5–10 0.1–2.5
+significantdifferencesamongspecies(Table1). Theseresultssuggestthataplantspecies
+withhigherPMretentionefficiencyperunitleafareawouldnotnecessarilyhavehigher
+air purification ability on the individual tree scale or uint green area scale since these
+dependsonthetotalleafarea/LAIofatree.Zuoetal.[41]foundthatthediameteratbreast
+height(DBH)ofP.bungeanahadsignificanteffectsonPMretentionamountonasingletree
+whichmightbebecauseDBHhadeffectsoncrownradiusandLAI;thusthetotalleafarea.
+Furthermore,thetreesizeandhealthconditionwillbevariedindifferentenvironmental
+conditions;theLAIwillalsochange. ItisrecommendedthatthePMretentionefficiency
+perunitgreenarea(theproductofPMretentionefficiencyperunitleafareaandLAI)may
+besuitabletobeanindexofPMretentionbyplantssincethisindexcanbeasignalofthe
+efficiencyoftheper-unitgreenareatoaccumulationofPM.
+===== PAGE 12 =====
+Plants2021,10,2109 12of18
+Besidesconsideringacity-scaletreecover,itistimelytoexaminethehealthimpacts
+atPM“hotspot”(e.g.,nearbusyroads,highways)and/orwheresomeofthemostvulnera-
+blepopulationgroups(e.g.,youngchildren,elderlypeople,thepeoplewithpre-existing
+lung/heartdisease). FormitigationandcontrolofPMpollution,itisimportanttoselect
+plantspeciesaccordingtothePMretentionefficiency,thecharacteristicsofairpollution,
+andlocalclimate. IfconsideringthePMretainingefficiencyperunitleafarea,P.orientalis,
+F.japonica,L.lucidum,P.tobira,V.odoratissimumisrecommendedbecausethehigherPM
+retainingefficiencyandthedepositedPMiseasytorenewduetorainfall. Ifconsidering
+thePMretainingefficiencyperunitgreenarea,V.odoratissimum,M.grandiflora,P.serrulate,
+P.tobira,L.lucidum,P.orientalis,F.japonica,C.deodaraisrecommended. Meanwhile,horti-
+culturepracticesshouldbeconsideredtoimprovetheLAIoftheplantspeciestogreatly
+improvetheirparticleretentionabilitiesonboththesingletreeandstandlevels,evenat
+thecityscale,forimprovingtheairquality.
+4. MaterialsandMethods
+4.1. PlantMaterialsandLeafSampling
+Twentyplantspecies,widespreadintemperateregions,wereselectedforthisstudy
+(Table3)inXi’anUniversityofArchitecture&Technology(34◦24(cid:48)53(cid:48)(cid:48) N,108◦96(cid:48)26(cid:48)(cid:48) E,and
+elevation 421 m), Xi’an, China. The distances between sampling plant species and the
+nearlymainroad(YantaRoad)wereabout50m. Thus,theenvironmentalconditionsof
+thesesamplingplantsweresimilar. Foreachplantspecies,twotofourindividualplants
+dependingontheiroccurrenceonthecampusundergoodgrowthconditionswereselected
+except T. repens. We first washed the leaves of the selected plants using tap water and
+labelledthemon18December2018. Then,thelabeledleaveswithsmallbrancheswere
+collectedaftersevendaysofexposure. Thesmallbranchesbearingleaveswereplacedin
+labeledziplockbags(15#,400mm×700mm),transportedtothelaboratory,andkeptina
+4ºCfridgeuntilanalysis.
+Table3. Families,lifeforms,leafshapes,andtextureoftheinvestigatedplantspecies. Theresultsfromtheclustering
+analysiswithsurfaceandwaxdissolvedfractionsofPM ,PM ,PM ,water-solubleandorganic-solublePMand
+>10 2.5–10 0.1–2.5
+totalPMasvariables.Cluster1hadthesmallestquantityofdepositedPM,andcluster3hadthelargest.
+Species Abbreviation Families LifeForm LeafShape Texture Cluster
+Ovate,longovateorelliptictobroadly
+Ligustrumlucidum LiLu Oleaceae Tree Leathery 3
+elliptic
+Cedrusdeodara CeDe Pinaceae Tree Needle Leathery 3
+Pinustabuliformis PiTa Pinaceae Tree Needle Leathery 1
+Pinusbungeana PiBu Pinaceae Tree Needle Leathery 1
+Viburnumodoratissimum ViOd Caprifoliaceae Shrub Elliptic,rectangular-elliptictoobovate Leathery 3
+Pittosporumtobira PiTo Pittosporaceae Shrub Obovateorobovatelanceolate Leathery 3
+Buxussinica BuSi Buxaceae Shrub Obovatetooblongovate Leathery 1
+Photiniaserrulata PhSe Rosaceae Shrub Obovateorobovateellipse Leathery 3
+Indocalamustessellatus InTe Gramineae Herb Ellipticlanceolate Papery 1
+Phyllostachysviridis PhVi Gramineae Herb Oblonglanceolateorlanceolate Papery 1
+Tree-
+Trachycarpusfortunei TrFo Palmae 3/4orbicularorsuborbicular Leathery 2
+dwelling
+Ellipse,oblongellipseor
+Magnoliagrandiflora MaGr Magnoliaceae Tree Leathery 3
+obovateellipse
+Lanceolate,oblanceolate,obovate,
+Eriobotryajaponica ErJa Rosaceae Tree Leathery 2
+oroblong
+Osmanthusfragrans OsFr Oleaceae Tree Elliptic,oblongorellipticlanceolate Leathery 2
+Platycladusorientalis PlOr Cupressaceae Tree Squamiform Leathery 2
+Trifoliumrepens TrRe Leguminosae Herb Ternatepalmateleaf Papery 1
+Jasminummesnyi JaMe Oleaceae Shrub Compound Leathery 2
+Ilexcornuta IlCo Aquifoliaceae Shrub Quadrangularoblongorovate Leathery 2
+Fatsiajaponica FaJa Araliaceae Shrub Palmatelobed Leathery 2
+Nandinadomestica NaDo Berberidaceae Shrub Ellipticorellipticlanceolate Leathery 2
+===== PAGE 13 =====
+Plants2021,10,2109 13of18
+4.2. ExperimentalMethods
+4.2.1. MeasurementofLeafPMRetentionAmount
+ThreebatchesofleaveswereinitiallypreparedforeachspeciesfordeterminingthePM
+retentionamount. Foreachbatch,8−10piecesforbigleaves,30−40piecesforsmallleaves,
+or50–80bunchesforneedleswereselected. Theleaveswerecleanedasthefollowingsteps,
+(1)Watercleaning:Everybatchofleaveswasplacedinglasscontainerswith300mLof
+deionizedwaterandstirredfor60swithaglassrod.Afterthis,theleaveswerescrubbedby
+ano-hair-lossbrushandwashedwith50mlofdeionizingwater. Theserepresentparticles
+thatcanbewashedofftheleavesduringrainfallandlabelledasSPM.
+(2)Chloroformcleaning: Eachsampleofleavesafterstep(1)waswashedwith150ml
+of chloroform for 15 s. These represent particles that were trapped in wax and labeled
+asWPM.
+(3)Filtration: Eachsuspensionaftersteps(1)and(2)waspumpedthroughthreetypes
+ofmicroporousmembraneswiththeporesizeof10,2.5,and0.1µmsuccessively. Here,
+weobtainedthreefractionsofPM:(i)PM (particlesinterceptedbythemembranewith
+>10
+poresize10µm,labeledasPM ),(ii)PM (particlesinterceptedbythemembrane
+>10 2.5–10
+withporesize2.5µm,labeledasPM ),and(iii)PM (particlesinterceptedbythe
+2.5–10 0.1–2.5
+membranewithporesize0.1µm, labeledasPM ). Forthefiltrationprocedure, all
+0.1–2.5
+themembranesusedforanalysiswerefirstsoakedindeionizedwaterfor2handthen
+dried at 105 ºC in a drying chamber for 6-8 h to remove soluble impurities. The filters
+werethenputinabalancingchamberfor48htostabilizedthehumiditychange. Every
+filterwasweighedbefore(M )filtrationthreetimestoreducethepotentialerrorsusing
+1
+FA2004balance(ShanghaiPrecisionScientificInstrumentCo. Ltd,Shanghai,China). Every
+loadedfilterwassubsequentlydriedforabout24hinadryingchamberat40◦C,andthen
+re-weighed(M )asabove. ThemassofPM ,PM ,andPM depositedonleaves
+2 >10 2.5–10 0.1–2.5
+werecalculatedas(M −M ).
+2 1
+(4)MeasurementsoftheTDSofelutionpassingthroughthemembranewithapore
+sizeof0.1µmafterstep(3). TheTDS(C,mg/L)wasmeasuredusingaconductivitymeter
+(LeiciDDS-307A,INESAAnalyticalInstrumentCo. Ltd,Shanghai,China). Themassof
+PMdissolvedinwater(DPM)andchloroform(OPM)wascalculatedasCmultiplyingthe
+volumeofthefilterliquor(V,L).
+4.2.2. MeasurementofPlantCharacteristics
+MeasurementofLeafArea
+Thesurfaceareaforbroad-leavedspeciesforeverybatchofleaveswasanalyzedusing
+anautomaticimageanalysissoftwareImageJ(v.1.51j8,WayneRasband,NationalInstitutes
+ofHealth,Bethesda,Maryland,USA)afterscanning(HPScanjetG2410,HPInc.,PaloAlto,
+California,USA).TheleafareaofconiferneedleswasdeterminedbasedonEquation(1).
+(cid:114)
+π nV(cid:48)
+A=2L(1+ ) (1)
+n πL
+whereL,n,andV(cid:48)aretheaveragelength,number,andvolumeofconiferneedles,respectively.
+MeasurementsofAbove-GroundGrowthStatus
+LAIofeachplantspecieswasmeasuredbasedonthemethoddescribedbyChenetal.[42].
+Thecrowndiameterwasmeasuredusingatapeinthedirectionofwest-eastandsouth-
+north,andthegeometricmeanvaluewascalculatedasthecrowndiameter. Treeheight
+wasmeasuredusingthetrigonometriclevelingmethod[43]. Diametersatbreastheight
+(DBH)orgroundlevelweremeasuredattheheightof1.3mor0.1mabovegroundusinga
+tapefortreesandshrubs,respectively.
+===== PAGE 14 =====
+Plants2021,10,2109 14of18
+4.2.3. ObservationofLeafSurfaceMicrostructure
+Foreveryspecies,threepieces(about5mm×5mmforbroad-leavedspecies,and
+5mminlengthforconiferneedles)werecutfromthecenteroftheleaveswereattached
+tothealuminumstubwithdouble-sidedadhesivetape,sputter-coatedwithgoldfor30s
+atacurrentof10mA(JFC-1600,JEOL,Akishima,Tokyo,Japan)andexaminedwithJSM-
+6510LVscanningelectronicmicroscopy(workingconditions: vacuum,resolution: 3nm,
+JEOL, Akishima, Tokyo, Japan) at an accelerating voltage of 10 kV. The microstructure
+oftheadaxialandabaxialsurfaceswasobservedattenrandomlyselectedpositionson
+theleaves.
+4.2.4. MeasurementsofLeaveContactAngle
+Contact angles (CA, θ) were determined on adaxial surfaces using distilled water
+anddiiodomethane(purity≥99%,BeijingChemicalReagentFactory,Beijing,China)at
+roomtemperatureusinganopticalcontactanglemeter(KinoSL200A,KINOIndustryCo.,
+LTD, Somerville, Boston, Massachusetts, USA). For every species, fifteen pieces (about
+5mm×5mmforbroad-leavedspecies,and5mminlengthforconiferneedles)werecut
+fromthecenteroftheleavesdiscardingthemidveinweremountedonamicroscopeslide
+withdouble-sidedadhesivetape. Dropletvolumesof6µLor2µLofdistilledwaterand
+2 µL of diiodomethane were selected based on the unit leaf area, the properties of the
+liquids, and the effect of droplet volume on the contact angle (i.e., contact angles were
+independentofthedropletvolumeforvolumesbetween1and10µL[44].
+4.2.5. CalculationofLeafSFE
+The solid SFE was determined by CA measurements using a set of liquids with
+differentsurfacefreeenergies[45]basedonthetheoryofYoung[46]:
+γ =γ −γcosθ (2)
+sl s l
+where γ and γ are the SFE of the solid and liquid (mJ/m2), respectively; γ is the
+s l sl
+solid/liquidinterfacialenergy,θistheCA(θ).
+AccordingtoFowkes’theory, theSFEofasolidcouldbedividedintotwocompo-
+nents[47]:
+γ=γd+γp (3)
+whereγdandγparethedispersiveandpolarcomponents(mJ/m2),respectively.
+Owens–Wendt[48]developedFowke’stheoryandestablishedEquation(4):
+(cid:113)
+(cid:112)
+γ = γ +γ −2 γ dγ d−2 γ pγ p (4)
+sl l s s l s l
+where γ d and γd are the dispersive components of SFE of solid and liquid (mJ/m2),
+s l
+respectively; γ p and γp are the polar component of SFE of solid and liquid (mJ/m2),
+s l
+respectively.
+CombiningEquation(4)and(2)yields:
+(cid:113)
+(cid:112)
+γ (1+cosθ) =2( γ pγ p+ γ dγ d) (5)
+l l s l s
+Forallthesurfacesevaluated,theSFEanditscomponents,i.e.,thedispersiveandpolar
+componentswerecalculated,consideringtheγ,γp,andγdare72.8,51.0,and21.8mJ/m2
+(distilledwater)and50.8,2.3,and48.5mJ/m2(diiodomethane)[49].
+4.3. DataPresentation
+Theproportionofthedifferent-sizedparticleselutedbyeachcleaningstepwascalcu-
+latedbyEquation(6):
+M
+i,j
+P = . (6)
+i,j ∑M
+i,j
+===== PAGE 15 =====
+Plants2021,10,2109 15of18
+whereP andM arethemassproportion(%)andthemass(g)oftheparticleswithinthej
+i,j i,j
+diameterclasselutedbythecleaningstepifromtheleafsurfaces,respectively.
+TheWPMcannotberemovedbyrainfallorwind,soonlytheretentionefficiencyof
+SPMofdifferentplantspecieswasconsideredinthepresentstudy. Theretentionefficiency
+ofSPMonaunitleafsurfacearea(AE )wascalculatedbyusingEquation(7):
+leaf
+M
+j
+AE = (7)
+leaf t
+whereM isthemassoftheparticleswithinthejdiameterclassretainedonaunitofleaf
+j
+area(g/m2);tisthetimeofexposure(7days).
+TheSPMretentionefficiencyofanindividualtree(AE )ofdifferentplantspecies
+plant
+wascalculatedbyusingEquation(8):
+AE =AE ×LA (8)
+plant leaf
+where LA is the total leaf area of an individual tree. LA can be calculated by using
+Equation(8):
+LA=LAI×D2 ×π/4 (9)
+whereLAIistheleafareaindex(m2/m2);Disthecrowndiameter(m).
+TheSPMretentionefficiencyonaunitgreeningland(AE )ofdifferentplantspecies
+land
+wascalculatedbyusingEquation(10):
+AE =AE ×LAI (10)
+land leaf
+4.4. DataAnalysis
+One-way analysis of variance (ANOVA) was undertaken using Minitab (v.17.1.0,
+MinitabInc., StateCollege, Pennsylvania, USA)statisticalpackagestoestimatethedif-
+ferencesintheretentioncapacitiesofthedifferentsizedparticles,SPM,WPM,totalPM,
+andmassproportionofPMamongthe20species. WhenANOVAindicatedsignificant
+differencesamongspecies,thepairsofspeciesthatexhibitedsignificantdifferenceswere
+determinedusingTukey’smultiplemeanscomparisontests. Therelationshipsbetween
+variableswereassessedwithregressionprocedures.Agiveneffectwasassumedsignificant
+at p < 0.05. K-means clustering was used to group the species into three sets with low,
+intermediate,orhighabilitytoaccumulatePM.ClusteringwasrunforthethreePMsize
+fractions,combiningsurface,wax-boundparticlesofeachfractionandsolublefractions.
+5. Conclusions
+Measurementsofthewater-solubleandin-waxPMarethekeytoaccuratelyquantify
+the PM retention capacity and efficiency of plants because they accounted for a large
+proportionoftheaccumulatedPMbyplantleaves,12.9–22.1%,14.1–31.7%ofthetotalPM.
+PlantspeciesshowedsignificantdifferencesinPMretentioncapacityandefficiencyby
+leavesbasedonperunitleafarea,perplant,andperunitgreenarea.Therankingpresented
+intermsofcapturingPMwithindifferentdiameterclassescanbeusedtoselectspecies
+foratmosphericPMpollutionremovalinPMpollutionregions. Eventhoughthemassof
+PMretainedonaunitleafareaisthemostcommonlyusedindextoassesstheretention
+abilitiesoftheplants. Itmaybeincomparablewithotherresults. Therefore,PMretention
+efficiencyisanalternativeindextoassessthePMretentionabilitiesofplantspecies. Since
+thequantityofPMwithindifferentdiameterclassescapturedbyplantleavesdependson
+thePMretentionamountperunitleafareaandleafareaindex,efficientplantspeciesand
+plantconfigurationdesignsconsideringdifferentlifeformsandleafhabitscanbeusedto
+decreasehumanexposuretothepollutants.
+===== PAGE 16 =====
+Plants2021,10,2109 16of18
+AuthorContributions:Conceptualization,H.W.andH.S.;methodology,H.W.;validation,H.W.;in-
+vestigation,H.W.andH.S.;resources,H.W.;datacuration,H.W.;writing—originaldraftpreparation,
+H.W.;writing—reviewandediting,H.W.andH.S.;visualization,H.W.;supervision,H.S.;project
+administration,H.W.;fundingacquisition,H.W.Allauthorshavereadandagreedtothepublished
+versionofthemanuscript.
+Funding:ThisresearchwasfundedbytheScientificResearchProgramoftheEducationDepartment
+ofShaanxiProvincialGovernment,grantnumber20JS082.
+InstitutionalReviewBoardStatement:Notapplicable.
+InformedConsentStatement:Notapplicable.
+DataAvailabilityStatement:Notapplicable.
+Acknowledgments:TheauthorsthankthefundingagencycitedaboveandtheKeyLabofNorthwest
+WaterResourcesandEnvironmentEcologyofMinistryofEducationforprovidingtheequipment.
+ConflictsofInterest:Theauthorsdeclarenoconflictofinterest.
+References
+1. Dominick,D.;Juahir,H.;Latif,M.T.;Zain,S.M.;Aris,A.Z.SpatialassessmentofairqualitypatternsinMalaysiausingmultivariate
+analysis.Atmos.Environ.2012,60,172–181.[CrossRef]
+2. Lim,C.H.;Ryu,J.;Choi,Y.;Joen,S.W.;Lee,W.K.UnderstandingglobalPM concentrationsandtheirdriversinrecentdecades
+2.5
+(1998–2016).Environ.Int.2020,144,106011.[CrossRef]
+3. WorldHealthOrganization(WHO).EvolutionofWHOAirQualityGuidelines:Past,PresentandFuture;WHORegionalOfficefor
+Europe:Copenhagen,Denmark,2017.
+4. Wang,H.X.;Maher,B.A.;Ahmed,I.A.M.;Davison,B.Efficientremovalofultrafineparticlesfromdieselexhaustbyselectedtree
+species: Implicationsforroadsideplantingforimprovingthequalityofurbanair. Environ. Sci. Technol. 2019,53,6906–6916.
+[CrossRef][PubMed]
+5. WHO.HealthEffectsofParticulateMatter: PolicyImplicationsforCountriesinEasternEurope,CaucasusandCentralAsia.
+Availableonline:http://www.euro.who.int/__data/assets/pdf_file/0006/189051/Health-effects-of-particulate-matter-final-
+Eng.pdf(accessedon12March2021).
+6. Li,L.;Wang,W.;Feng,J.L.;Zhang,D.P.;Li,H.J.;Gu,Z.P.;Wang,B.J.;Sheng,G.Y.;Fu,J.M.Composition,source,massclosureof
+PM aerosolsforfourforestsineasternChina.J.Environ.Sci.2010,22,405–412.[CrossRef]
+2.5
+7. Barwise,Y.;Kumar,P.Designingvegetationbarriersforurbanairpollutionabatement:Apracticalreviewforappropriateplant
+speciesselection.Clim.Atmos.Sci.2020,3,12.[CrossRef]
+8. Tong,Z.M.;Baldauf,R.W.;Isakov,V.;Deshmukh,P.;Zhang,K.M.Roadsidevegetationbarrierdesignstomitigatenear-roadair
+pollutionimpacts.Sci.TotalEnviron.2016,541,920–927.[CrossRef][PubMed]
+9. Weerakkody,U.;Dover,J.W.;Mitchell,P.;Reiling,K.Evaluatingtheimpactofindividualleaftraitsonatmosphericparticulate
+matteraccumulationusingnaturalandsyntheticleaves.UrbanFor.UrbanGree.2018,30,98–107.[CrossRef]
+10. Flett,L.;McLeod,C.L.;McCarty,J.L.;Shaulis,B.J.;Fain,J.J.;Krekeler,M.P.S.MonitoringuraniumminepollutiononNative
+Americanlands:InsightsfromtreebarkparticulatematterontheSpokaneReservation,Washington,USA.Environ.Res.2021,
+194,110619.[CrossRef][PubMed]
+11. Sæbø,A.;Popek,R.;Nawrot,B.;Hanslin,H.M.;Gawron´ska,H.;Gawronski,S.W.Plantspeciesdifferencesinparticulatematter
+accumulationonleafsurfaces.Sci.TotalEnviron.2012,427–428,347–354.[CrossRef]
+12. Abhijith,K.V.;Kumar,P.Quantifyingparticulatematterreductionandtheirdepositionontheleavesofgreeninfrastructure.
+Environ.Pollut.2020,265,114884.[CrossRef]
+13. Nowak,D.J.;Hirabayashi,S.;Doyle,M.;McGovern,M.;Pasher,J.AirpollutionremovalbyurbanforestsinCanadaanditseffect
+onairqualityandhumanhealth.UrbanFor.UrbanGreen.2018,29,40–48.[CrossRef]
+14. Wang,H.X.;Shi,H.;Wang,Y.H.Dynamicsofthecapturedquantityofparticulatematterbyplantleavesundertypicalweather
+conditions.ActaEcol.Sin.2015,35,1696–1705,(InChinesewithEnglishabstract).
+15. Dzierzanowski,K.; Popek,R.; Gawron´ska,H.; Sæbø,A.; Gawron´ski,S.W.Depositionofparticulatematterofdifferentsize
+fractionsonleafsurfacesandinwaxesofurbanforestspecies.Int.J.Phytoremediat.2011,13,1037–1046.[CrossRef][PubMed]
+16. Zhang,Z.D.;Xi,B.Y.;Cao,Z.G.;Jia,L.M.ExplorationofaquantitativemethodologytocharacterizetheretentionofPM and
+2.5
+otheratmosphericparticulatematterbyplantleaves: TakingPopulustomentosaasanexample. Chin. J.Appl. Ecol. 2014,25,
+2238–2242,(InChinesewithEnglishabstract).
+17. Yan,J.L.;Lin,L.;Zhou,W.Q.;Ma,K.M.;Pickett,S.T.A.Anovelapproachforquantifyingparticulatematterdistributiononleaf
+surfacebycombiningSEMandobject-basedimageanalysis.RemoteSens.Environ.2016,173,156–161.[CrossRef]
+18. Sternberg,T.;Viles,H.;Cathersides,A.;Edwards,M.Dustparticulateabsorptionbyivy(HederahelixL)onhistoricwallsinurban
+environments.Sci.TotalEnviron.2010,409,162–168.[CrossRef][PubMed]
+===== PAGE 17 =====
+Plants2021,10,2109 17of18
+19. Li,Y.F.;Yang,G.L.;Li,F.G.;Yu,L.S.ProcessingandanalysisformicrographofPM inatmosphere.Opto-Electron.Eng.2005,32,
+2.5
+54–58.(InChinesewithEnglishabstract)
+20. Wang,Z.H.;Li,J.B.CapacityofdustuptakebyleafsurfaceofEuonymusjaponicusThunb. andthemorphologyofcaptured
+particleinairpollutedcity.Ecol.Environ.2006,15,327–330.(InChinesewithEnglishabstract)
+21. Zhang,L.;Zhang,Z.Q.;Chen,L.X.;McNulty,S.Aninvestigationontheleafaccumulation-removalefficiencyofatmospheric
+particulatematterforfiveurbanplantspeciesunderdifferentrainfallregimes.Atmos.Environ.2019,208,123–132.[CrossRef]
+22. Xu,X.W.;Zhang,Z.M.;Bao,L.;Li,M.;Yu,X.X.;Fan,D.X.;Lun,X.X.Influenceofrainfalldurationandintensityonparticulate
+matterremovalfromplantleaves.Sci.TotalEnviron.2017,609,11–16.[CrossRef]
+23. Liu,H.H.; Cao,Z.G.; Jia,L.M.; Li,X.Z.; Hao,L.F.; Liu,J.Q.; Wang,H.; Xi,B.Y.Analysisoftheroleofultrasoniccleaningin
+quantitativeevaluationoftheretentionoftreeleavestoatmosphericparticles:AcasestudywithGinkgobiloba.Sci.SilvaeSin.
+2016,52,133–140.(InChinesewithEnglishabstract)
+24. Liu,J.Q.;Cao,Z.G.;Zou,S.Y.;Liu,H.H.;Hai,X.;Wang,S.H.;Duan,J.;Xi,B.Y.;Yan,G.X.;Zhang,S.W.;etal.Aninvestigationof
+theleafretentioncapacity,efficiencyandmechanismforatmosphericparticulatematteroffivegreeningtreespeciesinBeijing,
+China.Sci.TotalEnviron.2018,616–617,417–426.[CrossRef][PubMed]
+25. Xu,H.M.;Cao,J.J.;Chow,J.C.;Huang,R.J.;Shen,Z.X.;Chen,L.W.A.;Ho,K.F.;Watson,J.G.Inter-annualvariabilityofwintertime
+PM chemicalcompositioninX”an,China:Evidencesofchangingsourceemissions.Sci.TotalEnviron.2016,545–546,546–555.
+2.5
+[CrossRef][PubMed]
+26. Tao,J.;Zhang,L.M.;Engling,G.;Zhang,R.J.;Yang,Y.H.;Cao,J.J.;Zhu,C.S.;Wang,Q.Y.;Luo,L.ChemicalcompositionofPM
+2.5
+inanurbanenvironmentinChengdu,China:Importanceofspringtimeduststormsandbiomassburning.Atmos.Res.2013,122,
+270–283.[CrossRef]
+27. Galon-Negru,G.A.;Olariu,R.I.;Arsene,C.Size-resolvedmeasurementsofPM water-solubleelementsinIasi,north-eastern
+2.5
+Romania:Seasonality,sourceapportionmentandpotentialimplicationsforhumanhealth.Sci.TotalEnviron.2019,695,133839.
+[CrossRef]
+28. Jacobson,M.C.;Hansson,H.C.;Noone,K.J.;Charlson,R.J.Organicatmosphericaerosols:Reviewandstateofthescience.Rev.
+Geophys.2000,38,267–294.[CrossRef]
+29. Grosjean,D.Solventextractionandorganiccarbondeterminationinatmosphericparticulatematter: Theorganicextraction
+organiccarbonanalyze(OE-OCA)technique.Anal.Chem.1975,47,797–805.[CrossRef]
+30. Zhang,F.StudiesontheExistingShrubsoftheRoadinChangchunandtheDustEetentionCapacityoftheThreeShrubs.Master
+Dissertation,JilinAgriculturalUniversity,Changchun,China,2013.
+31. Chen,L.X.;Liu,C.M.;Zou,R.;Yang,M.;Zhang,Z.Q.Experimentalexaminationofeffectivenessofvegetationasbio-filterof
+particulatematterintheurbanenvironment.Environ.Pollut.2016,208,198–208.[CrossRef]
+32. Xu,Y.S.;Xu,W.;Mo,L.;Heal,M.R.;Xu,X.W.;Yu,X.X.Quantifyingparticulatematteraccumulatedonleavesby17speciesof
+urbantreesinBeijing,China.Environ.Sci.Pollut.R.2018,25,12545–12556.[CrossRef]
+33. Cˇeburnis,D.;Steinnes,E.Coniferneedlesasbiomonitorsofatmosphericheavymetaldeposition:Comparisonwithmossesand
+precipitation,roleofthecanopy.Atmos.Environ.2000,34,4265–4271.[CrossRef]
+34. Nieminen,T.M.;Derome,J.;Helmisaari,H.S.InteractionsbetweenprecipitationandScotspinecanopiesalongheavy-metal
+pollutiongradient.Environ.Pollut.1999,106,129–137.[CrossRef]
+35. Hong,X.L.;Yang,X.Y.;Yang,M.Y.;Zhong,Y.X.;Li,C.;Zhang,T.;Liu,Y.J.AmethodofquantifyingtheretentionofPM and
+2.5
+otheratmosphericparticulatesbyplantleaves.J.BeijingFor.Uni.2015,37,147–154.(InChinesewithEnglishabstract)
+36. Przybysz,A.;Sæbø,A.;Hanslin,H.M.;Gawron´ski,S.W.Accumulationofparticulatematterandtraceelementsonvegetationas
+affectedbypollutionlevel,rainfallandthepassageoftime.Sci.TotalEnviron.2014,481,360–369.[CrossRef]
+37. Popek,R.;Gawron´ska,H.;Wrochna,M.;Gawron´ski,S.W.;Sæbø,A.Particulatematteronfoliageof13woodyspecies:Deposition
+onsurfacesandphytostabilisationinwaxes–a3-yearstudy.Int.J.Phytoremediat.2012,15,245–256.[CrossRef][PubMed]
+38. Song,Y.S.;Maher,B.A.;Li,F.;Wang,X.K.;Sun,X.;Zhang,H.X.Particulatematterdepositedonleafoffiveevergreenspeciesin
+Beijing,China:Sourceidentificationandsizedistribution.Atmos.Environ.2015,105,53–60.[CrossRef]
+39. Wang, H.X.; Shi, H.; Li, Y.Y.; Zhang, J. Seasonal variations in leaf capturing of particulate matter, surface wettability and
+micromorphologyinurbantreespecies.Front.Env.Sci.Eng.2013,7,579–588.[CrossRef]
+40. Wang,H.X.;Shi,H.;Li,Y.Y.;Wang,Y.H.Theeffectsofleafroughness,surfacefreeenergyandworkadhesiononleafwaterdrop
+adhesion.PLoSONE2014,9,e107062.[CrossRef]
+41. Zuo,N.;Wang,H.X.;Yang,Z.;Zhong,M.T.;Shi,H.;Wang,Y.H.ThepropertiesofPinusbungeanacapturedparticulatesfrom
+atmospherewithdifferentdiametersatthebreastheight.Chin.J.Ecol.2017,36,367–373.(InChinesewithEnglishabstract)
+42. Chen,F.;Zhou,Z.X.;Wang,P.C.;Li,H.F.;Zhong,Y.F.GreenspacevegetationquantityinworkshopareaofWuhanIronandSteel
+Company.Chin.J.Appl.Ecol.2006,17,592–596.(InChinesewithEnglishabstract)
+43. Chen, Y.; Sui, H.D.; Feng, Z.K.; Sun, Y.Q. Comparative analysis on the precisions between two methods for tree height
+measurement.For.InventoryPlan.2009,34,1–5.(InChinesewithEnglishabstract)
+44. Knoll,D.;Schreiber,L.Influenceofepiphyticmicro-organismsonleafwettability:WettingoftheupperleafsurfaceofJuglans
+regiaandofmodelsurfacesinrelationtocolonizationbymicro-organisms.NewPhytol.1998,140,271–282.[CrossRef]
+45. Gindl,M.;Sinn,G.;Gindl,W.;Reiterer,A.;Tschegg,S.Acomparisonofdifferentmethodstocalculatethesurfacefreeenergyof
+woodusingcontactanglemeasurements.ColloidsSurf.A2001,181,279–287.[CrossRef]
+===== PAGE 18 =====
+Plants2021,10,2109 18of18
+46. Young,T.Anessayonthecohesionoffluids.Philos.Trans.R.Soc.Lond.1805,95,65–87.
+47. Fowkes,F.M.Determinationofinterfacialtensions,contactangles,anddispersionforcesinsurfacesbyassumingadditivityof
+intermolecularinteractionsinsurfaces.J.Phys.Chem.1962,66,382–386.[CrossRef]
+48. Owens,D.K.;Wendt,R.C.Estimationofthesurfacefreeenergyofpolymers.J.Appl.Polym.Sci.1969,13,1741–1747.[CrossRef]
+49. Fernández,V.;Sancho-Knapik,D.;Guzmán,P.;Peguero-Pina,J.;Gil,L.;Karabourniotis,G.;Khayet,M.;Fasseas,C.;Heredia-
+Guerrero,J.A.;Heredia,A.;etal. Wettability,polarityandwaterabsorptionofQuercusilexleaves: Effectofleafsideandage.
+PlantPhysiol.2014,166,168–180.[CrossRef][PubMed]

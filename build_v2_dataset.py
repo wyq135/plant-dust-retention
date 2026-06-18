@@ -385,7 +385,8 @@ for sp in df['plant_species'].unique():
           f"TSP范围={tsp_vals.min():.2f}-{tsp_vals.max():.2f} g/m2")
 
 # 保存
-os.makedirs("C:/Users/政委/Desktop/2026/plant_dust_v2", exist_ok=True)
-csv_path = "C:/Users/政委/Desktop/2026/plant_dust_v2/dataset.csv"
+ROOT = os.path.dirname(os.path.abspath(__file__))
+os.makedirs(os.path.join(ROOT, "data"), exist_ok=True)
+csv_path = os.path.join(ROOT, "data", "dataset.csv")
 df.to_csv(csv_path, index=False, encoding="utf-8-sig")
 print(f"\n数据集已保存: {csv_path}")

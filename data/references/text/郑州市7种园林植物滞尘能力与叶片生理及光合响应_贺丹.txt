@@ -1,0 +1,545 @@
+浙 江 农 林 大 学 学 报，2023，40（6）：1205–1214
+Journal of Zhejiang A&F University
+doi: 10.11833/j.issn.2095-0756.20230160
+郑州市7种园林植物滞尘能力与叶片生理及光合响应
+贺 丹，李海涛，原江琴，汪安印，王翼飞，李永华，刘艺平
+（河南农业大学 风景园林与艺术学院，河南 郑州 450002）
+摘要：【目的】深入探究郑州市典型园林植物的滞尘及综合抗污染能力。【方法】以7种常见园林植物(女贞Ligustrum
+lucidum、枇杷Eriobotrya japonica、石楠Photinia serrulata、八角金盘Fatsia japonica、大叶黄杨Euonymus japonicus、海
+桐Pittosporum tobira、南天竹Nandina domestica)为研究对象，在郑州市设立了街道、校园、公园3个采样区，采集各植
+物叶片滞留的不同粒径大气颗粒物[总悬浮颗粒物(TSP)、可吸入颗粒物(PM )、细颗粒物(PM )]，采用分级滤膜过滤
+10 2.5
+法测定各植物叶片单位叶面积滞尘量，同时比较不同污染程度下各植物的光合参数以及叶片生理指标，对植物滞尘与生
+理光合指标进行相关性与主成分分析，筛选滞尘与综合抗污染能力突出的园林植物。【结果】①植物的单位叶面积滞尘
+量与所在环境的大气颗粒物质量浓度成正比，且在颗粒物污染加重的情况下，不同植物对颗粒物的滞留量增幅是不均衡
+的。各植物滞留不同粒径颗粒物的能力有较大差异，枇杷对总悬浮颗粒物、细颗粒物的滞留能力最强，海桐对可吸入颗
+粒物的滞留能力最强。②随着采样区大气颗粒物质量浓度的增加，各植物的净光合速率、气孔导度、叶片叶绿素a、b质
+量分数均呈下降趋势，叶片的丙二醛质量摩尔浓度与超氧化物歧化酶、过氧化物酶活性呈上升趋势。③采用主成分分析
+方法得出，海桐与八角金盘的滞尘与抗污染综合能力较突出。【结论】在今后郑州市治理城市粉尘污染，进行城市绿化
+建设时，海桐与八角金盘可作为优先选择的植物。图2表4参38
+关键词：园林植物；生理指标；光合参数；滞尘能力；抗污染能力
+中图分类号：S718.4 文献标志码：A 文章编号：2095-0756(2023)06-1205-10
+Dust retention capacity and leaf physiology and photosynthesis response of
+7 garden plants in Zhengzhou City
+HE Dan，LI Haitao，YUAN Jiangqin，WANG Anyin，WANG Yifei，LI Yonghua，LIU Yiping
+（College of Landscape Architecture and Art, Henan Agricultural University, Zhengzhou 450002, Henan, China）
+Abstract: [Objective] The objective is to investigate the dust retention and comprehensive anti-pollution
+capacity of typical garden plants in Zhengzhou. [Method] 7 common garden plants (Ligustrum lucidum,
+Eriobotrya japonica, Photinia serrulata, Fatsia japonica, Euonymus japonicus, Pittosporum tobira, and
+Nandina domestica) were selected as the objects, and 3 sampling areas of streets, campuses and parks were set
+up. Atmospheric particulate matter with different particle sizes (total suspended particulate, inhalable particulate
+matter, fine particulate matter) retained by each plant leaf was collected. The dust retention per unit leaf area of
+each plant was determined by the method of graded membrane filtration. At the same time, the photosynthetic
+parameters and leaf physiological indicators of the plants under different pollution levels were compared. The
+correlation and principal component analysis of plant dust retention and physiological photosynthetic indexes
+were carried out, and garden plants with outstanding dust retention and comprehensive anti-pollution ability
+收稿日期：2023-02-18；修回日期：2023-06-12
+基金项目：河南省科技攻关项目(212102110185)；国家自然科学基金资助项目(31600579)；河南省青年骨干教师资
+助计划项目(2020GGJS049)
+作者简介：贺丹 (ORCID: 0000-0002-2703-6543)，副教授，博士，从事园林植物资源与应用。E-mail: dandan
+990111@163.com。通信作者：刘艺平(ORCID: 0000-0003-4486-1278)，副教授，博士，从事风景园林植
+物资源应用研究。E-mail: lyp_163@163.com
+1206 浙 江 农 林 大 学 学 报 2023年12月20日
+were screened. [Result] (1) The amount of dust retention per unit leaf area of plants was proportional to the
+mass concentration of atmospheric particulate matter in the environment. The increase in particulate matter
+retention by different plants was uneven with the aggravation of particulate matter pollution. (2) With the
+increase in atmospheric particulate matter concentration, the net photosynthetic rate, stomatal conductance,
+chlorophyll a and b content of leaves decreased, while the malondialdehyde content and superoxide dismutase
+and peroxidase activities of leaves increased. (3) The results of principal component analysis showed that the
+comprehensive ability of dust retention and anti-pollution of P. tobira and F. japonica was more prominent.
+[Conclusion] In the future control of urban dust pollution and urban greening construction in Zhengzhou, P.
+tobira and F. japonica can be selected as priority plants. [Ch, 2 fig. 4 tab. 38 ref.]
+Key words: garden plants; physiological indexes; photosynthetic parameters; dust retention capacity; anti-
+pollution capacity
+随着中国城市化和工业化进程的快速发展，煤炭燃烧、工业和交通废气不断增多，大气颗粒物造成
+的空气污染问题愈发严峻，对城市的生态环境和人类健康造成了严重影响[1]。大气颗粒物是中国多个城
+市的首要污染物，其中空气动力学直径小于或者等于10.0 μm的可吸入颗粒物(PM )会被吸入人体口鼻
+10
+引发呼吸系统疾病，空气动力学直径小于或者等于2.5 μm的细颗粒 物(PM )更容易携带细菌、病毒、
+2.5
+重金属等有害物质，直接进入人体肺泡和血液循环系统，引发心血管疾病[2−4]。因此，降低大气颗粒物
+质量浓度是缓解当今城市大气污染的有效途径之一。
+园林植物可以降低大气中的颗粒物(PM)质量浓度，改善城市空气质量[5−6]。植物主要通过叶片滞留
+大气颗粒物。叶表粗糙且沟壑较窄、密生绒毛与气孔密集的植物滞尘能力较强，叶片革质且表面光滑的
+植物滞尘能力差[7]。植物的滞尘能力也受其生长环境的污染状况的影响[8−9]，同一植物在燃油区、燃煤区
+等重污染地区的滞尘量均显著高于清洁区[10]。叶片作为植物进行气体交换的主要器官，表面的尘滞会阻
+断60%的光强而引发气孔堵塞，抑制其光合作用，导致植物的生长发育受阻[11−13]。同时，大气颗粒物污
+染严重的区域，植物的结构与功能会发生变化，其光合及生理活动受到影响[14]。植物的净光合速率和气
+孔导度以及叶片叶绿素质量分数，往往随着颗粒物质量浓度的升高呈下降趋势[15]。颗粒物污染程度加剧
+还会导致植物叶片内活性氧的产生和清除机制失调，引发膜脂过氧化，使叶片丙二醛(MDA)质量摩尔
+浓度以及相关的过氧化物酶(POD)、总超氧化物歧化酶(T-SOD)活性显著升高[16]。研究发现：不同植物
+在遭受颗粒物污染后自身光合作用与生理指标的响应程度能够反映其对颗粒物污染抗性的强弱[17−18]。栾
+树Koelreuteria paniculata与紫叶李Prunus cerasifera ‘Atropurpurea’受颗粒物污染后，其净光合速率与
+气孔导度在同一污染环境下较其他植物损失小，抗颗粒物污染能力较强[19]。圆柏Juniperus chinensis、雪
+松Cedrus deodara随着生长区域颗粒物质量浓度的提升，叶片叶绿素质量分数的下降幅度小于其他植
+物，对颗粒物污染的抗性较高[20]。
+郑州市位于中国中部地区，随着经济的快速发展，城市的颗粒物质量浓度超出国际限值，严重影响
+了城市的大气环境[21]。目前，关于郑州市典型绿化植物受颗粒物胁迫后的抗污染能力研究较少。本研究
+以郑州市常见的7种园林植物为研究对象，测定单位叶面积滞留的不同粒径颗粒物的质量，比较分析不
+同污染程度下各植物对颗粒物污染的生理与光合指标响应程度，旨在筛选出滞尘能力和抗污染能力综合
+水平较高的优良植物，为有效治理郑州市大气污染和加强城市绿化建设提供科学依据。
+1 材料与方法
+1.1 采样点概况
+郑州市位于河南省中北部(34°16′~34°58′N，112°42′~114°14′E)。本研究选取郑州市金水区3个具有
+代表性的区域进行采样，其中道路区域中州大道(简称道路)，机动车数量多且周围建筑密集，车流、人
+流量均较多；校园区域河南农业大学文化路校区(简称校园)人流量密集，车流量相对较少；公园区域郑
+州之林(简称公园)植被丰富，环境质量好。采样时现场测得的道路、校园、公园3个区域大气颗粒物质
+第40卷第6期 贺 丹等： 郑州市7种园林植物滞尘能力与叶片生理及光合响应 1207
+量浓度分别是265.3、105.6、56.7 μg·m−3，对应划分为高、中、低3个不同程度的污染水平。
+1.2 供试植物
+在对采样区域植物种类进行调查的基础上，选取了郑州市常见的7种园林植物[22]作为研究对象(表1)。
+表 1 供试植物
+Table 1 Test plants
+序号 植物 科 属 叶片特征 叶表形态特征
+1 女贞Ligustrum lucidum 木犀科Oleaceae 女贞属Ligustrum 叶长卵形或椭圆形；革质 叶表面光滑平整，无毛状体分布
+叶表面粗糙，具有大量毛状
+2 枇杷Eriobotrya japonica 蔷薇科Rosaceae 枇杷属Eriobotrya 叶披针形或椭圆形；革质
+体、沟壑与褶皱
+3 石楠Photinia serrulata 蔷薇科Rosaceae 石楠属Photinia 叶长椭圆形或倒卵形；革质 叶表面粗糙，中脉与侧脉显著
+叶表面粗糙，具有较密的集棉
+4 八角金盘Fatsia japonica 五加科Araliaceae 八角金盘属Fatsia 叶掌状；革质 状绒毛与起伏不平的辐射状
+叶脉
+叶卵形或椭圆形；革质或 叶表面较光滑，具有少量毛状
+5 大叶黄杨Euonymus japonicus 卫矛科Celastraceae 卫矛属Euonymus
+薄革质 体，沟槽较浅或平整
+叶倒卵形或倒卵状披针 叶表面光滑，中脉附近有少量
+6 海桐Pittosporum tobira 海桐科Pittosporaceae 海桐属Pittosporum
+形；革质 毛状体，沟壑较浅
+叶椭圆形或椭圆状披针 叶表面光滑，除中脉外叶表面
+7 南天竹Nandina domestica 小檗科Berberidaceae 南天竹属Nandina
+形；薄革质 其余部分光滑无毛
+1.3 叶片采集方法
+采样时间选在树木生长的茂盛期，采样植株生长良好、无病虫害，株高和冠幅接近。于 2021年
+7月雨后(降雨量大于15 mm)第 7天，无风、无雨，天气晴朗的环境下在3个采样区开始采集叶片。各
+供试植物设置3个重复。因为各植物高度并非完全一致，在距离地面50~150 cm处东南西北4个方向随
+机采集长势良好、完整的成熟叶片。单叶面积较大的植物采取10~15片，较小的采取30~50片。将采集
+的叶片小心放入自封袋中，避免抖动，减少对叶片表面粉尘量的干扰。所有叶片采集完毕后，分为2个
+部分：用于滞尘实验的叶片置于4 ℃保存，用于生理实验的叶片经液氮处理后置于−80 ℃保存。
+1.4 叶片滞尘量测定
+运用改良的分级滤膜过滤法[23]测量并计算3个采样区各植物叶片的总悬浮颗粒物(TSP)、可吸入颗
+粒物、细颗粒物的滞留量，使用叶面积仪(CI-203，美国思爱迪公司)对清洗后的供试植物叶片进行叶面
+积测定，重复3次；单位叶面积滞尘量=叶片颗粒物质量/叶片总面积。本研究叶片颗粒物滞留量的测量
+结果只针对在叶表面沉积的物理的、不溶性的颗粒物数量。
+1.5 叶片生理指标与光合参数测定
+选取新鲜植物叶片进行生理指标测定，叶片叶绿素a (Chla)、叶绿素b (Chlb)质量分数用体积分数
+为 80%丙酮溶液浸提比色分析测定； MDA质量摩尔浓度用硫代巴比妥酸法测定；超氧化物歧化 酶
+(SOD)活性用氮蓝四唑(NBT)光化还原法测定；POD活性用愈创木酚法测定[24]。
+利用LI-6400便捷式光合测定仪(美国LI-COR公司)开放式气路测量植物的净光合速率(P )和气孔
+n
+导度(G)。叶片采集当天在自然光照下进行光合测量，测定时间为采集叶片当天的9:00—12:00。每种植
+s
+物测量3株，每株随机选取3片长势良好、大小相近、长于阳面的叶片，每片叶测取3个有效瞬时值。
+1.6 数据处理
+利用SPSS 23.0对数据进行主成分分析(PCA)、单因素方差分析(one-way ANOVA)，相关性分析采
+用 Pearson 检验； Exce1 2021 对数据整理、统计；采用Origin 2021和Photoshop 2020绘图。
+2 结果与分析
+2.1 不同污染区域植物滞尘能力的比较
+不同采样区植物的单位叶面积总悬浮颗粒物(TSP)、可吸入颗粒物(PM )、细颗粒物(PM )滞尘量
+10 2.5
+如图1所示。在3个采样区中，枇杷的单位叶面积总悬浮颗粒物、细颗粒物的滞尘量均高于其他植物，
+女贞在道路与校园的单位叶面积总悬浮颗粒物滞尘量最低，南天竹在公园的单位叶面积总悬浮颗粒物滞
+尘量最低。南天竹的单位叶面积可吸入颗粒物与细颗粒物滞尘量在3个采样区均低于其他植物。石楠在
+道路的单位叶面积可吸入颗粒物滞尘量最高，枇杷在公园与校园的单位叶面积可吸入颗粒物滞尘量
+最高。
+1.8
+1.5
+1.2
+0.9
+0.6 0.3
+0
+积面叶位单
+)2−m·g(/量尘滞
+MP 01
+B * 1.5
+1.2
+0.9
+0.6
+0.3 * 0
+−0.3
+道路 校园 公园
+积面叶位单
+)2−m·g(/量尘滞
+MP
+5.2
+5 C *
+4
+3
+2
+1 *
+0
+道路 校园 公园 道路 校园 公园
+采样区 采样区
+积面叶位单
+)2−m·g(/量尘滞
+PST
+1208 浙 江 农 林 大 学 学 报 2023年12月20日
+A *
+* *
+采样区
+均值 ± 标准差 最大值 均值 最小值
+*表示植物不同粒径滞尘量在各采样区间差异显著 (P＜0.05)。
+图 1 植物在3个采样区滞尘能力的比较
+Figure 1 Comparison of dust retention capacity of different plants in three sampling areas
+同一植物在不同采样区的单位叶面积总悬浮颗粒物、可吸入颗粒物、细颗粒物滞尘量在整体上从高
+到低依次为道路、校园、公园，且7种植物在道路与校园的单位叶面积各粒径平均滞尘量均显著高于公
+园(P＜0.05)。不同植物对各粒径颗粒物的滞留量在污染加剧后增幅是不均衡的，南天竹对总悬浮颗粒
+物、可吸入颗粒物的滞留量增幅最大，其道路区域的单位叶面积总悬浮颗粒物、可吸入颗粒物滞尘量是
+公园的2.79与 4.01倍，增幅最小的女贞仅为1.16与 1.89倍。海桐对细颗粒物的滞留量增幅最大，其道
+路的单位叶面积细颗粒物滞尘量是公园的2.86倍。7种植物在3个采样区的平均总悬浮颗粒物滞尘量较
+大的为枇杷(2.53 g·m−2)与石 楠(2.06 g·m−2)，较小的为海桐(1.46 g·m−2)与女 贞(1.21 g·m−2)。单位叶面
+积平均可吸入颗粒物滞尘量最大的为海桐(0.52 g·m−2)，最小的为八角金盘(0.29 g·m−2)。单位叶面积平
+均细颗粒物滞尘量最大的为枇杷(0.57 g·m−2)，最小的为南天竹(0.05 g·m−2)。
+2.2 不同污染区域植物光合与生理指标的变化
+7种植物 在 3个采样区的净光合速率、气孔导度从高到低依次均为公园、校园、道 路 (图 2A、
+图2B)，且植物在道路与校园的平均净光合速率、气孔导度与公园之间均存在显著差异(P＜0.05)。3个
+采样区的平均净光合速率和气孔导度最大的是海桐，分别为 10.12 μmol·m−2·s−1和 0.13 mmol·m−2·s−1，
+最小的为南天竹，分别为3.72 μmol·m−2·s−1和 0.07 mmol·m−2·s−1。各植物遭受颗粒物胁迫后，净光合速
+率损失率较小的为大叶黄杨(11%)，较大的为南天竹(63%)；气孔导度损失率较小的为八角金盘(40%)，
+较大的为南天竹(58%)与海 桐(59%)。各植物叶片叶绿素a、叶绿素b质量分数均随着采样区颗粒物质
+量浓度的升高而下降(图2C、图2D)，且校园与道路植物叶片的平均叶绿素a、叶绿素b质量分数均显
+著低于公园(P＜0.05)。八角金盘在3个采样区的叶片平均叶绿素a质量分数(0.41 mg·g−1)最高，枇杷的
+叶片平均叶绿素b质量分数(0.21 mg·g−1)最高。女贞的叶片平均叶绿素a和叶绿素b质量分数最低，分
+别为0.18和 0.07 mg·g−1。随着颗粒物污染加剧，女贞的叶片叶绿素a质量分数和南天竹的叶片叶绿 素
+b质量分数变化较小，变化量分别为0.23和 0.06 mg·g−1。八角金盘的叶片叶绿素a质量分数与枇杷叶绿
+素b质量分数变化较大，变化量分别为0.47和0.22 mg·g−1。
+同一植物在 3个采样区的叶片丙二醛质量摩尔浓度均随着采样区颗粒物质量浓度的升高而上升
+(图2E)，其中道路采样区植物叶片平均丙二醛质量摩尔浓度显著高于其他采样区(P＜0.05)。各植物在
+3个采样区叶片平均丙二醛质量摩尔浓度最高的为南天 竹 (38.02 μmol·g−1)，最低的为石楠 (11.28
+μmol·g−1)。且在污染加剧的情况下，叶片丙二醛质量摩尔浓度增幅较大的为南天竹和女贞，增幅分别为
+63.25和35.57 μmol·g−1，增幅最小的为八角金盘(0.69 μmol·g−1)。
+植物叶片超氧化物歧化酶、过氧化物酶活性从高到低依次为道路、校园、公园(图2F、图2G)，且
+道路采样区植物叶片酶活性与公园之间存在显著差异(P＜0.05)。各植物叶片平均超氧化物歧化酶、过氧
+化物酶活性最高的为大叶黄杨，分别为8.88和 12.00 μkat·g−1；平均超氧化物歧化酶活性最低的为南天
+16
+14
+12
+10
+8
+6
+4
+2
+0
+均值 ± 标准差 最大值 均值 最小值
+竹(4.37 μkat·g−1)，平均过氧化物酶活性最低的为海桐(6.39 μkat·g−1)。颗粒物污染加剧后，八角金盘的
+过氧化物酶活性与枇杷的超氧化物歧化酶活性变化较小，变化量分别为4.34和 2.08 μkat·g−1。大叶黄杨
+的过氧化物酶活性与海桐的超氧化物酶活性变化较大，分别为15.99和6.32 μkat·g−1。
+2.3 植物滞尘能力与光合指标、生理指标的相关性及主成分分析
+通过对各植物滞尘量、光合、生理等10个指标进行相关性分析可知：各指标的相关系数达到显著
+水平的有31个 (表2)(P＜0.05)。但将10个指标转化为主成分分析时，提取出的前3个主成分的累积方
+)1−s·2−m·lomμ(/率速合光净
+A * 0.30
+0.25
+0.20
+0.15
+* 0.10
+0.05
+0
+)1−s·2−m·lomm(/度导孔气
+* B
+*
+1.0
+0.8
+0.6
+0.4
+0.2
+0
+)1−g·gm(/a
+素绿叶
+C * 0.5
+0.4
+0.3
+0.2
+* 0.1
+*
+0
+)1−g·gm(/b
+素绿叶
+* D
+*
+100
+80
+60
+40
+20
+0
+)1−g·lomμ(/醛二丙
+E * 12
+10
+8
+6
+4
+*
+2
+0
+)1−g·takμ(/性活酶化歧物化氧超 * F
+25
+20
+15
+10
+5
+0
+道路 校园 公园
+)1−g·takμ(/性活酶物化氧过
+第40卷第6期 贺 丹等： 郑州市7种园林植物滞尘能力与叶片生理及光合响应 1209
+道路 校园 公园 道路 校园 公园
+采样区 采样区
+道路 校园 公园 道路 校园 公园
+采样区 采样区
+道路 校园 公园 道路 校园 公园
+采样区 采样区
+G *
+*表示植物生理指标在各采样区间差异显著 (P＜0.05)。
+*
+采样区
+图 2 植物在3个采样区光合与生理指标的变化
+Figure 2 Changes of photosynthetic and physiological indexes of plants in three sampling areas
+1210 浙 江 农 林 大 学 学 报 2023年12月20日
+差贡献率较低，能反映出各植物滞尘与抗污染能力综合的信息较少，不能用来进行综合评价。但将超氧
+化物歧化酶、过氧化物酶活性指标去除后，再次进行主成分分析时，在提取出的前3个主成分中，叶绿
+素a质量分数、叶绿素b质量分数和气孔导度在第1个主成分荷载较大，净光合速率在第2个主成分荷
+载较大，总悬浮颗粒物质量浓度在第3个主成分荷载较大，说明第1个与第2个主成分主要反映了植物
+的抗污染能力，第 3个主成分主要反映了植物的滞尘能力，且 前 3个主成分的累积方差贡献率 为
+80.84%，反映出滞尘能力和抗污染能力80% 以上的信息(表3)。因此，可以提取前3个主成分为植物滞
+尘与抗污染能力评价的综合指标。至于超氧化物歧化酶、过氧化物酶活性指标的存在不能满足主成分分
+析，可能是植物遭受颗粒物污染时抗氧化酶活性的变化不能有效反映植物对颗粒物污染的抗性强弱。
+表 2 植物滞尘能力与光合、生理指标的相关性分析
+Table 2 Correlation analysis of plant dust arrest capacity and photosynthetic and physiological indicators
+指标 x x x x x x x x x x
+1 2 3 4 5 6 7 8 9 10
+x 1 1 0.299* 0.478** −0.321* −0.397** −0.359** −0.208 0.338** 0.459** 0.192
+x 2 1 0.222 0.057 −0.159 −0.478** −0.328** 0.203 0.285* 0.039
+x 3 1 −0.089 −0.212 −0.357** −0.254* 0.034 0.383** 0.214
+x 4 1 0.635** 0.199 0.228 −0.439** −0.309* −0.386**
+x 5 1 0.526** 0.460** −0.340** −0.377** −0.269*
+x 6 1 0.875** −0.309* −0.384** −0.299*
+x 7 1 −0.285* −0.252* −0.268*
+x 8 1 0.165 0.411**
+x 9 1 0.356**
+x 10 1
+说明：*表示各指标在0.05水平上显著相关，**表示各指标在0.01水平上极显著相关。x. 总悬浮颗粒物(TPS)质量浓度；x. 可
+1 2
+吸入颗粒物(PM )质量浓度；x. 细颗粒物(PM )质量浓度；x. 净光合速率(P)；x. 气孔导度(G)；x. 叶绿素a (Chla)
+10 3 2.5 4 n 5 s 6
+质量分数；x. 叶绿素b (Chlb)质量分数；x. 丙二醛(MDA)质量摩尔浓度；x. 超氧化物歧化酶(SOD)活性；x . 过氧化物
+7 8 9 10
+酶(POD)活性。
+表 3 滞尘、生理与光合指标的前3个主成分贡献率和因子载荷矩阵
+Table 3 First three principal component contribution rates and factor load matrix of dust arrest, physiology and photosynthetic indicators
+成分矩阵
+主成分 特征值 贡献率/% 累计贡献率/%
+x x x x x x x x
+1 2 3 4 5 6 7 8
+1 −0.71 −0.69 −0.63 0.51 0.77 0.88 0.78 −0.55 3.90 48.79 48.79
+2 0.02 0.49 0.47 0.77 0.41 −0.24 −0.16 −0.47 1.53 19.13 67.92
+3 0.61 0.01 0.45 −0.11 −0.01 0.36 0.55 −0.08 1.03 12.93 80.84
+说明：x. 总悬浮颗粒物(TPS)质量浓度; x. 可吸入颗粒物(PM )质量浓度; x. 细颗粒物(PM )质量浓度; x. 净光合速率(P);
+1 2 10 3 2.5 4 n
+x. 气孔导度(G); x. 叶绿素a (Chla)质量分数; x. 叶绿素b (Chlb)质量分数; x. 丙二醛(MDA)质量摩尔浓度。
+5 s 6 7 8
+2.4 植物滞尘、抗污染能力的综合评价
+为了更好地评价各植物的滞尘与抗污染的能力，根据提取的前 3个主成分的贡献率得到植物的综合
+得分公式：y= 0.4879y +0.1913y +0.1293y 。其中：y 表示植物在第 1 主成分的得分；y 表示植物在第 2
+1 2 3 1 2
+主成分的得分；y 表示植物在第 3 主成分的得分；y表示植物的综合得分。海桐在y 与 y 的得分高于其
+3 1 2
+他植物，说明海桐在颗粒物胁迫后生理与光合指标响应程度小，具备较强的抗污染能力，且各植物
+y 与 y 的得分从大到小依次为海 桐 (3.03)、石楠 (0.46)、大叶黄杨 (0.11)、八角金盘 (−0.05)、女贞
+1 2
+(−0.50)、枇杷(−1.26)、南天竹(−1.80)。枇杷在y 得分高于其他植物，说明其具备较强的滞尘能力。基
+3
+于以上公式对植物的滞尘与抗污染综合能力进行评价和排序(表4)，其中滞尘和抗污染综合能力较强的
+植物是海桐与八角金盘，较差的是南天竹和女贞。
+3 讨论
+在同一采样区中，不同植物的单位叶面积滞尘量存在较大差异，可能是植物叶表的毛状体分布、沟
+第40卷第6期 贺 丹等： 郑州市7种园林植物滞尘能力与叶片生理及光合响应 1211
+表 4 植物滞尘、抗污染能力综合评价
+Table 4 Comprehensive evaluation of dust resistance and anti-pollution ability of plants
+得分 得分
+植物 排名 植物 排名
+y 1 y 2 y 3 y y 1 y 2 y 3 y
+海桐 1.29 1.74 −0.25 0.93 1 枇杷 −0.77 −0.49 1.90 −0.22 5
+八角金盘 0.92 −0.97 0.03 0.27 2 南天竹 −0.03 −1.77 −0.96 −0.47 6
+石楠 −0.34 0.80 0.74 0.09 3 女贞 −1.04 0.54 −1.20 −0.56 7
+大叶黄杨 −0.04 0.15 −0.26 −0.03 4
+说明：y、y、y分别表示第1、第2、第3主成分得分，y表示综合得分。
+1 2 3
+壑深浅与粗糙度等形态特征不同所引起的[7]。枇杷与石楠在3个采样区滞尘量都较高，可能是因为两者
+叶表面较粗糙，沟壑或毛状体较多、叶脉突出，使更多的颗粒物沉积于叶表面[25]。而女贞、海桐与南天
+竹在3个采样区的滞留颗粒物能力均较差，可能是因为三者叶表面较光滑，无明显褶被，毛状体较少，
+不易黏附颗粒物[23]。八角金盘叶表面密生绒毛，大叶黄杨叶表面有一定绒毛与沟壑，增加了叶片粗糙
+度，因此两者滞尘量也相对较高[26]。同时，植物对不同粒径颗粒物的滞留能力不同。本研究中，枇杷对
+总悬浮颗粒物、细颗粒物的滞留能力高于其他植物，海桐对可吸入颗粒物的滞留能力较强。这可能也与
+植物叶表面形态特征以及对颗粒物粒径的选择性等因素相关[27]。除了叶表形态特征外，采样区的污染程
+度对同一植物的颗粒物滞留量也会产生较大影响[10]。本研究中不同污染区域的同一植物各粒径滞尘量存
+在显著差异，从高到低依次表现为道路、校园、公园。同时，各植物对颗粒物的滞留量随采样区污染程
+度的增加幅度是不均衡的，南天竹随污染程度增加对颗粒物滞留量增幅较大，女贞随污染程度增加对颗
+粒物滞留量增幅较小。由此可见，同一植物对颗粒物的滞留量受环境污染的影响程度较大，不同植物的
+滞尘能力受叶表形态特征影响较大[28]。
+植物的光合参数是植物生长状态的重要参数，常被用作反映植物生长情况以及抗逆性的强弱[29]。
+本研究中7种植物的净光合速率与气孔导度都与采样区的颗粒物质量浓度成反比。这可能是由于叶表面
+颗粒物的堆积抑制了植物对光照的吸收，植物叶表面滞尘量越高，对可吸收光强的阻碍越严重[30]。同
+时，颗粒物在叶片表面结成硬壳堵塞气孔，致使植物气孔导度下降，影响植物的生理生化进程[31]。气孔
+是植物叶片与外界进行气体交换的主要通道，气孔导度反映气孔孔径的大小，污染加剧后植物气孔孔径
+变小，导致气孔长和宽下降、密度提升。而气孔密度的提升增强了叶表面对颗粒物的阻滞作用，可能使
+得同一植物在污染较高的区域滞留更多的颗粒物[20]。各植物受颗粒物污染后光合参数的损失率存在差异
+性，大叶黄杨的净光合速率损失率较小，八角金盘气孔导度损失率较小，南天竹的光合参数损失率较
+高。大叶黄杨与八角金盘的光合参数损失率较小，可能是其对颗粒物污染的抗性较强，南天竹的光合参
+数损失率较大，可能是其对颗粒物污染的抗性较弱[17−18]。叶绿素是植物受到逆境胁迫后调节光合作用的
+重要指标，其质量分数会影响植物的光合能力[32]。植物叶片叶绿素a、叶绿素b质量分数与采样区域污
+染程度呈负相关，可能是因为颗粒物中含有多种污染物质，使叶片内的叶绿素受到破坏而分解，降低了
+植物的光合能力[33]。且不同植物在遭受颗粒物污染后叶片素a、叶绿素b质量分数变化幅度不同，女贞
+与南天竹的叶片叶绿素质量分数变化较小，可能是因为这2种植物对颗粒物污染的抵抗能力较强；而八
+角金盘与枇杷叶片的叶绿素质量分数变化较大，则可能是其对颗粒物污染较敏感，适应性弱[11]。
+植物受颗粒物污染后，最先受到影响的是细胞膜。细胞膜稳定性越好，植物对环境胁迫的抗性越
+强[13]。本研究中叶片的丙二醛质量摩尔浓度、超氧化物歧化酶活性和过氧化物酶活性与环境污染程度成
+正比。可能是由于植物受颗粒物污染后，体内产生大量的活性氧，引发细胞膜脂过氧化作用，使叶片丙
+二醛质量摩尔浓度升高，并破坏了光合反应中心PSⅡ活性[34]。而超氧化物歧化酶与过氧化物酶作为膜
+脂过氧化防御系统的保护酶，其活性的升高可以清除植物体内多余的活性氧[35]。同时，有研究发现：超
+氧化物歧化酶等抗氧化酶主要分布于光合反应中心PSⅠ附近，故推测植物遭到颗粒物污染后，通过提
+升PSⅠ附近抗氧化酶的活性来促进活性氧代谢，从而增强光合反应中心PSⅡ的光化学效率，使植物的
+光合作用正常进行[36]。且不同植物受到的颗粒物污染后，体内抗氧化酶活性的变化幅度不同，八角金盘
+1212 浙 江 农 林 大 学 学 报 2023年12月20日
+与枇杷的抗氧化酶活性变化较小，大叶黄杨与海桐的抗氧化酶活性变化较大，植物对颗粒物污染呈现出
+不同程度的抗性[17]。同时，随着污染加剧，石楠与海桐叶片的丙二醛质量摩尔浓度增幅较小，南天竹叶
+片的丙二醛质量摩尔浓度增幅较大。可能是由于石楠与海桐受到颗粒物污染后，对其抗性较强，而南天
+竹对颗粒物污染的抗性较差，膜脂过氧化程度严重[37]。各植物叶片丙二醛质量摩尔浓度变化幅度的大小
+顺序与植物抗污染能力的得分(y +y )排序基本一致，说明丙二醛质量摩尔浓度可作为鉴定植物抗污染能
+1 2
+力的重要指标[38]。综上所述，植物在受颗粒物污染后通过生理指标的响应去减缓颗粒物污染对自身生长
+发育的影响，且不同植物对颗粒物污染的抗性存在差异[20]。
+研究园林植物滞尘能力的同时要关注植物的抗颗粒物污染的能力，只有植物本身对颗粒物的滞留量
+大且受颗粒物污染影响小，才是适合城市绿化建设的滞尘与抗污染综合能力强的植物[37]。通过对植物的
+滞尘量与单个生理、光合指标的响应程度进行讨论并不能有效反映植物本身抗尘能力的强弱，因此，本
+研究通过主成分分析法综合评价7种的植物滞尘与抗污染能力的得分，其中海桐与八角金盘的得分高于
+其他植物，两者的滞尘能力较强，且受到颗粒物污染后生理与光合指标变化小即对颗粒物污染的抗性
+较强。
+4 结论
+植物的滞尘量与所在环境的颗粒物质量浓度成正比，颗粒物质量浓度越高，植物的单位叶面积滞尘
+量越大。不同植物对颗粒物的滞留量在粉尘污染加重的情况下增幅是不均衡的，南天竹在污染加剧后对
+颗粒物的滞留量增幅较大，女贞对颗粒物滞留量增幅较小。同时，不同植物的滞尘能力受叶表形态特征
+影响较大，枇杷与石楠的滞尘能力较高，女贞、海桐与南天竹的滞尘能力小。其次，各植物滞留不同粒
+径颗粒物的能力有较大差异，其中枇杷对总悬浮颗粒物、细颗粒物的滞留能力最强，海桐对可吸入颗粒
+物的滞留能力最强。随着采样区颗粒物质量浓度的增加，各植物的净光合速率、气孔导度以及叶片的叶
+绿素a和叶绿素b质量分数均呈下降趋势，叶片的丙二醛质量摩尔浓度与超氧化物歧化酶、过氧化物酶
+活性呈上升趋势。采用主成分分析法得出，海桐、八角金盘的滞尘与抗污染综合能力较突出，在今后郑
+州市治理城市粉尘污染、进行城市绿化建设时可作为优先选择的植物。
+5 参考文献
+[1] 代嘉慧, 孙方, 徐慧, 等. 杭州市常见绿化乔木滞尘能力分析[J]. 南方农业, 2018, 12（12）: 164 − 166.
+DAI Jiahui, SUN Fang, XU Hui, et al. Analysis of dust retention ability of common green trees in Hangzhou [J]. South
+China Agriculture, 2018, 12（12）: 164 − 166.
+[2] CAI Mengfan, XIN Zhongbao, YU Xinxiao. Spatio-temporal variations in PM leaf deposition: a meta-analysis [J].
+Environmental Pollution, 2017, 231（1）: 207 − 217.
+[3] LOSACCO C, PERILLO A. Particulate matter air pollution and respiratory impact on humans and animals [J].
+Environmental Science and Pollution Research, 2018, 25（34）: 33901 − 33910.
+[4] OU J Y, HANSON H, RAMSAY J M, et al. Fine particulate matter air pollution and mortality among pediatric, adolescent,
+and young adult cancer patients [J]. Cancer Epidemiology, Biomarkers & Prevention, 2020, 29（10）: 1929 − 1939.
+[5] LIU Jinqiang, CAO Zhiguo, ZOU Songyan, et al. An investigation of the leaf retention capacity, efficiency and mechanism
+for atmospheric particulate matter of five greening tree species in Beijing, China [J]. Science of the Total Environment,
+2018, 616: 417 − 426.
+[6] CHIAM Z Y, SONG Xiaoping, LAI Haoran, et al. Particulate matter mitigation via plants: understanding complex
+relationships with leaf traits [J]. Science of the Total Environment, 2019, 688: 398 − 408.
+[7] CHEN Dele, YIN Shan, ZHANG Xuyi, et al. A high-resolution study of PM accumulation inside leaves in leaf stomata
+2.5
+compared with non-stomatal areas using three-dimensional X-ray microscopy [J/OL]. Science of the Total Environment,
+2022, 852: 158543[2023-01-10]. doi:10.1016/j.scitotenv.2022.158543.
+[8] 王琴, 冯晶红, 黄奕, 等. 武汉市15种阔叶乔木滞尘能力与叶表微形态特征[J]. 生态学报, 2020, 40（1）: 213 − 222.
+WANG Qin, FENG Jinghong, HUANG Yi, et al. Dust-retention capability and leaf surface micromorphology of 15 broad
+leaved tree species in Wuhan [J]. Acta Ecologica Sinica, 2020, 40（1）: 213 − 222.
+第40卷第6期 贺 丹等： 郑州市7种园林植物滞尘能力与叶片生理及光合响应 1213
+[9] BARALDI R, NERI L, COSTA F, et al. Ecophysiological and micromorphological characterization of green roof vegetation
+urban mitigation [J]. Urban Forestry & Urban Greening, 2019, 37: 24 − 32.
+[10] 朱旭, 李海梅, 李彦华, 等. 8种灌木对大气颗粒物污染的生理响应[J]. 生态环境学报, 2022, 31（3）: 535 − 545.
+ZHU Xu, LI Haimei, LI Yanhua, et al. Physiological responses of eight shrubs to atmospheric particulate matter pollution
+[J]. Ecology and Environmental Sciences, 2022, 31（3）: 535 − 545.
+[11] HANSLIN H M, PRZYBYSZ A, SLIMESTAD R, et al. Stress acclimation and particulate matter accumulation in Pinus
+sylvestris saplings affected by moderate combinations of urban stressors [J]. Science of the Total Environment, 2017,
+593/594: 581 − 591.
+[12] HU Zizhan, TANG Xuguang, CHEN Zheng, et al. Spatial and temporal analyses of air pollutants and meteorological driving
+forces in Beijing-Tianjin-Hebei region, China [J/OL]. Environmental Earth Sciences, 2018, 77: 540[2023-01-10]. doi:
+10.1007/s12665-018-7705-y.
+[13] COLAPICCHION V, MOSCA S, GUERRIERO E, et al. Environmental impact of co-combustion of polyethylene wastes in
+a rice husks fueled plant: evaluation of organic micropollutants and PM emissions [J/OL]. Science of the Total Environment,
+2020, 716(3): 135354[2023-01-10]. doi: 10.1016/j.scitotenv.2019.135354.
+[14] KUMAR A, KUMAR P, SINGH H, et al. Modulation of plant functional traits under essential plant nutrients during
+seasonal regime in natural forests of Garhwal Himalayas [J]. Plant and Soil, 2021, 465: 197 − 212.
+[15] LI Yifan, WANG Yujie, WANG Bian, et al. The response of plant photosynthesis and stomatal conductance to fine
+particulate matter (PM ) based on leaf factors analyzing [J]. Journal of Plant Biology, 2019, 62（2）: 120 − 128.
+2.5
+[16] 陆婷. 不同污染水平下3种道路绿化树种颗粒物滞留能力及其生理响应[D]. 杭州: 浙江农林大学, 2019.
+LU Ting. The Retention Capacity and Physiological Response of Three Common Greening Plant Species under Different
+Pollution Levels [D]. Hangzhou: Zhejiang A&F University, 2019.
+[17]淑敏, 敖敦格日乐, 胡和珠拉, 等. 辽西北部主要绿化树种对粉尘污染的生理响应研究[J]. 西北植物学报, 2020, 40（10）:
+1740 − 1750.
+SHU Min, AO Dugerile, HU Hezhula, et al. Physiological response of main greening tree species to dust pollution in
+northwest of Liaoning Province [J]. Acta Botanica Boreali-Occidentalia Sinica, 2020, 40（10）: 1740 − 1750.
+[18] 晏增, 赵蓬晖, 杨淑红, 等. 冬季郑州市12个常绿树种的光合特性及滞尘能力[J]. 广西植物, 2021, 41（9）: 1433 − 1442.
+YAN Zeng, ZHAO Penghui, YANG Shuhong, et al. Photosynthetic characteristics and dust retention capacities of 12
+evergreen tree species in Zhengzhou City during winter [J]. Guihaia, 2021, 41（9）: 1433 − 1442.
+[19] 林星宇, 李彦华, 李海梅, 等. 8种乔木的滞尘效果及对光合作用的影响[J]. 福建农业学报, 2019, 34（3）: 313 − 318.
+LIN Xingyu, LI Yanhua, LI Haimei, et al. Dust retention and photosynthesis of eight species of arbor trees [J]. Fujian
+Journal of Agricultural Sciences, 2019, 34（3）: 313 − 318.
+[20] 贺丹, 汪安印, 李紫萱, 等. 郑州市常绿树种滞尘能力与叶片生理结构的响应[J]. 福建农业学报, 2022, 37（2）: 203 − 212.
+HE Dan, WANG Anyin, LI Zixuan, et al. Dust retention and physiological responses of evergreen tree leaves in Zhengzhou
+City [J]. Fujian Journal of Agricultural Sciences, 2022, 37（2）: 203 − 212.
+[21]张瑛, 杨婧, 陈晓倩, 等. 我国空气质量较差的10个城市2005—2017年大气颗粒物水平、影响因素及化学组分[J]. 环境
+与职业医学, 2019, 36（10）: 970 − 978.
+ZHANG Ying, YANG Jing, CHEN Xiaoqian, et al. Levels, influencing factors, and chemical constituents of atmospheric
+particulates in 10 cities with poor air quality in China in 2005−2017 [J]. Journal of Environmental and Occupational
+Medicine, 2019, 36（10）: 970 − 978.
+[22]弓素梅. 郑州市常见园林植物净碳汇及其经济价值[J]. 河南林业科技, 2019, 39（3）: 21 − 25.
+GONG Sumei. Net carbon sink and its economic value of common garden plants in Zhengzhou [J]. Journal of Henan
+Forestry Science and Technology, 2019, 39（3）: 21 − 25.
+[23] 李朝梅, 王军梦, 王腾飞, 等. 郑州市常见公园绿化植物的滞尘能力及叶片性状分析[J]. 西北林学院学报, 2021, 36（2）:
+123 − 129.
+LI Chaomei, WANG Junmeng, WANG Tengfei, et al. Dust-retention capability and leaf traits of common park greening
+plant species in Zhengzhou City [J]. Journal of Northwest Forestry University, 2021, 36（2）: 123 − 129.
+[24] ASHIUCHI M, NAWA C, KAMEI T, et al. Physiological and biochemical characteristics of poly γ-glutamate synthetase
+complex of Bacillus subtilis [J]. European Journal of Biochemistry, 2001, 268（20）: 5321 − 5328.
+[25] 王军梦, 汪安印, 王翼飞, 等. 不同污染程度下树种滞尘能力与叶表微形态关系研究[J]. 林业调查规划, 2022, 47（5）:
+1214 浙 江 农 林 大 学 学 报 2023年12月20日
+16 − 21, 37.
+WANG Junmeng, WANG Anyin, WANG Yifei, et al. Relationship between dust retention ability of tree species and leaf
+surface micromorphology under different pollution levels [J]. Forest Inventory and Planning, 2022, 47（5）: 16 − 21, 37.
+[26]李海梅, 党宁, 禹靓倩, 等. 5个园林树种滞尘能力与叶表形态及颗粒物粒径的关系[J]. 林业科学研究, 2021, 34（4）: 84 −
+94.
+LI Haimei, DANG Ning, YU Liangqian, et al. The relationships between the dust-holding capacity and the leaf surface
+structure & particle size in five evergreen tree species locates in Hangzhou [J]. Forest Researsh, 2021, 34（4）: 84 − 94.
+[27] SHAO Feng, WANG Lihua, SUN Fengbian, et al. Study on different particulate matter retention capacities of the leaf
+surfaces of eight common garden plants in Hangzhou, China [J]. Science of the Total Environment, 2019, 652: 939 − 951.
+[28] ZHU Jiyou, XU Chengyang. Intraspecific differences in plant functional traits are related to urban atmospheric particulate
+matter [J]. BMC Plant Biology, 2021, 21（1）: 430 − 437.
+[29] 范伟伟, 武晓红, 王孟本. 太原市5种常见湿地植物的滞尘能力及光合响应差异[J]. 天津师范大学学报(自然科学版),
+2022, 42（4）: 52 − 58.
+FAN Weiwei, WU Xiaohong, WANG Mengben. Differences of dust retention ability and photosynthetic response of five
+common species of wetland plants in Taiyuan [J]. Journal of Tianjin Normal University (Natural Science Edition), 2022,
+42（4）: 52 − 58.
+[30] 李诗瑶, 王融融, 樊瑾, 等. 叶面滞尘对火电厂周边绿化树种叶片反射光谱及光合作用的影响[J]. 西北林学院学报,
+2022, 37（1）: 1 − 9, 40.
+LI Shiyao, WANG Rongrong, FAN Jin, et al. Influence of leaf dust retention on leaf surface reflectance spectroscopy and
+photosynthesis of greening tree species around thermal power plant [J]. Journal of Northwest Forestry University, 2022,
+37（1）: 1 − 9, 40.
+[31] GHAFARI S, LIVANI B K, SEDAGHATHOOR S, et al. Correction to: assessment of air pollution tolerance index (APTI)
+for some ornamental woody species in green space of humid temperate region (Rasht, Iran) [J]. Environment, Development
+and Sustainability, 2021, 23（3）: 4747 − 4748.
+[32] 裘璐函, 何婉璎, 刘美华, 等. 杭州市6种常见绿化树种滞尘能力及光合特性[J]. 浙江农林大学学报, 2018, 35（1）: 81 −
+87.
+QIU Luhan, HE Wanying, LIU Meihua, et al. Differences in dust removal capability and photosynthetic characteristics of six
+common tree species in Hangzhou City [J]. Journal of Zhejiang A&F University, 2018, 35（1）: 81 − 87.
+[33] DANG Ning, ZHANG Handan, ABDUS S M M, et al. Foliar dust particle retention and metal accumulation of five garden
+tree species in Hangzhou: seasonal changes [J]. Environmental Pollution, 2022, 306: 118 − 127.
+[34] 高传友. 南宁市典型园林植物滞尘效应及生理特性研究[J]. 水土保持研究, 2016, 23（1）: 187 − 192.
+GAO Chuanyou. Research on dust retention capacities and physiological properties of different typical green plants in
+Nanning city [J]. Research on Soil and Water Conservation, 2016, 23（1）: 187 − 192.
+[35] WANG Haoyun, WU Feng, LI Min, et al. Morphological and physiological responses of Pinus massoniana seedlings to
+different light gradients [J]. Forests, 2021, 12（5）: 523 − 530.
+[36] 翟挺楷, 郝思怡, 林碧英, 等. 愈合期不同光照度对亚低温胁迫下黄瓜嫁接苗生长和生理的影响[J]. 江苏农业科学,
+2023, 51（1）: 129 − 135.
+ZHAI Tingkai, HAO Siyi, LIN Biying, et al. Effects of different light intensity at healing stage on growth and physiology of
+cucumber grafted seedlings under sub-low temperature stress [J]. Jiangsu Agricultural Sciences, 2023, 51（1）: 129 − 135.
+[37]李元应, 侯晓奎. 粉尘污染对郑州市典型绿化树种叶片生理生化特性的影响[J]. 江苏农业科学, 2017, 45（18）: 110 −
+115.
+LI Yuanying, HOU Xiaokui. Effect of dust pollution on leaf physiological and biochemical characteristics of typical green
+tree species in Zhengzhou City [J]. Jiangsu Agricultural Sciences, 2017, 45（18）: 110 − 115.
+[38] 黄靖懿, 黄泽, 刘慧婧, 等. 哈尔滨市12种常见树木的滞尘能力比较[J]. 江苏农业科学, 2017, 45（8）: 117 − 121.
+HUANG Jingyi, HUANG Ze, LIU Huijing, et al. Comparison of dust suppression ability of twelve common trees in Harbin
+City [J]. Jiangsu Agricultural Sciences, 2017, 45（8）: 117 − 121.

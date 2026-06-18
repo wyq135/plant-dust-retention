@@ -1,0 +1,822 @@
+TOTAL PAGES: 12
+
+===== PAGE 1 =====
+EnvironmentalScienceandPollutionResearch(2018)25:12545–12556
+https://doi.org/10.1007/s11356-018-1478-4
+RESEARCHARTICLE
+Quantifying particulate matter accumulated on leaves by 17 species
+of urban trees in Beijing, China
+YansenXu1,2 &WenXu2 &LiMo1,3 &MathewR.Heal4 &XiaowuXu1 &XinxiaoYu1
+Received:23September2017/Accepted:4February2018/Publishedonline:20February2018
+#Springer-VerlagGmbHGermany,partofSpringerNature2018
+Abstract
+Airborneparticulatematter(PM)hasbecomeaseriousenvironmentalproblemandharmshumanhealthworldwide.Treescan
+effectivelyremoveparticlesfromtheatmosphereandimprovetheairquality.Inthisstudy,awashingandweighingmethodwas
+usedtoquantifyaccumulationofwater-solubleionsandinsolublePMontheleafsurfacesandwithinthewaxoftheleavesfor17
+urbanplantspecies(including4shrubsand13trees).ThedepositedPMwasdeterminedinthreesizefractions:fine(0.2–2.5μm),
+coarse (2.5–10 μm), and large (>10 μm). Significant differences in the accumulation of PM were detected among various
+species.TheleavesofPlatycladusorientalisandPinusarmandiwerethemosteffectiveincapturingPM.Acrossthespecies,
+65and35%ofPM,onaverage,depositedontheleafsurfaceandinthewax,respectively.ThegreatestPMaccumulationbymass
+onleaveswasinthelargestPMsizefraction,whiletheaccumulationofcoarseandfineparticlesizefractionswassmaller.Water-
+solubleionsaccumulatedontheleafsurfacescontributed28%tothetotalPMmass,onaverage.Thisstudydemonstratedthat
+leavesofwoody plantsaccumulatePM differently, and the mosteffective plant species should beselectedinurban areas for
+attenuatingambientPM.
+Keywords Particulatematter.Urbantrees .Leafdeposition .Wax .Water-solubleions
+Introduction
+(Boscoetal.2005;Dzierzanowskietal.2011).Duetorapid
+urbanization and industrialization, the Beijing-Tianjin-Hebei
+Airborneparticulatematter(PM),consistingofparticleswith regionisundergoingseriousPMpollution.Forexample,the
+aerodynamic diameters in the range of 0.001–100 μm, is a daily average PM (PM with aerodynamic diameter ≤
+2.5
+major atmospheric pollutant (Pope III and Dockery 2006; 2.5μm)concentrationinurbanBeijingwas159μgm −3dur-
+WHO 2006). Anthropogenic sources contributing to PM in- ingthe2012–2014period(Xuetal.2016),whichwasafactor
+clude vehicle exhausts, road dust, domestic and large-scale of 6.4 greater than the WHO guideline for daily PM con-
+2.5
+coal burning, and cement and other industrial processes centration (25 μg m −3; WHO 2006). Positive associations
+havebeenfoundbetweenPM andhealthimpacts(e.g.,low-
+2.5
+errespiratoryinfections,tracheabronchus,lungcancers,and
+Responsibleeditor:ElenaMaestri
+cerebrovascular disease) (Lelieveld et al. 2015; Liu et al.
+2016). It has been estimated that PM pollution in urban
+* XinxiaoYu 2.5
+areas of China led to 763,595 premature deaths in 2013
+yuxinxiao111@126.com
+(Songetal.2016).Beijingwasworstaffectedwithestimates
+1 BeijingLaboratoryofUrbanandRuralEcologicalEnvironment, of 5200, 9000, 2300, and 1600 premature mortalities from
+BeijingForestryUniversity,No.35TsinghuaEastRoad, ischemicheartdisease(IHD),cerebrovasculardisease,chron-
+Beijing,China
+ic obstructive pulmonary disease (COPD), and lung cancer
+2 StatekeylaboratoryofUrbanandRegionalEcology,Research (LC),respectively(Liuetal.2016).
+CenterforEco-EnvironmentalSciences,ChineseAcademyof
+Numerous studies have identified that urban greening fil-
+Sciences,No.18ShuangqingRoad,Beijing,China
+ters accumulate atmospheric particles more effectively than
+3 China-ASEANEnvironmentalCooperationCenter,No.5
+other land surfaces (Chen et al. 2016a; Janhäll2015 ; Tallis
+HouyingfangHutong,Beijing,China
+etal.2011;Thithanhthaoetal.2015).Enhancingthedeposi-
+4 SchoolofChemistry,UniversityofEdinburgh,DavidBrewster
+tion flux to the surface is the benefit for reducing pollutant
+Road,Edinburgh,UK
+===== PAGE 2 =====
+12546 EnvironSciPollutRes(2018)25:12545–12556
+concentrations near the ground and, therefore, people expo- windandrain(Schaubroecketal.2014).However,PMaccu-
+sureinurbanareas.Thisisoneoftherecognizedecosystem mulationinthewaxfractionisveryimportantbecausethese
+servicesofurbanvegetation(Salmondetal.2016).Compared particles are trapped permanently (Song et al. 2015). Most
+withotherurbansurfaces,vegetationenhancesdepositionof studies collect leaves only once at the beginning or in the
+particles because of the finely divided structure of many middleoftheseason(Xieetal.2014;Chengetal.2016;Mo
+leaves,especiallyconifers.Theyhavealargercollectingsur- etal.2015).However,thecharacteristicsofleafstructureare
+face per unit ground area and reduce the laminar boundary differentduringthegrowingseason,whichmayimpacttheir
+layer that limits the particle uptake. Using the i-tree model, ability to accumulate PM. The leaf-washing methodology is
+Nowak et al. (2013) modeled PM removal by trees in ten themostcommonexperimentalapproach.Alargeproportion
+2.5
+Americancitiesand estimated thatannualmassesofparticle ofPMiswater-solubleions,whichcomprisedapproximately
+removal ranged from 5 t in Syracuse to 65 t in Atlanta. 40% of PM in Beijing (Han et al. 2016). However, the
+2.5
+Schaubroeck et al. (2014) used the canopy interception and washing and weighing method may underestimate the mass
+PM removal multilayered model (CIPAM) to estimate PM ofparticlesonleaves.Therefore,water-solubleionsneedtobe
+accumulatedona forestrycanopy.Fora casestudyin2010, quantified in order to accurately assess the effectiveness of
+theyestimatedthataScotspinestandinBelgiumaccumulated plantspeciesincapturing PM.Analyzing water-solubleions
+about31kgPM ha
+−1year −1.Theplainafforestationproject
+indepositedPMontheleafsurfaceallowstoidentifyapol-
+2.5
+inBeijinghasbeenestimatedtodecreaseannualPM con- lutionsourceofPM.Theaimofthisstudywastoinvestigate
+2.5
+centrations by 0.57 μg m −3 or 2% of the target set by the theeffectivenessof17plantspeciesinaccumulatingPMdur-
+BBeijing Clean Air Action Plan (2013–2017)^ (Chen et al. ingthegrowthseasoninBeijingfortheyear2014.Twokey
+2014). featuresofthisstudywereinvestigationof(1)particlesdepos-
+Ataleafscale,particlesdepositedontheleafsurface.And, ited onto the leaf surface and into the wax as a function of
+ultrafinePM(particleswithdiameter<100nm)mayenterthe threeparticlesizefractionsand(2)theaccumulationofwater-
+leaf stomata. Previous studies have examined the effective- solubleionsbytheleafsurface.
+ness of urban trees around the world for accumulation of
+PM and PM (Chen et al. 2016b; Sgrigna et al. 2015)
+2.5 10
+Material and methods
+and demonstrated that PM accumulated on leaves differed
+significantly among plant species (Beckett et al. 2000;
+Studyarea
+Przybysz et al. 2014). Coniferspecies have greater potential
+in capturing PM than broad-leaved species. Evergreen coni-
+fers accumulate PM throughout the year (Sæbø etal. 2012). Alloftheplantmaterialswerecollectedfromthecampusof
+However,broad-leavedspecieswithlargeamountsofpubes- BeijingForestryUniversity(BFU)(40°0′29.64″N,116°20′
+cenceandroughersurfacesalsoaccumulategreatermassesof 46.04″ E), located in Haidian District, Beijing City, China.
+particles (Mo et al. 2015). Particles mainly deposit on the Therearenopollutingindustriesorpowerplantswithina5-
+adaxial leafsurfaces, which accumulated masseswere about kmspacerange.Allplantspecieswerelocatedwithin600m
+sixtimeshigherthanthoseontheabaxialleafsurfaces(Wang eachother,inthecenteroftheBFUcampusand50maway
+etal.2006).Theimportanceofleafmicrostructurecharacter- fromsurroundingstreets.Itisareasonableassumptionthatall
+isticsontheeffectivenessofcapturingPMwasevidencedby specieswereexposedtothesamebackgroundPMconcentra-
+using scanning electron microscopy (SEM) and energy- tions.TheaveragebackgroundPM andPM concentration
+10 2.5
+dispersiveX-ray(EDX)analysis(Yanetal.2016). was 139 and 84 μg m −3 from April to September 2014, re-
+Given limited greening space in urban Beijing, the most spectively,inOlympicSportCenterwhichwasthenearestair
+effective plant species in removing PM should be selected quality monitoring station (about 4 km apart) set by the
+for urban greening. Althoughmanystudies havefocused on Ministry of Environmental Protection of China (MEPC,
+quantifying the amount of PM deposited on trees (Yin et al. 2018).
+2011;Chenetal.2015;Wangetal.2015;Leonardetal.2016),
+Plantmaterialandsamplecollection
+thereisstillaknowledgegapintermsofaccumulationofPM
+in epicuticular waxes between different species. Xu et al.
+(2017)usedanartificialrainfallsimulationsystemtoinvesti- Vegetation samples were collected from 17 plant species
+gate the influence of rainfall duration and intensity on PM (listedinTable1).AllarecommonplantsinNorthernChina
+removal from four broad-leaved species. They detected that andwidelyusedinurbanareas.Foreachspecies,threesimilar
+finalwash-offratesintherainfalleventswasonly51–70%of individualswereusedasreplicates.Leaveswerecollectedon
+initialdeposition.Inotherwords,mostPMcapturedbyleaves 16 April, 20 May, 30 June, 27 July, 11 September, and 14
+isstoredtemporarily,sincedepositedparticlesonleafsurfaces October2014.Criteriafortheweatheronasamplingdaywere
+maybesubsequentlyresuspendedfromtheleavestotheairby sunny,windspeedlessthan5ms
+−1,and9–10dayssincethe
+===== PAGE 3 =====
+EnvironSciPollutRes(2018)25:12545–12556 12547
+Table1 Speciesandallometric
+dataforthetreessampled(mean Classification Species Height(m) Diameteratbreast Crown
+±SD,n=3) height(cm) diameter(m)
+Shrubs Amygdalustriloba(Lindl.)Ricker 2.1±0.4 7.7±1.4 2.8±0.2
+EuonymusjaponicusThunb. 1.9±0.2 5.0±1.1 2.4±0.2
+Loniceramaackii(Rupr.)Maxim. 3.2±0.3 10.8±3.4 5.6±0.4
+PrunuscerasiferaEhrh. 2.4±0.3 23.0±2.4 5.4±1.2
+Trees MagnoliadenudataDesr. 10.5±0.4 23.6±3 6.8±1.7
+RhustyphinaNutt. 3.6±0.2 8.8±1.3 2.3±1.1
+PlatanusoccidentalisL. 14.4±0.6 53.7±6.2 6.6±2.1
+FraxinuspennsylvanicaMarsh. 9.4±0.6 25.0±2.1 7.9±2.6
+PopulustomentosaCarr. 13.4±0.7 51.9±3.6 5.3±0.9
+GinkgobilobaL. 14.5±0.5 53.5±5.6 5.8±1.4
+UlmuspumilaL. 8.4±0.3 77.1±7.4 6.8±2.3
+SalixmatsudanaKoidz. 12.6±0.4 34.4±5.8 6.9±2.3
+PinustabulaeformisCarr. 10.0±0.8 29.4±5.3 5.6±0.8
+Platycladusorientalis(L.)Franco 6.1±0.1 16.1±2.3 1.7±0.6
+PinusarmandiFranch. 5.4±0.6 16.5±1.6 3.8±0.8
+Ailanthusaltissima(Mill.)Swingle 9.8±0.5 27.8±3.5 4.6±0.7
+SophorajaponicaL. 10.7±0.3 24.5±0.3 3.4±0.5
+precipitation amount of the last rain event >5 mm. Leaves 2.5-, and 0.2-μm filters (EMD Millipore Corp., Billerica, MA,
+wereassumedtobewashedbyrainfall, sotheaverage mass USA) to separate the PM into the following three particle size
+of daily deposited PM was measured for the same exposure fractions:fine(0.2–2.5μm),coarse(2.5–10μm),andlarge(>
+days.Liuetal.(2013)investigatedthedust-retainingcapacity 10 μm). The aqueous sample after filtering was stored in the
+of the four urban species in Guangzhou, and their results freezer(−18°C)priortodeterminationofthewater-solubleions
+showedthattheamountsofPMdepositedontheleafsurface (see below). Before filtering, a deionizer gate (AP-BC2451;
+mayapproachsaturationaround24days.Inthepresentstudy, AP&T, Shanghai, China) was used to avoid an electrostatic
+theaveragemassofdailydepositedPMwasmeasuredforthe chargeonthefilters.Beforeandafteranalysis,filtersweredried
+same exposure days without saturation, and leaves were as- in an oven for 30 min at 50 °C and stabilized in an 80 cm×
+sumed to be fully washed by rainfall. Intact leaves were in 80 cm×80 cm polytetrafluoroethylene (PTFE) balance box at
+good growth conditions, namely with little or no disease 25°Cand40%relativehumidityfor24h,whichwascontrolled
+and/or pests. They were sampled from four directions in the by a balance and a humidity controller (WHD48-11; ACREL
+canopy with the same height for each species. Between 200 Co., Ltd., Jiangsu, China). Filters were weighed using a
+and300cm2oftheleafarea(about5–30leaves)werecutoff BT125Dbalance(Sartorius;precision10μg).PMaccumulated
+withscissorsandstoredinplasticbags.Greatcarewastaken inwaxeswasalsomeasuredsimilarlyexceptthatthedeionized
+toensurethatparticlesdidnotdislodgefromtheleaves.The waterwasreplacedwithchloroforminordertodissolvethewax
+sampleswerethentransportedtothelaboratoryandstoredata ontheleaves.Also,asnitrocellulosefiltersaredamagedbychlo-
+4°Cfreezerpriortoanalysis.Althoughthedetailedcollection roform,PTFEfilterswereusedforcollectionofin-waxPM.
+method of leaf samples has been described in our previous Eachwashedbroad-leavedspeciessamplewasscannedusing
+studies(Chenetal.2016b;Moetal.2015),itisrepeatedhere ascanner(HPScanjet4850;ChinaHewlett-PackardCo.,Ltd.,
+forthereader’sconvenience. Beijing,China),thentheareawasmeasuredbyImageJ(1.50i;
+NationalInstitutesofHealth,Bethesda,USA).Forneedleleaves,
+Quantitativeanalysis leafareawascalculatedusingthefollowingequation:
+PMwaswashedandquantifiedfromtheleafsurfacesandinleaf (cid:1) (cid:3) rffiffiffiffiffiffiffi
+π nV
+waxes using the methods described by Dzierzanowski et al. S ¼2L 1þ
+(2011). The method for rinsing water-soluble ions from the n πL
+leaves was described in detail by Freer-Smith et al. (2005).
+Leaveswerefirstwashedwith250mLofdeionizedwater.The where S represents the leaf area, L is the average length of the
+rinsewaterwaspassedthrougha100-μmmetalsievetoremove leaves,Visthevolumeofneedles,andnisthenumberofneedle
+particles >100 μm and then filtered sequentially through 10-, leaves.
+===== PAGE 4 =====
+To analyze the concentrations of water-soluble inorganic havealsoidentifiedthatdifferentheights oftrees may affect
+ions, the volumes of filtrates (V ) were measured and thecapacityforaccumulatingPM(Dzierzanowskietal.2011;
+water
+storedat−18°Cuntilanalysiswithin4weeks.Threeanions Sæbøetal.2012;Moetal.2015).Inthisstudy,wedividedthe
+(Cl − ,SO 2− ,NO − )andfivecations(NH +,Ca2+,Na+,Mg2+, speciesintoshrubsandtrees(Table1).TheaveragePMaccu-
+4 3 4
+K+)weredeterminedusingaDionexmodelICS-120ionchro- mulation for four shrubs was 49 μg cm −2. Euonymus
+matograph equipped with a conductivity detector (ASRS- japonicus showed the highest PM accumulation
+ULTRA) (Lun et al. 2003; Tang et al. 2016). The mass of (56μgcm −2)ofthefourshrubs.But,thedifferencewasnot
+these ions obtained in each filtrate was calculated by multi- significant.Xieetal.(2014)andWangetal.(2006)reported
+plying V by the ion concentration and was expressed in that E. japonicus captured larger amounts of PM than other
+water
+perunitareaperleaf. shrubs such as Buxus sinica, Syringa oblata, and
+Lagerstroemia indica. The leaf surface structure of
+Statisticalanalysis E.japonicusisuniquetothoseshrubs.Tomentosepubescence
+distributes on the abaxial leaf surface, which can efficiently
+One-wayanalysisofvariance(ANOVA)wasusedtotestsig- captureandaccumulatePM(Moetal.2015).
+nificant differences in PM accumulation between different PM accumulation on Platycladus orientalis and Pinus
+species. Post hoc analysis (Duncan’s test) was performed armandi was significantly higher than that on other trees.
+when multiple comparisons among species were necessary. PM accumulation on Fraxinus pennsylvanica, Populus
+Spearman’scorrelationanalysiswasusedtoassessthelinear tomentosa, Ailanthus altissima, and Sophora japonica was
+correlations between surface PM, in-wax PM, and water- significantlylowerthanthatonothertrees(Fig.1).Theaver-
+soluble ions. All statistical analyses were conducted using age PM accumulation on P. orientalis and P. armandi
+SPSS 17 (SPSS 17 for Windows; SPSS Inc., IL, USA),and (156μgcm −2)wasfivetimesgreaterthantheaverageaccu-
+significancewasdefinedasp<0.05. mulation on the latter four species (28 μg cm −2). The PM
+accumulationonRhustyphina(76μgcm −2)wassecondonly
+to P. orientalis and P. armandi. Trees can be divided into
+Results and discussion
+conifer or broad-leaved species. Pinus tabulaeformis,
+P. orientalis, and P. armandi are three common evergreen
+PMaccumulationonleaves coniferspecies,whichaccumulatedmorePMonleavesthan
+the other species except R. typhina. The PM accumulation
+Figure1showsthemassofaccumulatedsurfaceandin-wax differencebetweentheadaxialandabaxialbroad-leavedspe-
+PMonthe17plantspecies.ThePMaccumulationonleaves cies surfaces is due to wind turbulence. Wang et al. (2006)
+varied significantly between plant species. Several studies investigated 11 broad-leaved species such as P. tomentosa,
+200
+a
+a
+150
+100 a a
+bc
+b
+bc bc bc
+bc bc bc bc b
+50 b bc b b
+b b c c c c b b b b ab
+b a a
+b b b abcdabcdabcdabcdabcd
+abcdabcdabcdabc bcd bcd bcd
+cd d
+0
+A. t P ri . l C ob e a rasi L fe . r m a a E a . c j k a i p i on S ic . u ja s p P o . n to ic m a e A nt F . o . a s l p a t e is n s n i m sy a lvani G ca . bilo U b . P a p . u o m cc i i l d a S en . t m al a i t s su M d . a P d n . e a t n a u b d u a la ta efor R m . i s typh P i . n a a r m P a . n o d r i ientalis
+)2mc/gμ(
+noitalumucca
+MP
+12548 EnvironSciPollutRes(2018)25:12545–12556
+Fig.1 TotalamountofPM
+accumulatedontheleafsurfaces Shurb Tree Wax Surface
+andinthewaxes.Dataaremean
+±SE,n=18.Barsmarkedwith
+differentlettersaresignificantly
+different(p<0.05)
+bc
+b
+===== PAGE 5 =====
+EnvironSciPollutRes(2018)25:12545–12556 12549
+S.japonica,andAilanthusaltissimausingascanningelectron PM deposited on five evergreen species in Beijing. The PM
+microscopeinBeijing urban area. They found that, onaver- accumulated on the leaf surface ranged from 72 to
+age, only 17% of PM accumulated on the abaxial surface. 232μgcm −2.Caietal.(2017)reviewed150studiesandused
+However, the needles ofconifer species can accumulate PM a meta-analysis. They also found that the weekly PM leaf
+overtheentireleafsurface(Otteléetal.2010).Theleavesof depositionofconiferspecieswassignificantlyhigherthanthat
+coniferspeciesalsohaveuniquemicrostructure,suchasmu- ofbroad-leavedspecies,byapproximately32%.Theseresults
+cusoils,athickerepicuticularwaxlayer,andagroovedridge showedthatevergreenconiferspecieshadbetterperformance
+protuberance,whichcanhelpleavestoaccumulatelargepar- inaccumulatingPMbothontheleafsurfaceandinthesurface
+ticles (Sabin et al. 2006). Previous studies showed that the wax,whichwasaccountedforbythestructuralcharacteristics
+leaves of Platycladus were rougher than Pinus (Wang et al. andhabitsofconiferspecies.
+2007). This structure retained more particles on leaves of Inthisstudy,wefoundasignificantlypositivecorrelation
+P. orientalis. The average PMaccumulationofbroad-leaved betweenin-waxPMaccumulationandsurfacePMaccumula-
+trees was less than that of broad-leaved shrubs. The meta- tion (R2=0.43, p=0.002). Based on collection and analysis
+analysis results showed that PM leaf deposition on shrubs ofexistingrawdataof56plantspeciesinthreedifferenturban
+wassignificantlyhigherthanthatontrees(Caietal.2017). areas(Popeketal.2013;Przybyszetal.2014;Moetal.2015;
+Acrossallspecies,PMwasfoundbothonleafsurfaceand and Song etal. 2015),a positive correlation relationship be-
+inwaxes.Figure1showsthattheparticledistributionbetween tweenthetotalamountofsurfacePMandthatofin-waxPM
+surfaceandwaxeswassimilarforallshrubspecies,withPM accumulated on foliage was also detected (R2=0.64,
+massinwaxesaboutfourtimeslowerthanthatonthesurface. p<0.0001,in-waxPM=0.24×surfacePM+2.35).Theleaf
+Theaveragesurfaceandin-waxPMdepositionontheshrub surfacePMdepositionamountwas3.6timeshigherthanthat
+leaveswas39and10μgcm −2,respectively.Thiscorresponds ofin-wax.Actually,PMinthewaxlayeraccountsforalarge
+to 21% of PM deposition in waxes, on average. There were proportion, about 22% inthe present study. Theepicuticular
+significantdifferencesbetweentreespeciesintheaccumula- wax layer and releasing PM were dissolved by chloroform,
+tion of PM on leaf surfaces and in waxes. The lowest and whichhasenvironmentalhealthconcern.Inthepreviousstud-
+highest surface PM deposition was found in P. tomentosa ies,PMaccumulatedontheleafsurfacewasassessed(Freer-
+(13 μg cm −2) and P. armandi (57 μg cm −2), respectively. Smithetal.2005;Chenetal.2015).Alackoftheexamination
+Thein-waxPMaccumulationofP.orientalis(102μgcm −2) ofPMencapsulatedinthewaxlayermayleadtoanunderes-
+and P. armandi (97 μg cm −2) was significantly higher than timationofthepresentresults.However,asignificantcorrela-
+thatofothertreespecies.Apositiverelationshipbetweenthe tion was found between surface and in-wax PM, which can
+accumulationofdifferentPMfractionsandthequantityofleaf improve our knowledge on this issue. Because leaves with
+waxes was detected (Sæbø et al. 2012). Popek et al. (2013) greater amounts of surface PM may also accumulate a high
+analyzedalltestedspeciesandalsodetectedapositivecorre- massofPMinthewaxlayer,thesespeciesshouldbeattractive
+lationbetweentheamountofwaxesandcoursePM.But,the optionsforurbangreening.
+model had a low partial fit (r=0.54).By analyzing for each The average mass of surface PM accumulation in trees
+species separately, a significant correlation was found in the (34 μg cm −2) was lower than that in shrubs (39 μg cm −2).
+leavesofTiliacordata(Dzieranowskietal.2011)andCorylus Trees have the highest average of in-wax PM accumulation
+colurna (Popek et al. 2013). In some cases, only weak, no (28 μg cm −2) relative to shrubs (10 μg cm −2), but it is not
+relationship,ornegativecorrelationbetweenmassofin-wax statistically significant. Contributions of in-wax deposition
+PMandmassofwaxwasreportedacrosssomeplantspecies toleaftotal(surfaceplusin-wax)depositionwere>50%for
+(Jouraevaetal.2002;Dzieranowskietal.2011).Therelation- P. tomentosa (54%), P. orientalis (65%), and P. armandi
+ship showed different results among species. Song (2015) (63%). For the remaining ten tree species, the contributions
+foundthatthewaxesinconiferspecieswereafactorofabout of in-wax to total insoluble PM were, on average, 32%. In
+three times higher than those in broad-leaved species. The Norway and Poland, Fagus sylvatica and Stephanandra
+waxesinP.orientalisandP.armandicanaccumulatealarge incisaalsoaccumulatedabout25and28%ofPMinthewaxes
+fraction of the PM. The composition and structure of the andonthesurface,respectively.Betulapendulaaccumulated
+waxesmaysignificantlyaffectthecapacityofleavesinaccu- 83%ofPMinthewaxfraction(Sæbøetal.2012),whichis
+mulating PM (Kaupp et al. 2000; Jouraeva et al. 2002; significantly higher than the value of coniferous species ob-
+Burkhardt et al. 2010). On the other hand, P. tabulaeformis, tainedinthisstudy.Popeketal.(2013)reportedthatmorePM
+P. orientalis, and P. armandi which accumulated greater in- was deposited on the leaf surface than in waxes and their
+waxPMthanotherplantspeciesareevergreenconiferspecies. resultsalsoshowedthatthewaxesinfiveof39woodyspecies
+The leaf growth cycle of these evergreen conifer species of accumulatedgreaterthan50%ofinsolublePM(inarangeof
+morethan12monthsisconsiderablylongerthanthatofde- 53–63%).Asimilarphenomenonalsooccurredinthepresent
+ciduous species. Song et al. (2015) investigated the mass of study.
+===== PAGE 6 =====
+WefoundthatPMleafaccumulationvariedgreatlyamong is the highest in winter is one-sided. Across all growing
+months (Figs. 2 and 3), which was different between leaf months, trees showed higher PM accumulation in wax than
+surfaceandwaxes.LeafsurfacePMretentionamountsintrees shrubs. The PM accumulation on leaves varied significantly
+andshrubsweresignificantlyhigherinAprilandMay,respec- amongmonths.Analysisofleavesonlyonceatthebeginning
+tively, compared with those in other months. The lowest or the middle of the seasons to assess the capacity of PM
+amounts were measured in September. Masses of PM accu- capturingmayunderestimateoroverestimateit.
+mulatedonthesurfacesoftreesandshrubsshowedinconsis- Overall,resultssuggestedthattheleafsurfaceaccumulated
+tentrelationsamongdifferentmonths.AtmosphericPMcon- morePMthanwaxes,buttherewaslowermassofPMdepos-
+centration, meteorological condition, and leaf characteristics ited in epicuticular waxes for most species. However, PM
+variedamongmonths,whichmayinfluencePMleafdeposi- accumulation in the wax fraction is very important because
+tion. Based on the analysis of our dataset, monthly average theseparticlesaretrappedpermanently(Songetal.2015).
+concentrationsofPM andPM didnotcorrelatewith de-
+10 2.5
+Differentparticlesizefractions
+posited amounts of total surface particle. However, with in-
+creasingatmosphericPMconcentrations,particleswhichac-
+cumulatedontheleafsurfaceraisedslightly.Byquantitatively DifferentsizefractionsofairbornePMhavedifferentchemi-
+analyzinginfourdistrictsofthecityinItaly,leafsurfacePM calcompositionsandposedadverseeffectsonhumanhealth
+depositiondidnotcorrelatewithlocalatmosphericPM con- (Luo et al. 2011; Li et al. 2017). For example, particulate
+10
+centration (Sgrigna et al. 2015). On the other hand, a meta- matters were responsible for respiratory and cardiovascular
+analysis result showed that PM accumulation is generally diseasesandothers(Caietal.2017),especiallyfineparticles
+highestinwintercomparedtootherseasonsandthoughtthis (Enqlert,2004).Toassessthecapacityofplantleavestocap-
+variable is affected by atmospheric PM concentration (Cai ture different size fractions, the present study separated the
+et al. 2017). In this study, monthly data was converted to quantification of PM into the following: fine (0.2–2.5 μm),
+seasons and showed the highest total PM peaked in spring coarse(2.5–10μm),andlarge(>10μm).Themassesineach
+for trees and shrubs. Leaf PM deposition was generally in ofthesesizefractionsaccumulatedontheleafsurfaceandin
+similarlevelsbetweensummerandautumn.But,background waxesarepresentedinFigs.4and5,respectively.
+PMconcentrationsinsummerwerelowerthanthoseinspring PMofdifferentsizefractionsaccumulatedontheleafsur-
+andautumn.Onthe other hand,duringgrowingseason, PM faceandinwaxesdifferedamongthespecies.Nostatistically
+accumulation in waxes showed an increase firstly and then significantdifferenceswereobservedamongthedifferentsize
+decreased, whereas that in trees and shrubs was at its maxi- fractionsforsurfacePMaccumulationonshrubs(Fig.4).The
+mum in July and September. Vegetable characteristics and averagesofthethreesizefractionsforsurfacePMaccumula-
+ambient PM concentrations showed the interaction in leaf tiononshrubswas32μgcm −2(81%),5μgcm −2(12%),and
+PMdeposition.Inwinter,moststudiesfocusedonevergreen 3μgcm −2(7%)forlarge,coarse,andfinePM,respectively.
+speciessuchasconiferousplants,whichshowedhighcapacity Acrossalltrees,P.orientalis(44μgcm −2)andP.armandi
+tocaptureparticles.So,theconclusionthatPMleafdeposition (44 μg cm −2) showed the greatest large particle fraction
+100
+Shurb
+Tree
+80
+60
+40
+20
+0
+April May June July September October
+)2mc/gμ(
+noitalumucca
+MP
+ecafrus
+12550 EnvironSciPollutRes(2018)25:12545–12556
+Fig.2 MonthlychangeofPM
+accumulationonleafsurface
+betweenshrubsandtrees.Data
+aremean±SE,n=3.Barsmarked
+withdifferentlettersare a
+significantlydifferent(p<0.05)
+b
+b
+bc bc bc
+bc bcd
+cde
+de
+e e
+===== PAGE 7 =====
+60
+50
+40
+30
+20
+10
+0
+April May June July September October
+accumulationontheleafsurface.Largeparticlefractionaccu- The average coarse PM fraction accumulated on leafsur-
+mulation on P. tomentosa (10 μg cm −2), A. altissima faces(5μgcm −2)comprised15%ofthetotalinsolublePM.
+(15 μgcm −2),and S.japonica(13 μgcm −2)leaveswassig- The greatest accumulation of coarse PM was found on
+nificantlylower thanthe greatestaccumulators. The average P.armandileaves(9μgcm −2),whichwasweaklysignificant-
+surface accumulation of large particle fraction was lydifferentfromtheaccumulationbyothertrees.Thespecies
+25μg cm −2, which accounted for 75% ofthe total insoluble with the lowest surface accumulation of the coarse fraction
+PM. wasonP.tomentosa(2μgcm −2).
+)2mc/gμ(
+noitalumucca
+MP
+xaw-ni
+Fig.3 MonthlychangeofPM
+accumulationinwaxesbetween Shurb
+shrubsandtrees.Dataaremean Tree
+±SE,n=3.Barsmarkedwith
+differentlettersaresignificantly
+different(p<0.05)
+a
+a
+a
+b b
+bc
+cd
+de de de
+e de
+70
+Shurb Tree
+60
+bc bc
+50
+a
+bc
+40
+bc ab
+bc bc
+bc
+30 c
+bc bc
+c
+c
+20
+bc
+ab c
+abc abc abc
+c
+10 abc abc abc bc
+c
+0
+A. t P ri . l o C b e a r asif L e . r a ma E a . c k j a i p i o P n . i c t o u m s e n S t o . s j a a p o A n . i c a a ltissi m
+F
+G
+.
+a . p b e i n l n o s b y a l v a n U i c . a p S u . m m il a a t P s . u o d c a c n
+P
+i a
+.
+d t e a n b t u a l l a is ef o M r m . d is e n u d R at . a t y p P h . i n o a ri e nt P a . l i a s r m a n di
+)2mc/gμ(
+noitalumucca
+MP
+ecafrus
+EnvironSciPollutRes(2018)25:12545–12556 12551
+Fig.4 ThesumofPM
+accumulationofthreesize 0.2-2.5μm
+fractionsonleafsurfaces.Data 2.5-10μm
+10-100μm
+aremean±SE,n=18.Barsmarked
+withdifferentlettersare
+significantlydifferent(p<0.05)
+ab a
+abcd
+ab
+bcd
+abcd
+abcd abc
+abcd abcd
+bcd a a abc
+bcd
+bcd
+ab
+cd
+abcd abc abc abc abc abc abc
+abc abc d bc bc abc
+c
+===== PAGE 8 =====
+120
+0.2-2.5μm
+2.5-10μm
+110 10-100μm
+100
+90
+80
+30
+20
+10
+b 0
+A. tril L o b . a ma E a . c k ja i p i o P n . i c C
+F
+u
+.
+e s r p a e s n if n e s r y a l va A n . i c a a ltiss S i m . j a a p M o n . i c d a e n P u . d t a o t m a e nt o G sa . bil o U b . a P p . u o m cc il i a de S n . t m al a is ts u d R a
+P
+n . a
+.
+t y ta p b h u i l n a a ef or P m . i a s r m P a . n o d r i ie ntalis
+ThegreatestaccumulationoffinePMfractionontheleaf depositiononP.armandi(6.5μgcm −2)andSalixmatsudana
+surfacewasonR.typhina(9μgcm −2),whichwassignificant- (6.6μgcm −2)wasmarginallyhigherthanthatontheremain-
+ly greater than that on other trees. Platanus occidentalis ing trees. F. pennsylvanica (1.1 μg cm −2) and A. altissima
+(2 μg cm −2), F. pennsylvanica (1 μg cm −2), P. tomentosa (0.9μgcm −2) had lowdepositionoffineparticles inwaxes.
+(1 μg cm −2), G. biloba (2 μg cm −2), and S. japonica The average coarse and fine particle size fraction accumula-
+(2 μg cm −2) had considerably lower accumulation of fine tioninwaxwas3.8and2.5μgcm −2,whichcorrespondedto
+PMfraction.TheaveragefinePMfractionsurfaceaccumula- 13and9%ofthetotalin-waxparticledeposition,respectively.
+tion was 4 μg cm −2 or 10% of the total insoluble PM Particlesizefractionisverysimilarforsurfaceandin-waxPM
+deposition. accumulated by trees but differs for shrubs showing an
+These present results showed that shrubs accumulated amountoflargePMonthesurfaceaboutfivetimesmorethan
+moremassoflargePMsizefractionontheleafsurfacethan inwax,whichledtolessfineandcoarsePMfractionsonthe
+mostofthetrees,exceptthatofP.orientalisandP.armandi surface. Dzierzanowski et al. (2011) detected a small shrub
+which showed slightly higher accumulation than that of accumulatedthelargestamountsofPMascomparedtotrees
+shrubs. However, trees were more efficient than shrubs in andmorelargePMalsodepositedonthesurfacethanwax.As
+accumulatingcoarseandfinePMontheleafsurface. weexplainedabove,shrubsgrowinglowtothegroundwere
+Therewerenosignificantdifferencesinsizefractionaccu- presumablymoreexposedtosoilsplashandtrafficdustonthe
+mulationamongthethreeparticlesinthewaxofshrubleaves. leaves than trees with an upright growth habit, which were
+On average, the PM accumulation in the wax of the shrub mostly large particles. However, this large PM deposited on
+leaveswas6.8μgcm −2(65%)forthelargeparticlesizefrac- the surface cannot be fixed by epicuticular wax in shrubs,
+tion, 2.3μgcm −2(21%)forthecoarseparticlesizefraction, whichwassignificantlydifferentwithtrees.
+and1.5μgcm −2(14%)forthefineparticlesizefraction.For Overall,PMdepositionbymassforthethreesizefractions
+the trees, P. orientalis (84 μg cm −2) and P. armandi wasinthefollowingorder:large>coarse>fine.Theaverage
+(85 μg cm −2) showed significantly greater accumulation of proportions of large, coarse, and fine PM were 73, 16, and
+thelargeparticlesizefractioninwax.Theaverageaccumula- 11%,respectively.Previousstudiesreportedslightlydifferent
+tion of the large particle size fraction in wax on trees was proportions of these three size fractions (Popek et al. 2013;
+22 μg cm −2, which was 77% of the total accumulated PM. Songetal.2015;Zhangetal.2014),mainlyduetothelocal
+The highest coarse particle accumulation in wax was for ambient PM composition. The proportions of the three size
+P. orientalis (11 μg cm −2). The coarse particle in-wax fractions were slightly different between different species.
+)2mc/gμ(
+noitalumucca
+MP
+xaw-ni
+12552 EnvironSciPollutRes(2018)25:12545–12556
+Fig.5 ThesumofPM
+accumulationofthreesize Shurb Tree
+fractionsinwaxes.Dataaremean
+±SE,n=18.Barsmarkedwith
+differentlettersaresignificantly
+different(p<0.05)
+a
+b
+ab a
+a a
+bc bcd
+b b
+bc
+cd cd cd cd
+cd b b b b ab
+c b d c b d c b d b c b c c b d c b d b b
+b
+b b b b b b b b b b b b
+===== PAGE 9 =====
+Thiscanbe,inpart,explainedbytheleafandstructuralchar- mostdangerousforhumanhealth.Themostefficientspecies
+acteristics ofspecies (Song et al. 2015). However, aswe in- offinePMaccumulationshouldbeusedforurbangreening,
+troduced,theaveragebackgroundPM andPM concentra- such as R. typhina, P. orientalis, P. armandi, andMagnolia
+10 2.5
+tionsinthisareawere139and84μgm −3,respectively.The denudata. Three-dimensional configuration of the most effi-
+concentrationoffinePMwashigherthanthatofcoarseparti- cientshrubandtreespeciescanreducePMpollutionondif-
+cles,whichwasdifferentwithfineandcoarsePMdeposited ferent spatial scales. We also suggest that conifer species
+ontheleafsurfaceandwaxes.Freer-Smithetal.(2005)found shouldbeapriorityinurban greening,whichshowhighca-
+thatsedimentationundergravityprincipallyleadstolargePM pabilityincapturingPMduringwinter.
+depositedonleafsurfaces.Impactionandinterceptionaffects
+the deposition of coarse and fine PM on leaf surfaces. Water-solubleionsonleafsurfaces
+Therefore,particlesedimentationisthemainprocessbywhich
+PM deposits to foliage. The mass concentration of fine PM Thefoliageanalyzedforwater-solubleionswasthatsampled
+deposited via impaction and interception was 6 μg cm −2 on on27July2014.Figure6showstheresultsforionsandtotal
+average, accounting for approximately 11% of the total PM insoluble suspended particulate (TSP). The ratio in Fig. 6
+mass. However, the number of fine particles on leaves was represents the percentage of water-soluble ions and the total
+large.Previousstudiesproposedthatthenumberofparticles ofsolubleandinsolublePM.Acrossallspecies,themassof
+inthefinefractioncontributedover90%oftotalinsolublePM ions on leaf surfaces ranged from 3.7 μg cm −2 (in
+(Lietal.2015;Zhaoetal.2014).Therefore,plantalsoshowed M. denudata) to 32 μg cm −2 (in P. armandi). There were
+highlyefficientaccumulationoffinePMinurbanareas.The significant differencesbetweenplant species,Ulmuspumila,
+amountofcoarseandfinePMcontributed18and12%oftotal S. matsudana, P. orientalis, and P. armandi accumulating
+in-wax PM, respectively. This ratio was higher on leaf sur- moreionsonleafsurfaces(p<0.05).Forotherspecies,accu-
+facesthaninwaxes.Shrubleafsurfacesaccumulatedgreater mulationforallionswaslowto10μgcm −2.Themeanvalue
+massofthethreesizefractionsPMthanmostoftrees.Shrub foriondepositionwas13μgcm −2.Significantlypositivecor-
+andtreeleavesgrowatdifferentheights,whichmayhavean relationswereobservedbetweentheamountsofionsandTSP
+effectonPMaccumulationontheleafsurfacebecausethereis acrossspecies(R2=0.48,p=0.001).Thehighestandlowest
+moredustneartheground(Dzierzanowskietal.2011;Sæbø percentagesofwater-solubleionstototalPMonleaveswere
+et al. 2012; Mo et al. 2015). The significant correlation be- 50and7%,respectively,withanaverageof28%.Thepropor-
+tweenthemassofPMsizefractionwasdetected[R2valuesfor tionsofwater-solubleionsintotalPMvariedgreatlyamong
+large, coarse, and fine PM are 0.99 (p<0.0001), 0.78 different plant species, especially for trees. Variations of
+(p<0.0001), and 0.52 (p=0.001), respectively]. So, species proportion between species were also detected in the study
+thataccumulatedmoretotalparticlesalsohavethehighcapa- ofFreer-Smithetal.(2005).Thedatashowthatthecontribu-
+bilitytocapturegreateramountsoffineparticles,whichisthe tion of ions to total PM was in the following order:
+120
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+P. Ceras E if . e j r a a ponic L u . s maack A ii . tr P il . o t b o P a m . e ta n b to u s la a e P fo . r o m cc is iden A ta . l i a s ltissi m G a . bilo S b . F a j . a p p e o n n n ic s a ylvani U ca . p S u m . m il a a tsuda R n . a typ M hi . n d a enu P d . a t o a rienta P l . i s ar mandi
+)2mc/gμ(ecafrusfaelnonoitalumuccasnoI/MP Shurb Tree Ions TSP 50
+40
+30
+20
+10
+0
+-10
+-20
+)%(
+MP
+latot
+/snoI
+fo
+oidar
+EnvironSciPollutRes(2018)25:12545–12556 12553
+Fig.6 Totalinsolublesuspended
+particulateandwater-solubleions
+accumulatedonleafsurfaces.The
+ratioofionstoTSP.Dataare
+mean±SE,n=3
+===== PAGE 10 =====
+NO − >Ca2+>SO 2− >Mg2+>Cl − >Na+>K+>NH +.The study, the percentages of water-soluble ions to total PM on
+3 4 4
+proportionofNH +intheionswaslowestacrossallspecies, coniferousleavesrangedfrom24to29%.Basedontheanal-
+4
+whichissurprisingconsideringtheambientlevelsofNH +in ysis of their data (Song et al. 2015), undervalued mass of
+4
+Beijing. However, the findings are consistent with Freer- waterionsonconiferspecieswasabout39μgcm −2,onaver-
+−
+Smithetal.(2005)whoalsoshowedthatNO wasthemain age.ThismayleadtoalargeunderestimateofPMmasscon-
+3
+ion component and that the proportion of NH + was low. centration on the entire plant. The elemental composition of
+4
+Cheng etal. (2016)reportedaverage concentrationsofSO 2 theionsprovidesinsightstotheidentificationofthesourceof
+4
+− − −
+, Cl , and NO on plant leaves of 0.91, 0.73, and theparticles.Inpreviousstudies,thewater-solubleionsinPM
+3
+0.088μgcm −2,respectively,whichareslightlydifferentfrom inBeijing wereclassifiedintofoursources(Sunetal. 2004;
+theresultsinthisstudy.Thedifferencemaybeaccountedfor Wangetal.2005):NO − ,SO 2− ,andNH +wereassignedto
+3 4 4
+by the composition of inorganic compounds in the air. Shen type 1, which came from secondary inorganic aerosol; Ca2+
+et al. (2011) showed ions comprised 33% of PM at the andMg2+wereassignedtotype2,whichcamefromroadand
+10
+Dongbeiwang experiment site, near to the site of this study, construction dusts; Na+ and Cl − were assigned to type 3,
+whichwasrelativelyhighcomparedwiththisstudy.Thecon- which mainly came from waste incineration; and K+ was
+tributionofNH +toionswas16%.Liuetal.(2015)used15N assignedtotype4,whichmainlycamefrombiomasscombus-
+4
+tracertechniquesto showthatwater-solubleions(NH + and tion.Figure7showstheaverageconcentrationsofionsineach
+4
+−
+NO ) in PM can be absorbed effectively by Populus type. The greatest contribution was from type 1 secondary
+3 2.5
+euramericanaseedlings.Giventhatplantleavesabsorbultra- aerosol;NO andSO fromcoalcombustionandvehicleex-
+2 2
+fine PM through the stomata (Bell and Treshow 2002), we hausts are converted to NO
+−
+and SO
+2−
+by gas-to-particle
+3 4
+postulatethatNH +istranslocatedintothestomata,whichis reactions,whicharemainlyofanthropogenicorigin.Thecon-
+4
+a possible explanation for the low contribution of NH + to tributionofCa2+andMg2+tototalPMwasthenextgreatest
+4
+−
+ions on the leaf surface. The concentration of NO was in andwassignificantlyhigherthanthecontributionoftypes3
+3
+the range of previous studies. In summary, this study has and4.Types3and4werelowinthesiteofthisstudy,which
+shown that water-soluble ions on leaf surfaces are also an indicated the burning of waste and biomass. The important
+importantcomponentoftotalPMdepositedontoplantleaves. featureofthedatareportedisthattrafficwasthemainsource
+AsmanypaststudiesdidnotanalyzethesolublePMcompo- ofpollutionforthebackgroundairatthesiteofthisstudy.
+nents,thismeansthattheinterceptioncapacityofplantspecies
+forPMhaspreviouslybeenundervalued.Accordingtostudies
+Conclusion
+onwater-solubleionsinparticles,ignoringthemassofsoluble
+ionsslightlyundervaluedtheeffectsofplantsonPMdeposi-
+tionandmayleadtoadeviationintheestimationofthePM Seventeen urban plantspecies showedsignificantly different
+accumulated by the whole trees (Song et al. 2015). In this capacity in accumulating PM. The average accumulation of
+7
+6
+5
+4
+3
+2
+1
+0
+Type1 Type2 Type3 Type4
+)2mc/gμ(secafrusfaelnosnoicinagronielbavlossid
+12554 EnvironSciPollutRes(2018)25:12545–12556
+Fig.7 Theconcentrationsof
+dissolvableinorganicions K+ Na+ Cl- Mg2+ Ca2+ NH+ SO2- NO-
+4 4 3
+presentedasthesummassoffour
+typesions.Dataaremean±SE,
+n=3
+===== PAGE 11 =====
+EnvironSciPollutRes(2018)25:12545–12556 12555
+PMonleaveswas59μgcm −2,ofwhich65%wasdeposited on leaf surfaces and in waxes of urban forest species. Int J
+Phytoremediat13:1037–1046
+ontheleafsurfaceand35%intheleafwax.ThegreatestPM
+EnqlertN(2004)Fineparticlesandhumanhealth—areviewofepidemi-
+accumulation on leaves occurred in P. orientalis and ologicalstudies.ToxicolLett149:235–242
+P. armandi, both of which are evergreen conifer species. Freer-SmithPH,BeckettKP,TaylorG(2005)Depositionvelocitiesto
+F.pennsylvanica,P.tomentosa,A.altissima,andS.japonica Sorbus aria, Acer campestre, Populus deltoides × trichocarpa
+was less effective for PM deposition. P. tomentosa,
+‘Beaupré’,Pinusnigraand×Cupressocyparisleylandiiforcoarse,
+fineandultra-fineparticlesintheurbanenvironment.EnvironPollut
+P.orientalis,andP.armandi weretheonlythreeof17species,
+133:157–167
+whichaccumulatedgreaterthan50%oftotalinsolublePMin HanX,GuoQJ,LiuCQ,StraussH,YangJX,HuJ,WeiRF,TianLY,
+waxes.PMlargerthan10μmcomprised73%ofPMdepos- KongJ(2016)EffectofthepollutioncontrolmeasuresonPM2.5
+itedonleaves,withthecoarseandfineparticlesizefractions duringthe2015ChinaVictoryDayParade:implicationfromwater-
+solubleionsandsulfurisotope.EnvironPollut218:230–241
+comprising 16 and 11% of the deposited PM, respectively.
+JanhällS(2015)Reviewonurbanvegetationandparticleairpollution—
+Water-solubleionscomprised28%oftotalPMonleaves,on depositionanddispersion.AtmosEnviron105:130–137
+average.Alackofknowledgeaboutionscapturedbyleaves JouraevaVA,JohnsonDL,HassettJP,NowakDJ(2002)Differencesin
+obviouslyleadstounderestimationoftheabilityofplantspe- accumulationofPAHsandmetalsontheleavesofTiliaeuchloraand
+Pyruscalleryana.EnvironPollut120:331–338
+cies to intercept PM. This study has shown that trees and
+KauppH,BlumenstockM,McLachlanMS(2000)Retentionandmobil-
+shrubs should be considered as an effective approach to re-
+ity ofatmospheric particleassociated organic pollutant PCDD/Fs
+moveaerialPMinurbanareas. andPAHsinmaizeleaves.NewPhytol148:473–480
+Lelieveld J, Evans JS, FnaisM, Giannadaki D, Pozzer A (2015) The
+Funding information This research was supported by the Beijing contributionofoutdoorairpollutionsourcestoprematuremortality
+Laboratory of Urban and Rural Ecological Environment (PXM2015_
+onaglobalscale.Nature525:367–371
+014207_000014), the Beijing Collaborative innovationcenterfor eco- LeonardRJ,McarthurC,HochuliDF(2016)Particulatematterdeposi-
+environmental improvement with forestry and fruit trees (PXM2017_ tiononroadsideplantsandtheimportanceofleaftraitcombinations.
+014207_000024), the Forestry Public Welfare Project of China UrbanForUrbanGree20:249–253
+(201304301), the National Natural Science Foundation of China LiD,XuYX,WangBT(2015)Thedepositionofparticulatematterson
+(41705130) and the National Key R&D Program of China climbingplant.EcolEnvironSci24:1486–1492
+(2017YFC0210106). LiHX,JiHB,ShiCJ,YangG,YanZ,XuXY,DingHJ,TangL,XingYX
+(2017) Distribution of heavy metals and metalloids in bulk and
+References particlesizefractionsofsoilsfromcoal-minebrownfieldandimpli-
+cationsonhumanhealth.Chemosphere172:505–515
+LiuL,GuanDS,PeartMR,WangG,ZhangH,LiZW(2013)Thedust
+BeckettKP,Freer-SmithPH,TaylorG(2000)Particulatepollutioncap- retention capacities of urban vegetation—a case study of
+turebyurbantrees:effectofspeciesandwindspeed.GlobChange Guangzhou,SouthChina.EnvironSciPollutRes20:6601–6610
+Biol6:995–1003
+LiuJ,HanY,TangX,ZhuJ,ZhuT(2016)Estimatingadultmortality
+BellJNB,TreshowM(2002)Airpollutionandplantlife,secondedn. attributable to PM2.5 exposure in China with assimilated PM2.5
+JohnWiley,Chichester concentrations based on a groundmonitoring network. SciTotal
+BoscoML,VarricaD,DongarràG(2005)Casestudy:inorganicpollut- Environ568:1253–1262
+ants associated with particulatematterfromanareaneara petro- LiuQ,ShiJ,AnHL,CaoXH,LiuC,YingWL,XiaXL,GuoHH(2015)
+chemicalplant.EnvironRes99:18–30 AbsorptionanddistributionofPM NH4+andNO3-inPopulus
+2.5
+BurkhardtJ(2010)Hygroscopicparticlesonleaves:nutrientsordesic- euramericanaNeva.ActaEcolSin35:6541–6548
+cants?EcolMonogr80:369–399
+LunX,ZhangX,MuY,NangA,JiangG(2003)Sizefractionatedspe-
+CaiMF,XinZB,YuXX(2017)Spatio-temporalvariationsinPMleaf ciation of sulfate and nitrate in airborne particulates in Beijing.
+deposition:ameta-analysis.EnvironPollut231:207–218 China.AtmosEnviron37:2581–2588
+ChenB,LiSN,YangXB,LuSW,WangB,NiuX(2016a)Characteristics LuoXS,YuS,LiXD(2011)Distribution,availability,andsourcesof
+ofatmosphericPM2.5instandsandnon-forestcoversitesacross tracemetalsindifferentparticlesizefractionsofurbansoilsinHong
+urban-ruralareasinBeijing,China.UrbanEcosystems19:867–883 Kong:implicationsforassessingtherisktohumanhealth.Environ
+ChenL,LiuC,ZouR,YangM,ZhangZ(2016b)Experimentalexami- Pollut159:1317–1326
+nationofeffectivenessofvegetationasbio-filterofparticulatemat- MinistryofEnvironmentalProtectionofChina(2018)Nationalcityair
+tersintheurbanenvironment.EnvironPollut208:198–208 qualityreal-timereleaseplatform
+ChenL,LiuCL,PanT,ChenCC,LiZ,WangHH,PeiX,SunL(2014) MoL,MaZY,XuYS,SunFB,LunXX,LiuXH,ChenJ,YuXX(2015)
+AssessmentoftheeffectofPM reductionbyplainafforestation Assessing the capacity of plant speciesto accumulate particulate
+2.5
+projectinBeijingbasedondrydepositionmodel.ChinJApplEcol matterinBeijing,China.PLoSOne10:e0140664
+33:2897–2904 NowakDJ,HirabayashiS,BodineA,HoehnR(2013)ModeledPM2.5
+ChenW,TangH,ZhaoH(2015)Diurnal,weeklyandmonthlyspatial removal by trees in ten U.S. cities and associated health effects.
+variationsofairpollutantsandairqualityofBeijing.AtmosEnviron EnvironPollut178:395–402
+119:21–34 OtteléM,vanBohemenHD,FraaijALA(2010)Quantifyingthedepo-
+ChengY,WangY,WangY,ZhangH,LiangD(2016)Particulatematter sitionofparticulatematteronclimbervegetationonlivingwalls.
+adsorptionandthemaininfluencingfactorsoffivetypicalplantsin
+EcolEng36:154–162
+Beijing.EnvironChem35:1690–1697 PopeCAIII,DockeryDW(2006)Healtheffectsoffineparticulateair
+Dzierzanowski K, Popek R, Gawronska H, Saebo A, Gawronski SW
+pollution:linesthatconnect.JAirWasteManageAssoc56:709–742
+(2011) Depositionof particulate matter of different size fractions PopekR,GawronskaH,WrochnaM,GawronskiSW,SæbøA(2013)
+Particulate matteron foliage of 13woody species: depositionon
+===== PAGE 12 =====
+12556 EnvironSciPollutRes(2018)25:12545–12556
+surfaces and phytostabilisation in waxes—a 3-year study. Int J TangX,ZhangX,WangZ,CiZ(2016)Water-solubleorganiccarbon
+Phytoremediat15:245–256 (WSOC) and its temperature-resolved carbon fractions in atmo-
+PrzybyszA,SæbøA,HanslinHM,GawronskiSW(2014)Accumulation sphericaerosolsinBeijing.AtmosRes181:200–210
+ofparticulatematterandtraceelementsonvegetationasaffectedby Thithanhthao N, Yu X, Zhang Z, Liu M, Liu X (2015) Relationship
+pollutionlevel,rainfallandthepassageoftime.SciTotalEnviron betweentypesofurbanforestandPM2.5captureatthreegrowth
+481:360–369 stagesofleaves.JEnvironSci27:33–41
+Sabin LD, Hee Lim J, Teresa Venezia M, Winer AM, Schiff KC, Wang L, Gao S, Liu L, Ha S (2006) Atmospheric particle -retaining
+Stolzenbach KD (2006) Dry deposition and resuspension of capability ofelevengarden plantspeciesinBeijing.ChinJ Appl
+particle-associated metals near a freeway in Los Angeles. Atmos Ecol17:597–601
+Environ40:7528–7538
+WangL,GongHL,LiaoWB,WangZ(2015)Accumulationofparticles
+SæbøA,PopekR,NawrotB,HanslinHM,GawronskaH,Gawronski onthesurfaceofleavesduringleafexpansion.SciTotalEnviron
+SW(2012)Plantspeciesdifferencesinparticulatematteraccumu- 532:420–434
+lationonleafsurfaces.SciTotalEnviron427–428:347–354
+WangL,HasiE,LiuL,GaoS(2007)Physicochemicalcharacteristicsof
+Salmond JA, Tadaki M, Vardoulakis S, Arbuthnott K, Coutts A,
+ambientparticlessettlinguponleafsurfaceofsixconifersinBeijing.
+Demuzere M, Dirks KN, Heaviside C, Lim S, Macintyre H, ChinJApplEcol18:487–492
+McInnesRN,WheelerBW(2016)Healthandclimaterelatedeco-
+WangY,ZhuangG,TangA,YuanH,SunY,ChenS,ZhengA(2005)
+systemservicesprovidedbystreettreesintheurbanenvironment.
+The ion chemistry and the source of PM2.5 aerosol in Beijing.
+EnvironHealth15:S36
+AtmosEnviron39:3771–3784
+Schaubroeck T, Deckmyn G, Neirynck J, Staelens J, Adriaenssens S,
+WHO(2006)WHOairqualityguidelinesforparticulatematter,ozone,
+DewulfJ,MuysB,VerheyenK(2014)Multilayeredmodelingof
+nitrogendioxideandsulfurdioxide.Globalupdate2005.Summary
+particulatematterremovalbyagrowingforestovertime,fromplant
+ofriskassessment.WorldHealthOrganization,Geneva
+surfacedepositiontowashoffviarainfall.EnvironSciTechnol48:
+10785–10794
+XieBZ,WangHX,YangJ(2014)RetentioncapabilityofPM2.5andit’s
+explanation by leaf surface micro-structure of common broad-
+Sgrigna G, Sæbø A, Gawronski S, Popek R, Calfapietra C (2015)
+leavedplantspeciesinBeijing.ActaBotBoreal-OccidentSin34:
+ParticulatematterdepositiononQuercusilexleavesinanindustrial
+cityofcentralItaly.EnvironPollut197:187–194
+2432–2438
+ShenJ,TangA,LiuX,KopschJ,FangmeierA,GouldingK,ZhangF Xu W, Wu QH, Liu XJ, Tang AH, Dore AJ, Heal MR (2016)
+(2011)ImpactsofpollutioncontrolsonairqualityinBeijingduring Characteristicsofammonia,acidgases,andPM 2.5 forthreetypical
+the2008OlympicGames.JEnvironQual40:37–45 land-usetypesintheNorthChinaPlain.EnvironSciPollutRes23:
+SongYS(2015)Thestudyonfineparticulateairpollutioncharacteristics
+1158–1172
+and the dust detention effect of greening trees in Beijing. XuXW,ZhangZM,BaoL,MoL,YuXX,FanDX,LunXX(2017)
+Dissertation, Research Center for Eco-Environmental Sciences, Influence of rainfall duration and intensity on particulate matter
+ChineseAcademyofSciences removalfromplantleaves.SciTotalEnviron609:11–16
+SongYS,MaherB,LiF,WangX,SunX,ZhangH(2015)Particulate YanJ,LinL,ZhouW,MaK,PickettSTA(2016)Anovelapproachfor
+matterdepositedonleafoffiveevergreenspeciesinBeijing,China: quantifyingparticulatematterdistributiononleafsurfacebycom-
+sourceidentificationandsizedistribution.AtmosEnviron105:53– biningSEMandobject-basedimageanalysis.RemoteSensEnviron
+60 173:156–161
+SongYS,WangXK,MaherB,LiF,XuC,LiuX,SunX,ZhangZ(2016) YinS,ShenZ,ZhouP,ZouX,CheS,WangWH(2011)Quantifyingair
+Thespatial-temporalcharacteristicsandhealthimpactsofambient pollutionattenuationwithinurbanparks:anexperimentalapproach
+fineparticulatematterinChina.JCleanProd112:1312–1318 inShanghai,China.EnvironPollut159:2155–2163
+SunY,ZhuangG,WangY,HanL,GuoJ,DanM,ZhangW,WangZ, ZhangZD,XiBY,CaoZG,JiaLM(2014)Explorationofaquantitative
+HaoZ(2004)Theair-borneparticulatepollutioninBeijing—con-
+methodologytocharacterizetheretentionofPM2.5andotheratmo-
+centration, composition, distribution and sources. AtmosEnviron sphericparticulatematterbyplantleaves:takingPopulustomentosa
+38:5991–6004 leavesasanexample.ChinJApplEcol25:2238–2242
+TallisM,TaylorG,SinnettD,Freer-SmithP(2011)Estimatingthere-
+Zhao ST, Li XY, Li YM (2014) The characteristics of deposition of
+movalofatmosphericparticulatepollutionbytheurbantreecanopy
+airborne particulate matters with different size on certain plants.
+of London, under current and future environments. Landscape EcolEnvironSci23:271–276
+UrbanPlan103:129–138

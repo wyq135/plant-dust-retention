@@ -1,0 +1,782 @@
+TOTAL PAGES: 13
+
+===== PAGE 1 =====
+Article
+Comprehensive Evaluation of Dust Retention and Metal
+Accumulation by the Leaves of Roadside Plants in Hangzhou
+among Seasons
+NingDang1,2,†,HandanZhang1,† ,HaimeiLi2,MirMdAbdusSalam3,4andGuangcaiChen1,*
+1 ResearchInstituteofSubtropicalForestry,ChineseAcademyofForestry,Hangzhou311400,China
+2 CollegeofLandscapeArchitectureandForestry,QingdaoAgriculturalUniversity,Qingdao266109,China
+3 SchoolofForestSciences,UniversityofEasternFinland,Yliopistokatu7,P.O.Box111,80100Joensuu,Finland
+4 NaturalResourcesInstituteFinland(LUKE),Yliopistokatu6B,80100Joensuu,Finland
+* Correspondence:guangcaichen@sohu.com
+† Theseauthorscontributedequallytothiswork.
+Abstract:Theautoexhaustanddustderivedfromincreasedtrafficvolumeshaveledtoanincreasing
+levelofatmosphericparticulatesinurbanareas,whichhavebecomeaprimarypollutantofambient
+airinurbanzones. Roadsideplantscaneffectivelyretainatmosphericparticulatesandcleanthe
+urbanairviafoliarcaptureofroaddust.FivecommonroadsideplantsinHangzhouwereselectedto
+evaluatetheircapacityfortheretentionofparticulatematter(PM)andtheaccumulationofmetals.
+TheresultsshowedthatthePMretentioncapacityofthedifferentplantsvariedgreatly,aswasthe
+casewithLoropetalumchinensevar.rubrumYieh,Osmanthusfragrans(Thunb.)Loureiro,Pittosporum
+tobira(Thunb.) Ait,Photinia×fraseriDressandCinnamomumcamphora(L.)Presl. Inaddition,the
+amountsofparticlesretainedbytheplantsvariedamongseasons, withthehighestretentionin
+winter(12.19g·m−2)andthelowestretentioninspring(6.89g·m−2).Thesolidsontheleafsurface
+weremainlyirregularparticles,suchasmineralfragments,sootaggregates,andflyashparticles.
+Citation:Dang,N.;Zhang,H.;Li,H.;
+Meanwhile,theseplantspeciescaneffectivelyaccumulateheavymetalsthatattachedtotheparticles.
+Salam,M.M.A.;Chen,G.
+Theleavesofthefivetreespecieshadthehighestamountsofcopper(Cu)andthelowestamountsof
+ComprehensiveEvaluationofDust
+cadmium(Cd).Amongspecies,L.chinenseandP.tobirahadthestrongestcomprehensivecapacityto
+RetentionandMetalAccumulation
+bytheLeavesofRoadsidePlantsin adsorbparticulatematterandheavymetals.Theresultsshedlightontherationalselectionofroad
+HangzhouamongSeasons.Forests plants,bothasornamentsandtopurifyairviadustsuppressioninsubtropicalzones.
+2022,13,1290. https://doi.org/
+10.3390/f13081290 Keywords:atmosphericparticulate;heavymetals;urbanvegetation;airpollution;ecosystemservices
+AcademicEditor:RogerSeco
+Received:10July2022
+Accepted:12August2022 1. Introduction
+Published:14August2022
+Mosturbanareasintheworldfacesevereairpollutionproblemsbecauseofrapid
+Publisher’sNote:MDPIstaysneutral industrializationandurbanization[1]. Asaprimaryairpollutant,particulatematter(PM)
+withregardtojurisdictionalclaimsin exceeds air quality standards in many cities worldwide, and the situation continues to
+publishedmapsandinstitutionalaffil- deteriorate[2]. Atmosphericparticulatematternotonlydeterioratesairqualitybutalso
+iations. threatenshumanhealth. AccordingtotheInternationalAgencyforResearchonCancer,
+atmosphericparticulatematterwasclassifiedasagroup1contaminant[3]. Thesurfaceof
+atmosphericparticulatemattercanadsorborcontainpolycyclicaromatichydrocarbons
+(PHAs), heavy metals (HM), bacteria and viruses, and other harmful substances [4–7].
+Copyright: © 2022 by the authors.
+Humanactivitiessuchastransportationandindustrycanreleaseparticulatemattercon-
+Licensee MDPI, Basel, Switzerland.
+tainingheavymetalsintotheatmosphere[1,8]. Harmfulheavymetalsmoveandresuspend
+This article is an open access article
+with particulate matter, deteriorating air quality, and entering the human respiratory
+distributed under the terms and
+system,endangeringhumanhealth[9–12].
+conditionsoftheCreativeCommons
+Transportation emissions are one of the most important sources of fine particle in
+Attribution(CCBY)license(https://
+cities[13]. IntheEUcountries, non-exhaustemissionsofPM increasedfrom2.9%in
+creativecommons.org/licenses/by/ 2.5
+2000to5.2%in2018,andPM increasedfrom4.0%to6.7%[14]. Harrisonetal.[15]found
+4.0/). 10
+Forests2022,13,1290.https://doi.org/10.3390/f13081290 https://www.mdpi.com/journal/forests
+===== PAGE 2 =====
+Forests2022,13,1290 2of13
+thatnon-exhaustemissionsfromvehicleswerethelargestcontributortoparticlemassin
+London. Particulatematterreleasedfromtrafficemissionscarriesharmfulheavymetals.
+Hjortenkransetal.[16]foundthatcadmium(Cd),copper(Cu)andlead(Pb)emissions
+fromautomotivebrakeliningsinStockholm,Sweden,were0.061kg/year,3800kg/year,
+and 35 kg/year, respectively. Particulate matter and heavy metals emitted from road
+trafficincitiesseriouslythreatentheinhabitants’healthcondition. Ithasbeensuggested
+thattheexacerbationofworseningrespiratorysymptoms,impairedlungfunction,and
+prevalenceofbloodpressureiscorrelatedwithlong-termexposuretoairpollutionrelated
+withtraffic[17–20].
+Roadside plants can effectively reduce particulate matter from road traffic [21,22].
+Plantleavescanactasnaturalfiltersbytrappingandretainingtheparticulatematterfrom
+trafficemissions[13,23–25].Zhengetal.[22]believedthatdensevegetationcouldeffectively
+blockthepenetrationofroadparticulatematter,andtheconcentrationofparticulatematter
+increasessignificantlyinthefrontpartofthevegetation(0–5m).Maheretal.[26]foundthat
+particulatematterwasreducedby50%inthosehousesscreenedbyroadsidetemporary
+treelines. Plantscannotonlyabsorbfineparticlesbutalsouptaketheinherenttoxicmetals
+inparticlesthroughtheirleaves[8,27]. Ozdemiretal.[13]alsofoundthattheroadside
+leavescaneffectivelyremoveheavymetals. Thehighestremovalrateofnickel(Ni),Pb,Cu,
+andzinc(Zn)inroadparticulatematterbydensetreeswas42.56%,26.60%,19.61%,and
+19.12%,respectively.
+Plantspeciescanaffecttheadsorptioncapacityofleavesforparticulatematterand
+toxic metals. Various factors, such as environment pollution level and leaf surface mi-
+crostructure,canalsoinfluenceplant’scapacitytoretainparticlesandmetals[8,28–30]. Itis
+generallybelievedthattheroughnessoftheleafsurface,thesizeofthestomata,thedensity
+ofthefluff,andthesecretionscanaffectthedust-retainingcapacityoftheplant[11,31,32].
+Zheng et al. [11] found that the maximum particle retention was significantly positive
+correlatedwiththedensityofleafepidermalhairs,indicatingthatthehairsoftheleaves
+helptocaptureparticulatematter. Theplantleavescanuptaketraceelementsadhered
+toparticulatematterthroughstomata[27,33]. Windspeed,temperature,humidity,and
+pollutionconditionscanalsoinfluencethedepositionofairborneparticlesandtheasso-
+ciatedtraceelements[31,34,35]. Royetal.[25]foundFicusbengalensiswasmorecapable
+of accumulating Cu and particulate matter in industrial than commercial zones. Many
+studiesfocusontheadsorptionofheavymetalsandparticulatematteronleaves,butless
+attentionhasbeenpaidtoseasonaldifferences. Todate,therelationshipbetweenheavy
+metalaccumulationinplantleavesandparticulatematterisunclearunderseasonalchange.
+From 2013 to 2014, the exceeded pollutants in Hangzhou were mainly PM and
+2.5
+PM [36]. Thenumberofmotorvehiclesreached2.44millionin2017,andtrafficemissions
+10
+have become one of the most critical factors contributing to air pollution in Hangzhou.
+Therefore,itisnecessarytoreducetheparticulatematteremittedbytrafficandreducethe
+healthimpactonresidents. Inaddition,Hangzhouisfamousforitsbeautifulsceneryand
+landscapewithplentyofgreening,includingroadsideplants. Thecurrentstudyaimsto:
+(1)analyzethevariationsofairborneparticleandmetalsretainedbytheleavesofcommon
+roadsideplants;and(2)revealtherelationshipbetweentheretentionoffoliarparticlesand
+theaccumulationofmetalsbythecommonroadsideplant. Theresultswillprovidesome
+guidanceforscreeningroadsidespeciesandimprovingtheaccuracyoftheassessmenton
+existingurbanplantspeciesintheecosystemservices.
+2. MaterialsandMethods
+2.1. StudyArea
+Hangzhoucity(119◦25(cid:48)–120◦19.5(cid:48) E,29◦44(cid:48)–30◦12(cid:48) N)isoneofthemostfamouscities
+located in the Yangtze River Delta. The resident population of Hangzhou in 2020 was
+11.936million. Themotorvehicleswerebeyond690,263in2010,andtrafficemissionshave
+becomeoneofthecrucialfactorscontributingtoairpollutioninHangzhou[37]. Thearea
+===== PAGE 3 =====
+Forests2022,13,1290 3of13
+ischaracterizedbyahumidsubtropicalmonsoonclimate,withanaveragetemperatureof
+16.0◦C,andanaveragerainfallofapproximately1613.9mmannually[38].
+2.2. TestedPlants
+Fivecommonroadsideplantswerescreenedaccordingtoourprevioussurvey[39]
+andstudiesconductedbyothers[40]. ThesefiveroadsideplantsarePhotinia×fraseriDress,
+Loropetalumchinensevar. rubrumYieh,Cinnamomumcamphora(L.)Presl,Osmanthusfragrans
+(Thunb.) LoureiroandPittosporumtobira(Thunb.) Ait. (TableS1).
+2.3. Sampleanalysis
+2.3.1. LeafSampling
+DaqiaoRoad(119◦57(cid:48)56.264”E,30◦3(cid:48)39.347”N),oneofthemainroadsinsouthwest
+Hangzhou,wasselectedforsamplecollection. Itisoneofthemainroadsofurbantraffic,
+withalargetrafficvolume. Theroadgreeningisinacommontype,withone-boardand
+two-belt. Thegreenbeltismainlylocatedonthesidewalkseparationlineonbothsidesof
+theroad. ThegreeningtreespeciesareCinnamomumcamphora,Loropetalumchinense,Ilex
+cornuta,etc.
+Plantsofeachspecieswithsimilarageandaveragecrownandthatwerewelldevel-
+opedandhealthywereselectedforsampling. Theleafwassampledatday7afterrain
+(rainfallexceeds12.55mm)inAugustandOctober2020andJanuaryandMay2021. The
+leavesabout1.5mfromthegroundwithnodiseasesandnodamageswereselectedand
+sampled. All collections were repeated three times. For each species, about 30 leaves
+wereselectedandpackagedseparatelyinacleanziplockbag. Atotalof60samples(four
+acquisitions × five samples × three replicates) were collected. The particle retention,
+particlemorphologyandelementscontentweredetermined. Thedetailedspecificlocal
+meteorologicalparametersareprovidedinTableS2.
+2.3.2. ParticulateMatterDensityinLeafSurface
+The particulate matter on the leaf surface was measured by the weight difference
+method[41]. Theleavesweresoakedinpurifiedwaterfortwohours,thenwashedclean.
+Thecleanedleaveswereputoncleanpapertowelstodry. Thefiltermembranesweredried
+toconstantweightat60◦C(W :10µmfiltermembraneweight;W :2.5µmfiltermembrane
+1 2
+weight;W :0.2µmfiltermembraneweight). Then,thedust-retainingliquidwasfiltered
+3
+throughthefiltermembraneswithdifferentporesizesinturn. Theparticleswereobtained
+withaparticlesizegreaterthan10µm,between2.5and10µm,andbetween0.2and2.5µm
+bysequentiallyfilteringwithmembranesof10µm,2.5µm,and0.2µm,respectively. After
+filtration,thefilterpiecesweredriedinanovenat65◦Ctoaconstantweightandthen
+weighed(W : weightof10µmfiltermembraneafterfiltration;W : weightof2.5µmfilter
+4 5
+membrane after filtration; W : weight of 0.2 µm filter membrane after filtration). The
+6
+weightoftheparticlewascalculatedaccordingtothemethodsoutlinedbyDangetal.[39]
+andbrieflydescribedasinEquation(1).
+Afterdrying,theleafwasscannedbyascanner(EpsonPerfectionV700Photo)and
+theleafareawascalculatedbyWinRHIZOPro2005b(RegentInstruments)to(S).
+Theparticulatematterdensityintheleafsurfacewascalculatedby:
+Q = (W −W )+(W −W )+(W −W )/S
+TSP 4 1 5 2 6 3
+Q = (W −W )+(W −W )/S (1)
+PM10 5 2 6 3
+Q = (W −W )/S
+PM2.5 6 3
+2.3.3. ParticleMorphologyandElementAnalysis
+Theparticlesontheleafsurfacewereadheredtotheconductiveglue,andthenwere
+placedonthesamplestageforgoldspraying. Goldsprayingcanimprovetheconductivity
+andtheimagingeffect. Thentheprocessedsampleswereplacedonthescanningelectron
+microscope(Feina/PHENOMPro)toobservethemorphologyoftheparticles. Atthesame
+===== PAGE 4 =====
+Forests2022,13,1290 4of13
+time,theelementalcompositionoftheparticleswasanalyzedbytheenergyspectrometer
+(Feina/PHENOMPro).
+2.3.4. MetalAccumulationofBladeandFoliarParticles
+Themetalcontents(Cd,Ni,PbandCu)inthePMsandleavesweremeasured. The
+HNO -HCldigestionmethodandinductivelycoupledplasmamassspectrometrywere
+3
+usedforthedetermination(refertoDangetal.[39]forspecificmethods).
+2.3.5. ComprehensiveEvaluation
+Toassessthepollutionlevelcausedbythemetalsinleafparticulatematter,theGeo-
+accumulationindex(I )offourmetals(Cd,Ni,PbandCu)wascalculatedasEquation(2).
+geo
+I =log [C /(1.5× B )] (2)
+geo 2 n n
+where C and B represent the metal concentration in particulate matter and soil back-
+n n
+ground, respectively. The soil background value adopts the soil element background
+value of Zhejiang Province (Cd: 0.17, Ni: 23.93, Pb: 35.70, and Cu 22.63 mg·kg−1) [42].
+Muller’s[43]methodwasusedtoclassifymetalcontaminationcategories(TableS3).
+Thecapacityforparticulatematterretentionandformetalaccumulationoffoliarparti-
+cleswascomprehensivelyevaluatedbythemembershipfunctioninfuzzymathematics[44].
+Thebasiccalculationmethodwasasfollows:
+X−X
+Xµ = min (3)
+X −X
+max min
+whereXµisthemembershipfunctionofthemeasuredvaluetolerancecapacity,whichis
+avaluebetween0and1. X andX arethemaximumandminimumvaluesofthe
+max min
+measuredvalueoftheindex,respectively.
+2.3.6. DataAnalysis
+SPSS17.0(SPSSInc.,Chicago,IL,USA)wasusedforstatisticalanalyses. Aone-way
+analysis of variance (ANOVA) with a least significant difference (LSD) was applied to
+determinethestatisticaldifferences(α=0.05or0.01). Figuresweremainlydrawnusing
+MicrosoftExcel2019(MicrosoftCorp,Redmond,Washington,USA)andAdobePhotoshop
+CC2019software(AdobeSystemInc.,SanJose,CA,USA).
+3. ResultsandDiscussion
+3.1. TheSurfaceMorphologyandElementsofParticle
+Aerosol particulate matter mainly comes from natural and anthropogenic sources,
+suchassoilandsurfacegeologicalsediments,biologicalmaterials,andfossilfuelburn-
+ing[45–47]. Particlesfromsoilandsurfacesedimentswereirregularblockswithsimilar
+shapes,suchasgravelpiecesofnature[47]. Biologicalparticleswerepollen,spores,and
+plantfragments[48]. Theparticulatematterproducedbyfossilfuelburningwasprimarily
+sphericalandcircular[47,49].
+The particles adsorbed by plant leaves were observed by a scanning electron mi-
+croscope (Figure 1). The particles retained by leaves in this study mainly appeared as
+regularandirregularshapes. Irregular-shapedparticlesweremostlyfluffypolymer,chain
+polymer,irregularblock,andirregularflake. Regular-shapedparticlesweremostlyspheri-
+calandcylindrical. Anirregularflake,layered,andsmoothsurfaceparticlecanbeseen
+in Figure1A. The main element oxygen (O) was detected, followed by carbon (C), alu-
+minum(Al),silicon(Si),calcium(Ca),andotherelements. Figure1Brepresentsanirregular
+blockparticlemainlycontainingO,C,andSi. Irregular-shapedparticles(Figure1A,B)were
+mainlyformedfromthemechanicalabrasionofsoilandsurfacegeologicaldeposits[49,50].
+Figure1Cshowstheparticlewithanovalshape,whichwasdividedintobiologicalparticles
+withC,nitrogen(N)andOasthemainelements. Figure1Dshowsalongstripeofparticu-
+===== PAGE 5 =====
+Forests2022,13,1290 5of13
+latematteroriginatingfromtheearthandpossiblytransformedfromsecondaryaerosol
+formationfromatmosphericreactions[51]. Figure1Eshowsafluffypolymerbelonging
+tosootaggregates. Figure1Frepresentssphericalparticleswithasmoothsurface,which
+wereflyashparticles. Thesootaggregatesandsphericalparticlesintheurbanatmosphere
+were primarily from fossil fuel burning (industrial or automotive) and automobile ex-
+haust[52–54]. Insummary,theparticlesretainedbyplantsweremainlybiological,mineral,
+flyashparticles,andsootaggregates. Thesignificantsourcesofroadparticulatematter
+weresoilandsurfacesediments,fuelcombustion,vehicleexhaustemissions,andbiological
+debris. Thiswasconsistentwiththefindingsofotherscientistsonthecompositionofleaf
+dustparticles[48].
+Figure1.Morphologyandenergyspectrumofsingleparticleretainedbyleaf.
+3.2. CharacteristicsofMetalsinParticle
+Themetalcontentsintheparticlesretainedbyplantleavesweredifferent(Table1).
+ThecontentofCu(262.60to2825.00mg·kg−1)intheparticleswasthehighest,followed
+by Pb (52.78 to 601.67 mg·kg−1) and Ni (37.35 to 227.26 mg·kg−1), whereas Cd (1.68 to
+23.44mg·kg−1)wasthelowestlevel.Theheavymetalcontentsinthedifferentleafparticles
+variedgreatlyamongseasons. NiandCdwereatthehighestlevelinsummerandlowestin
+spring. Bycontrast,thecontentsofCuandPbwerehighestinwinterandlowestinspring.
+Zhu et al. [55] observed that the enrichment factor (EF) at moderate pollution levels in
+winterwashigherthaninotherseasons,especiallyforCuandPb,whichwassimilartoour
+findings. TheGeo-accumulationindexsuggestedthatthepollutionlevelinleafparticulate
+matterwascausedbyheavymetals(TableS5). CadmiumandCuhadhighercontamination
+levels,andNihadlowercontaminationlevels. Trafficsourcescanemitlargeamountsof
+heavymetals[13,55],andtirewearhasbeensuggestedtobeasignificantsourceofCd[56].
+Copperwasatracerforvehiclefuelburnandbrakewear[56–58].
+===== PAGE 6 =====
+Forests2022,13,1290 6of13
+Table1.Metalcontentinleafparticulatematter(mg·kg-1).
+Tree
+Season Cd Ni Pb Cu
+Species
+CC 4.86±0.75 58.44±1.32 269.69±11.38 378.08±5.49
+LC 1.95±0.28 39.32±2.94 142.34±13.86 270.37±4.55
+Spring OF 6.07±1.59 124.64±17.06 273.52±26.01 981.25±127.32
+PF 3.86±1.66 50.51±2.77 192.50±0.49 412.93±15.66
+PT 3.54±0.60 46.07±2.78 186.80±12.25 292.95±30.34
+CC 6.44±1.63 89.82±34.11 245.49±3.97 464.98±23.88
+LC 2.74±1.16 49.36±7.83 54.05±1.27 292.03±11.91
+Summer OF 22.13±1.26 211.74±13.48 547.13±55.62 1734.3±30.88
+PF 5.32±0.39 61.26±3.61 148.29±23.03 423.86±19.4
+PT 5.30±0.16 52.2±3.04 149.54±11.6 450.62±25.63
+CC 4.88±0.84 74.93±1.55 336.24±106.08 712.22±23.47
+LC 3.63±0.63 74.55±1.14 247.77±33.05 560.44±37.94
+Autumn OF 7.05±0.40 86.17±1.63 213.2±13.43 670.12±24.32
+PF 5.17±0.43 80.52±4.76 243.62±37.58 602.54±1.50
+PT 2.54±0.45 67.77±0.24 312.94±3.34 523.13±8.64
+CC 8.48±1.36 117.02±3.48 556.65±33.1 2157.88±667.12
+LC 3.51±0.44 59.4±5.85 169.53±16.43 701.75±70.43
+Winter OF 7.14±0.99 71.36±3.00 197.02±9.6 684.19±28.78
+PF 4.54±0.50 76.71±11.55 246.26±14.83 761.75±0.68
+PT 4.10±0.07 68.81±2.84 265.51±11.44 682.5±40.10
+CC:Cinnamomumcamphora(L.)Presl;LC:Loropetalumchinensevar.rubrumYieh;OF:Osmanthusfragrans(Thunb.)
+Loureiro;PF:Photinia×fraseriDress;PT:Pittosporumtobira(Thunb.)Ait.
+3.3. TheParticleRetainedbyPlantLeaf
+Theretentioncapacityfordifferentparticlesizesvariedamongallspeciesofplants
+(Figure2). TheL.chinenseplantsconsistentlyretainedthemosttotalsuspendedparticles
+(TSP)(2.25–4.66g·m−2),PM (1.27–1.39g·m−2),andPM (0.18–0.74g·m−2)incompar-
+10 2.5
+ison to the other four plants (p < 0.05). The lowest retentions of PM and PM were
+10 2.5
+detected in Photinia × fraseri and C. camphora plants. Liu et al. [59] also noted that the
+L.chinenseplantsshowedthelargestamountofparticulatematterretention,whichwas
+obviouslyhigherthanthoseofPhotinia×fraseriandC.camphorplants. Thesedifferencesin
+leafparticulatematterretentionamongspeciescanbeascribedtoleafmorphologicstruc-
+tureandleafarea[24,60–62]. Aroughsurface,ahighstomataldensity,anddensesurface
+villiarefactorsthatmaycontributetothehigherparticulatematterretentioncapacityin
+L.chinenseplants[63,64]. Ontheotherhand,thesmoothleafsurfaceofC.camphoraplants
+mightnotbefacilitatedtoabsorbparticulatematter[65].
+Figure2.Foliarparticulatematterretentionofdifferentplants.Note:(A)TSP,(B)PM ,(C)PM ,CC:
+10 2.5
+Cinnamomumcamphora(L.)Presl;LC:Loropetalumchinensevar.rubrumYieh;OF:Osmanthusfragrans
+(Thunb.)Loureiro;PF:Photinia×fraseriDress;PT:Pittosporumtobira(Thunb.)Ait.Differentlowercase
+lettersinthefigureindicatesignificantdifferencesamongdifferenttreespeciesinthesameseason
+(p<0.05).
+===== PAGE 7 =====
+Forests2022,13,1290 7of13
+Theparticulatematterretainedontheleafsurfacewasclassifiedbysizeasfineparticles
+(d≤2.5µm),coarseparticles(2.5µm<d≤10µm),andlargeparticles(d>10µm).Particles
+capturedbyplantleaveswerepredominantlylarge,accountingfor43.70%–90.78%ofTSP,
+Forests 2022, 13, x FOR PEER REVIEWfo llowedbycoarseparticles(7.60%–36.04%ofTSP)andfineparticles(16.2%–22.73%of 9 of 16
+TSP)(Figure3). Kon´czaketal.[48]reportedthatlargeparticlesaccountedforthegreatest
+proportionofparticulatematterretainedbyroadsideplants.O.fragransplantsaccumulated
+80.02%to90.78%ofthelargeparticles.
+FFiigguruer3e. S3iz.e Sdiizsteri bduitsiotnriobfpuatritoicnul aotef mpaattretridceuploasitteio nmonatthteerle dafeopffoivseiptilaonnts .oNno tteh:(eA )lesparfin ogf, five plants. Note: A: spring,
+(B)summer,(C)autumn,(D)winter;CC:Cinnamomumcamphora(L.)Presl;LC:Loropetalumchinensevar.
+B: summer, C: autumn, D: winter; CC: Cinnamomum camphora (L.) Presl; LC: Loropetalum chinense
+rubrumYieh;OF:Osmanthusfragrans(Thunb.)Loureiro;PF:Photinia×fraseriDress;PT:Pittosporum
+var. rubrum Yieh; OF: Osmanthus fragrans (Thunb.) Loureiro; PF: Photinia×fraseri Dress; PT: Pit-
+tobira(Thunb.)Ait.
+tosporum tobira (Thunb.) Ait.
+Climate,weather,andpollutionallaffectplantretentionofparticulatesindifferent
+seasons[35]. TheseasonalvariationofTSPretentionbydifferentplantswasindescending
+o3r.d4e.r Tofhwe iMnteert(a1l2 .A19cgc·umm−2u)l>atsuiomnm ienr (L10e.a4f2 g·m−2)>autumn(7.86g·m−2)>spring
+(6.89g·m−2). Accordingtothelocal“ZhejiangWaterResourcesBulletin,”airpollutionwas
+The sampled roadside plants showed significant heavy metal accumulation varia-
+mostsevereinwinter. Whenairpollutionissevere,plantstendtoretainmoreparticulate
+mtiaotntesr [(6F6]i.gPurrajea p4a)ti. eCt aolp. [p67e]rr ecpoorntetdenthta twpaarsti ctuhlaet ehmigathteersrte tiennt itohnew paslahnigth elsetaves, whereas Cd and Pb
+inwinter. Particulatematteraccumulationinwinterisattributedtowetleaves,aswell
+contents were the lowest. The higher Cu content in the leaves may be due to the role of
+as foggy conditions that prevent particulate matter from dispersing. This led to plants
+reestasieninntgimalo rmepeatratilcsu laatse mmaittcerrodnuruintgriweinnttesr. in plant biosynthesis of enzymes, auxins, and proteins
+[68]. The L. chinense plants had an outstanding performance absorbing Ni and Pb because
+3.4. TheMetalAccumulationinLeaf
+planThtse saacmcpulemdruoaldastiededp tlahnets mshoowsetd ssiiggnniififciacnatnheta avymmoeutalnatc coufm tuhlaetisoen tvwarioat ihonesavy metals in autumn and
+(Figure4). Coppercontentwasthehighestintheplantleaves,whereasCdandPbcontents
+summer. The greatest Cd content was more evident in the P. tobira plants than in other
+werethelowest. ThehigherCucontentintheleavesmaybeduetotheroleofessential
+plants. The Cu contents in the leaves of five plant species were similar, and no significant
+metalsasmicronutrientsinplantbiosynthesisofenzymes,auxins,andproteins[68]. The
+Ld.icfhfienernesnepcleasn twsheadrea noobustestravndeidng (ppe r>fo 0rm.0a5n)c.e Tabhsoer blienvgeNl ioanf dhPebabveyca umseeptalalnst sin the leaves was affected
+accumulatedthemostsignificantamountofthesetwoheavymetalsinautumnandsummer.
+by the growth status of the plant itself, the level of metals in particulate matter, and the
+ThegreatestCdcontentwasmoreevidentintheP.tobiraplantsthaninotherplants. The
+Cleuacfo nstternutscintuthrealle acvhesaorfaficvteeprliasntticspse c[i1es,2w1e,r6e9si]m. iAlarc,acnodrndoinsiggn itfioc aLntodrifefenreznicneis et al. [70] and Cao et al.
+wereobserved(p>0.05). Thelevelofheavymetalsintheleaveswasaffectedbythegrowth
+[63], L. chinense and P. tobira plants had a more vital capacity for accumulating heavy met-
+statusoftheplantitself,thelevelofmetalsinparticulatematter,andtheleafstructural
+als, which may have been attributed to their particulate matter retention capacity and
+physiological growth behaviors.
+Plant leaves accumulate heavy metals differently according to the season. A leaf can
+uptake more heavy metals in spring and winter, with slight differences among species
+(Figure 4). C. camphora, L. chinense, and O. fragrans accumulated more Cd in summer and
+autumn and less in spring and winter. The O. fragrans and Photinia × fraseri plants showed
+the highest foliar Cu uptake in summer, and other plants had the highest Cu uptake in
+autumn. Seasonal differences in the leaf metals were affected by plant physiological ac-
+tivity and pollution level of metals in the atmosphere [8,71]. It has been demonstrated that
+plants in spring have stronger physiological activity and a larger stomatal opening, and
+therefore have a stronger capacity for capturing heavy metals in spring [72]. In general,
+the higher the concentration of metals in air particulates, the higher accumulation of met-
+als in plant leaves [73]. Heavy metal contents were higher in the sampled particulates
+collected during winter (Table 1). Therefore, plant leaves were able to accumulate more
+heavy metals in winter. These results are in line in the findings of Liu et al. [74], who found
+that the higher level of metals in the leaf particles correlated with the higher capacity of
+plants to absorb metals in winter.
+===== PAGE 8 =====
+Forests2022,13,1290 8of13
+Forests 2022, 13, x FOR PEER REVIEWch aracteristics[1,21,69]. AccordingtoLorenzinietal.[70]andCaoetal.[63],L.chinense 10 of 16
+andP.tobiraplantshadamorevitalcapacityforaccumulatingheavymetals,whichmay
+havebeenattributedtotheirparticulatematterretentioncapacityandphysiologicalgrowth
+behaviors.
+FFiigguurree 44.. MMeetatallc ocnotnetnetnitn ilne alveeasvoefs doiff fedriefnfetrpelnatn tpsl.aNntost.e :N(oAt)e:s pAri:n sgp,r(iBn)gs,u Bm: msuemr,(mCe)ra,u Ctu: maun,tumn, D;
+(wDi)nwteirn; tCerC;:C CCi:nCnianmnoammoummu cmamcapmhpohraor (aL(.L) .P)rPersels; lL;CLC: L:oLroorpopeetatalulumm cchhiinneennssee vvaarr.. rruubbrruumm YYiieehh;; OOFF:: Osman-
+Othsumsa fnrtahgursafnrasg (rTanhsu(nThbu.)n Lb.o)uLroeuirreoi;r oP;FP:F P:Phohtoitniniaia××frafsrearsei rDiDreressss; ;PPTT:: PPiittttoospsporourmumto btiorbair(Ta h(uTnhbu.)nAb.i)t. Ait. Dif-
+fDeirfefenrte lnotwloewrcearcsaes leeltetettresr sininddiciacatete ththee ssiiggnniiffiiccaanntt ddiiffffeerreenncceessa ammonogngd idffiefrfeenretnptl apnltanspt escpieesciienst ihne the same
+ssaemaseosne a(pso <n 0(p.0<5)0. .05).
+3.5. RPelalanttiolenasvheips abcectuwmeeunl aLteeahf eMaveytamls eatnalds Pdaifrfteirceunltaltye aMccaotrtderin Rgettoenthtieonse ason. Aleafcan
+uptake more heavy metals in spring and winter, with slight differences among species
+In the event that the particulate matter carrying heavy metals was deposited on the
+(Figure4). C.camphora,L.chinense,andO.fragransaccumulatedmoreCdinsummerand
+l
+a
+e
+u
+a
+t
+f
+u m
+su
+n
+rf
+a
+a
+n
+c
+d
+e,
+l e
+t
+s
+h
+s
+e
+i n
+m
+s
+e
+p
+t
+r
+a
+in
+ls
+g
+c
+a
+o
+n
+u
+d
+l
+w
+d
+i
+t
+n
+h
+te
+e
+r
+n
+. T
+tr
+h
+a
+e
+nOsf.efrra gtora tnhse
+a n
+le
+d
+aPf h[o2t7in,7ia5]×. Tfrhasee rlie
+p
+v
+l
+e
+a
+l
+n
+o
+ts
+f
+s
+t
+h
+h
+o
+e
+w
+l
+e
+e
+d
+af metals
+pthoeshitiigvheelyst cfoorliraerlaCtuedu pwtaitkhe tihnes luemafm pear,rtaincudloatthe emrpaltatenrt s(Thaadblteh 2e)h. iFgohre estxCamupulpet,a ikne Lin. chinense
+aauntdu mPnh.otSienaisao ×n aflrdasifefreir epnlcaenstisn, tfhoelilaera fCmue taanlsdw Pebre uafpfetactkeed wbyeprela nmtapihnylsyi ocloogrriceallaatectdiv wityith PM
+2.5
+aanmdopuonlltust.i oInn Ple.v teolboifram peltaalnstisn, tChde aatcmcousmphuelraeti[o8,n7 1w].aIst hpaossbiteievnedlye mcoornrsetlraatteedd twhaitthp lPanMts reten-
+>10
+inspringhavestrongerphysiologicalactivityandalargerstomatalopening,andtherefore
+tions in the leaves. A positive correlation between leaf heavy metal concentration and par-
+haveastrongercapacityforcapturingheavymetalsinspring[72]. Ingeneral,thehigher
+ticulate matter heavy metal concentration was also found in some cases (Table 2). For L.
+theconcentrationofmetalsinairparticulates,thehigheraccumulationofmetalsinplant
+chinense, Cu in leaves and particulate matter was significantly positively correlated. There
+leaves[73]. Heavymetalcontentswerehigherinthesampledparticulatescollectedduring
+was a significant positive correlation between Cd in leaves and particulate matter, such as
+winter(Table1). Therefore,plantleaveswereabletoaccumulatemoreheavymetalsin
+P. tobira. The results showed that sampled roadside plants could absorb Cd, Cu, and Pb
+winter. TheseresultsareinlineinthefindingsofLiuetal.[74],whofoundthatthehigher
+ilenv aetlmofomspehtaelrsiicn ptharetliecauflaptaersti cthlersocuogrrhe lsattoemdawtiat,h ctuhteichlieg hcrearcckasp,a acnitdy olefnptliacnetlss,t owahbiscohr bwas sup-
+pmoertatelsdi nbyw Ginatejbr.hiye et al. [76] and Sharma et al. [27].
+Table 2. Correlations of metal content in leaves and leaf particulate matter.
+Coefficient of Correlation
+Tree
+Metals 10 μm ≤
+Spe- d > 10 d ≤ 2.5
+Cd Ni Pb Cu TSP d < 2.5
+cies μm μm
+μm
+Cd −0.052 0.019 0.076 0.211 −0.007 −0.388 −0.141 −0.073
+CC
+Ni −0.397 −0.294 −0.382 −0.387 −0.46 −0.572 −0.246 −0.472
+===== PAGE 9 =====
+Forests2022,13,1290 9of13
+3.5. RelationshipbetweenLeafMetalsandParticulateMatterRetention
+In the event that the particulate matter carrying heavy metals was deposited on
+the leaf surface, the metals could then transfer to the leaf [27,75]. The level of the leaf
+metals positively correlated with the leaf particulate matter (Table 2). For example, in
+L.chinenseandPhotinia×fraseriplants,foliarCuandPbuptakeweremainlycorrelatedwith
+PM amounts. InP.tobiraplants,CdaccumulationwaspositivelycorrelatedwithPM
+2.5 >10
+retentionsintheleaves. Apositivecorrelationbetweenleafheavymetalconcentration
+andparticulatematterheavymetalconcentrationwasalsofoundinsomecases(Table2).
+ForL.chinense,Cuinleavesandparticulatematterwassignificantlypositivelycorrelated.
+TherewasasignificantpositivecorrelationbetweenCdinleavesandparticulatematter,
+suchasP.tobira. TheresultsshowedthatsampledroadsideplantscouldabsorbCd,Cu,
+andPbinatmosphericparticulatesthroughstomata,cuticlecracks,andlenticels,which
+wassupportedbyGajbhiyeetal.[76]andSharmaetal.[27].
+Table2.Correlationsofmetalcontentinleavesandleafparticulatematter.
+CoefficientofCorrelation
+Tree 10µm≤
+Metals d≤2.5
+Species Cd Ni Pb Cu TSP d>10µm d<2.5
+µm
+µm
+Cd −0.052 0.019 0.076 0.211 −0.007 −0.388 −0.141 −0.073
+Ni −0.397 −0.294 −0.382 −0.387 −0.46 −0.572 −0.246 −0.472
+CC
+Pb 0.423 0.392 0.520 0.627* 0.520 0.229 0.054 0.453
+Cu −0.334 −0.458 −0.355 0.001 −0.063 0.125 −0.517 −0.085
+Cd 0.404 0.498 0.628* 0.419 0.325 0.239 −0.852** 0.167
+Ni 0.32 0.417 0.615* 0.329 0.232 −0.040 −0.766** 0.027
+LC
+Pb −0.124 −0.291 −0.270 −0.136 −0.093 −0.019 −0.119 −0.113
+Cu 0.757** 0.831** 0.847** 0.809** 0.745** 0.596* −0.500 0.712**
+Cd −0.086 −0.213 −0.289 −0.212 −0.001 0.232 −0.491 −0.012
+Ni −0.468 −0.467 −0.42 −0.475 −0.365 −0.458 0.671* −0.342
+OF
+Pb 0.043 0.185 0.221 0.306 0.579* 0.436 0.098 0.588*
+Cu −0.264 −0.320 −0.276 −0.329 −0.293 −0.412 0.702* −0.269
+Cd 0.178 −0.041 −0.182 0.004 −0.009 −0.268 0.457 0.161
+Ni −0.621* −0.729** −0.681* −0.640* −0.581* 0.030 −0.365 −0.498
+PF
+Pb 0.114 0.132 0.068 0.473 −0.062 −0.378 0.219 −0.001
+Cu −0.249 −0.342 −0.415 −0.210 −0.376 −0.411 0.008 −0.286
+Cd 0.661* 0.351 −0.218 0.334 0.029 0.513 0.291 0.322
+Ni −0.556 −0.024 0.046 −0.131 −0.396 −0.056 −0.229 −0.368
+PT
+Pb 0.583* 0.080 −0.275 0.201 0.141 0.301 −0.047 0.261
+Cu −0.732** −0.448 −0.404 −0.571 −0.584* −0.582* 0.575 −0.696*
+*Significantatthep<0.05level(accordingto2-tailedtests).**Significantatthep<0.001level(accordingto
+2-tailedtests).CC:Cinnamomumcamphora(L.)Presl;LC:Loropetalumchinensevar.rubrumYieh;OF:Osmanthus
+fragrans(Thunb.)Loureiro;PF:Photinia×fraseriDress;PT:Pittosporumtobira(Thunb.)Ait.
+3.6. ComprehensiveEvaluationofTestedPlants
+The comprehensive evaluation of tested plants in particulate matter retention and
+metalaccumulationusingthemembershipfunctionmethodisprovidedinTable3. The
+L. chinense plants were superior in terms of particulate matter retention. In contrast,
+C.camphoraplantswereinferiorinretainingparticlesthanotherplants. Cadmiumand
+Cuwerethemostpollutedbyroadparticulatematter(TableS5). TheP.tobiraplantshad
+thegreatestaccumulationcapacityforCdandCu,whereasPhotinia×fraseriplantshad
+thelowestaccumulationcapacityofheavymetals. Thecomprehensiveevaluationresults
+suggestthat,inregardtotheretentionofparticulatematterandtheaccumulationofmetals,
+theplantshadthedescendingorderofL.chinense>P.tobira>O.fragrans>Photinia×fraseri
+>C.camphora.
+===== PAGE 10 =====
+Forests2022,13,1290 10of13
+Table3.Acomprehensiveevaluationofthecapacityofplantleavestoretainparticulatematterand
+accumulateheavymetals.
+MembershipFunctionValue ComprehensiveEvaluation
+Tree
+Species Particulate Heavy
+TSP PM PM Cd Ni Pb Cu Comprehensive Rank
+10 2.5 Matter Metal
+CC 0.00 0.00 0.00 0.00 0.19 0.72 0.70 0.00 0.40 0.20 5
+LC 1.00 1.00 1.00 0.08 1.00 1.00 0.83 1.00 0.73 0.86 1
+OF 0.75 0.13 0.14 0.28 0.00 0.06 0.45 0.34 0.20 0.27 3
+PF 0.18 0.12 0.25 0.22 0.11 0.00 0.00 0.18 0.08 0.13 4
+PT 0.28 0.28 0.10 1.00 0.17 0.11 1.00 0.22 0.57 0.40 2
+CC:Cinnamomumcamphora(L.)Presl;LC:Loropetalumchinensevar.rubrumYieh;OF:Osmanthusfragrans(Thunb.)
+Loureiro;PF:Photinia×fraseriDress;PT:Pittosporumtobira(Thunb.)Ait.
+4. Conclusions
+Thecapacityforparticulatematterretentionandmetalaccumulationbytheleaves
+offiveroadplantspecieswerecomprehensivelyevaluatedinthisstudy. Theparticulate
+matterretainedbyplantsweremainlysootaggregates,flyashparticles,mineralparticles,
+andbiologicalparticles. CadmiumandCuintheparticulatematterhadthehighestcon-
+taminationlevels. L.chinenseandO.fragransdisplayedgreatpotentialtoretainparticulate
+matter,followedbyP.tobira,Photinia×fraseri,andC.camphora. Amongspecies,L.chinense
+showed a higher foliar Cd and Ni uptake, and P. tobira absorbed the highest Pb in the
+leaf. Theresultsrevealedthattheseroadplantspeciescouldeffectivelycaptureparticulate
+matterandheavymetals. Takentogether,L.chinenseandP.tobirashowedahighcapacity
+fortheretentionparticulatematter,whichiswhytheyshouldbearecommendedroadside
+greeningspeciesinurbanzonesineastChinaforimprovingairquality.
+Supplementary Materials: The following supporting information can be downloaded at: https:
+//www.mdpi.com/article/10.3390/f13081290/s1,TableS1:Biologicalcharacteristicsoftreespecies
+usedintheexperiment;TableS2: Meteorologicalparametersofthesamplingpoint;TableS3: The
+gradesofgeo-accumulationindexes;TableS4:Morphologicalcharacteristicsandchemicalcomposi-
+tionofresidualsingleparticlesinblades;TableS5:Geo-accumulationindexandpollutiontypeof
+differentheavymetals.
+AuthorContributions:Conceptualization,G.C.;Datacuration,N.D.andH.Z.;formalanalysis,N.D.
+andH.Z.;fundingacquisition,G.C.;investigation,NingDang;methodology,N.D.andG.C.;resources,
+H.L.;supervision,G.C.;visualization,N.D.,H.Z.andH.L.;writing—originaldraft,N.D.andH.Z.;
+writing—reviewandediting,M.M.A.S.andG.C.Allauthorshavereadandagreedtothepublished
+versionofthemanuscript.
+Funding: ThisresearchwassupportedbytheSpecialFundforCooperationofZhejiangProvince
+andtheChineseAcademyofForestry(2021SY12),andtheNationalNaturalScienceFoundationof
+China(41807151&31971718).
+InstitutionalReviewBoardStatement:Notapplicable.
+InformedConsentStatement:Notapplicable.
+DataAvailabilityStatement: Thedatapresentedinthisstudyareavailableonrequestfromthe
+correspondingauthor.
+ConflictsofInterest:Theauthorsdeclarenoconflictofinterest.
+===== PAGE 11 =====
+Forests2022,13,1290 11of13
+References
+1. Alahabadi,A.;Ehrampoush,M.H.;Miri,M.;Aval,H.E.;Yousefzadeh,S.;Ghaffari,H.R.;Ahmadi,E.;Talebi,P.;Fahabadi,Z.A.;
+Babai,F.;etal.Acomparativestudyoncapabilityofdifferenttreespeciesinaccumulatingheavymetalsfromsoilandambient
+air.Chemosphere2017,172,459–467.[CrossRef][PubMed]
+2. WorldHealthOrganization(WHO).AirPollutionLevelsRisinginManyoftheWorld’sPoorestCities.2016,WHONewsRelease.
+Availableonline:http://www.who.int/mediacentre/news/releases/2016/air-pollution-rising/en/(accessedon1November
+2021).
+3. Sun,Y.;Xin,H.;Wu,J.;Lian,H.;Chen,Y.Fractionationandhealthrisksofatmosphericparticle-boundasandheavymetalsin
+summerandwinter.Sci.TotalEnviron.2014,493,487–494.[CrossRef][PubMed]
+4. Donham,K.J.;Popendorf,W.;Palmgren,U.;Larsson,L.Characterizationofdustscollectedfromswineconfinementbuildings.
+Am.J.Ind.Med.1986,10,294–297.[CrossRef]
+5. Dai,Q.L.;Bi,X.H.;Wu,J.H.;Zhang,Y.F.;Wang,J.;Xu,H.;Yao,L.;Jiao,L.;Feng,Y.C.Characterizationandsourceidentificationof
+heavymetalsinambientPM10andPM2.5inanintegratedironandsteelindustryzonecomparedwithabackgroundsite.Aerosol
+AirQual.Res.2015,15,875–887.[CrossRef]
+6. Zhu,W.;Cheng,Z.;Luo,L.;Lou,S.;Ma,Y.;Yan,N.InvestigationoffungalsporecharacteristicsinPM2.5throughorganictracers
+inShanghai,China.Atmos.Pollut.Res.2018,9,894–900.[CrossRef]
+7. Song,H.;Zhang,Y.;Luo,M.;Gu,L.;Wu,M.;Xua,D.;Xu,G.;Ma,L.Seasonalvariation,sourcesandhealthriskassessmentof
+polycyclicaromatichydrocarbonsindifferentparticlefractionsofPM2.5inBeijing,China.Atmos.Pollut.Res.2019,10,105–114.
+[CrossRef]
+8. Jia,M.Y.;Zhou,D.Q.;Lu,S.P.;Yu,J.P.Assessmentoffoliardustparticleretentionandtoxicmetalaccumulationabilityoffifteen
+roadsidetreespecies:Relationshipandmechanism.Atmos.Pollut.Res.2021,12,36–45.[CrossRef]
+9. Gunawardana,C.;Egodawatta,P.;Goonetilleke,A.Roleofparticlesizeandcompositioninmetaladsorptionbysolidsdeposited
+onurbanroadsurfaces.Environ.Pollut.2014,184,44–53.[CrossRef]
+10. Soltani,N.;Keshavarzik,B.;Moore,F.;Tavakol,T.;Lahijanzadeh,A.R.;Jaafarzadeh,N.;Kermani,M.Ecologicalandhuman
+healthhazardsofheavymetalsandpolycyclicaromatichydrocarbons(PAHs)inroaddustofIsfahanmetropolis.Iran.Sci.Total
+Environ.2015,505,712–723.[CrossRef]
+11. Zheng,G.L.;Li,P.Resuspensionofsettledatmosphericparticulatematteronplantleavesdeterminedbywindandleafsurface
+characteristics.Environ.Sci.Pollut.Res.2019,26,19606–19614.[CrossRef]
+12. Hopke,P.K.;Hill,E.L.HealthandchargebenefitsfromdecreasingPM2.5concentrationsinNewYorkState:Effectsofchanging
+compositions.Atmos.Pollut.Res.2021,12,47–53.[CrossRef]
+13. Ozdemir,H.Mitigationimpactofroadsidetreesonfineparticlepollution.Sci.TotalEnviron.2019,659,1176–1185.[CrossRef]
+[PubMed]
+14. Harrison,R.M.;Allan,J.;Carruthers,D.;Heal,M.R.;Lewis,A.C.;Marner,B.;Murrells,T.;Williams,A.Non-exhaustvehicle
+emissionsofparticulatematterandvocfromroadtraffic:Areview.Atmos.Environ.2021,262,118592.[CrossRef]
+15. Harrison, R.M.; Jones, A.M.; Gietl, J.; Yin, J.; Green, D.C. Estimation of the Contributions of Brake Dust, Tire Wear, and
+ResuspensiontoNonexhaustTrafficParticlesDerivedfromAtmosphericMeasurements.Environ.Sci.Technol.2012,46,6523–6529.
+[CrossRef][PubMed]
+16. Hjortenkrans,D.S.T.;Bergbäck,B.G.;Häggerud,A.V.MetalEmissionsfromBrakeLiningsandTires:CaseStudiesofStockholm,
+Sweden1995/1998and2005.Environ.Sci.Technol.2007,41,5224–5230.[CrossRef]
+17. Pierse,N.;Rushton,L.;Harris,R.S.;Kuehni,C.E.;Silverman,M.;Grigg,J.Locallygeneratedparticulatepollutionandrespiratory
+symptomsinyoungchildren.Thorax2006,61,216–220.[CrossRef]
+18. Rosenlund, M.; Forastiere, F.; Porta, D.; De Sario, M.; Badaloni, C.; Perucci, C.A. Traffic-related air pollution in relation to
+respiratorysymptoms,allergicsensitisationandlungfunctioninschoolchildren.Thorax2009,64,573–580.[CrossRef]
+19. HealthEffectsInstitute(HEI).Traffic-RelatedAirPollution:ACriticalReviewoftheLiteratureonEmissions,ExposureandHealthEffects;
+PanelontheHealthEffectsofTraffic-RelatedAirPollution;SpecialReport17;HealthEffectsInstitute:Boston,MA,USA,2010.
+20. Fuks,K.B.;Weinmayr,G.;Foraster,M.;Dratva,J.;Hampel,R.;Houthuijs,D.;Oftedal,B.;Oudin,A.;Panasevich,S.;Penell,J.;etal.
+Arterialbloodpressureandlong-termexposuretotraffic-relatedairpollution:AnanalysisintheEuropeanStudyofCohortsfor
+AirPollutionEffects(ESCAPE).Environ.HealthPerspect.2014,122,896–905.[CrossRef]
+21. Kumar,A.;Kumar,P.;Singh,H.;Kumar,N.Adaptationandmitigationpotentialofroadsidetreeswithbio-extractionofheavy
+metalsundervehicularemissionsandtheirimpactonphysiologicaltraitsduringseasonalregimes—Sciencedirect.UrbanFor.
+UrbanGreen.2021,58,126900.[CrossRef]
+22. Zheng,T.;Zhang,S.;Li,X.B.;Wu,Y.;Peng,Z.R.Impactsofvegetationonparticleconcentrationsinroadsideenvironments.
+Environ.Pollut.2021,282,117067.[CrossRef]
+23. Sæbø,A.;Popek,R.;Nawrot,B.;Hanslin,H.M.;Gawronska,H.;Gawronski,S.W.Plantspeciesdifferencesinparticulatematter
+accumulationonleafsurfaces.Sci.TotalEnviron.2012,427–428,347–354.[CrossRef][PubMed]
+24. Łukowski, A.; Popek, R.; Karolewski, P. Particulate matter on foliage of Betula pendula, Quercus robur, and Tilia cordata:
+Depositionandecophysiology.Environ.Sci.Pollut.Res.2020,27,10296–10307.[CrossRef]
+25. Roy,A.; Bhattacharya,T.; Kumari,M.Airpollutiontolerance,metalaccumulationanddustcapturingcapacityofcommon
+tropicaltreesincommercialandindustrialsites.Sci.TotalEnviron.2020,722,137622.[CrossRef]
+===== PAGE 12 =====
+Forests2022,13,1290 12of13
+26. Maher,B.A.;Ahmed,I.A.M.;Davison,B.;Karloukovski,V.;Clarke,R.Impactofroadsidetreelinesonindoorconcentrationsof
+traffic-derivedparticulatematter.Environ.Sci.Technol.2013,47,13737–13744.[CrossRef]
+27. Sharma,P.;Yadav,P.;Ghosh,C.;Singh,B.Heavymetalcapturefromthesuspendedparticulatematterbymorusalbaandevidence
+offoliaruptakeandtranslocationofpmassociatedzincusingradiotracer(65Zn). Chemosphere2020,254,126863. [CrossRef]
+[PubMed]
+28. Shi,J.N.;Zhang,G.;An,H.L.;Yin,W.L.;Xia,X.L.Quantifyingtheparticulatematteraccumulationonleafsurfacesofurbanplants
+inBeijing,China.Atmos.Pollut.Res.2017,8,836–842.[CrossRef]
+29. Meravi,N.;Singh,P.K.;Prajapati,S.K.Seasonalvariationofdustdepositiononplantleavesanditsimpactonvariousphotochem-
+icalyieldsofplants.Environ.Chall.2021,4,100166.[CrossRef]
+30. Cho,M.C.;Jo,Y.G.;Son,J.A.;Kim,I.;Yook,S.J.Depositioncharacteristicsofsootandtire-wearparticlesonurbantreeleaves.J.
+AerosolSci.2021,155,105768.[CrossRef]
+31. Lu,S.W.;Yang,X.B.;Li,S.N.;Chen,B.;Jiang,Y.;Wang,D.;Xu,L.Effectsofplantleafsurfaceanddifferentpollutionlevelson
+PM2.5adsorptioncapacity.UrbanFor.UrbanGreen.2018,34,64–70.[CrossRef]
+32. Niu,X.;Wang,B.;Wei,W.J.Responseoftheparticulatemattercaptureabilitytoleafageandpollutionintensity.Environ.Sci.
+Pollut.Res.2020,27,34258–34269.[CrossRef]
+33. Gao,P.P.;Xue,P.Y.;Dong,J.W.;Zhang,X.M.;Sun,H.X.;Geng,L.P.;Luo,S.X.;Zhao,J.J.;Liu,W.J.ContributionofPM -Pbin
+2.5
+atmosphericfallouttoPbaccumulationinChinesecabbageleavesviastomata.J.Hazard.Mater.2021,407,124356.[CrossRef]
+[PubMed]
+34. Liu,F.;Zheng,X.;Qian,H.Comparisonofparticleconcentrationverticalprofilesbetweendowntownandurbanforestparkin
+Nanjing(China).Atmos.Pollut.Res.2018,9,829–839.[CrossRef]
+35. Zhai,J.;Cong,L.;Yan,G.;Wu,Y.;Liu,J.;Wang,Y.;Liu,J.;Wang,Y.;Ma,W.;Zhang,Z.Drydepositionofparticulatematterand
+ionsinforestatdifferentheights.Int.J.Environ.Res.2019,13,117–130.[CrossRef]
+36. Bai,Y.;Luo,H.J.;Feng,X.;Gu,L.N.Z.;Jia,L.;Huang,W.;Wan,L.D.Analysisoncharacteristicsofaerosolairpollutantlevelsin
+BeijingandHangzhou.Environ.Sustain.Dev.2016,41,173–178.
+37. Li,X.X.;Sun,G.J.;Wang,X.W.;Tian,W.L.;Zhang,Q.Y.;Jiao,L.Vehicleexhaustsemissioncharacteristicsandcontributionsin
+Hangzhoudistrict.ChinaEnviron.Sci.2013,33,1684–1689.
+38. Lu,T.;Lin,X.;Chen,J.;Huang,D.;Li,M.Atmosphericparticleretentioncapacityandphotosyntheticresponsesofthreecommon
+greeningplantspeciesunderdifferentpollutionlevelsinHangzhou.Glob.Ecol.Conserv.2019,20,e00783.[CrossRef]
+39. Dang,N.;Zhang,H.D.;MirMdAbdusSalam,M.M.A.;Li,H.M.;Chen,G.C.Foliardustparticleretentionandmetalaccumulation
+offivegardentreespeciesinHangzhou:Seasonalchanges.Environ.Pollut.2022,306,119472.[CrossRef][PubMed]
+40. Wu,Y.;Lv,C.;Wei,W.;Feng,R.;Luo,K.;Wu,X.H.;Shen,Y.M.;Yan,S.J.Investigationanddiversityanalysisofroadgreeningtree
+speciesinmajorurbanareasofHangzhoucity.For.Resour.Manag.2019,3,74–79+93.
+41. Sun,X.D.;Li,H.M.;Guo,X.;Sun,Y.K.;Li,S.M.Capacityofsixshrubspeciestoretainatmosphericparticulateswithdifferent
+diameters.Environ.Sci.Pollut.Res.2018,25,2643–2650.[CrossRef]
+42. Fan,Y.H.;Wang,Y.Q.BackgroundcharacteristicsofsoilelementsinfourplainsofZhejiangProvince.Geophys.Geochem.Explor.
+2009,33,132–134.
+43. Muller,G.SchwermetalleindensedimentsdesRheins-Veran-derungenseitt1971.Umschan1979,79,778–783.
+44. Cao,Y.N.;Zhang,Y.;Ma,C.X.;Li,H.M.;Zhang,J.F.;Chen,G.C.Growth,physiologicalresponses,andcopperaccumulationin
+sevenwillowspeciesexposedtocu—Ahydroponicexperiment.Environ.Sci.Pollut.Res.2018,25,19875–19886.[CrossRef]
+45. Pöschl,U.Atmosphericaerosols: Composition,transformation,climateandhealtheffects. Angew. Chem. Int. Ed. 2005,44,
+7520–7540.[CrossRef][PubMed]
+46. Pratt,K.A.;Prather,K.A.Massspectrometryofatmosphericaerosols—Recentdevelopmentsandapplications.PartII:On-Line
+massspectrometrytechniques.MassSpectrom.Rev.2011,31,1–16.[CrossRef][PubMed]
+47. Dong,F.Q.;Chen,W.;Dai,Q.W.;Deng,Y.Q.;He,P.;He,X.C.;Tang,J.;Liu,L.Z.;He,H.Characterizationofmineralogyandsurface
+zetapotentialofatmosphericdustfallinnorthwestChina.Miner.Petrol.2015,109,387–395.[CrossRef]
+48. Kon´czak,B.;Cempa,M.;Pierzchała,Ł.;Deska,M.Assessmentoftheabilityofroadsidevegetationtoremoveparticulatematter
+fromtheurbanair.Environ.Poll.2021,268,115465.[CrossRef][PubMed]
+49. Xie,R.K.;Seip,H.M.;Leinum,J.R.;Winje,T.;Xiao,J.S.Chemicalcharacterizationsofindividualparticles(PM10)formambientair
+inGuiyangCity,China.Sci.TotalEnviron.2005,343,261–272.[CrossRef][PubMed]
+50. Kaegi,R.Chemicalandmorphologicalanalysisofairborneparticlesatatunnelconstructionsite.J.AerosolSci.2004,35,621–632.
+[CrossRef]
+51. Shi,Z.;Shao,L.;Jones,T.P.;Whittaker,A.G.;Lu,S.;Bérubé,K.A.;He,T.;Richardsc,R.J.Characterizationofairborneindividual
+particlescollectedinanurbanarea,asatellitecityandacleanairareainBeijing,2001. Atmos. Environ. 2003,37,4097–4108.
+[CrossRef]
+52. Conner,T.L.;Norris,G.A.;Landis,M.S.;Williams,R.W.Individualparticleanalysisofindoor,outdoor,andcommunitysamples
+fromthe1998Baltimoreparticulatematterstudy.Atmos.Environ.2001,35,3935–3946.[CrossRef]
+53. Yang, S.; Shao, L.; Wang, Z.; Tang, U.; Shen, R.; Li, W. Investigations of microscopic morphology of individual inhalable
+particulatesinMacaoinsummer.Environ.Sci.2009,30,1514–1519.
+===== PAGE 13 =====
+Forests2022,13,1290 13of13
+54. González,L.T.;Longoria-Rodríguez,F.E.;Sánchez-Domínguez,M.;LeyvaPorras,C.;Acuña-Askar,K.;Kharissov,B.I.;Arizpe-
+Zapata,A.;AlfaroBarbosa,J.M.Seasonalvariationandchemicalcompositionofparticulatematter:AstudybyXPS,ICP-AESand
+sequentialmicroanalysisusingRamanwithSEM/EDS.J.Environ.Sci.2018,74,32–49.[CrossRef]
+55. Zhu,X.;Yu,W.;Li,F.;Liu,C.;Ma,J.;Yan,J.;Wang,Y.;Tian,R.Spatio-temporaldistributionandsourceidentificationofheavy
+metalsinparticlesizefractionsofroaddustfromatypicalindustrialdistrict. Sci. TotalEnviron. 2021,780,146357. [CrossRef]
+[PubMed]
+56. Miri,M.;Allahabadi,A.;Ghaffari,H.R.;Fathabadi,Z.A.;Raisi,Z.;Rezai,M.;Rezai,M.;Aval,M.Y.Ecologicalriskassessment
+ofheavymetal(hm)pollutionintheambientairusinganewbio-indicator. Environ. Sci. Pollut. Res. 2016,23,14210–14220.
+[CrossRef][PubMed]
+57. Johansson,C.;Norman,M.;Burman,L.Roadtrafficemissionfactorsforheavymetals. Atmos. Environ. 2009,43,4681–4688.
+[CrossRef]
+58. Pant,P.;Harrison,R.M.Estimationofthecontributionofroadtrafficemissionstoparticulatematterconcentrationsfromfield
+measurements:Areview.Atmos.Environ.2013,77,78–97.[CrossRef]
+59. Liu,Y.H.;Hou,Y.J.;Shu,D.Y.;Yang,B.;Cui,Y.C.;Ding,F.J.Propertiesandspatio-temporalvariationofleafretainedparticulate
+mattersofthemaintreespeciesplantedinGuiyangcity.Sci.SilvaeSin.2020,56,12–25.
+60. Liu,L.;Guan,D.;Peart,M.Themorphologicalstructureofleavesandthedust-retainingcapabilityofafforestedplantsinurban
+Guangzhou,SouthChina.Environ.Sci.Pollut.Res.2012,19,3440–3449.[CrossRef]
+61. Li,X.L.;Zhang,T.R.;Song,X.M.;Zhang,Y.K.;Huang,F.;Yu,H.;Zhang,G.H.;Qi,F.;Shao,F.Therelationshipbetweenparticulate
+matterretentioncapacityandleafsurfacemicromorphologyoftentreespeciesinHangzhou,China.Sci.TotalEnviron.2021,771,
+144812.[CrossRef][PubMed]
+62. Sgrigna,G.;Baldacchini,C.;Dreveck,S.;Cheng,Z.;Calfapietra,C.Relationshipsbetweenairparticulatemattercaptureefficiency
+andleaftraitsintwelvetreespeciesfromanItalianurban-industrialenvironment.Sci.TotalEnviron.2020,718,137310.[CrossRef]
+[PubMed]
+63. Cao,Y.N.;Wu,H.;Shen,L.M.;Chen,G.C.;Zhang,J.F.AnalysisontheDustRetentionandHeavyMetalAbsorptionAbilityof
+Leaves:ACaseStudyinYuyao,ZhejiangProvince.For.Res.2016,29,662–669.
+64. Liao,H.M.;Shi,F.Q.;Li,M.;Zhu,Y.L.Studyondustretentionrankandpatternrecognitionoftypicalgardenplantleavesin
+Changsha.Ecol.Environ.Sci.2022,31,110–116.
+65. Shao,F.;Wang,L.H.;Sun,F.B.;Li,G.;Yu,L.;Wang,Y.J.;Zeng,X.R.;Yan,H.;Dong,L.;Bao,Z.Y.Studyondifferentparticulate
+matterretentioncapacitiesoftheleafsurfacesofeightcommongardenplantsinHangzhou,China.Sci.TotalEnviron.2019,652,
+939–951.[CrossRef]
+66. Przybysz,A.;Sæbø,A.;Hanslin,H.M.;Gawron´ski,S.W.Accumulationofparticulatematterandtraceelementsonvegetationas
+affectedbypollutionlevel,rainfallandthepassageoftime.Sci.TotalEnviron.2014,481,360–369.[CrossRef][PubMed]
+67. Prajapati,S.K.;Tripathi,B.D.Seasonalvariationofleafdustaccumulationandpigmentcontentinplantspeciesexposedtourban
+particulatespollution.J.Environ.Qual.2008,37,865–870.[CrossRef]
+68. Hajizadeh,Y.;Mokhtari,M.;Faraji,M.;Abdolahnejad,A.;Mohammadi,A.Biomonitoringofairbornemetalsusingtreeleaves:
+Protocolforbiomonitorselectionandspatialtrend.MethodsX2019,6,1694–1700.[CrossRef][PubMed]
+69. Mo,L.;Ma,Z.;Xu,Y.;Sun,F.;Lun,X.;Liu,X.;Chen,J.;Yu,X.Assessingthecapacityofplantspeciestoaccumulateparticulate
+matterinBeijing,China.PLoSONE2015,10,e0140664.[CrossRef][PubMed]
+70. Lorenzini,G.;Grassi,C.;Nali,C.;Petiti,A.;Loppi,S.;Tognotti,L.Leavesofpittosporumtobiraasindicatorsofairbornetrace
+elementandPM10distributionincentralItaly.Atmos.Environ.2006,40,4025–4036.[CrossRef]
+71. Wang,X.L.;Wang,C.Researchstatusandprospectsonfunctionsofurbanforestsinregulatingtheairparticulatematter.Acta
+Ecol.Sin.2014,34,1910–1921.
+72. Li,S.N.;Kong,L.W.;Lu,S.W.;Chen,B.;Gao,C.;Shi,Y.BeijingCommonGreenTreeLeaves’AccumulationCapacityforHeavy
+Metals.Environ.Sci.2014,35,1891–1900.
+73. Liang,J.;Fang,H.L.;Zhang,T.L.;Wang,X.X.;Liu,Y.D.Heavymetalinleavesoftwelveplantspeciesfromsevendifferentareasin
+Shanghai,China.UrbanFor.UrbanGreen.2017,27,390–398.[CrossRef]
+74. Liu,P.Q.;Chen,Q.B.;Deng,Z.H.;Yang,H.Z.Enrichmentofatmosphericheavymetalsbyurbanforest.Environ.Chem.2017,36,
+265–273.
+75. Edelstein,M.;Ben-Hur,M.Heavymetalsandmetalloids:Sources,risksandstrategiestoreducetheiraccumulationinhorticultural
+crops.Sci.Hortic.2018,234,431–444.[CrossRef]
+76. Gajbhiye,T.;Pandey,S.K.;Kim,K.H.;Szulejko,J.E.;Prasad,S.AirbornefoliartransferofPMboundheavymetalsinCassia
+siamea:Alesscommonrouteofheavymetalaccumulation.Sci.TotalEnviron.2016,573,123–130.[CrossRef][PubMed]
