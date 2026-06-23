@@ -35,6 +35,8 @@
 
 - 核心数据集: `C:\Users\政委\Desktop\2026\plant_dust_v2\dataset.csv` (2203条, needs_manual_review=275, 物种349, 城市39, 论文106)
 - downloaded/ 已重组为6状态分类: _待处理(108 PDF) | _需重下(26 CAJ) | _待人工(王琴2017) | _已入库(49) | _已排除(14)
+- GitHub: ✅ 同步完成 (390888e), 30文件变更, +5170/-2662行
+- 一次性脚本已归档至 Desktop/2026/_repo_archive/
 - ⚠️ `cnki_downloader.py` / `batch_cnki_download.py`: CDP下载已证伪，保留仅供搜索元数据
 - 论文下载: 用户手动 → `_待提取/` → pdfplumber提取（见CLAUDE.md工程纪律）
 - 下载清单模板: `Desktop/2026/references/meta/待下载论文清单.md`
