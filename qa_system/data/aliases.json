@@ -1,63 +1,928 @@
 {
   "_description": "物种/城市别名映射。key=用户可能使用的别名，value=数据集中的标准名。",
   "_note": "正向映射；反向可在运行时自动生成。confidence: high=唯一映射, medium=常见俗称, low=地区差异需确认",
-
   "species_aliases": {
-    "法桐": {"standard": "二球悬铃木", "confidence": "high", "note": "最常用俗称"},
-    "法国梧桐": {"standard": "二球悬铃木", "confidence": "high", "note": "通用俗称"},
-    "悬铃木": {"standard": "二球悬铃木", "confidence": "high", "note": "属级泛称→精确种"},
-    "樟树": {"standard": "香樟", "confidence": "high", "note": "简称"},
-    "樟": {"standard": "香樟", "confidence": "high", "note": "最简简称"},
-    "木犀": {"standard": "桂花", "confidence": "high", "note": "正名→通用名"},
-    "桂花树": {"standard": "桂花", "confidence": "high", "note": "加'树'后缀"},
-    "法国冬青": {"standard": "珊瑚树", "confidence": "medium", "note": "V. odoratissimum var. awabuki"},
-    "珊瑚": {"standard": "珊瑚树", "confidence": "high", "note": "简称"},
-    "黄杨": {"standard": "小叶黄杨", "confidence": "medium", "note": "泛称，数据集内仅小叶黄杨"},
-    "红花继木": {"standard": "红花檵木", "confidence": "high", "note": "错别字'继'→'檵'"},
-    "红檵木": {"standard": "红花檵木", "confidence": "high", "note": "简称"},
-    "栀子花": {"standard": "栀子", "confidence": "high", "note": "俗称→正名"},
-    "麦冬草": {"standard": "麦冬", "confidence": "high", "note": "俗称→正名"},
-    "枫香树": {"standard": "枫香", "confidence": "high", "note": "俗称→正名"},
-    "蚊母树": {"standard": "蚊母", "confidence": "high", "note": "俗称→正名"},
-    "山茶花": {"standard": "山茶", "confidence": "high", "note": "俗称→正名"},
-    "海棠花": {"standard": "海棠", "confidence": "high", "note": "俗称→正名"},
-    "紫叶李": {"standard": "红叶李", "confidence": "medium", "note": "同物异名，数据集标准为红叶李"},
-    "樱桃李": {"standard": "红叶李", "confidence": "medium", "note": "正名→数据集标准名"},
-    "矮生百慕大": {"standard": "狗牙根", "confidence": "high", "note": "杂交品种商品名→正名"},
-    "马褂木": {"standard": "鹅掌楸", "confidence": "high", "note": "俗名→正名"},
-    "黄山栾树": {"standard": "复羽叶栾树", "confidence": "high", "note": "园艺商品名→正名"},
-    "黄角兰": {"standard": "白兰花", "confidence": "medium", "note": "重庆方言→通用名"},
-    "广玉兰": {"standard": "广玉兰", "confidence": "high", "note": "已统一(荷花玉兰→广玉兰)"},
-    "荷花玉兰": {"standard": "广玉兰", "confidence": "high", "note": "正名→数据集标准名"},
-    "毛叶丁香": {"standard": "小蜡", "confidence": "low", "note": "跨属混淆！Ligustrum sinense=小蜡，非Syringa pubescens"},
-    "重阳木": {"standard": "秋枫", "confidence": "low", "note": "Bischofia javanica=秋枫，重阳木=B. polycarpa"},
-    "白杨": {"standard": "加杨", "confidence": "medium", "note": "属级泛称→数据集内的加杨"},
-    "杨树": {"standard": "加杨", "confidence": "medium", "note": "泛称→数据集内仅有加杨"},
-    "红继木": {"standard": "红花檵木", "confidence": "high", "note": "错别字变体"},
-    "大叶女贞": {"standard": "女贞", "confidence": "high", "note": "同种异名"},
-    "小叶女贞": {"standard": "女贞", "confidence": "low", "note": "可能为不同种，数据集中无小叶女贞"},
-    "梧桐": {"standard": "二球悬铃木", "confidence": "medium", "note": "通常指悬铃木属(法国梧桐)，非锦葵科梧桐"},
-    "道路": {"standard": "道路绿地", "confidence": "high", "note": "zone简称→全称"},
-    "街道": {"standard": "交通干道", "confidence": "medium", "note": "口语→标准zone"},
-    "公园": {"standard": "公园清洁区", "confidence": "high", "note": "zone简称→全称"},
-    "居住": {"standard": "居住区", "confidence": "high", "note": "zone简称→全称"},
-    "工业": {"standard": "工业区", "confidence": "high", "note": "zone简称→全称"},
-    "文教": {"standard": "文教区", "confidence": "high", "note": "zone简称→全称"},
-    "冬天": {"standard": "冬季", "confidence": "high", "note": "season口语→标准值"},
-    "夏天": {"standard": "夏季", "confidence": "high", "note": "season口语→标准值"},
-    "春天": {"standard": "春季", "confidence": "high", "note": "season口语→标准值"},
-    "秋天": {"standard": "秋季", "confidence": "high", "note": "season口语→标准值"},
-    "pmtype": {"standard": "tsp", "confidence": "high", "note": "拼写变体→tsp"},
-    "pm_type": {"standard": "tsp", "confidence": "high", "note": "下划线变体→tsp"}
+    "法桐": {
+      "standard": "二球悬铃木",
+      "confidence": "high",
+      "note": "最常用俗称"
+    },
+    "法国梧桐": {
+      "standard": "二球悬铃木",
+      "confidence": "high",
+      "note": "通用俗称"
+    },
+    "悬铃木": {
+      "standard": "二球悬铃木",
+      "confidence": "high",
+      "note": "属级泛称→精确种"
+    },
+    "樟树": {
+      "standard": "香樟",
+      "confidence": "high",
+      "note": "简称"
+    },
+    "樟": {
+      "standard": "香樟",
+      "confidence": "high",
+      "note": "最简简称"
+    },
+    "木犀": {
+      "standard": "桂花",
+      "confidence": "high",
+      "note": "正名→通用名"
+    },
+    "桂花树": {
+      "standard": "桂花",
+      "confidence": "high",
+      "note": "加'树'后缀"
+    },
+    "法国冬青": {
+      "standard": "珊瑚树",
+      "confidence": "medium",
+      "note": "V. odoratissimum var. awabuki"
+    },
+    "珊瑚": {
+      "standard": "珊瑚树",
+      "confidence": "high",
+      "note": "简称"
+    },
+    "黄杨": {
+      "standard": "小叶黄杨",
+      "confidence": "medium",
+      "note": "泛称，数据集内仅小叶黄杨"
+    },
+    "红花继木": {
+      "standard": "红花檵木",
+      "confidence": "high",
+      "note": "错别字'继'→'檵'"
+    },
+    "红檵木": {
+      "standard": "红花檵木",
+      "confidence": "high",
+      "note": "简称"
+    },
+    "栀子花": {
+      "standard": "栀子",
+      "confidence": "high",
+      "note": "俗称→正名"
+    },
+    "麦冬草": {
+      "standard": "麦冬",
+      "confidence": "high",
+      "note": "俗称→正名"
+    },
+    "枫香树": {
+      "standard": "枫香",
+      "confidence": "high",
+      "note": "俗称→正名"
+    },
+    "蚊母树": {
+      "standard": "蚊母",
+      "confidence": "high",
+      "note": "俗称→正名"
+    },
+    "山茶花": {
+      "standard": "山茶",
+      "confidence": "high",
+      "note": "俗称→正名"
+    },
+    "海棠花": {
+      "standard": "海棠",
+      "confidence": "high",
+      "note": "俗称→正名"
+    },
+    "紫叶李": {
+      "standard": "红叶李",
+      "confidence": "medium",
+      "note": "同物异名，数据集标准为红叶李"
+    },
+    "樱桃李": {
+      "standard": "红叶李",
+      "confidence": "medium",
+      "note": "正名→数据集标准名"
+    },
+    "矮生百慕大": {
+      "standard": "狗牙根",
+      "confidence": "high",
+      "note": "杂交品种商品名→正名"
+    },
+    "马褂木": {
+      "standard": "鹅掌楸",
+      "confidence": "high",
+      "note": "俗名→正名"
+    },
+    "黄山栾树": {
+      "standard": "复羽叶栾树",
+      "confidence": "high",
+      "note": "园艺商品名→正名"
+    },
+    "黄角兰": {
+      "standard": "白兰花",
+      "confidence": "medium",
+      "note": "重庆方言→通用名"
+    },
+    "广玉兰": {
+      "standard": "广玉兰",
+      "confidence": "high",
+      "note": "已统一(荷花玉兰→广玉兰)"
+    },
+    "荷花玉兰": {
+      "standard": "广玉兰",
+      "confidence": "high",
+      "note": "正名→数据集标准名"
+    },
+    "毛叶丁香": {
+      "standard": "小蜡",
+      "confidence": "low",
+      "note": "跨属混淆！Ligustrum sinense=小蜡，非Syringa pubescens"
+    },
+    "重阳木": {
+      "standard": "秋枫",
+      "confidence": "low",
+      "note": "Bischofia javanica=秋枫，重阳木=B. polycarpa"
+    },
+    "白杨": {
+      "standard": "加杨",
+      "confidence": "medium",
+      "note": "属级泛称→数据集内的加杨"
+    },
+    "杨树": {
+      "standard": "加杨",
+      "confidence": "medium",
+      "note": "泛称→数据集内仅有加杨"
+    },
+    "红继木": {
+      "standard": "红花檵木",
+      "confidence": "high",
+      "note": "错别字变体"
+    },
+    "大叶女贞": {
+      "standard": "女贞",
+      "confidence": "high",
+      "note": "同种异名"
+    },
+    "小叶女贞": {
+      "standard": "女贞",
+      "confidence": "low",
+      "note": "可能为不同种，数据集中无小叶女贞"
+    },
+    "梧桐": {
+      "standard": "二球悬铃木",
+      "confidence": "medium",
+      "note": "通常指悬铃木属(法国梧桐)，非锦葵科梧桐"
+    },
+    "桂树": {
+      "standard": "桂花",
+      "confidence": "high",
+      "note": "Osmanthus fragrans，数据集主名为桂花(83条)"
+    },
+    "元宝槭": {
+      "standard": "元宝枫",
+      "confidence": "high",
+      "note": "Acer truncatum，俗名→正名"
+    },
+    "杏": {
+      "standard": "杏树",
+      "confidence": "high",
+      "note": "Armeniaca vulgaris，简称→全称"
+    },
+    "枸骨": {
+      "standard": "构骨冬青",
+      "confidence": "high",
+      "note": "Ilex cornuta，异写→正名"
+    },
+    "构骨": {
+      "standard": "构骨冬青",
+      "confidence": "high",
+      "note": "Ilex cornuta，同音异写"
+    },
+    "桧柏": {
+      "standard": "圆柏",
+      "confidence": "high",
+      "note": "Sabina chinensis，异名"
+    },
+    "槐": {
+      "standard": "国槐",
+      "confidence": "high",
+      "note": "Sophora japonica，简称→全称"
+    },
+    "槐树": {
+      "standard": "国槐",
+      "confidence": "high",
+      "note": "Sophora japonica，俗名→标准名"
+    },
+    "白蜡树": {
+      "standard": "白蜡",
+      "confidence": "high",
+      "note": "Fraxinus chinensis，加树后缀"
+    },
+    "瓜子黄杨": {
+      "standard": "小叶黄杨",
+      "confidence": "high",
+      "note": "Buxus sinica，栽培种→种级"
+    },
+    "金银忍冬": {
+      "standard": "金银木",
+      "confidence": "high",
+      "note": "Lonicera maackii，正名→常用名"
+    },
+    "毛鹃": {
+      "standard": "锦绣杜鹃",
+      "confidence": "high",
+      "note": "Rhododendron pulchrum，园艺名→正名"
+    },
+    "桑": {
+      "standard": "桑树",
+      "confidence": "high",
+      "note": "Morus alba，简称→全称"
+    },
+    "月季花": {
+      "standard": "月季",
+      "confidence": "high",
+      "note": "Rosa chinensis，加花后缀"
+    },
+    "锦带": {
+      "standard": "锦带花",
+      "confidence": "high",
+      "note": "Weigela florida，简称→全称"
+    },
+    "雅榕": {
+      "standard": "小叶榕",
+      "confidence": "medium",
+      "note": "Ficus concinna，正名→数据集主名"
+    },
+    "垂叶榕": {
+      "standard": "小叶榕",
+      "confidence": "medium",
+      "note": "Ficus benjamina，正名→数据集主名"
+    },
+    "榕树": {
+      "standard": "小叶榕",
+      "confidence": "medium",
+      "note": "Ficus microcarpa，泛称→数据集主名"
+    },
+    "三叶草": {
+      "standard": "白三叶",
+      "confidence": "high",
+      "note": "Trifolium repens，俗名→正名"
+    },
+    "五叶地锦(爬山虎)": {
+      "standard": "五叶地锦",
+      "confidence": "high",
+      "note": "Parthenocissus quinquefolia，去括号"
+    },
+    "五叶爬山虎": {
+      "standard": "五叶地锦",
+      "confidence": "high",
+      "note": "Parthenocissus quinquefolia，俗名→正名"
+    },
+    "日本珊瑚树": {
+      "standard": "法国冬青",
+      "confidence": "medium",
+      "note": "Viburnum odoratissimum var. awabuki，正名→数据集主名"
+    },
+    "马尼拉草": {
+      "standard": "沟叶结缕草",
+      "confidence": "medium",
+      "note": "Zoysia matrella，商品名→正名"
+    },
+    "黄花鸢尾": {
+      "standard": "鸢尾",
+      "confidence": "medium",
+      "note": "Iris tectorum，黄花变种→种级"
+    },
+    "细叶十大功劳": {
+      "standard": "十大功劳",
+      "confidence": "medium",
+      "note": "Mahonia fortunei，变种→种级"
+    },
+    "狭叶十大功劳": {
+      "standard": "十大功劳",
+      "confidence": "medium",
+      "note": "Mahonia fortunei，异名→种级"
+    },
+    "冬青卫矛": {
+      "standard": "大叶黄杨",
+      "confidence": "medium",
+      "note": "Euonymus japonicus，正名→常用名(北京论文)"
+    },
+    "砂地柏": {
+      "standard": "沙地柏",
+      "confidence": "high",
+      "note": "Sabina vulgaris，异写→正名"
+    },
+    "春鹃": {
+      "standard": "杜鹃",
+      "confidence": "medium",
+      "note": "Rhododendron simsii，园艺名→正名"
+    },
+    "海桐花": {
+      "standard": "海桐",
+      "confidence": "high",
+      "note": "加花后缀"
+    },
+    "七里香": {
+      "standard": "海桐",
+      "confidence": "medium",
+      "note": "海桐的民间俗称"
+    },
+    "白果树": {
+      "standard": "银杏",
+      "confidence": "high",
+      "note": "俗称"
+    },
+    "公孙树": {
+      "standard": "银杏",
+      "confidence": "high",
+      "note": "民间俗称"
+    },
+    "洒金珊瑚": {
+      "standard": "洒金桃叶珊瑚",
+      "confidence": "high",
+      "note": "简称"
+    },
+    "桃叶珊瑚": {
+      "standard": "洒金桃叶珊瑚",
+      "confidence": "medium",
+      "note": "泛指全种"
+    },
+    "正木": {
+      "standard": "大叶黄杨",
+      "confidence": "medium",
+      "note": "古称"
+    },
+    "金心黄杨": {
+      "standard": "大叶黄杨",
+      "confidence": "medium",
+      "note": "变种俗称"
+    },
+    "百日红": {
+      "standard": "紫薇",
+      "confidence": "high",
+      "note": "俗名"
+    },
+    "痒痒树": {
+      "standard": "紫薇",
+      "confidence": "medium",
+      "note": "民间俗称"
+    },
+    "洋槐": {
+      "standard": "刺槐",
+      "confidence": "high",
+      "note": "最常用别称"
+    },
+    "水柳": {
+      "standard": "垂柳",
+      "confidence": "high",
+      "note": "俗名"
+    },
+    "垂杨柳": {
+      "standard": "垂柳",
+      "confidence": "medium",
+      "note": "俗称"
+    },
+    "柳树": {
+      "standard": "垂柳",
+      "confidence": "medium",
+      "note": "泛称-最常见种"
+    },
+    "白榆": {
+      "standard": "榆树",
+      "confidence": "high",
+      "note": "植物志别名"
+    },
+    "家榆": {
+      "standard": "榆树",
+      "confidence": "high",
+      "note": "华北俗称"
+    },
+    "楮树": {
+      "standard": "构树",
+      "confidence": "high",
+      "note": "古称"
+    },
+    "谷树": {
+      "standard": "构树",
+      "confidence": "medium",
+      "note": "南方俗称"
+    },
+    "喜马拉雅雪松": {
+      "standard": "雪松",
+      "confidence": "high",
+      "note": "地理别名"
+    },
+    "红叶李": {
+      "standard": "紫叶李",
+      "confidence": "high",
+      "note": "常见异名"
+    },
+    "龙爪槐": {
+      "standard": "国槐",
+      "confidence": "medium",
+      "note": "变种归入正种"
+    },
+    "塔柏": {
+      "standard": "圆柏",
+      "confidence": "medium",
+      "note": "栽培变种"
+    },
+    "扁柏": {
+      "standard": "侧柏",
+      "confidence": "high",
+      "note": "俗称"
+    },
+    "大叶榕": {
+      "standard": "黄葛树",
+      "confidence": "high",
+      "note": "南方俗称, Ficus virens"
+    },
+    "黄桷树": {
+      "standard": "黄葛树",
+      "confidence": "high",
+      "note": "川渝俗称"
+    },
+    "火炬": {
+      "standard": "火炬树",
+      "confidence": "high",
+      "note": "简称"
+    },
+    "红栌": {
+      "standard": "黄栌",
+      "confidence": "high",
+      "note": "秋叶变红品种"
+    },
+    "金钟": {
+      "standard": "连翘",
+      "confidence": "medium",
+      "note": "Forsythia易混淆"
+    },
+    "金叶女真": {
+      "standard": "金叶女贞",
+      "confidence": "high",
+      "note": "错别字: 真→贞"
+    },
+    "Pinus tabuliformis": {
+      "standard": "油松",
+      "confidence": "high",
+      "note": "拉丁名→中文标准名"
+    },
+    "臭柏": {
+      "standard": "沙地柏",
+      "confidence": "medium",
+      "note": "民间俗称(Juniperus sabina)"
+    }
   },
-
   "city_aliases": {
-    "金陵": {"standard": "南京", "confidence": "high", "note": "古称"},
-    "渝": {"standard": "重庆", "confidence": "medium", "note": "简称"},
-    "汉": {"standard": "武汉", "confidence": "medium", "note": "简称"},
-    "蓉": {"standard": "成都", "confidence": "medium", "note": "简称"},
-    "杭": {"standard": "杭州", "confidence": "medium", "note": "简称"},
-    "庐": {"standard": "合肥", "confidence": "medium", "note": "简称"},
-    "昌": {"standard": "南昌", "confidence": "low", "note": "歧义(南昌/宜昌/武昌)"}
+    "金陵": {
+      "standard": "南京",
+      "confidence": "high",
+      "note": "古称"
+    },
+    "渝": {
+      "standard": "重庆",
+      "confidence": "medium",
+      "note": "简称"
+    },
+    "汉": {
+      "standard": "武汉",
+      "confidence": "medium",
+      "note": "简称"
+    },
+    "蓉": {
+      "standard": "成都",
+      "confidence": "medium",
+      "note": "简称"
+    },
+    "杭": {
+      "standard": "杭州",
+      "confidence": "medium",
+      "note": "简称"
+    },
+    "庐": {
+      "standard": "合肥",
+      "confidence": "medium",
+      "note": "简称"
+    },
+    "昌": {
+      "standard": "南昌",
+      "confidence": "low",
+      "note": "歧义(南昌/宜昌/武昌)"
+    },
+    "冰城": {
+      "standard": "哈尔滨",
+      "confidence": "high",
+      "note": "哈尔滨别称"
+    },
+    "春城": {
+      "standard": "昆明",
+      "confidence": "medium",
+      "note": "昆明别称"
+    },
+    "绿城": {
+      "standard": "南宁",
+      "confidence": "medium",
+      "note": "南宁别称"
+    },
+    "鹭岛": {
+      "standard": "厦门",
+      "confidence": "medium",
+      "note": "厦门别称"
+    },
+    "榕城": {
+      "standard": "福州",
+      "confidence": "medium",
+      "note": "福州别称"
+    },
+    "并州": {
+      "standard": "太原",
+      "confidence": "medium",
+      "note": "太原古称"
+    },
+    "凤凰城": {
+      "standard": "唐山",
+      "confidence": "medium",
+      "note": "唐山别称"
+    },
+    "岳阳市": {
+      "standard": "岳阳",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "太谷市": {
+      "standard": "太谷",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "南宁市": {
+      "standard": "南宁",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Nanning": {
+      "standard": "南宁",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "临汾市": {
+      "standard": "临汾",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "湛江市": {
+      "standard": "湛江",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Zhanjiang": {
+      "standard": "湛江",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "厦门市": {
+      "standard": "厦门",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Xiamen": {
+      "standard": "厦门",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "朝阳市": {
+      "standard": "朝阳",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "安庆市": {
+      "standard": "安庆",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Anqing": {
+      "standard": "安庆",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "徐州市": {
+      "standard": "徐州",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "苏州市": {
+      "standard": "苏州",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Suzhou": {
+      "standard": "苏州",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "南昌市": {
+      "standard": "南昌",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Nanchang": {
+      "standard": "南昌",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "自贡市": {
+      "standard": "自贡",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "太原市": {
+      "standard": "太原",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Taiyuan": {
+      "standard": "太原",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "西安市": {
+      "standard": "西安",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "XiAn": {
+      "standard": "西安",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "洛阳市": {
+      "standard": "洛阳",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Luoyang": {
+      "standard": "洛阳",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "芜湖市": {
+      "standard": "芜湖",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "乌鲁木齐市": {
+      "standard": "乌鲁木齐",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Urumqi": {
+      "standard": "乌鲁木齐",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "遂宁市": {
+      "standard": "遂宁",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "扬州市": {
+      "standard": "扬州",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Yangzhou": {
+      "standard": "扬州",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "重庆市": {
+      "standard": "重庆",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Chongqing": {
+      "standard": "重庆",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "Chungking": {
+      "standard": "重庆",
+      "confidence": "medium",
+      "note": "英文旧称"
+    },
+    "石家庄市": {
+      "standard": "石家庄",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Shijiazhuang": {
+      "standard": "石家庄",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "镇江市": {
+      "standard": "镇江",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "杭州市": {
+      "standard": "杭州",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Hangzhou": {
+      "standard": "杭州",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "Hangchow": {
+      "standard": "杭州",
+      "confidence": "medium",
+      "note": "英文旧称"
+    },
+    "哈尔滨市": {
+      "standard": "哈尔滨",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Harbin": {
+      "standard": "哈尔滨",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "荆州市": {
+      "standard": "荆州",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "武汉市": {
+      "standard": "武汉",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Wuhan": {
+      "standard": "武汉",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "福州市": {
+      "standard": "福州",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Fuzhou": {
+      "standard": "福州",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "长沙市": {
+      "standard": "长沙",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Changsha": {
+      "standard": "长沙",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "成都市": {
+      "standard": "成都",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Chengdu": {
+      "standard": "成都",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "唐山市": {
+      "standard": "唐山",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Tangshan": {
+      "standard": "唐山",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "合肥市": {
+      "standard": "合肥",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Hefei": {
+      "standard": "合肥",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "上海市": {
+      "standard": "上海",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Shanghai": {
+      "standard": "上海",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "北京市": {
+      "standard": "北京",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Beijing": {
+      "standard": "北京",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "Peking": {
+      "standard": "北京",
+      "confidence": "medium",
+      "note": "英文旧称"
+    },
+    "深圳市": {
+      "standard": "深圳",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Shenzhen": {
+      "standard": "深圳",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "南京市": {
+      "standard": "南京",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Nanjing": {
+      "standard": "南京",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "Nanking": {
+      "standard": "南京",
+      "confidence": "medium",
+      "note": "英文旧称"
+    },
+    "阿克苏市": {
+      "standard": "阿克苏",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Aksu": {
+      "standard": "阿克苏",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "郑州市": {
+      "standard": "郑州",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Zhengzhou": {
+      "standard": "郑州",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "青岛市": {
+      "standard": "青岛",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "昆明市": {
+      "standard": "昆明",
+      "confidence": "high",
+      "note": "加市后缀"
+    },
+    "Kunming": {
+      "standard": "昆明",
+      "confidence": "high",
+      "note": "英文名"
+    },
+    "太谷县": {
+      "standard": "太谷",
+      "confidence": "high",
+      "note": "太谷为县"
+    },
+    "太谷区": {
+      "standard": "太谷",
+      "confidence": "high",
+      "note": "2019县改区"
+    },
+    "乌市": {
+      "standard": "乌鲁木齐",
+      "confidence": "medium",
+      "note": "简称"
+    },
+    "阿市": {
+      "standard": "阿克苏",
+      "confidence": "low",
+      "note": "非常用简称"
+    },
+    "Wulumuqi": {
+      "standard": "乌鲁木齐",
+      "confidence": "medium",
+      "note": "英文异拼"
+    }
   }
 }

@@ -17,45 +17,52 @@
 | P6 综合数据质量检查 | ✅ | 3维QC+126条列偏移修复 |
 | v3 阶段汇总 | ✅ | 1104条, 19城市, ~169物种, 55篇论文 |
 | v4 文献预筛 | ✅ | 3批1162篇CNKI搜索+AI筛选完成 |
-| v4 第一批下载 | ✅ | CDP直连30篇PDF成功，26篇CAPTCHA拦截待重试 |
+| v4 第一批下载 | ✅ | CDP直连30篇PDF成功，26篇CAPTCHA→纳入第二批手动下载 |
 | v4 第一批提取 | ✅ | 3并行agent 302条（北方236/南方41/西北25） |
 | v4 第一批入库 | ✅ | 合并去重→dataset.csv 1104→1406条 |
-| v4 第二批下载 | 🔄 | 28篇CAPTCHA重试仍拦截（需手动滑块或隔天冷却） |
-| v4 vision提取 | 🔄 | 7张表格图片vision提取中（王会霞2013×4/李晨2013×3） |
-| v3 climate_zone回填 | ✅ | 1104条全部标注（南方1137/北方244/西北25），总1406条全覆盖 |
-| v4 图片分类 | ✅ | 104张VLM分类完成（表格7/文字49/柱状图11/不清晰34/SEM2/流程1） |
-| qa_system 专家库 | ⏳ | 已建7文件基础框架，aliases待扩充 |
+| v4 第二批下载 | ✅ | 32篇用户手动下载（汪金花无权限），CDP方案已弃用 |
+| v4 第二批提取 | ✅ | 4并行agent 582条（南249/北237/西北96），张翼飞259条另存 |
+| v4 第二批入库 | ✅ | 合并去重→dataset.csv 1406→1988条 |
+| v4 vision提取 | ✅ | 王会霞2013(4条外部VLM已入库)/李晨2013(8条柱状图不可提取)/图表论文21条放弃 |
+| v3 climate_zone回填 | ✅ | 全覆盖 |
+| v4 图片分类 | ✅ | 104张VLM分类完成 |
+| qa_system 专家库 | ✅ | aliases扩充: 物种52→79, 城市7→14 (2026-06-23) |
+| v4 叶片因子回补 | ✅ | 98.6%覆盖率(1960/2247)，185属FRPS数据库 |
+| v4 needs_manual_review | ✅ | 362→264条复核完成: g/kg排除35+仅排序24+图表放弃21+李晨8+王会霞入库4+缺失4+其他2 |
+| 张翼飞 mg/leaf转换 | ✅ | 259条属级叶面积估算标C级已入库 |
 
 ## 关键文件
 
-- 核心数据集: `C:\Users\政委\Desktop\2026\plant_dust_v2\dataset.csv` (1104条)
-- **v4下载脚本**: `.claude/cnki_downloader.py` (v2, 360行，CDP WebSocket + requests，详情页方案)
-  - 通过 magic bytes 检测真实格式（不依赖 Content-Type）
-  - 搜索: `Page.navigate` URL导航到 `kns8s/defaultresult/index?kw=标题`
-  - 下载: 进详情页 → 提取 `#pdfDown` → Cookie同步 → requests静默下载
-  - 输入: 含有 title/author/year 列的 CSV
-  - ⚠️ `batch_cnki_download.py`（根目录）为旧版残留，以 `.claude/cnki_downloader.py` 为准
-- v4下载清单: `Desktop/2026/references/meta/v4_下载清单.csv` (50篇待下载)
-- 论文预筛清单: `.claude/batch*_screened_*.csv`
-- 下载目录: `~/Desktop/2026/references/downloaded/_待提取/`
+- 核心数据集: `C:\Users\政委\Desktop\2026\plant_dust_v2\dataset.csv` (2203条, needs_manual_review=275, 物种349, 城市39, 论文106)
+- downloaded/ 已重组为6状态分类: _待处理(108 PDF) | _需重下(26 CAJ) | _待人工(王琴2017) | _已入库(49) | _已排除(14)
+- ⚠️ `cnki_downloader.py` / `batch_cnki_download.py`: CDP下载已证伪，保留仅供搜索元数据
+- 论文下载: 用户手动 → `_待提取/` → pdfplumber提取（见CLAUDE.md工程纪律）
+- 下载清单模板: `Desktop/2026/references/meta/待下载论文清单.md`
 
 ## 启动流程（每次新会话）
 
-1. Edge 以调试端口启动: `msedge.exe --remote-debugging-port=9222`
-2. 在 Edge 中登录知网 `https://kns.cnki.net/`
-3. 运行下载: `cd C:/Users/政委/plant_dust_analysis && python .claude/cnki_downloader.py "C:/Users/政委/Desktop/2026/references/meta/v4_下载清单.csv"`
-4. 下载完成后并行 agent 提取数据
+1. 无需CDP调试端口（不用浏览器自动化下载）
+2. 直接开始数据处理任务（叶片因子回补 / manual_review / 张翼飞转换）
+3. 如需新论文下载：生成清单 → 用户手动下载 → 并行agent提取
 
 ## 最近决策
 
-2026-06-22: v2下载器改为原始CDP WebSocket + requests方案，放弃Playwright。搜索改用URL导航而非DOM填表。知网新版kns8s是SPA，无textarea，不能用表单提交方式搜索。
-2026-06-22: `.claude/settings.json` 全工具白名单已配置，需从项目目录启动 Claude Code 才能加载。
+2026-06-23: CLAUDE.md新增"工程纪律与红线"：CSV必须csv.writer、3次失败熔断、subprocess强制UTF-8。CDP下载弃用。
+2026-06-22: v4第二批用户手动下载32/33篇，4 agent并行提取582条，CDP方案正式弃用。
+2026-06-22: v4第一批CDP下载30篇成功，26篇CAPTCHA拦截。
 2026-06-21: v3方法论→v4气候分区×异质纳入。CLAUDE.md已重写。
 
 ## 已知待解决
 
-- v4第一批下载: 50篇（北京15篇优先），运行 `cnki_downloader.py`
-- CAJ文件处理: 早期论文(2003-2010)多数仅CAJ格式，需CAJViewer或找PDF替代源
-- has_data=True 仅13篇（筛得太严？），是否需要放宽重筛
-- batch3 14城949篇 has_data=0，大概率筛选agent保守，需人工抽查
-- qa_system/ 专家知识库待创建（物种异名映射 aliases.json 等）
+- needs_manual_review: 275条（259张翼飞C级 + 11范围值取中 + 5木尼拉PM>10）
+- 王会霞2013 大叶黄杨: 卫矛科Euonymus japonicus vs Buxus megistophylla
+- 汪金花2017（济南）: 知网无权限
+- CAJ格式早期论文: 2003-2010年仅CAJ格式
+- Ficus小叶榕→3拉丁名（benjamina/concinna/microcarpa）需物种专家审核
+- 镇江259条张翼飞C级属级估算，统计分析需亚组
+- dataset统计报告: ✅ 已生成
+- methodology_leaf_traits.md: ✅ 扩充（方法分类+分级标准+中英文模板）
+- CLAUDE.md已知局限: ✅ 审计（#4/#6已解决，+2新增）
+- method_level: ✅ 全覆盖 A=635/B=1483/C=85
+- 空功能区/空季节: ✅ 已处理
+- 完全重复: ✅ 44条去重

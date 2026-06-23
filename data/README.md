@@ -1,58 +1,42 @@
-# 长江流域亚热带城市植物叶片滞尘数据集
+# data/ — 数据集快照
 
-## 设计理念
+## 文件说明
 
-**地理优先 × 物种开放**
-
-锁定长江流域亚热带城市群，区域内所有植物物种的滞尘数据全量纳入。
-
-先确定物种 → 锁定华东+华中区域 → 采集同一物种在不同环境条件下的数据
-
-## 数据结构
-
-| 字段 | 说明 |
+| 文件 | 说明 |
 |------|------|
-| plant_species | 中文种名 |
-| latin_name | 拉丁学名 |
-| layer | 乔木/灌木/地被 |
-| functional_zone | 工业区/交通干道/公园清洁区/居住区/城市混合 |
-| tsp_g_m2 | 单位叶面积TSP滞尘量 (g/m2) |
-| pm10_g_m2 | 单位叶面积PM10滞尘量 (g/m2, 如有) |
-| pm2_5_g_m2 | 单位叶面积PM2.5滞尘量 (g/m2, 如有) |
-| city | 研究城市 |
-| ambient_pm10_ug_m3 | 环境PM10浓度 (ug/m3) |
-| ambient_pm2_5_ug_m3 | 环境PM2.5浓度 (ug/m3) |
-| days_after_rain | 雨后天数 |
-| measurement_method | 测量方法 |
-| reference | 文献引用 |
-| doi | DOI链接 |
+| `dataset.csv` | 核心数据集快照（2203条），**主副本**在 `Desktop/2026/plant_dust_v2/dataset.csv` |
+| `data_sources.md` | 参考文献清单（已过时，以 CLAUDE.md 为准） |
+| `species_cards.md` | 按物种整理的逐城数据档案（已过时） |
 
-## 数据规模
+## 数据更新流程
 
-- **70条记录 / 9城市 / 18篇参考文献**
-- 乔木层: 香樟(14) + 桂花(13) + 二球悬铃木(7) = 34条
-- 灌木层: 红花檵木(8) + 红叶石楠(12) + 海桐(8) = 28条
-- 地被层: 麦冬(2) + 沿阶草(1) + 八角金盘(2) + 洒金桃叶珊瑚(3) = 8条
+1. 所有数据录入/修改 → `Desktop/2026/plant_dust_v2/dataset.csv`（唯一主副本）
+2. 推送到 GitHub 前 → 同步快照到本目录 `data/dataset.csv`
+3. **不在 `qa_system/data/` 下创建数据副本**（见 `.gitignore`）
 
-## 核心发现
+## 字段速查
 
-1. **跨环境对比可行**：杭州李海梅2021单篇论文覆盖5个物种×3功能区，方法完全统一
-2. **工业区 > 交通区 > 清洁区** 规律在所有物种中一致
-3. **地被层数据偏少**（8条），但足以做非参数对比
-4. **单位统一为 g/m2**，可直接比较
+```
+plant_species       — 中文种名（标准名）
+latin_name          — 拉丁学名（接受名）
+city                — 城市
+climate_zone        — 气候区（北方/南方/西北）
+layer               — 生活型（乔木/灌木/草本/地被/藤本）
+functional_zone     — 功能区（9类标准化）
+tsp_g_m2            — TSP滞尘量 (g/m²叶面积)
+pm10_g_m2           — PM₁₀滞尘量
+pm2_5_g_m2          — PM₂.₅滞尘量
+measurement_method  — 测量方法描述
+method_level        — A/B/C 方法学等级
+leaf_shape          — 叶形（FRPS属级数据库）
+leaf_surface        — 叶面质地
+trichomes           — 毛被
+wax_layer           — 蜡质层（论文SEM数据，仅13条）
+stomata             — 气孔特征（论文SEM数据，仅15条）
+reference           — 论文题录
+needs_manual_review — 是否需人工复核
+original_unit       — 论文原始单位
+conversion_log      — 单位换算过程
+```
 
-## 已知局限性
-
-- 地被层数据量远少于乔灌木
-- 不同研究的采样间隔差异未完全标准化
-- 部分环境背景数据为估计值
-- 广州/深圳缺乏乔木组数据
-
-## 文件清单
-
-| 文件 | 内容 |
-|------|------|
-| dataset.csv | 70条标准化记录 |
-| data_sources.md | 18篇参考文献完整引用 |
-| species_cards.md | 每种物种的数据档案与比较 |
-| README.md | 本文件 |
+详细方法论见 `../docs/methodology_leaf_traits.md`。

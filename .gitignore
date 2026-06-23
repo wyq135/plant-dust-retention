@@ -35,3 +35,10 @@ image_tables/
 
 # QA system data copy (data lives in Desktop/2026/)
 qa_system/data/dataset.csv
+
+# Output files (charts, exports, temp archives)
+output/*.xlsx
+output/*.png
+
+# Streamlit secrets
+.streamlit/secrets.toml
