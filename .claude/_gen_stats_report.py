@@ -10,7 +10,7 @@ from pathlib import Path
 DS_PATH = Path('C:/Users/政委/Desktop/2026/plant_dust_v2/dataset.csv')
 
 def main():
-    with open(DS_PATH, encoding='utf-8') as f:
+    with open(DS_PATH, encoding='utf-8-sig') as f:
         reader = csv.DictReader(f)
         rows = list(reader)
         header = reader.fieldnames
