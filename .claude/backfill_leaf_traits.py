@@ -1441,6 +1441,85 @@ GENUS_TRAITS = GENUS_TRAITS = {
         'trichomes': '无毛或下面沿脉有毛',
         'source': 'FRPS Vol.47(1)',
     },
+    # === v5第四批补遗 (2026-06-24: 14属之前遗漏) ===
+    'Achillea': {
+        'leaf_shape': '线状披针形/长圆形; 2-3回羽状全裂; 纸质; 裂片线形',
+        'leaf_surface': '上面深绿色; 下面淡绿色; 有腺点',
+        'trichomes': '疏被柔毛或蛛丝状毛',
+        'source': 'FRPS Vol.76(1)',
+    },
+    'Aster': {
+        'leaf_shape': '卵形/椭圆形/披针形; 纸质; 边缘有锯齿或全缘; 互生',
+        'leaf_surface': '上面深绿色; 下面淡绿色',
+        'trichomes': '两面被柔毛或仅下面有毛',
+        'source': 'FRPS Vol.74',
+    },
+    'Carex': {
+        'leaf_shape': '线形/狭线形; 禾草状; 革质; 全缘; 三棱形; 基部具叶鞘',
+        'leaf_surface': '深绿色; 两面平滑或微粗糙',
+        'trichomes': '无毛; 叶缘常粗糙',
+        'source': 'FRPS Vol.12',
+    },
+    'Coreopsis': {
+        'leaf_shape': '披针形/倒披针形; 纸质; 羽状深裂或全缘; 对生',
+        'leaf_surface': '上面深绿色; 下面淡绿色',
+        'trichomes': '无毛或疏被柔毛',
+        'source': 'FRPS Vol.75',
+    },
+    'Exochorda': {
+        'leaf_shape': '椭圆形/倒卵形; 纸质; 全缘或上部有锯齿; 互生',
+        'leaf_surface': '上面深绿色; 下面淡绿色',
+        'trichomes': '无毛或幼叶被柔毛',
+        'source': 'FRPS Vol.36',
+    },
+    'Geranium': {
+        'leaf_shape': '圆形/肾形; 纸质; 掌状深裂; 裂片3-5枚再分裂',
+        'leaf_surface': '上面深绿色; 下面淡绿色',
+        'trichomes': '两面被柔毛或腺毛',
+        'source': 'FRPS Vol.43(1)',
+    },
+    'Hippophae': {
+        'leaf_shape': '狭披针形/线状披针形; 纸质; 全缘',
+        'leaf_surface': '上面深绿色; 下面密被银白色鳞片',
+        'trichomes': '下面密被银白色鳞片; 上面幼时被鳞片后脱落',
+        'source': 'FRPS Vol.52(2)',
+    },
+    'Lilium': {
+        'leaf_shape': '披针形/线状披针形/椭圆形; 纸质; 全缘; 螺旋状互生; 平行脉',
+        'leaf_surface': '上面深绿色有光泽; 下面淡绿色',
+        'trichomes': '无毛或叶缘有乳头状突起',
+        'source': 'FRPS Vol.14',
+    },
+    'Panicum': {
+        'leaf_shape': '线形/线状披针形; 禾本科; 扁平; 全缘; 叶舌短',
+        'leaf_surface': '深绿色; 两面无毛或微粗糙',
+        'trichomes': '无毛或叶鞘被柔毛',
+        'source': 'FRPS Vol.10(1)',
+    },
+    'Petunia': {
+        'leaf_shape': '卵形/椭圆形; 纸质; 全缘; 互生; 叶面有腺毛',
+        'leaf_surface': '上面深绿色; 下面淡绿色',
+        'trichomes': '两面被腺毛; 有粘性',
+        'source': 'FRPS Vol.67(1)',
+    },
+    'Plectranthus': {
+        'leaf_shape': '卵形/椭圆形; 纸质; 边缘有锯齿; 对生; 叶面有皱',
+        'leaf_surface': '上面深绿色或彩色(彩叶品种); 下面淡绿色',
+        'trichomes': '两面被柔毛',
+        'source': 'FRPS Vol.66',
+    },
+    'Schima': {
+        'leaf_shape': '椭圆形/长椭圆形; 革质; 全缘或有钝锯齿',
+        'leaf_surface': '上面深绿色有光泽; 下面淡绿色',
+        'trichomes': '无毛或幼叶下面被柔毛',
+        'source': 'FRPS Vol.49(3)',
+    },
+    'Tamarix': {
+        'leaf_shape': '鳞片状/三角状; 革质; 极小(1-3mm); 抱茎; 互生',
+        'leaf_surface': '灰绿色; 有盐腺',
+        'trichomes': '无毛',
+        'source': 'FRPS Vol.50(2)',
+    },
 }
 
 
