@@ -1087,6 +1087,167 @@
       "standard": "朝阳",
       "confidence": "high",
       "note": "辽宁，v4第三批新增"
-    }
+    },
+    "信阳": {
+      "standard": "信阳",
+      "confidence": "high",
+      "note": "河南，v5新增"
+    },
+    "信阳市": {
+      "standard": "信阳",
+      "confidence": "high"
+    },
+    "Xinyang": {
+      "standard": "信阳",
+      "confidence": "high"
+    },
+    "米林": {
+      "standard": "米林",
+      "confidence": "high",
+      "note": "西藏林芝，v5新增"
+    },
+    "Milin": {
+      "standard": "米林",
+      "confidence": "high"
+    },
+    "呼和浩特": {
+      "standard": "呼和浩特",
+      "confidence": "high",
+      "note": "内蒙古首府，v5新增"
+    },
+    "呼和浩特市": {
+      "standard": "呼和浩特",
+      "confidence": "high"
+    },
+    "Hohhot": {
+      "standard": "呼和浩特",
+      "confidence": "high"
+    },
+    "Huhhot": {
+      "standard": "呼和浩特",
+      "confidence": "medium"
+    },
+    "贵阳": {
+      "standard": "贵阳",
+      "confidence": "high",
+      "note": "贵州省会，v5新增"
+    },
+    "贵阳市": {
+      "standard": "贵阳",
+      "confidence": "high"
+    },
+    "Guiyang": {
+      "standard": "贵阳",
+      "confidence": "high"
+    },
+    "吉林市": {
+      "standard": "吉林市",
+      "confidence": "high",
+      "note": "吉林省(非省会同名)，v5新增"
+    },
+    "Jilin City": {
+      "standard": "吉林市",
+      "confidence": "high"
+    },
+    "新乡": {
+      "standard": "新乡",
+      "confidence": "high",
+      "note": "河南，v5新增"
+    },
+    "新乡市": {
+      "standard": "新乡",
+      "confidence": "high"
+    },
+    "Xinxiang": {
+      "standard": "新乡",
+      "confidence": "high"
+    },
+    "大庆": {
+      "standard": "大庆",
+      "confidence": "high",
+      "note": "黑龙江，v5新增"
+    },
+    "大庆市": {
+      "standard": "大庆",
+      "confidence": "high"
+    },
+    "Daqing": {
+      "standard": "大庆",
+      "confidence": "high"
+    },
+    "阜新": {
+      "standard": "阜新",
+      "confidence": "high",
+      "note": "辽宁，v5新增"
+    },
+    "阜新市": {
+      "standard": "阜新",
+      "confidence": "high"
+    },
+    "Fuxin": {
+      "standard": "阜新",
+      "confidence": "high"
+    },
+    "抚顺": {
+      "standard": "抚顺",
+      "confidence": "high",
+      "note": "辽宁，v5新增"
+    },
+    "抚顺市": {
+      "standard": "抚顺",
+      "confidence": "high"
+    },
+    "Fushun": {
+      "standard": "抚顺",
+      "confidence": "high"
+    },
+    "张家口": {
+      "standard": "张家口",
+      "confidence": "high",
+      "note": "河北，v5新增(NW Hebei)"
+    },
+    "张家口市": {
+      "standard": "张家口",
+      "confidence": "high"
+    },
+    "Zhangjiakou": {
+      "standard": "张家口",
+      "confidence": "high"
+    },
+    "晋中": {
+      "standard": "晋中",
+      "confidence": "high",
+      "note": "山西，v5新增"
+    },
+    "晋中市": {
+      "standard": "晋中",
+      "confidence": "high"
+    },
+    "Jinzhong": {
+      "standard": "晋中",
+      "confidence": "high"
+    },
+    "惠州": {
+      "standard": "惠州",
+      "confidence": "high",
+      "note": "广东，v5新增"
+    },
+    "惠州市": {
+      "standard": "惠州",
+      "confidence": "high"
+    },
+    "Huizhou": {
+      "standard": "惠州",
+      "confidence": "high"
+    },
+    "常州": [],
+    "卓尼": [],
+    "合水": [],
+    "定西": [],
+    "平凉": [],
+    "张掖": [],
+    "渭源": [],
+    "陇南": [],
+    "雅安": []
   }
 }
