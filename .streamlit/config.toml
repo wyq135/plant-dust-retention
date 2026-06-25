@@ -1,2 +1,7 @@
-[general]
-email = ""
+[theme]
+base = "light"
+primaryColor = "#3a7d44"
+backgroundColor = "#f8faf6"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#2d3429"
+font = "sans serif"

@@ -8,27 +8,63 @@ import plotly.express as px
 import plotly.graph_objects as go
 from pathlib import Path
 
-# ── 自定义 CSS ──
+# ═══════════════════════════════════════════
+# 全局 CSS（FA CDN + 卡片 + 侧边栏 + 字体）
+# ═══════════════════════════════════════════
 st.markdown("""
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&display=swap" rel="stylesheet">
+
 <style>
-    .trait-stat-card {
-        background: linear-gradient(135deg, #f5f7fa 0%, #e8ecf1 100%);
-        border-radius: 10px;
-        padding: 12px 16px;
-        text-align: center;
-        border: 1px solid #dee2e6;
+    .stApp {
+        background: linear-gradient(175deg, #f8faf6 0%, #f2f6ef 40%, #f6f8f3 100%);
     }
-    .trait-stat-card .value { font-size: 1.4rem; font-weight: 700; color: #2c3e50; }
-    .trait-stat-card .label { font-size: 0.75rem; color: #6c757d; }
+    [data-testid="stSidebar"] {
+        background: linear-gradient(180deg, #f0f4ec 0%, #e8ede4 100%);
+    }
+    [data-testid="stSidebar"] .stMarkdown, [data-testid="stSidebar"] label, [data-testid="stSidebar"] .stCaption {
+        color: #2d3429 !important;
+    }
+    [data-testid="stSidebar"] h1, [data-testid="stSidebar"] h2, [data-testid="stSidebar"] h3 {
+        color: #2c4a34 !important;
+    }
+    hr { border-color: #d8ddd2 !important; }
+    thead th { background: #f0f4ec !important; color: #2c4a34 !important; font-weight: 600 !important; }
+
+    /* 统计卡片 */
+    .trait-stat-card {
+        background: #ffffff; border-radius: 10px; padding: 14px 16px; text-align: center;
+        border: 1px solid #e0e4dc; border-left: 3px solid #3a7d44;
+        box-shadow: 0 1px 6px rgba(0,0,0,0.04);
+        transition: box-shadow 0.15s ease;
+    }
+    .trait-stat-card:hover { box-shadow: 0 3px 12px rgba(0,0,0,0.08); }
+    .trait-stat-card .value {
+        font-family: 'Noto Serif SC', 'Source Han Serif SC', 'STSong', 'SimSun', serif;
+        font-size: 1.35rem; font-weight: 700; color: #2d3429;
+    }
+    .trait-stat-card .label { font-size: 0.75rem; color: #6b7a65; }
+
+    /* 琥珀色警告横幅 */
     .warning-banner {
-        background: #fff3cd; border: 1px solid #ffc107; border-radius: 8px;
-        padding: 10px 16px; color: #856404;
+        background: #fdf6ee; border: 1px solid #c4944a; border-left: 4px solid #c4944a;
+        border-radius: 8px; padding: 10px 16px; color: #6b4e28;
+        font-size: 0.88rem;
+    }
+
+    /* 子标题 */
+    .section-heading {
+        font-family: 'Noto Serif SC', 'Source Han Serif SC', 'STSong', 'SimSun', serif;
+        font-size: 1.05rem; font-weight: 600; color: #2c4a34;
+        border-bottom: 2px solid #c8dcc8; padding-bottom: 4px; margin-top: 12px; margin-bottom: 6px;
     }
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🍃 叶片形态因子与滞尘效果分析")
-st.caption("探索叶片微观形态特征（叶表面/毛被/蜡质/叶形/气孔）如何影响大气颗粒物滞留能力")
+st.title("叶片形态因子与滞尘效果分析")
+st.caption("探索叶片微观形态特征（叶表面 / 毛被 / 蜡质 / 叶形 / 气孔）如何影响大气颗粒物滞留能力")
 
 # ═══════════════════════════════════════════
 # 数据加载
@@ -154,14 +190,21 @@ df = add_trait_categories(df)
 # ═══════════════════════════════════════════
 
 with st.sidebar:
-    st.header("🔍 筛选条件")
+    st.markdown("""<h3 style="font-family:'Noto Serif SC','STSong',serif; color:#2c4a34; margin-bottom:12px;">
+        <i class="fa-solid fa-sliders" style="color:#3a7d44;"></i> 筛选条件</h3>""", unsafe_allow_html=True)
 
-    pm_label = st.selectbox("颗粒物类型", ["TSP", "PM10", "PM2.5"], index=0)
+    pm_label = st.selectbox(
+        '💨 颗粒物类型',
+        ["TSP", "PM10", "PM2.5"], index=0,
+        help="选择要分析的大气颗粒物粒径"
+    )
     pm_col = {'TSP': 'tsp_g_m2', 'PM10': 'pm10_g_m2', 'PM2.5': 'pm2_5_g_m2'}[pm_label]
 
     st.divider()
 
-    st.subheader("🌍 数据范围")
+    st.markdown("""<p style="font-family:'Noto Serif SC','STSong',serif; font-weight:600; color:#2c4a34;">
+        <i class="fa-solid fa-globe-asia" style="color:#3a7d44;"></i> 数据范围</p>""", unsafe_allow_html=True)
+
     climate_options = df['climate_zone'].dropna().unique().tolist()
     selected_climate = st.multiselect("气候区", climate_options, default=climate_options,
                                        help="北方=温带季风/大陆性, 南方=亚热带/热带, 西北=干旱/半干旱")
@@ -176,7 +219,9 @@ with st.sidebar:
 
     st.divider()
 
-    st.subheader("🍃 形态因子维度")
+    st.markdown("""<p style="font-family:'Noto Serif SC','STSong',serif; font-weight:600; color:#2c4a34;">
+        <i class="fa-solid fa-microscope" style="color:#3a7d44;"></i> 形态因子维度</p>""", unsafe_allow_html=True)
+
     trait_display = st.selectbox(
         "选择要分析的形态特征",
         ["叶表面特征 (leaf_surface)", "毛被特征 (trichomes)",
@@ -193,7 +238,7 @@ with st.sidebar:
     trait_col = trait_map[trait_display]
 
     st.divider()
-    st.caption(f"📊 总数据集: 4,596条 | 叶片因子: 99.0%覆盖")
+    st.caption("📊 总数据集: 4,596条 | 叶片因子: 99.0%覆盖")
 
 # ═══════════════════════════════════════════
 # 数据过滤
@@ -214,7 +259,7 @@ if filtered.empty:
     st.stop()
 
 # ═══════════════════════════════════════════
-# 稀疏维度警告
+# 稀疏维度警告（琥珀色 c4944a）
 # ═══════════════════════════════════════════
 
 SPARSE_WARNINGS = {
@@ -230,7 +275,8 @@ if trait_col in SPARSE_WARNINGS:
     n_filtered = filtered[trait_col].notna().sum()
     st.markdown(f"""
     <div class="warning-banner">
-        <b>⚠️ 数据稀疏提醒</b>：{msg} 当前筛选下仅 <b>{n_filtered}</b> 条可用记录。
+        <b><i class="fa-solid fa-triangle-exclamation" style="color:#c4944a;"></i> 数据稀疏提醒</b>：{msg}
+        当前筛选下仅 <b>{n_filtered}</b> 条可用记录。
     </div>
     """, unsafe_allow_html=True)
 
@@ -238,18 +284,18 @@ if trait_col in SPARSE_WARNINGS:
 # 统计卡片
 # ═══════════════════════════════════════════
 
-st.subheader("📊 统计概览")
+st.markdown('<p class="section-heading"><i class="fa-solid fa-calculator" style="color:#3a7d44;"></i> 统计概览</p>', unsafe_allow_html=True)
 c1, c2, c3, c4, c5 = st.columns(5)
 with c1:
-    st.markdown(f'<div class="trait-stat-card"><div class="value">{len(filtered):,}</div><div class="label">📋 记录数</div></div>', unsafe_allow_html=True)
+    st.markdown(f'<div class="trait-stat-card"><div class="value">{len(filtered):,}</div><div class="label"><i class="fa-solid fa-database"></i> 记录数</div></div>', unsafe_allow_html=True)
 with c2:
-    st.markdown(f'<div class="trait-stat-card"><div class="value">{filtered["plant_species"].nunique()}</div><div class="label">🌳 物种数</div></div>', unsafe_allow_html=True)
+    st.markdown(f'<div class="trait-stat-card"><div class="value">{filtered["plant_species"].nunique()}</div><div class="label"><i class="fa-solid fa-tree"></i> 物种数</div></div>', unsafe_allow_html=True)
 with c3:
-    st.markdown(f'<div class="trait-stat-card"><div class="value">{filtered["city"].nunique()}</div><div class="label">🏙️ 城市数</div></div>', unsafe_allow_html=True)
+    st.markdown(f'<div class="trait-stat-card"><div class="value">{filtered["city"].nunique()}</div><div class="label"><i class="fa-solid fa-city"></i> 城市数</div></div>', unsafe_allow_html=True)
 with c4:
-    st.markdown(f'<div class="trait-stat-card"><div class="value">{filtered[pm_col].mean():.2f}</div><div class="label">📈 {pm_label} 均值 (g/m²)</div></div>', unsafe_allow_html=True)
+    st.markdown(f'<div class="trait-stat-card"><div class="value">{filtered[pm_col].mean():.2f}</div><div class="label"><i class="fa-solid fa-chart-line"></i> {pm_label} 均值 (g/m²)</div></div>', unsafe_allow_html=True)
 with c5:
-    st.markdown(f'<div class="trait-stat-card"><div class="value">{filtered[pm_col].median():.2f}</div><div class="label">📉 {pm_label} 中位数 (g/m²)</div></div>', unsafe_allow_html=True)
+    st.markdown(f'<div class="trait-stat-card"><div class="value">{filtered[pm_col].median():.2f}</div><div class="label"><i class="fa-solid fa-arrow-trend-down"></i> {pm_label} 中位数 (g/m²)</div></div>', unsafe_allow_html=True)
 
 st.divider()
 
@@ -262,14 +308,14 @@ plot_df = filtered[filtered[trait_col].isin(valid_cats)]
 
 # ── 固定颜色映射 ──
 TRAIT_COLORS = {
-    '光滑无毛': '#66bb6a', '粗糙': '#ef5350', '有毛': '#ffa726',
-    '蜡质/粉霜': '#42a5f5', '革质': '#8d6e63', '有光泽': '#ab47bc',
-    '纸质/膜质': '#ffca28', '皱缩/泡状': '#78909c', '具腺点': '#26a69a',
-    '具齿/全缘': '#5c6bc0', '颜色为主(纹理未详述)': '#bdbdbd', '纹理未详述': '#e0e0e0',
-    '无毛': '#66bb6a', '星状毛/鳞片': '#ab47bc', '腺毛': '#ef5350',
-    '有蜡质': '#42a5f5', '无蜡质': '#bdbdbd', '其他': '#e0e0e0',
-    '下陷型': '#5c6bc0', '突出型': '#ef5350', '高密度': '#ffa726', '低密度': '#66bb6a', '有描述': '#bdbdbd',
-    '未标注': '#eeeeee',
+    '光滑无毛': '#3a7d44', '粗糙': '#c4944a', '有毛': '#e07b39',
+    '蜡质/粉霜': '#3b82b0', '革质': '#6b5b4f', '有光泽': '#8b5cf6',
+    '纸质/膜质': '#d4a843', '皱缩/泡状': '#78909c', '具腺点': '#2da88a',
+    '具齿/全缘': '#5c6bc0', '颜色为主(纹理未详述)': '#a0a8a0', '纹理未详述': '#d0d4d0',
+    '无毛': '#3a7d44', '星状毛/鳞片': '#8b5cf6', '腺毛': '#c4944a',
+    '有蜡质': '#3b82b0', '无蜡质': '#a0a8a0', '其他': '#d0d4d0',
+    '下陷型': '#5c6bc0', '突出型': '#c4944a', '高密度': '#e07b39', '低密度': '#3a7d44', '有描述': '#a0a8a0',
+    '未标注': '#ececec',
 }
 cat_colors = {cat: TRAIT_COLORS.get(cat, '#90a4ae') for cat in valid_cats}
 
@@ -279,7 +325,7 @@ col_left, col_right = st.columns([2, 1])
 
 with col_left:
     # --- 箱线图 ---
-    st.subheader(f"「{trait_label}」对 {pm_label} 滞尘量的影响")
+    st.markdown(f'<p class="section-heading"><i class="fa-solid fa-chart-box"></i> 「{trait_label}」对 {pm_label} 滞尘量的影响</p>', unsafe_allow_html=True)
     fig_box = px.box(
         plot_df, x=trait_col, y=pm_col, color=trait_col,
         points="outliers",
@@ -293,7 +339,7 @@ with col_left:
     st.plotly_chart(fig_box, use_container_width=True)
 
     # --- 散点图 ---
-    st.subheader("物种级别数据点分布")
+    st.markdown('<p class="section-heading"><i class="fa-solid fa-circle-dot"></i> 物种级别数据点分布</p>', unsafe_allow_html=True)
     hover_cols = ['plant_species', 'city', 'climate_zone']
     hover_cols = [c for c in hover_cols if c in plot_df.columns]
     fig_strip = px.strip(
@@ -309,7 +355,7 @@ with col_left:
 
 with col_right:
     # --- 类别统计表 ---
-    st.subheader("各类别统计")
+    st.markdown('<p class="section-heading"><i class="fa-solid fa-table"></i> 各类别统计</p>', unsafe_allow_html=True)
     stats_rows = []
     for cat in valid_cats:
         subset = plot_df[plot_df[trait_col] == cat]
@@ -326,7 +372,7 @@ with col_right:
                  column_config={'类别': st.column_config.TextColumn(width='small')})
 
     # --- Top 15 物种 ---
-    st.subheader(f"🏆 {pm_label} 滞尘量 Top 15 物种")
+    st.markdown(f'<p class="section-heading"><i class="fa-solid fa-trophy" style="color:#c4944a;"></i> {pm_label} 滞尘量 Top 15 物种</p>', unsafe_allow_html=True)
     top15 = filtered.groupby('plant_species').agg(
         **{f'{pm_label}中位数': (pm_col, 'median'),
            '记录数': (pm_col, 'count')}
@@ -336,7 +382,7 @@ with col_right:
 
     # --- 按气候区分组对比 ---
     if len(selected_climate) > 1:
-        st.subheader(f"🌍 气候区分组对比")
+        st.markdown(f'<p class="section-heading"><i class="fa-solid fa-globe-asia" style="color:#3a7d44;"></i> 气候区分组对比</p>', unsafe_allow_html=True)
         climate_stats = filtered.groupby('climate_zone').agg(
             **{f'{pm_label}均值': (pm_col, 'mean'),
                '记录数': (pm_col, 'count')}
@@ -355,5 +401,7 @@ with st.expander("📋 查看当前筛选的原始数据（可下载 CSV）"):
     show_cols = [c for c in show_cols if c in filtered.columns]
     st.dataframe(filtered[show_cols], use_container_width=True)
     csv_data = filtered[show_cols].to_csv(index=False).encode('utf-8-sig')
-    st.download_button("💾 下载当前筛选数据为 CSV", csv_data,
-                       f"leaf_trait_{pm_label}_{trait_col}.csv", "text/csv")
+    st.download_button(
+        '💾 下载当前筛选数据为 CSV', csv_data,
+        f"leaf_trait_{pm_label}_{trait_col}.csv", "text/csv"
+    )
